@@ -1,0 +1,5866 @@
+{
+    "164664": {
+        "name": "Rubik's Cube",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Rubik%27s_Cube",
+        "media": "",
+        "version": "1.26.0d",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "11745": {
+        "name": "Call of Duty: Black Ops II",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Call_of_Duty:_Black_Ops_II",
+        "media": "",
+        "version": "2.0-28",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "202442": {
+        "name": "Teslapunk",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Teslapunk",
+        "media": "",
+        "version": "1.16.1",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "16087": {
+        "name": "The Wonderful 101",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Wonderful_101",
+        "media": "",
+        "version": "1.17.0d",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "165208": {
+        "name": "Tabletop Gallery",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Tabletop_Gallery",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "164244": {
+        "name": "Q.U.B.E: Director's Cut",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Q.U.B.E:_Director%27s_Cut",
+        "media": "",
+        "version": "1.11.4b",
+        "region": "USA",
+        "playable": "Loads"
+    },
+    "12086": {
+        "name": "ESPN Sports Connection",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/ESPN_Sports_Connection",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "12091": {
+        "name": "Transformers: Prime",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Transformers:_Prime",
+        "media": "",
+        "version": "1.27.0b",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "137410": {
+        "name": "Guitar Hero Live",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Guitar_Hero_Live",
+        "media": "",
+        "version": "1.22.4",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "34425": {
+        "name": "Steamworld Dig",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Steamworld_Dig",
+        "media": "",
+        "version": "1.11.0",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "215733": {
+        "name": "TOUCH SELECTIONS",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/TOUCH_SELECTIONS",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "162823": {
+        "name": "Lone Survivor: Director's Cut",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Lone_Survivor:_Director%27s_Cut",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Perfect"
+    },
+    "166178": {
+        "name": "Funky Physics",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Funky_Physics",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "215610": {
+        "name": "Now I know my ABCs",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Now_I_know_my_ABCs",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "137396": {
+        "name": "Penguins of Madagascar",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Penguins_of_Madagascar",
+        "media": "",
+        "version": "1.26.0",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "197543": {
+        "name": "Dare Up Adrenaline",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Dare_Up_Adrenaline",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "215697": {
+        "name": "Sinister Assistant",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Sinister_Assistant",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134307": {
+        "name": "Taiko no Tatsujin: Tokumori!",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Taiko_no_Tatsujin:_Tokumori!",
+        "media": "",
+        "version": "1.12.2",
+        "region": "JPN",
+        "playable": "Perfect"
+    },
+    "197487": {
+        "name": "CRYSTORLD",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/CRYSTORLD",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "149699": {
+        "name": "Buddy & Me: Dream Edition",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Buddy_%26_Me:_Dream_Edition",
+        "media": "",
+        "version": "1.13.0c",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "12100": {
+        "name": "Scribblenauts Unlimited",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Scribblenauts_Unlimited",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "162660": {
+        "name": "Rakoo & Friends",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Rakoo_%26_Friends",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "137801": {
+        "name": "Giana Sisters: Twisted Dreams",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Giana_Sisters:_Twisted_Dreams",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "32911": {
+        "name": "Transformers: Rise of the Dark Spark",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Transformers:_Rise_of_the_Dark_Spark",
+        "media": "",
+        "version": "1.26.0d",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "197549": {
+        "name": "Dracula's Legacy",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Dracula%27s_Legacy",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "198753": {
+        "name": "MOP: Operation Cleanup",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/MOP:_Operation_Cleanup",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "197668": {
+        "name": "Frankenstein: Master of Death",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Frankenstein:_Master_of_Death",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "182202": {
+        "name": "Adventure Party: Cats and Caverns",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Adventure_Party:_Cats_and_Caverns",
+        "media": "",
+        "version": "1.15.19",
+        "region": "USA",
+        "playable": "Unplayable"
+    },
+    "166132": {
+        "name": "Blocky Bot",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Blocky_Bot",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "182251": {
+        "name": "Blackjack 21",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Blackjack_21",
+        "media": "",
+        "version": "1.17.0d",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "162822": {
+        "name": "Level 22",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Level_22",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "29971": {
+        "name": "Scram Kitty and his Buddy on Rails",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Scram_Kitty_and_his_Buddy_on_Rails",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "124925": {
+        "name": "The Binding of Isaac: Rebirth",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Binding_of_Isaac:_Rebirth",
+        "media": "",
+        "version": "1.9.0b",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "149695": {
+        "name": "Armored ACORNs: Action Squirrel Squad",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Armored_ACORNs:_Action_Squirrel_Squad",
+        "media": "eShop",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "166547": {
+        "name": "Tap Tap Arcade 2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Tap_Tap_Arcade_2",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "182201": {
+        "name": "153 Hand Video Poker",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/153_Hand_Video_Poker",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "215731": {
+        "name": "Toon War",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Toon_War",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "155238": {
+        "name": "Forma.8",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Forma.8",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "140911": {
+        "name": "Axiom Verge",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Axiom_Verge",
+        "media": "",
+        "version": "1.22.9d",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "21419": {
+        "name": "Xenoblade Chronicles X",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Xenoblade_Chronicles_X",
+        "media": "",
+        "version": "1.26.2f",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "149731": {
+        "name": "Whispering Willows",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Whispering_Willows",
+        "media": "",
+        "version": "1.11.1",
+        "region": "EUR",
+        "playable": "Loads"
+    },
+    "215643": {
+        "name": "PixlCross",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/PixlCross",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "215752": {
+        "name": "Xavier",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Xavier",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "115623": {
+        "name": "Affordable Space Adventures",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Affordable_Space_Adventures",
+        "media": "",
+        "version": "1.15.19",
+        "region": "USA",
+        "playable": "Perfect"
+    },
+    "18149": {
+        "name": "Assassin's Creed IV: Black Flag",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Assassin%27s_Creed_IV:_Black_Flag",
+        "media": "",
+        "version": "1.15.19",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "24217": {
+        "name": "Bayonetta",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Bayonetta",
+        "media": "",
+        "version": "1.21.1b",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "198219": {
+        "name": "Masked Forces",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Masked_Forces",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "213839": {
+        "name": "POKER DICE SOLITAIRE FUTURE",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/POKER_DICE_SOLITAIRE_FUTURE",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "35015": {
+        "name": "Octodad: Dadliest Catch",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Octodad:_Dadliest_Catch",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "34842": {
+        "name": "LEGO Marvel's Avengers",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/LEGO_Marvel%27s_Avengers",
+        "media": "",
+        "version": "1.22.9d",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "162657": {
+        "name": "Plantera",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Plantera",
+        "media": "",
+        "version": "1.10.0f",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "16079": {
+        "name": "Pikmin 3",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Pikmin_3",
+        "media": "",
+        "version": "1.22.9d",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "162830": {
+        "name": "Vektor Wars",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Vektor_Wars",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "197557": {
+        "name": "Dragon Skills",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Dragon_Skills",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "162638": {
+        "name": "Funk of Titans",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Funk_of_Titans",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134336": {
+        "name": "Year Walk",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Year_Walk",
+        "media": "",
+        "version": "1.9.1",
+        "region": "USA",
+        "playable": "Loads"
+    },
+    "130308": {
+        "name": "6180 the moon",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/6180_the_moon",
+        "media": "",
+        "version": "1.17.0d",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "197545": {
+        "name": "Demonic Karma Summoner",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Demonic_Karma_Summoner",
+        "media": "",
+        "version": "1.17.0d",
+        "region": "USA",
+        "playable": "Loads"
+    },
+    "197597": {
+        "name": "Epic Dumpster Bear",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Epic_Dumpster_Bear",
+        "media": "",
+        "version": "1.11.0c",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "197492": {
+        "name": "Cube Life: Pixel Action Heroes",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Cube_Life:_Pixel_Action_Heroes",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "215688": {
+        "name": "Santa Factory",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Santa_Factory",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "16083": {
+        "name": "Tank! Tank! Tank!",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Tank!_Tank!_Tank!",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Loads"
+    },
+    "134411": {
+        "name": "Cosmophony",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Cosmophony",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "24048": {
+        "name": "NES Remix Pack",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/NES_Remix_Pack",
+        "media": "",
+        "version": "1.16.1",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "15706": {
+        "name": "Jeopardy!",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Jeopardy!",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "215747": {
+        "name": "Wings of Magloryx",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Wings_of_Magloryx",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "166240": {
+        "name": "Meme Run",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Meme_Run",
+        "media": "",
+        "version": "1.24.0b",
+        "region": "USA",
+        "playable": "Perfect"
+    },
+    "215685": {
+        "name": "RTO 2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/RTO_2",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "149697": {
+        "name": "Bit Dungeon+",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Bit_Dungeon%2B",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "197491": {
+        "name": "Cube Blitz",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Cube_Blitz",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134400": {
+        "name": "Noitu Love: Devolution",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Noitu_Love:_Devolution",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "197552": {
+        "name": "Don't Touch Anything Red",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Don%27t_Touch_Anything_Red",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "115619": {
+        "name": "Runbow",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Runbow",
+        "media": "",
+        "version": "1.16.1",
+        "region": "USA",
+        "playable": "Loads"
+    },
+    "215859": {
+        "name": "Mii Maker",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Mii_Maker",
+        "media": "",
+        "version": "1.22.13b",
+        "region": "USA",
+        "playable": "Perfect"
+    },
+    "215725": {
+        "name": "Suspension Railroad Simulator",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Suspension_Railroad_Simulator",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "16092": {
+        "name": "Nano Assault Neo",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Nano_Assault_Neo",
+        "media": "",
+        "version": "1.15.2",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "162681": {
+        "name": "Bridge Constructor Playground",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Bridge_Constructor_Playground",
+        "media": "",
+        "version": "1.26.1",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "182229": {
+        "name": "Art Academy: Home Studio",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Art_Academy:_Home_Studio",
+        "media": "",
+        "version": "1.6.0",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "18219": {
+        "name": "Call of Duty: Ghosts",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Call_of_Duty:_Ghosts",
+        "media": "",
+        "version": "1.26.0d",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "26734": {
+        "name": "1001 Spikes",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/1001_Spikes",
+        "media": "eShop",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "166246": {
+        "name": "PixelJunk Monsters",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/PixelJunk_Monsters",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "198211": {
+        "name": "Kung Fu FIGHT!",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Kung_Fu_FIGHT!",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "215712": {
+        "name": "Space Intervention",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Space_Intervention",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "197669": {
+        "name": "Free Balling",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Free_Balling",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134376": {
+        "name": "Tengami",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Tengami",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Perfect"
+    },
+    "124606": {
+        "name": "The First Skunk Bundle",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_First_Skunk_Bundle",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "197548": {
+        "name": "Dolphin Up",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Dolphin_Up",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "11743": {
+        "name": "Nintendo Land",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Nintendo_Land",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "162652": {
+        "name": "High Strangeness",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/High_Strangeness",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Runs"
+    },
+    "165229": {
+        "name": "Volgarr the Viking",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Volgarr_the_Viking",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "182203": {
+        "name": "Aenigma Os",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Aenigma_Os",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Loads"
+    },
+    "169558": {
+        "name": "Cabela's Big Game Hunter: Pro Hunts",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Cabela%27s_Big_Game_Hunter:_Pro_Hunts",
+        "media": "",
+        "version": "1.15.2d",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "23592": {
+        "name": "LEGO Batman 3: Beyond Gotham",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/LEGO_Batman_3:_Beyond_Gotham",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Runs"
+    },
+    "197674": {
+        "name": "Gemology",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Gemology",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "25825": {
+        "name": "Mario vs. Donkey Kong: Tipping Stars",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Mario_vs._Donkey_Kong:_Tipping_Stars",
+        "media": "",
+        "version": "1.17.1",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "23465": {
+        "name": "Captain Toad: Treasure Tracker",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Captain_Toad:_Treasure_Tracker",
+        "media": "",
+        "version": "1.26.2f",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "213900": {
+        "name": "Word Puzzles by POWGI",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Word_Puzzles_by_POWGI",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "197592": {
+        "name": "Dying is Dangerous",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Dying_is_Dangerous",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "15094": {
+        "name": "Injustice: Gods Among Us",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Injustice:_Gods_Among_Us",
+        "media": "",
+        "version": "1.17.4",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "136936": {
+        "name": "Just Dance Wii U",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Just_Dance_Wii_U",
+        "media": "",
+        "version": "1.11.3",
+        "region": "JPN",
+        "playable": "Perfect"
+    },
+    "162664": {
+        "name": "Spy Chameleon",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Spy_Chameleon",
+        "media": "",
+        "version": "1.12.0d",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "15185": {
+        "name": "Resident Evil Revelations",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Resident_Evil_Revelations",
+        "media": "",
+        "version": "1.26.0d",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "182102": {
+        "name": "Costume Quest 2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Costume_Quest_2",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134406": {
+        "name": "Job the Leprechaun",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Job_the_Leprechaun",
+        "media": "",
+        "version": "1.16.1",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "163957": {
+        "name": "Color Zen",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Color_Zen",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Loads"
+    },
+    "16091": {
+        "name": "Mighty Switch Force! Hyper Drive Edition",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Mighty_Switch_Force!_Hyper_Drive_Edition",
+        "media": "",
+        "version": "2.0",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "172536": {
+        "name": "Aqua Moto Racing Utopia",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Aqua_Moto_Racing_Utopia",
+        "media": "eShop",
+        "version": "1.27.1",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "166239": {
+        "name": "Jackpot 777",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Jackpot_777",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "164535": {
+        "name": "Thomas Was Alone",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Thomas_Was_Alone",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "35279": {
+        "name": "Mighty No. 9",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Mighty_No._9",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Loads"
+    },
+    "215722": {
+        "name": "Super Hero Math",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Super_Hero_Math",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "182234": {
+        "name": "Back to Bed",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Back_to_Bed",
+        "media": "",
+        "version": "1.17.0d",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "134413": {
+        "name": "F1 Race Stars Powered Up Edition",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/F1_Race_Stars_Powered_Up_Edition",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "149698": {
+        "name": "Brave Tank Hero",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Brave_Tank_Hero",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "215748": {
+        "name": "Word Logic by POWGI",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Word_Logic_by_POWGI",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "12237": {
+        "name": "Rayman Legends",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Rayman_Legends",
+        "media": "",
+        "version": "1.18.0c",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "124604": {
+        "name": "Swords & Soldiers II",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Swords_%26_Soldiers_II",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "134369": {
+        "name": "Swords & Soldiers",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Swords_%26_Soldiers",
+        "media": "",
+        "version": "1.11.5d",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "12103": {
+        "name": "Wipeout 3",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Wipeout_3",
+        "media": "",
+        "version": "1.22.6c",
+        "region": "USA",
+        "playable": "Perfect"
+    },
+    "215909": {
+        "name": "Mon Premier Karaok\u00e9",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Mon_Premier_Karaok%C3%A9",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "197485": {
+        "name": "Crab Cakes Rescue",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Crab_Cakes_Rescue",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "215723": {
+        "name": "Super Ultra Star Shooter",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Super_Ultra_Star_Shooter",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "208828": {
+        "name": "Ohayou! Beginner's Japanese",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Ohayou!_Beginner%27s_Japanese",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "EUR",
+        "playable": "Runs"
+    },
+    "33560": {
+        "name": "LEGO The Hobbit",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/LEGO_The_Hobbit",
+        "media": "",
+        "version": "1.25.6",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "18204": {
+        "name": "Tom Clancy's Splinter Cell: Blacklist",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Tom_Clancy%27s_Splinter_Cell:_Blacklist",
+        "media": "",
+        "version": "1.26.2f",
+        "region": "USA",
+        "playable": "Loads"
+    },
+    "20129": {
+        "name": "Child of Light",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Child_of_Light",
+        "media": "",
+        "version": "1.16.1",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "215746": {
+        "name": "Wind-up Knight 2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Wind-up_Knight_2",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Perfect"
+    },
+    "215666": {
+        "name": "Rainbow Snake",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Rainbow_Snake",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "136071": {
+        "name": "Yakuza - Ryu ga Gotoku 1&2 HD for Wii U",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Yakuza_-_Ryu_ga_Gotoku_1%262_HD_for_Wii_U",
+        "media": "",
+        "version": "1.22.7",
+        "region": "JPN",
+        "playable": "Runs"
+    },
+    "19536": {
+        "name": "Donkey Kong Country: Tropical Freeze",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Donkey_Kong_Country:_Tropical_Freeze",
+        "media": "",
+        "version": "1.22.8",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "203456": {
+        "name": "The Legend of Zelda: Hyrule Historia",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Legend_of_Zelda:_Hyrule_Historia",
+        "media": "",
+        "version": "1.16.1",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "197688": {
+        "name": "IQ Test",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/IQ_Test",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "215635": {
+        "name": "PINBALL",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/PINBALL",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "173950": {
+        "name": "AVOIDER",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/AVOIDER",
+        "media": "",
+        "version": "1.16.1",
+        "region": "USA",
+        "playable": "Unplayable"
+    },
+    "134345": {
+        "name": "Chompy Chomp Chomp Party",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Chompy_Chomp_Chomp_Party",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "112592": {
+        "name": "Angry Birds Star Wars",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Angry_Birds_Star_Wars",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "197484": {
+        "name": "COQUI THE GAME",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/COQUI_THE_GAME",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134313": {
+        "name": "Grand Prix Rock 'N Racing",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Grand_Prix_Rock_%27N_Racing",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Runs"
+    },
+    "134330": {
+        "name": "Olympia Rising",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Olympia_Rising",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "15985": {
+        "name": "NBA 2K13",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/NBA_2K13",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Runs"
+    },
+    "215726": {
+        "name": "SWAP BLOCKS",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/SWAP_BLOCKS",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "215721": {
+        "name": "Sudoku Party",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Sudoku_Party",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "196980": {
+        "name": "Y.A.S.G",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Y.A.S.G",
+        "media": "eShop",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "149708": {
+        "name": "Kick and Fennick",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Kick_and_Fennick",
+        "media": "",
+        "version": "1.14.0",
+        "region": "USA",
+        "playable": "Perfect"
+    },
+    "134395": {
+        "name": "Defend Your Crypt",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Defend_Your_Crypt",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "213877": {
+        "name": "Shuttle Rush",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Shuttle_Rush",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "215718": {
+        "name": "Spikey Walls",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Spikey_Walls",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134397": {
+        "name": "Flowerworks HD: Follie's Adventure",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Flowerworks_HD:_Follie%27s_Adventure",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Runs"
+    },
+    "213871": {
+        "name": "Super Destronaut 2: Go Duck Yourself",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Super_Destronaut_2:_Go_Duck_Yourself",
+        "media": "",
+        "version": "1.11.4b",
+        "region": "USA",
+        "playable": "Loads"
+    },
+    "16080": {
+        "name": "Sing Party",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Sing_Party",
+        "media": "",
+        "version": "1.11.3",
+        "region": "USA",
+        "playable": "Unplayable"
+    },
+    "162642": {
+        "name": "Coaster Crazy Deluxe",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Coaster_Crazy_Deluxe",
+        "media": "",
+        "version": "1.22.2",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "215691": {
+        "name": "SDK Paint",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/SDK_Paint",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "198373": {
+        "name": "Miko Mole",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Miko_Mole",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "137394": {
+        "name": "Just Dance Kids 2014",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Just_Dance_Kids_2014",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "198215": {
+        "name": "Lucentek - Activate",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Lucentek_-_Activate",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "182342": {
+        "name": "Brick Breaker",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Brick_Breaker",
+        "media": "eShop",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134315": {
+        "name": "Jotun: Valhalla Edition",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Jotun:_Valhalla_Edition",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "17809": {
+        "name": "Disney Infinity",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Disney_Infinity",
+        "media": "",
+        "version": "",
+        "region": "USA",
+        "playable": "Loads"
+    },
+    "197601": {
+        "name": "Fat Dragons",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Fat_Dragons",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "14627": {
+        "name": "Skylanders: Giants",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Skylanders:_Giants",
+        "media": "",
+        "version": "1.25.1c",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "134389": {
+        "name": "Cloudberry Kingdom",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Cloudberry_Kingdom",
+        "media": "",
+        "version": "1.22.2",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "134316": {
+        "name": "Grumpy Reaper",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Grumpy_Reaper",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "166241": {
+        "name": "Pentapuzzle",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Pentapuzzle",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "12093": {
+        "name": "Just Dance 4",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Just_Dance_4",
+        "media": "",
+        "version": "2.0-17",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "162820": {
+        "name": "Jewel Quest",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Jewel_Quest",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "162661": {
+        "name": "Replay - VHS is not dead",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Replay_-_VHS_is_not_dead",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "213835": {
+        "name": "PEG SOLITAIRE",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/PEG_SOLITAIRE",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "20650": {
+        "name": "Zumba Fitness: World Party",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Zumba_Fitness:_World_Party",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "134405": {
+        "name": "Ice Cream Surfer",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Ice_Cream_Surfer",
+        "media": "",
+        "version": "1.10.0f",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "182263": {
+        "name": "Blasting Agent: Ultimate Edition",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Blasting_Agent:_Ultimate_Edition",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "162698": {
+        "name": "Citadale - The Legends Trilogy",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Citadale_-_The_Legends_Trilogy",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "144509": {
+        "name": "Fit Music for Wii U",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Fit_Music_for_Wii_U",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "18012": {
+        "name": "Deus Ex: Human Revolution - Director's Cut",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Deus_Ex:_Human_Revolution_-_Director%27s_Cut",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "111129": {
+        "name": "Paper Mario: Color Splash",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Paper_Mario:_Color_Splash",
+        "media": "",
+        "version": "1.26.2f",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "17330": {
+        "name": "Madden NFL 13",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Madden_NFL_13",
+        "media": "",
+        "version": "1.25.5b",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "213802": {
+        "name": "Neon Battle",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Neon_Battle",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "162653": {
+        "name": "Dreamals",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Dreamals",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "198861": {
+        "name": "My Arctic Farm",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/My_Arctic_Farm",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "215641": {
+        "name": "PixelMaker",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/PixelMaker",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "149730": {
+        "name": "Toki Tori",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Toki_Tori",
+        "media": "",
+        "version": "1.11.4b",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "162817": {
+        "name": "Eba & Egg: A Hatch Trip",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Eba_%26_Egg:_A_Hatch_Trip",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "149711": {
+        "name": "Shadow Puppeteer",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Shadow_Puppeteer",
+        "media": "",
+        "version": "1.25.2",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "198750": {
+        "name": "Molly Maggot",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Molly_Maggot",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "162665": {
+        "name": "Star Sky",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Star_Sky",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "134393": {
+        "name": "Never Alone",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Never_Alone",
+        "media": "",
+        "version": "1.13.0f",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "168079": {
+        "name": "Gear Gauntlet",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Gear_Gauntlet",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "18547": {
+        "name": "Wii Party U",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Wii_Party_U",
+        "media": "",
+        "version": "1.26.0c",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "182212": {
+        "name": "Alice in Wonderland",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Alice_in_Wonderland",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "USA",
+        "playable": "Unplayable"
+    },
+    "144510": {
+        "name": "Jett Tailfin",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Jett_Tailfin",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "202556": {
+        "name": "Tetraminos",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Tetraminos",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "137395": {
+        "name": "Monster High: 13 Wishes",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Monster_High:_13_Wishes",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "162673": {
+        "name": "Electronic Super Joy: Groove City",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Electronic_Super_Joy:_Groove_City",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Perfect"
+    },
+    "131379": {
+        "name": "Another World 20th Anniversary Edition",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Another_World_20th_Anniversary_Edition",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "21331": {
+        "name": "Shovel Knight",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Shovel_Knight",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Perfect"
+    },
+    "137392": {
+        "name": "Fast & Furious: Showdown",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Fast_%26_Furious:_Showdown",
+        "media": "",
+        "version": "1.6.3",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "162658": {
+        "name": "Poncho",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Poncho",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "134399": {
+        "name": "Cars 3: Driven to Win",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Cars_3:_Driven_to_Win",
+        "media": "",
+        "version": "1.26.2f",
+        "region": "USA",
+        "playable": "Loads"
+    },
+    "16073": {
+        "name": "Devil's Third",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Devil%27s_Third",
+        "media": "",
+        "version": "1.26.0d",
+        "region": "EUR",
+        "playable": "Runs"
+    },
+    "166135": {
+        "name": "Don't Crash",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Don%27t_Crash",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "168550": {
+        "name": "FIFA 13",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/FIFA_13",
+        "media": "",
+        "version": "1.26.0d",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "33799": {
+        "name": "The Legend of Zelda: Twilight Princess HD",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Legend_of_Zelda:_Twilight_Princess_HD",
+        "media": "",
+        "version": "1.26.2f",
+        "region": "Unknown",
+        "playable": "Perfect"
+    },
+    "215693": {
+        "name": "SDK Spriter",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/SDK_Spriter",
+        "media": "",
+        "version": "1.11.5d",
+        "region": "USA",
+        "playable": "Unplayable"
+    },
+    "91504": {
+        "name": "Hello Kitty Kruisers",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Hello_Kitty_Kruisers",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "134371": {
+        "name": "Ittle Dew",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Ittle_Dew",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Perfect"
+    },
+    "103382": {
+        "name": "Adventure Time: Finn And Jake Investigations",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Adventure_Time:_Finn_And_Jake_Investigations",
+        "media": "",
+        "version": "1.25.5b",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "166573": {
+        "name": "Toon Tanks",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Toon_Tanks",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "131759": {
+        "name": "Angry Bunnies Colossal Carrot Crusade",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Angry_Bunnies_Colossal_Carrot_Crusade",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "198859": {
+        "name": "Mr. Pumpkin Adventure",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Mr._Pumpkin_Adventure",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "12098": {
+        "name": "Darksiders II",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Darksiders_II",
+        "media": "",
+        "version": "1.26.1",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "11151": {
+        "name": "Super Smash Bros. for Wii U",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Super_Smash_Bros._for_Wii_U",
+        "media": "",
+        "version": "1.26.2f",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "16067": {
+        "name": "Rise of the Guardians",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Rise_of_the_Guardians",
+        "media": "",
+        "version": "1.12.2d",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "13568": {
+        "name": "Warriors Orochi 3 Hyper",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Warriors_Orochi_3_Hyper",
+        "media": "",
+        "version": "1.23.1b",
+        "region": "USA",
+        "playable": "Perfect"
+    },
+    "27130": {
+        "name": "LEGO Dimensions",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/LEGO_Dimensions",
+        "media": "",
+        "version": "1.15.6",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "215719": {
+        "name": "Star Splash: Shattered Star",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Star_Splash:_Shattered_Star",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134333": {
+        "name": "Tumblestone",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Tumblestone",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "134383": {
+        "name": "Art of Balance",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Art_of_Balance",
+        "media": "",
+        "version": "1.15.6c",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "134342": {
+        "name": "Typoman",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Typoman",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "134381": {
+        "name": "Art Academy: SketchPad",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Art_Academy:_SketchPad",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "198202": {
+        "name": "Jolt Family Robot Racer",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Jolt_Family_Robot_Racer",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "197431": {
+        "name": "A Day at the Carnival",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/A_Day_at_the_Carnival",
+        "media": "eShop",
+        "version": "1.26.2f",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "134394": {
+        "name": "Wicked Monsters BLAST! HD+",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Wicked_Monsters_BLAST!_HD%2B",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "197479": {
+        "name": "Collateral Thinking",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Collateral_Thinking",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "213870": {
+        "name": "Slots - Pharaoh's Riches",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Slots_-_Pharaoh%27s_Riches",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "149701": {
+        "name": "Citadale",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Citadale",
+        "media": "",
+        "version": "1.17.0d",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "162651": {
+        "name": "The Girl and the Robot",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Girl_and_the_Robot",
+        "media": "",
+        "version": "1.11.5c",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "215664": {
+        "name": "The Quiet Collection",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Quiet_Collection",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "164517": {
+        "name": "Unepic",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Unepic",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "134408": {
+        "name": "Armillo",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Armillo",
+        "media": "eShop",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "134343": {
+        "name": "FullBlast",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/FullBlast",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "123298": {
+        "name": "NES Remix 1",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/NES_Remix_1",
+        "media": "",
+        "version": "1.16.1",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "213882": {
+        "name": "STEEL RIVALS",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/STEEL_RIVALS",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "143622": {
+        "name": "Monster High: New Ghoul in School",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Monster_High:_New_Ghoul_in_School",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "34243": {
+        "name": "Disney Infinity 3.0",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Disney_Infinity_3.0",
+        "media": "",
+        "version": "1.22.12c",
+        "region": "EUR",
+        "playable": "Loads"
+    },
+    "149729": {
+        "name": "TEMPLE OF YOG",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/TEMPLE_OF_YOG",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134382": {
+        "name": "Darts Up",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Darts_Up",
+        "media": "",
+        "version": "1.17.0d",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "215713": {
+        "name": "SpaceRoads",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/SpaceRoads",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "215642": {
+        "name": "PixelMaker Studio",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/PixelMaker_Studio",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "213872": {
+        "name": "Shut the Box",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Shut_the_Box",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "149694": {
+        "name": "Adventures of Pip",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Adventures_of_Pip",
+        "media": "",
+        "version": "2.0",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "25953": {
+        "name": "How to Survive",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/How_to_Survive",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "15204": {
+        "name": "The Amazing Spider-Man: Ultimate Edition",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Amazing_Spider-Man:_Ultimate_Edition",
+        "media": "",
+        "version": "2.0.26",
+        "region": "USA",
+        "playable": "Unplayable"
+    },
+    "34006": {
+        "name": "Legend of Kay Anniversary",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Legend_of_Kay_Anniversary",
+        "media": "",
+        "version": "1.12.0d",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "213886": {
+        "name": "The Letter",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Letter",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "124926": {
+        "name": "Pok\u00e9mon Rumble U",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Pok%C3%A9mon_Rumble_U",
+        "media": "eShop",
+        "version": "1.26.2f",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "136877": {
+        "name": "Fujiko F Fujio Characters Daishuugou SF Dotabata Party",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Fujiko_F_Fujio_Characters_Daishuugou_SF_Dotabata_Party",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "182274": {
+        "name": "Block Zombies!",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Block_Zombies!",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "22650": {
+        "name": "Yoshi's Woolly World",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Yoshi%27s_Woolly_World",
+        "media": "",
+        "version": "1.22.10",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "153887": {
+        "name": "Chasing Dead",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Chasing_Dead",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Loads"
+    },
+    "215708": {
+        "name": "Solitaire",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Solitaire",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "182321": {
+        "name": "Booty Diver",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Booty_Diver",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "21148": {
+        "name": "Splatoon",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Splatoon",
+        "media": "",
+        "version": "2.0-28",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "173952": {
+        "name": "Astral Breakers",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Astral_Breakers",
+        "media": "",
+        "version": "1.26.2f",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "20490": {
+        "name": "Watch Dogs",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Watch_Dogs",
+        "media": "",
+        "version": "2.0",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "133101": {
+        "name": "Cabela's Dangerous Hunts 2013",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Cabela%27s_Dangerous_Hunts_2013",
+        "media": "",
+        "version": "1.6.2",
+        "region": "EUR",
+        "playable": "Runs"
+    },
+    "134386": {
+        "name": "Wii U Panorama View",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Wii_U_Panorama_View",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "198858": {
+        "name": "Mountain Peak Battle Mess",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Mountain_Peak_Battle_Mess",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "215750": {
+        "name": "Word Search by POWGI",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Word_Search_by_POWGI",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "197537": {
+        "name": "CUP CRITTERS",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/CUP_CRITTERS",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "213875": {
+        "name": "Shadow Archery",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Shadow_Archery",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "130309": {
+        "name": "ACT IT OUT! A Game of Charades",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/ACT_IT_OUT!_A_Game_of_Charades",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Runs"
+    },
+    "198216": {
+        "name": "Lucentek Beyond",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Lucentek_Beyond",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "197680": {
+        "name": "Heptrix",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Heptrix",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "215702": {
+        "name": "SKORB",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/SKORB",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "215716": {
+        "name": "SPHERE SLICE",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/SPHERE_SLICE",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "25042": {
+        "name": "Mario Party 10",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Mario_Party_10",
+        "media": "",
+        "version": "1.26.0c",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "130306": {
+        "name": "360 Breakout",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/360_Breakout",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "197542": {
+        "name": "Daikon Set",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Daikon_Set",
+        "media": "",
+        "version": "1.23.1",
+        "region": "USA",
+        "playable": "Unplayable"
+    },
+    "165902": {
+        "name": "Lost Reavers",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Lost_Reavers",
+        "media": "eShop",
+        "version": "1.26.1",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "198209": {
+        "name": "KickBeat Special Edition",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/KickBeat_Special_Edition",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "197676": {
+        "name": "GetClose: A Game For Rivals",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/GetClose:_A_Game_For_Rivals",
+        "media": "",
+        "version": "1.17.0d",
+        "region": "USA",
+        "playable": "Loads"
+    },
+    "197539": {
+        "name": "Cutie Pets Go Fishing",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Cutie_Pets_Go_Fishing",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "164666": {
+        "name": "Spin the Bottle Bumpie's Party",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Spin_the_Bottle_Bumpie%27s_Party",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "34010": {
+        "name": "Monster Hunter: Frontier G",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Monster_Hunter:_Frontier_G",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "15182": {
+        "name": "Monster Hunter 3 Ultimate",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Monster_Hunter_3_Ultimate",
+        "media": "",
+        "version": "",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "215751": {
+        "name": "Words Up! Academy",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Words_Up!_Academy",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "149728": {
+        "name": "Tachyon Project",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Tachyon_Project",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "27691": {
+        "name": "Stealth Inc 2: A Game of Clones",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Stealth_Inc_2:_A_Game_of_Clones",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "215730": {
+        "name": "Tomeling in Trouble",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Tomeling_in_Trouble",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "23230": {
+        "name": "Hyrule Warriors",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Hyrule_Warriors",
+        "media": "",
+        "version": "1.26.2f",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "213830": {
+        "name": "Panda Love",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Panda_Love",
+        "media": "",
+        "version": "1.15.13c",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "197481": {
+        "name": "Color Bombs",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Color_Bombs",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "197686": {
+        "name": "Internal Invasion",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Internal_Invasion",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "199867": {
+        "name": "Nova-111",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Nova-111",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Perfect"
+    },
+    "163955": {
+        "name": "Chasing Aurora",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Chasing_Aurora",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Perfect"
+    },
+    "149709": {
+        "name": "Life of Pixel",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Life_of_Pixel",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "134373": {
+        "name": "XType Plus",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/XType_Plus",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "16066": {
+        "name": "Game Party Champions",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Game_Party_Champions",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Runs"
+    },
+    "215689": {
+        "name": "SCOOP! Around the World in 80 Spaces",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/SCOOP!_Around_the_World_in_80_Spaces",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "17824": {
+        "name": "The Legend of Zelda: The Wind Waker HD",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Legend_of_Zelda:_The_Wind_Waker_HD",
+        "media": "",
+        "version": "1.26.2f",
+        "region": "USA",
+        "playable": "Perfect"
+    },
+    "166543": {
+        "name": "Sweetest Thing",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Sweetest_Thing",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "215646": {
+        "name": "Plenty of Fishies",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Plenty_of_Fishies",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "27460": {
+        "name": "Sonic Boom: Rise of Lyric",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Sonic_Boom:_Rise_of_Lyric",
+        "media": "",
+        "version": "1.25.0b",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "213897": {
+        "name": "TOSS N GO",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/TOSS_N_GO",
+        "media": "",
+        "version": "1.9.1",
+        "region": "USA",
+        "playable": "Unplayable"
+    },
+    "25428": {
+        "name": "The Croods: Prehistoric Party!",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Croods:_Prehistoric_Party!",
+        "media": "",
+        "version": "1.25.5b",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "17925": {
+        "name": "Scribblenauts Unmasked: A DC Comics Adventure",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Scribblenauts_Unmasked:_A_DC_Comics_Adventure",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "162655": {
+        "name": "Pirate Pop Plus",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Pirate_Pop_Plus",
+        "media": "",
+        "version": "1.9.1",
+        "region": "USA",
+        "playable": "Unplayable"
+    },
+    "162829": {
+        "name": "Vaccine",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Vaccine",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "16085": {
+        "name": "Wii Fit U",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Wii_Fit_U",
+        "media": "",
+        "version": "1.15.16",
+        "region": "USA",
+        "playable": "Unplayable"
+    },
+    "202317": {
+        "name": "Secret Files: Tunguska",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Secret_Files:_Tunguska",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "182322": {
+        "name": "BOX UP",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/BOX_UP",
+        "media": "eShop",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "166136": {
+        "name": "Dragon Fantasy: The Volumes of Westeria",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Dragon_Fantasy:_The_Volumes_of_Westeria",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "166545": {
+        "name": "Stone Shire",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Stone_Shire",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "174230": {
+        "name": "RUSH",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/RUSH",
+        "media": "eShop",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "137393": {
+        "name": "Hot Wheels World's Best Driver",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Hot_Wheels_World%27s_Best_Driver",
+        "media": "",
+        "version": "1.25.5",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "16076": {
+        "name": "Funky Barn",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Funky_Barn",
+        "media": "",
+        "version": "1.11.3",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "143638": {
+        "name": "Letter Quest: Grimm's Journey Remastered",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Letter_Quest:_Grimm%27s_Journey_Remastered",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Perfect"
+    },
+    "115621": {
+        "name": "Sportsball",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Sportsball",
+        "media": "",
+        "version": "1.13.0f",
+        "region": "USA",
+        "playable": "Loads"
+    },
+    "137400": {
+        "name": "Turbo: Super Stunt Squad",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Turbo:_Super_Stunt_Squad",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "198371": {
+        "name": "Mega Maze",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Mega_Maze",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "198217": {
+        "name": "Mahjong",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Mahjong",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "31302": {
+        "name": "Star Fox Zero",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Star_Fox_Zero",
+        "media": "",
+        "version": "1.25.1c",
+        "region": "USA",
+        "playable": "Perfect"
+    },
+    "16072": {
+        "name": "Bayonetta 2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Bayonetta_2",
+        "media": "",
+        "version": "1.25.1c",
+        "region": "USA",
+        "playable": "Perfect"
+    },
+    "173954": {
+        "name": "Arrow Time U",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Arrow_Time_U",
+        "media": "",
+        "version": "1.26.2f",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "12105": {
+        "name": "Ninja Gaiden 3: Razor's Edge",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Ninja_Gaiden_3:_Razor%27s_Edge",
+        "media": "",
+        "version": "1.22.6c",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "16090": {
+        "name": "Little Inferno",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Little_Inferno",
+        "media": "",
+        "version": "1.17.4",
+        "region": "EUR",
+        "playable": "Runs"
+    },
+    "16093": {
+        "name": "Toki Tori 2+",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Toki_Tori_2%2B",
+        "media": "",
+        "version": "1.11.4b",
+        "region": "EUR",
+        "playable": "Runs"
+    },
+    "215665": {
+        "name": "Radiantflux Hyperfractal",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Radiantflux_Hyperfractal",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "163959": {
+        "name": "Don't Starve Giant Edition",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Don%27t_Starve_Giant_Edition",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Runs"
+    },
+    "166176": {
+        "name": "Explody Bomb",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Explody_Bomb",
+        "media": "",
+        "version": "1.16.1",
+        "region": "USA",
+        "playable": "Unplayable"
+    },
+    "213898": {
+        "name": "UWordsmith",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/UWordsmith",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "197683": {
+        "name": "Humanitarian Helicopter",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Humanitarian_Helicopter",
+        "media": "",
+        "version": "1.10.0f",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "215663": {
+        "name": "Queen's Garden",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Queen%27s_Garden",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "198213": {
+        "name": "Laser Blaster",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Laser_Blaster",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "12104": {
+        "name": "Trine 2: Director's Cut",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Trine_2:_Director%27s_Cut",
+        "media": "",
+        "version": "1.26.2f",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "202568": {
+        "name": "Near Earth Objects",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Near_Earth_Objects",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "215705": {
+        "name": "Snowball",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Snowball",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "214069": {
+        "name": "Octocopter: Super Sub Squid Escape",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Octocopter:_Super_Sub_Squid_Escape",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "198210": {
+        "name": "Koi DX",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Koi_DX",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "141501": {
+        "name": "Darksiders Warmastered Edition",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Darksiders_Warmastered_Edition",
+        "media": "",
+        "version": "1.26.1",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "21751": {
+        "name": "Oddworld: New 'n' Tasty!",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Oddworld:_New_%27n%27_Tasty!",
+        "media": "",
+        "version": "1.11.1",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "197587": {
+        "name": "Drop It: Block Paradise",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Drop_It:_Block_Paradise",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "197681": {
+        "name": "Horror Stories",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Horror_Stories",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "11778": {
+        "name": "Disney Epic Mickey 2: The Power of Two",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Disney_Epic_Mickey_2:_The_Power_of_Two",
+        "media": "",
+        "version": "1.25.6",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "134387": {
+        "name": "Panorama View - Carnival",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Panorama_View_-_Carnival",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "164515": {
+        "name": "Race the Sun",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Race_the_Sun",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "214068": {
+        "name": "Ninja Strike: Dangerous Dash",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Ninja_Strike:_Dangerous_Dash",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "19774": {
+        "name": "Skylanders: Swap Force",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Skylanders:_Swap_Force",
+        "media": "",
+        "version": "1.26.2",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "11742": {
+        "name": "Assassin's Creed III",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Assassin%27s_Creed_III",
+        "media": "",
+        "version": "1.26.0d",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "19426": {
+        "name": "DuckTales: Remastered",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/DuckTales:_Remastered",
+        "media": "",
+        "version": "1.21.3",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "144508": {
+        "name": "Just Dance 2018",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Just_Dance_2018",
+        "media": "",
+        "version": "1.15.19",
+        "region": "EUR",
+        "playable": "Loads"
+    },
+    "197482": {
+        "name": "COLOR CUBES",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/COLOR_CUBES",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "213901": {
+        "name": "Xeodrifter",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Xeodrifter",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "215744": {
+        "name": "VRog",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/VRog",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Runs"
+    },
+    "215698": {
+        "name": "Sketch Wars",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Sketch_Wars",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "16074": {
+        "name": "Dragon Quest X",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Dragon_Quest_X",
+        "media": "",
+        "version": "1.16.1",
+        "region": "JPN",
+        "playable": "Runs"
+    },
+    "215669": {
+        "name": "Revenant Saga",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Revenant_Saga",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "197596": {
+        "name": "Endless Golf",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Endless_Golf",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "215687": {
+        "name": "Rynn's Adventure: Trouble in the Enchanted Forest",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Rynn%27s_Adventure:_Trouble_in_the_Enchanted_Forest",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "131663": {
+        "name": "Ghost Blade HD",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Ghost_Blade_HD",
+        "media": "",
+        "version": "1.16.1",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "21483": {
+        "name": "Adventure Time: Explore the Dungeon Because I Don't Know!",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Adventure_Time:_Explore_the_Dungeon_Because_I_Don%27t_Know!",
+        "media": "",
+        "version": "1.15.19",
+        "region": "USA",
+        "playable": "Loads"
+    },
+    "198199": {
+        "name": "Gravity+",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Gravity%2B",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "130307": {
+        "name": "Abyss",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Abyss",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "202346": {
+        "name": "Sky Force Anniversary",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Sky_Force_Anniversary",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "15177": {
+        "name": "Need for Speed: Most Wanted U",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Need_for_Speed:_Most_Wanted_U",
+        "media": "",
+        "version": "1.27.1",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "93942": {
+        "name": "Rapala Pro Bass Fishing",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Rapala_Pro_Bass_Fishing",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "134338": {
+        "name": "Girls Like Robots",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Girls_Like_Robots",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "141464": {
+        "name": "The Peanuts Movie: Snoopy's Grand Adventure",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Peanuts_Movie:_Snoopy%27s_Grand_Adventure",
+        "media": "",
+        "version": "",
+        "region": "USA",
+        "playable": "Perfect"
+    },
+    "162667": {
+        "name": "WinKings",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/WinKings",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "24753": {
+        "name": "Disney Infinity 2.0 Marvel Super Heroes",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Disney_Infinity_2.0_Marvel_Super_Heroes",
+        "media": "",
+        "version": "",
+        "region": "USA",
+        "playable": "Loads"
+    },
+    "134396": {
+        "name": "SteamWorld Heist",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/SteamWorld_Heist",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "196793": {
+        "name": "ACE OF SEAFOOD",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/ACE_OF_SEAFOOD",
+        "media": "eShop",
+        "version": "1.26.2f",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "134344": {
+        "name": "Severed",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Severed",
+        "media": "",
+        "version": "1.6.1",
+        "region": "EUR",
+        "playable": "Runs"
+    },
+    "215743": {
+        "name": "VoxelMaker",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/VoxelMaker",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "16631": {
+        "name": "Sniper Elite V2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Sniper_Elite_V2",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Runs"
+    },
+    "162637": {
+        "name": "Frederic: Resurrection of Music",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Frederic:_Resurrection_of_Music",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "215636": {
+        "name": "Pinball Breakout",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Pinball_Breakout",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134392": {
+        "name": "Animal Crossing Plaza",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Animal_Crossing_Plaza",
+        "media": "",
+        "version": "1.8.1b",
+        "region": "EUR",
+        "playable": "Loads"
+    },
+    "198203": {
+        "name": "Journey of a Special Average Balloon",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Journey_of_a_Special_Average_Balloon",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Runs"
+    },
+    "164516": {
+        "name": "Trine Enchanted Edition",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Trine_Enchanted_Edition",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "165901": {
+        "name": "Ascent of Kings",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Ascent_of_Kings",
+        "media": "",
+        "version": "1.16.1",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "197546": {
+        "name": "Discovery",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Discovery",
+        "media": "",
+        "version": "1.12.2d",
+        "region": "EUR",
+        "playable": "Loads"
+    },
+    "215735": {
+        "name": "Tri-Strip",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Tri-Strip",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134363": {
+        "name": "Super Robo Mouse",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Super_Robo_Mouse",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "215732": {
+        "name": "Toto Temple Deluxe",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Toto_Temple_Deluxe",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "154972": {
+        "name": "Batman: Arkham Origins Blackgate",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Batman:_Arkham_Origins_Blackgate",
+        "media": "",
+        "version": "1.22.9d",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "166245": {
+        "name": "Pixel Slime U",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Pixel_Slime_U",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "192669": {
+        "name": "Soul Axiom",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Soul_Axiom",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "18110": {
+        "name": "The Smurfs 2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Smurfs_2",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "182273": {
+        "name": "Blek",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Blek",
+        "media": "",
+        "version": "1.17.0d",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "134385": {
+        "name": "Panorama View - Double-Decker Tour",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Panorama_View_-_Double-Decker_Tour",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "130122": {
+        "name": "140",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/140",
+        "media": "",
+        "version": "1.20.0",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "33627": {
+        "name": "Minecraft: Wii U Edition",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Minecraft:_Wii_U_Edition",
+        "media": "",
+        "version": "1.25.6",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "162659": {
+        "name": "Preston Sterling",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Preston_Sterling",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134377": {
+        "name": "EDGE",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/EDGE",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "166131": {
+        "name": "Bigley's Revenge",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Bigley%27s_Revenge",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "137398": {
+        "name": "Disney Planes: Fire & Rescue",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Disney_Planes:_Fire_%26_Rescue",
+        "media": "",
+        "version": "1.14.0",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "172537": {
+        "name": "Zombie Defense",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Zombie_Defense",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "215749": {
+        "name": "Word Party",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Word_Party",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "162818": {
+        "name": "Hive Jump",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Hive_Jump",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Runs"
+    },
+    "197593": {
+        "name": "Earthlock: Festival of Magic",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Earthlock:_Festival_of_Magic",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "215742": {
+        "name": "Volcanic Field 2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Volcanic_Field_2",
+        "media": "eShop",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "166177": {
+        "name": "Hold Your Fire: A Game About Responsibility",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Hold_Your_Fire:_A_Game_About_Responsibility",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "166370": {
+        "name": "Reptilian Rebellion",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Reptilian_Rebellion",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "149700": {
+        "name": "Canvaleon",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Canvaleon",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "163954": {
+        "name": "CastleStorm",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/CastleStorm",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "16077": {
+        "name": "Game & Wario",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Game_%26_Wario",
+        "media": "",
+        "version": "1.19.3",
+        "region": "EUR",
+        "playable": "Runs"
+    },
+    "115622": {
+        "name": "Guacamelee: Super Turbo Championship Edition",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Guacamelee:_Super_Turbo_Championship_Edition",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Perfect"
+    },
+    "19827": {
+        "name": "TNT Racers Nitro Machines Edition",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/TNT_Racers_Nitro_Machines_Edition",
+        "media": "",
+        "version": "1.6.3",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "149706": {
+        "name": "Human Resource Machine",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Human_Resource_Machine",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "198200": {
+        "name": "Joe's Diner",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Joe%27s_Diner",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "121648": {
+        "name": "Super Mario 3D World",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Super_Mario_3D_World",
+        "media": "",
+        "version": "1.26.2f",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "24411": {
+        "name": "Just Dance 2015",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Just_Dance_2015",
+        "media": "",
+        "version": "1.19.0",
+        "region": "Unknown",
+        "playable": "Runs"
+    },
+    "149702": {
+        "name": "Electronic Super Joy",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Electronic_Super_Joy",
+        "media": "",
+        "version": "1.16.1",
+        "region": "USA",
+        "playable": "Unplayable"
+    },
+    "34005": {
+        "name": "The Amazing Spider-Man 2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Amazing_Spider-Man_2",
+        "media": "",
+        "version": "1.26.0d",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "33059": {
+        "name": "Just Dance 2016",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Just_Dance_2016",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "198675": {
+        "name": "Mahjong Deluxe 3",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Mahjong_Deluxe_3",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "30465": {
+        "name": "The LEGO Movie Videogame",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_LEGO_Movie_Videogame",
+        "media": "",
+        "version": "1.25.6",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "188452": {
+        "name": "Shakedown: Hawaii",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Shakedown:_Hawaii",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "162828": {
+        "name": "Underground",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Underground",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "198220": {
+        "name": "Maze",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Maze",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "16089": {
+        "name": "Zen Pinball 2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Zen_Pinball_2",
+        "media": "",
+        "version": "1.12.0d",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "176478": {
+        "name": "Skylanders: Spyro's Adventure",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Skylanders:_Spyro%27s_Adventure",
+        "media": "",
+        "version": "1.25.2",
+        "region": "JPN",
+        "playable": "Perfect"
+    },
+    "172535": {
+        "name": "Animal Gods",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Animal_Gods",
+        "media": "",
+        "version": "1.26.2f",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "134309": {
+        "name": "Taiko no Tatsujin: Atsumete Tomodachi Daisakusen",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Taiko_no_Tatsujin:_Atsumete_Tomodachi_Daisakusen",
+        "media": "",
+        "version": "1.12.2",
+        "region": "JPN",
+        "playable": "Playable"
+    },
+    "213879": {
+        "name": "Spherezor",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Spherezor",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "166371": {
+        "name": "Run Run and Die",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Run_Run_and_Die",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Runs"
+    },
+    "30833": {
+        "name": "Citizens of Earth",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Citizens_of_Earth",
+        "media": "",
+        "version": "1.6.2",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "166369": {
+        "name": "Puzzle Monkeys",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Puzzle_Monkeys",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "124605": {
+        "name": "The Fall",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Fall",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Runs"
+    },
+    "16084": {
+        "name": "Your Shape Fitness Evolved 2013",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Your_Shape_Fitness_Evolved_2013",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "134391": {
+        "name": "Chariot",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Chariot",
+        "media": "",
+        "version": "1.11.3",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "172539": {
+        "name": "Twin Robots",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Twin_Robots",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "22806": {
+        "name": "Just Dance 2014",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Just_Dance_2014",
+        "media": "",
+        "version": "1.22.7",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "15095": {
+        "name": "The Walking Dead: Survival Instinct",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Walking_Dead:_Survival_Instinct",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "182327": {
+        "name": "Breakout Defense",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Breakout_Defense",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "17444": {
+        "name": "Mario Kart 8",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Mario_Kart_8",
+        "media": "",
+        "version": "1.26.2f",
+        "region": "USA",
+        "playable": "Perfect"
+    },
+    "213895": {
+        "name": "TITANS TOWER",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/TITANS_TOWER",
+        "media": "",
+        "version": "1.11.5d",
+        "region": "USA",
+        "playable": "Unplayable"
+    },
+    "182424": {
+        "name": "Chests O' Booty",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Chests_O%27_Booty",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "197550": {
+        "name": "Dinox",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Dinox",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Runs"
+    },
+    "162656": {
+        "name": "Pixel Paint",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Pixel_Paint",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "125513": {
+        "name": "Swap Fire",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Swap_Fire",
+        "media": "",
+        "version": "1.25.6",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "134317": {
+        "name": "Bird Mania Party",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Bird_Mania_Party",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "160199": {
+        "name": "Rock 'N Racing Off Road DX",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Rock_%27N_Racing_Off_Road_DX",
+        "media": "",
+        "version": "1.23.1",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "98669": {
+        "name": "Terraria",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Terraria",
+        "media": "",
+        "version": "1.11.0c",
+        "region": "USA",
+        "playable": "Loads"
+    },
+    "167635": {
+        "name": "Test Your Mind",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Test_Your_Mind",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "215644": {
+        "name": "Placards",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Placards",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "9060": {
+        "name": "New Super Mario Bros. U",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/New_Super_Mario_Bros._U",
+        "media": "",
+        "version": "2.0-25",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "162632": {
+        "name": "Cubit The Hardcore Platformer Robot HD",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Cubit_The_Hardcore_Platformer_Robot_HD",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "156552": {
+        "name": "Just Dance 2019",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Just_Dance_2019",
+        "media": "",
+        "version": "2.0-17",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "213884": {
+        "name": "Super Destronaut",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Super_Destronaut",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "18166": {
+        "name": "Pac-Man and the Ghostly Adventures 1",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Pac-Man_and_the_Ghostly_Adventures_1",
+        "media": "",
+        "version": "1.11.1",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "98670": {
+        "name": "The Book Of Unwritten Tales 2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Book_Of_Unwritten_Tales_2",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Runs"
+    },
+    "16088": {
+        "name": "BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/BIT.TRIP_Presents..._Runner2:_Future_Legend_of_Rhythm_Alien",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "134356": {
+        "name": "Cube Life Island Survival",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Cube_Life_Island_Survival",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Loads"
+    },
+    "215710": {
+        "name": "Soon Shine",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Soon_Shine",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "197677": {
+        "name": "GravBlocks+",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/GravBlocks%2B",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "197600": {
+        "name": "Fat City",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Fat_City",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134308": {
+        "name": "Taiko no Tatsujin: Wii U Version",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Taiko_no_Tatsujin:_Wii_U_Version",
+        "media": "",
+        "version": "1.11.3",
+        "region": "JPN",
+        "playable": "Runs"
+    },
+    "197483": {
+        "name": "Color Symphony 2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Color_Symphony_2",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "131378": {
+        "name": "Angry Video Game Nerd Adventures",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Angry_Video_Game_Nerd_Adventures",
+        "media": "",
+        "version": "1.13.0f",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "116095": {
+        "name": "Pokk\u00e9n Tournament",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Pokk%C3%A9n_Tournament",
+        "media": "",
+        "version": "1.25.0b",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "134312": {
+        "name": "Elliot Quest",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Elliot_Quest",
+        "media": "",
+        "version": "1.16.1",
+        "region": "USA",
+        "playable": "Loads"
+    },
+    "124865": {
+        "name": "Fist of the North Star: Ken's Rage 2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Fist_of_the_North_Star:_Ken%27s_Rage_2",
+        "media": "",
+        "version": "1.17.4",
+        "region": "USA",
+        "playable": "Perfect"
+    },
+    "21458": {
+        "name": "One Piece: Unlimited World Red",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/One_Piece:_Unlimited_World_Red",
+        "media": "",
+        "version": "1.19.0d",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "162826": {
+        "name": "Tallowmere",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Tallowmere",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Runs"
+    },
+    "196982": {
+        "name": "Scribble",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Scribble",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "182392": {
+        "name": "Bubble Gum Popper",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Bubble_Gum_Popper",
+        "media": "",
+        "version": "1.17.0d",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "166574": {
+        "name": "Totem Topple",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Totem_Topple",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "215667": {
+        "name": "Red Riding Hood",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Red_Riding_Hood",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "166236": {
+        "name": "INVANOID",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/INVANOID",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "162824": {
+        "name": "Psyscrolr",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Psyscrolr",
+        "media": "",
+        "version": "1.11.5d",
+        "region": "USA",
+        "playable": "Unplayable"
+    },
+    "137380": {
+        "name": "Ben 10: Omniverse 2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Ben_10:_Omniverse_2",
+        "media": "",
+        "version": "1.25.1",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "215668": {
+        "name": "Regina & Mac",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Regina_%26_Mac",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "16820": {
+        "name": "Batman: Arkham Origins",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Batman:_Arkham_Origins",
+        "media": "",
+        "version": "1.18.2c",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "172538": {
+        "name": "Zombeer",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Zombeer",
+        "media": "",
+        "version": "",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "150989": {
+        "name": "The Beggar's Ride",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Beggar%27s_Ride",
+        "media": "",
+        "version": "1.13.0c",
+        "region": "EUR",
+        "playable": "Runs"
+    },
+    "215740": {
+        "name": "Use Your Words",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Use_Your_Words",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "215709": {
+        "name": "Solitaire Dungeon Escape",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Solitaire_Dungeon_Escape",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134366": {
+        "name": "Tetrobot and Co.",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Tetrobot_and_Co.",
+        "media": "",
+        "version": "1.22.2",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "18152": {
+        "name": "Mario & Sonic at the Sochi 2014 Olympic Winter Games",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Mario_%26_Sonic_at_the_Sochi_2014_Olympic_Winter_Games",
+        "media": "",
+        "version": "1.19.1",
+        "region": "EUR",
+        "playable": "Runs"
+    },
+    "172713": {
+        "name": "Absolutely Unstoppable MineRun",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Absolutely_Unstoppable_MineRun",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "163975": {
+        "name": "My First Songs",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/My_First_Songs",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "198372": {
+        "name": "Midtown Crazy Race",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Midtown_Crazy_Race",
+        "media": "",
+        "version": "1.17.0d",
+        "region": "EUR",
+        "playable": "Loads"
+    },
+    "23859": {
+        "name": "Teslagrad",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Teslagrad",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "215706": {
+        "name": "Smart Adventures - Mission Math",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Smart_Adventures_-_Mission_Math",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "165209": {
+        "name": "99Moves",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/99Moves",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "162666": {
+        "name": "Star Sky 2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Star_Sky_2",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "137379": {
+        "name": "Barbie Dreamhouse Party",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Barbie_Dreamhouse_Party",
+        "media": "",
+        "version": "1.25.5",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "10709": {
+        "name": "ZombiU",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/ZombiU",
+        "media": "",
+        "version": "1.25.4",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "182224": {
+        "name": "Armikrog",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Armikrog",
+        "media": "",
+        "version": "1.25.2",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "15304": {
+        "name": "Ben 10: Omniverse",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Ben_10:_Omniverse",
+        "media": "",
+        "version": "1.25.1",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "215821": {
+        "name": "Shadow Archer",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Shadow_Archer",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134404": {
+        "name": "Cocoto Magic Circus 2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Cocoto_Magic_Circus_2",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "215640": {
+        "name": "PING 1.5+",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/PING_1.5%2B",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "197588": {
+        "name": "Educational Pack of Kids Games",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Educational_Pack_of_Kids_Games",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134361": {
+        "name": "Paper Monsters Recut",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Paper_Monsters_Recut",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Runs"
+    },
+    "164704": {
+        "name": "ZaciSa: Defense of the Crayon Dimensions",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/ZaciSa:_Defense_of_the_Crayon_Dimensions",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "165195": {
+        "name": "A World of Keflings",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/A_World_of_Keflings",
+        "media": "eShop",
+        "version": "1.25.6",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "215696": {
+        "name": "Shooting Range by Thornbury Software",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Shooting_Range_by_Thornbury_Software",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "123154": {
+        "name": "Family Tennis SP",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Family_Tennis_SP",
+        "media": "",
+        "version": "1.6.2",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "213873": {
+        "name": "Shutshimi",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Shutshimi",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Perfect"
+    },
+    "137413": {
+        "name": "Hunters Trophy 2 Europa",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Hunters_Trophy_2_Europa",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "166440": {
+        "name": "Slender: The Arrival",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Slender:_The_Arrival",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "197469": {
+        "name": "Chimpuzzle Pro",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Chimpuzzle_Pro",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Perfect"
+    },
+    "182200": {
+        "name": "6-Hand Video Poker",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/6-Hand_Video_Poker",
+        "media": "",
+        "version": "1.17.0d",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "90314": {
+        "name": "Dr. Luigi",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Dr._Luigi",
+        "media": "",
+        "version": "1.22.8",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "197685": {
+        "name": "I C REDD",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/I_C_REDD",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "197555": {
+        "name": "Double Breakout",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Double_Breakout",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "133234": {
+        "name": "Just Dance Disney Party 2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Just_Dance_Disney_Party_2",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "33065": {
+        "name": "Mario Tennis: Ultra Smash",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Mario_Tennis:_Ultra_Smash",
+        "media": "",
+        "version": "1.15.9c",
+        "region": "USA",
+        "playable": "Perfect"
+    },
+    "130305": {
+        "name": "Wipeout: Create & Crash",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Wipeout:_Create_%26_Crash",
+        "media": "",
+        "version": "1.22.6c",
+        "region": "USA",
+        "playable": "Perfect"
+    },
+    "123155": {
+        "name": "Puyo Puyo Tetris",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Puyo_Puyo_Tetris",
+        "media": "",
+        "version": "1.11.6",
+        "region": "JPN",
+        "playable": "Playable"
+    },
+    "197599": {
+        "name": "Factotum",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Factotum",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "144678": {
+        "name": "Dual core",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Dual_core",
+        "media": "eShop",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "195096": {
+        "name": "Cubeshift",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Cubeshift",
+        "media": "eShop",
+        "version": "1.18.2",
+        "region": "USA",
+        "playable": "Unplayable"
+    },
+    "134378": {
+        "name": "Knytt Underground",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Knytt_Underground",
+        "media": "",
+        "version": "1.11.4b",
+        "region": "EUR",
+        "playable": "Runs"
+    },
+    "182218": {
+        "name": "Aperion Cyberstorm",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Aperion_Cyberstorm",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "197432": {
+        "name": "A Drawing's Journey",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/A_Drawing%27s_Journey",
+        "media": "eShop",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "197682": {
+        "name": "Hot Rod Racer",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Hot_Rod_Racer",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "134390": {
+        "name": "Puddle",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Puddle",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "198676": {
+        "name": "MINI-GAMES MADNESS VOLUME:",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/MINI-GAMES_MADNESS_VOLUME:",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "16086": {
+        "name": "Wheel Of Fortune",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Wheel_Of_Fortune",
+        "media": "",
+        "version": "1.27.1",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "32520": {
+        "name": "Skylanders: SuperChargers",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Skylanders:_SuperChargers",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Perfect"
+    },
+    "34156": {
+        "name": "Project Zero: Maiden of Black Water",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Project_Zero:_Maiden_of_Black_Water",
+        "media": "",
+        "version": "1.22.2",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "17643": {
+        "name": "New Super Luigi U",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/New_Super_Luigi_U",
+        "media": "",
+        "version": "1.12.0d",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "134379": {
+        "name": "8Bit Hero",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/8Bit_Hero",
+        "media": "",
+        "version": "1.15.2c",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "215741": {
+        "name": "Vector Assault",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Vector_Assault",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "166235": {
+        "name": "Inside My Radio",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Inside_My_Radio",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "149732": {
+        "name": "Wooden Sen'Sey",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Wooden_Sen%27Sey",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "182334": {
+        "name": "Breakout Defense 2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Breakout_Defense_2",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "144952": {
+        "name": "Brunswick Pro Bowling",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Brunswick_Pro_Bowling",
+        "media": "",
+        "version": "1.6.0",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "134372": {
+        "name": "Blok Drop U",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Blok_Drop_U",
+        "media": "",
+        "version": "1.17.0d",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "197457": {
+        "name": "BLOC",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/BLOC",
+        "media": "",
+        "version": "2.0",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "215738": {
+        "name": "U Host",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/U_Host",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "215695": {
+        "name": "SHOOT THE BALL",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/SHOOT_THE_BALL",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "182400": {
+        "name": "Candy Hoarder",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Candy_Hoarder",
+        "media": "",
+        "version": "1.17.0d",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "173951": {
+        "name": "Ava and Avior Save the Earth",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Ava_and_Avior_Save_the_Earth",
+        "media": "",
+        "version": "1.26.2f",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "215620": {
+        "name": "The Perplexing Orb",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Perplexing_Orb",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "150988": {
+        "name": "Bombing Bastards",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Bombing_Bastards",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "144988": {
+        "name": "Just Dance 2017",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Just_Dance_2017",
+        "media": "",
+        "version": "2.0-17",
+        "region": "EUR",
+        "playable": "Loads"
+    },
+    "23310": {
+        "name": "Skylanders: Trap Team",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Skylanders:_Trap_Team",
+        "media": "",
+        "version": "1.25.1c",
+        "region": "USA",
+        "playable": "Perfect"
+    },
+    "137416": {
+        "name": "Kung Fu Panda: Showdown of Legendary Legends",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Kung_Fu_Panda:_Showdown_of_Legendary_Legends",
+        "media": "",
+        "version": "1.25.6",
+        "region": "Unknown",
+        "playable": "Perfect"
+    },
+    "144507": {
+        "name": "Luv Me Buddies Wonderland",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Luv_Me_Buddies_Wonderland",
+        "media": "",
+        "version": "1.16.1",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "134375": {
+        "name": "Super Toy Cars",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Super_Toy_Cars",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "162663": {
+        "name": "Spheroids",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Spheroids",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134368": {
+        "name": "Dragon Fantasy: The Black Tome of Ice",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Dragon_Fantasy:_The_Black_Tome_of_Ice",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "197690": {
+        "name": "I've Got to Run!",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/I%27ve_Got_to_Run!",
+        "media": "",
+        "version": "1.11.5d",
+        "region": "USA",
+        "playable": "Unplayable"
+    },
+    "149710": {
+        "name": "The Mysterious Cities of Gold: Secret Paths",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Mysterious_Cities_of_Gold:_Secret_Paths",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "182346": {
+        "name": "Breezeblox",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Breezeblox",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "197553": {
+        "name": "Dot Arcade",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Dot_Arcade",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "162703": {
+        "name": "Shiny the Firefly",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Shiny_the_Firefly",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Runs"
+    },
+    "197689": {
+        "name": "Island Flight Simulator",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Island_Flight_Simulator",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "122566": {
+        "name": "LEGO Star Wars: The Force Awakens",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/LEGO_Star_Wars:_The_Force_Awakens",
+        "media": "",
+        "version": "1.25.6",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "17213": {
+        "name": "LEGO Batman 2: DC Super Heroes",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/LEGO_Batman_2:_DC_Super_Heroes",
+        "media": "eShop",
+        "version": "1.22.13",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "215603": {
+        "name": "Zombie Brigade: No Brain No Gain",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Zombie_Brigade:_No_Brain_No_Gain",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "12507": {
+        "name": "Mass Effect 3: Special Edition",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Mass_Effect_3:_Special_Edition",
+        "media": "",
+        "version": "1.27.1",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "201438": {
+        "name": "My Exotic Farm",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/My_Exotic_Farm",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "29305": {
+        "name": "Pier Solar and the Great Architects",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Pier_Solar_and_the_Great_Architects",
+        "media": "",
+        "version": "1.7.5",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "198857": {
+        "name": "Mortar Melon",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Mortar_Melon",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "215717": {
+        "name": "STEEL LORDS",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/STEEL_LORDS",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "169056": {
+        "name": "Skylanders: Imaginators",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Skylanders:_Imaginators",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Perfect"
+    },
+    "137397": {
+        "name": "Phineas and Ferb: Quest for Cool Stuff",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Phineas_and_Ferb:_Quest_for_Cool_Stuff",
+        "media": "",
+        "version": "1.9.1",
+        "region": "USA",
+        "playable": "Perfect"
+    },
+    "163974": {
+        "name": "Monkey Pirates",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Monkey_Pirates",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Runs"
+    },
+    "214066": {
+        "name": "Midnight",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Midnight",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Perfect"
+    },
+    "162633": {
+        "name": "DREAMALS: DREAM QUEST",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/DREAMALS:_DREAM_QUEST",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "90932": {
+        "name": "Star Fox Guard",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Star_Fox_Guard",
+        "media": "",
+        "version": "1.26.0d",
+        "region": "USA",
+        "playable": "Perfect"
+    },
+    "198374": {
+        "name": "MikroGame Rotator",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/MikroGame_Rotator",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Runs"
+    },
+    "130623": {
+        "name": "99Seconds",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/99Seconds",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "197478": {
+        "name": "Chubbins",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Chubbins",
+        "media": "eShop",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "152300": {
+        "name": "Lucadian Chronicles",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Lucadian_Chronicles",
+        "media": "",
+        "version": "1.23.1",
+        "region": "USA",
+        "playable": "Unplayable"
+    },
+    "34418": {
+        "name": "Kung Fu Rabbit",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Kung_Fu_Rabbit",
+        "media": "",
+        "version": "1.26.0d",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "213841": {
+        "name": "Quest of Dungeons",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Quest_of_Dungeons",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "93943": {
+        "name": "Pac-Man and the Ghostly Adventures 2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Pac-Man_and_the_Ghostly_Adventures_2",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "166441": {
+        "name": "Splashy Duck",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Splashy_Duck",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "215711": {
+        "name": "Space Hunted: The Lost Levels",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Space_Hunted:_The_Lost_Levels",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "100268": {
+        "name": "Fast Racing Neo",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Fast_Racing_Neo",
+        "media": "",
+        "version": "1.21.2",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "213880": {
+        "name": "Spot The Differences: Party!",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Spot_The_Differences:_Party!",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "163958": {
+        "name": "Color Zen Kids",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Color_Zen_Kids",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "134398": {
+        "name": "Squids Odyssey",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Squids_Odyssey",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "215633": {
+        "name": "Piano Teacher",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Piano_Teacher",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "173949": {
+        "name": "Azure Snake",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Azure_Snake",
+        "media": "",
+        "version": "1.23.1",
+        "region": "USA",
+        "playable": "Perfect"
+    },
+    "198751": {
+        "name": "Momonga Pinball Adventures",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Momonga_Pinball_Adventures",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "25043": {
+        "name": "Kirby and the Rainbow Curse",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Kirby_and_the_Rainbow_Curse",
+        "media": "",
+        "version": "1.26.1",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "131377": {
+        "name": "Alphadia Genesis",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Alphadia_Genesis",
+        "media": "",
+        "version": "1.26.2",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "123994": {
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Legend_of_Zelda:_Breath_of_the_Wild",
+        "media": "",
+        "version": "2.0-22",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "198212": {
+        "name": "Land it Rocket",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Land_it_Rocket",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "215724": {
+        "name": "Surfin' Sam - Attack of the Aqualites",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Surfin%27_Sam_-_Attack_of_the_Aqualites",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "198208": {
+        "name": "KEYTARI: 8-bit Music Maker",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/KEYTARI:_8-bit_Music_Maker",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "215734": {
+        "name": "Triple Breakout",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Triple_Breakout",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "19776": {
+        "name": "New Super Mario Bros. U + New Super Luigi U",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/New_Super_Mario_Bros._U_%2B_New_Super_Luigi_U",
+        "media": "",
+        "version": "1.23.1",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "12102": {
+        "name": "Sonic & All-Stars Racing Transformed",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Sonic_%26_All-Stars_Racing_Transformed",
+        "media": "",
+        "version": "1.23.1",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "197540": {
+        "name": "Cutie Pets Jump Rope",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Cutie_Pets_Jump_Rope",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "208833": {
+        "name": "Rock Zombie",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Rock_Zombie",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "215684": {
+        "name": "Rorrim",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Rorrim",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "134410": {
+        "name": "Paparazzi",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Paparazzi",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Perfect"
+    },
+    "14828": {
+        "name": "The Cave",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Cave",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "134337": {
+        "name": "Stick It to the Man",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Stick_It_to_the_Man",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "213807": {
+        "name": "Outside the Realm",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Outside_the_Realm",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "197558": {
+        "name": "Draw 2 Survive",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Draw_2_Survive",
+        "media": "",
+        "version": "1.17.0d",
+        "region": "USA",
+        "playable": "Unplayable"
+    },
+    "201801": {
+        "name": "My Farm",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/My_Farm",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "174229": {
+        "name": "Pinball Arcade",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Pinball_Arcade",
+        "media": "",
+        "version": "1.23.1",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "168081": {
+        "name": "Ziggurat",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Ziggurat",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "151344": {
+        "name": "Super Meat Boy",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Super_Meat_Boy",
+        "media": "",
+        "version": "1.25.1c",
+        "region": "USA",
+        "playable": "Perfect"
+    },
+    "215728": {
+        "name": "Tilelicious: Delicious Tiles",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Tilelicious:_Delicious_Tiles",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "197684": {
+        "name": "Hurry Up! Bird Hunter",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Hurry_Up!_Bird_Hunter",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "197538": {
+        "name": "Cutie Clash",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Cutie_Clash",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "213878": {
+        "name": "Space Hunted",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Space_Hunted",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "213885": {
+        "name": "The Deer God",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Deer_God",
+        "media": "",
+        "version": "1.11.4b",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "197559": {
+        "name": "Draw a Stickman: EPIC 2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Draw_a_Stickman:_EPIC_2",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134388": {
+        "name": "Dungeons & Dragons: Chronicles Of Mystara",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Dungeons_%26_Dragons:_Chronicles_Of_Mystara",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "215619": {
+        "name": "Perpetual Blast",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Perpetual_Blast",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "24259": {
+        "name": "LEGO Marvel Super Heroes",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/LEGO_Marvel_Super_Heroes",
+        "media": "",
+        "version": "1.25.6",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "149726": {
+        "name": "Shiftlings",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Shiftlings",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "33025": {
+        "name": "Rodea the Sky Soldier",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Rodea_the_Sky_Soldier",
+        "media": "",
+        "version": "1.21.0",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "197460": {
+        "name": "BrickBlast U!",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/BrickBlast_U!",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "215704": {
+        "name": "Snake Den",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Snake_Den",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "29073": {
+        "name": "LEGO Jurassic World",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/LEGO_Jurassic_World",
+        "media": "",
+        "version": "1.25.6",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "17392": {
+        "name": "Mutant Mudds Deluxe",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Mutant_Mudds_Deluxe",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "166242": {
+        "name": "PictoParty",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/PictoParty",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "213874": {
+        "name": "SKEASY",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/SKEASY",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "134374": {
+        "name": "Nihilumbra",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Nihilumbra",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "149705": {
+        "name": "Gravity Badgers",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Gravity_Badgers",
+        "media": "",
+        "version": "1.11.5d",
+        "region": "USA",
+        "playable": "Unplayable"
+    },
+    "182280": {
+        "name": "Blockara",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Blockara",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "131380": {
+        "name": "Mighty Switch Force! 2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Mighty_Switch_Force!_2",
+        "media": "",
+        "version": "2.0",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "197556": {
+        "name": "Double Breakout II",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Double_Breakout_II",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "12095": {
+        "name": "Rabbids Land",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Rabbids_Land",
+        "media": "",
+        "version": "1.22.3",
+        "region": "USA",
+        "playable": "Loads"
+    },
+    "182221": {
+        "name": "Aqua TV",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Aqua_TV",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "165205": {
+        "name": "Roving Rogue",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Roving_Rogue",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "124603": {
+        "name": "OlliOlli",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/OlliOlli",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Perfect"
+    },
+    "197671": {
+        "name": "GALAXY BLASTER",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/GALAXY_BLASTER",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "215908": {
+        "name": "Rock 'N Racing Off Road",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Rock_%27N_Racing_Off_Road",
+        "media": "",
+        "version": "1.14.0",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "142392": {
+        "name": "Pikmin Short Movies HD",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Pikmin_Short_Movies_HD",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "213832": {
+        "name": "Paranautical Activity",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Paranautical_Activity",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "165909": {
+        "name": "Cake Ninja 3: The Legend Continues",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Cake_Ninja_3:_The_Legend_Continues",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "32901": {
+        "name": "Animal Crossing: Amiibo Festival",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Animal_Crossing:_Amiibo_Festival",
+        "media": "",
+        "version": "1.26.2f",
+        "region": "EUR",
+        "playable": "Runs"
+    },
+    "215618": {
+        "name": "Percy's Predicament",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Percy%27s_Predicament",
+        "media": "eShop",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134370": {
+        "name": "Gaiabreaker",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Gaiabreaker",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "197594": {
+        "name": "Ectoplaza",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Ectoplaza",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Perfect"
+    },
+    "166546": {
+        "name": "Sudoku and Permudoku",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Sudoku_and_Permudoku",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unplayable"
+    },
+    "166575": {
+        "name": "Ultratron",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Ultratron",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "31277": {
+        "name": "Super Mario Maker",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Super_Mario_Maker",
+        "media": "",
+        "version": "1.26.2",
+        "region": "USA",
+        "playable": "Perfect"
+    },
+    "182217": {
+        "name": "Annihilation",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Annihilation",
+        "media": "eShop",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Runs"
+    },
+    "134384": {
+        "name": "Panorama View - Kyoto Sightseeing",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Panorama_View_-_Kyoto_Sightseeing",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "145305": {
+        "name": "Baila Latino",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Baila_Latino",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "14938": {
+        "name": "007 Legends",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/007_Legends",
+        "media": "",
+        "version": "1.23.1b",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "137411": {
+        "name": "How To Train Your Dragon 2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/How_To_Train_Your_Dragon_2",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "215727": {
+        "name": "Tadpole Treble",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Tadpole_Treble",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "111725": {
+        "name": "Shantae: Risky's Revenge Director's Cut",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Shantae:_Risky%27s_Revenge_Director%27s_Cut",
+        "media": "eShop",
+        "version": "1.16.1",
+        "region": "USA",
+        "playable": "Loads"
+    },
+    "164568": {
+        "name": "Pure Chess",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Pure_Chess",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Runs"
+    },
+    "197675": {
+        "name": "GEOM",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/GEOM",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "197598": {
+        "name": "Escape From Flare Industries",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Escape_From_Flare_Industries",
+        "media": "",
+        "version": "1.17.0d",
+        "region": "USA",
+        "playable": "Unplayable"
+    },
+    "174228": {
+        "name": "Extreme Exorcism",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Extreme_Exorcism",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "149703": {
+        "name": "Exil's End",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Exil%27s_End",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "18060": {
+        "name": "Sonic Lost World",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Sonic_Lost_World",
+        "media": "",
+        "version": "1.26.1",
+        "region": "USA",
+        "playable": "Loads"
+    },
+    "202552": {
+        "name": "TAP TAP ARCADE",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/TAP_TAP_ARCADE",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134407": {
+        "name": "Badland Game Of The Year Edition",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Badland_Game_Of_The_Year_Edition",
+        "media": "",
+        "version": "1.17.0d",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "134340": {
+        "name": "Gunman Clive HD Collection",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Gunman_Clive_HD_Collection",
+        "media": "",
+        "version": "1.12.0d",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "198860": {
+        "name": "Mutant Alien Moles of the Dead",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Mutant_Alien_Moles_of_the_Dead",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "174246": {
+        "name": "The Bridge",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Bridge",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "13495": {
+        "name": "Tekken Tag Tournament 2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Tekken_Tag_Tournament_2",
+        "media": "",
+        "version": "1.22.10",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "215720": {
+        "name": "The Stonecutter",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Stonecutter",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "215662": {
+        "name": "Quadcopter Pilot Challenge",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Quadcopter_Pilot_Challenge",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "213869": {
+        "name": "Retro Road Rumble",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Retro_Road_Rumble",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "15157": {
+        "name": "LEGO City: Undercover",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/LEGO_City:_Undercover",
+        "media": "",
+        "version": "1.26.2f",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "134311": {
+        "name": "Toby: The Secret Mine",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Toby:_The_Secret_Mine",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "115620": {
+        "name": "Shantae And The Pirate's Curse",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Shantae_And_The_Pirate%27s_Curse",
+        "media": "eShop",
+        "version": "1.16.1",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "106293": {
+        "name": "Mario & Sonic at the Rio 2016 Olympic Games",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Mario_%26_Sonic_at_the_Rio_2016_Olympic_Games",
+        "media": "",
+        "version": "1.26.2",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "20528": {
+        "name": "NES Remix 2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/NES_Remix_2",
+        "media": "",
+        "version": "1.16.1",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "134332": {
+        "name": "Shantae: Half-Genie Hero",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Shantae:_Half-Genie_Hero",
+        "media": "",
+        "version": "1.16.1",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "145607": {
+        "name": "Chronicles Of Teddy: Harmony Of Exidus",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Chronicles_Of_Teddy:_Harmony_Of_Exidus",
+        "media": "",
+        "version": "1.16.1",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "162825": {
+        "name": "Space Hulk",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Space_Hulk",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "214070": {
+        "name": "ORBIT",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/ORBIT",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134412": {
+        "name": "Master Reboot",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Master_Reboot",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Runs"
+    },
+    "162631": {
+        "name": "Cubemen 2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Cubemen_2",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "134367": {
+        "name": "The Swapper",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Swapper",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "17641": {
+        "name": "Angry Birds Trilogy",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Angry_Birds_Trilogy",
+        "media": "",
+        "version": "1.26.2f",
+        "region": "Unknown",
+        "playable": "Runs"
+    },
+    "134365": {
+        "name": "Ninja Pizza Girl",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Ninja_Pizza_Girl",
+        "media": "",
+        "version": "1.15.13c",
+        "region": "EUR",
+        "playable": "Loads"
+    },
+    "165912": {
+        "name": "Beatbuddy",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Beatbuddy",
+        "media": "eShop",
+        "version": "1.16.0d",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "149727": {
+        "name": "Star Ghost",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Star_Ghost",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "176480": {
+        "name": "Kamen Rider: Battride War II",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Kamen_Rider:_Battride_War_II",
+        "media": "",
+        "version": "1.18.2c",
+        "region": "JPN",
+        "playable": "Playable"
+    },
+    "214071": {
+        "name": "Overworld Defender Remix",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Overworld_Defender_Remix",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134331": {
+        "name": "Lovely Planet",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Lovely_Planet",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "EUR",
+        "playable": "Runs"
+    },
+    "208069": {
+        "name": "RTO",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/RTO",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "215694": {
+        "name": "Shapes of Gray",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Shapes_of_Gray",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "182313": {
+        "name": "Blok Drop X Twisted Fusion",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Blok_Drop_X_Twisted_Fusion",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "197551": {
+        "name": "Dodge Club Party",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Dodge_Club_Party",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "166459": {
+        "name": "STARWHAL",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/STARWHAL",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "215634": {
+        "name": "Pic-a-Pix Color",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Pic-a-Pix_Color",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "11133": {
+        "name": "Batman: Arkham City Armored Edition",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Batman:_Arkham_City_Armored_Edition",
+        "media": "",
+        "version": "1.21.1",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "121801": {
+        "name": "Freedom Planet",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Freedom_Planet",
+        "media": "",
+        "version": "1.26.1",
+        "region": "USA",
+        "playable": "Perfect"
+    },
+    "197673": {
+        "name": "Games for Toddlers",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Games_for_Toddlers",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "215714": {
+        "name": "Spellcaster's Assistant",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Spellcaster%27s_Assistant",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134314": {
+        "name": "Midnight 2",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Midnight_2",
+        "media": "",
+        "version": "1.11.5d",
+        "region": "USA",
+        "playable": "Unplayable"
+    },
+    "131845": {
+        "name": "Asdivine Hearts",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Asdivine_Hearts",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "198370": {
+        "name": "Maze Break",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Maze_Break",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "197670": {
+        "name": "Frenchy Bird",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Frenchy_Bird",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "214067": {
+        "name": "My Jurassic Farm",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/My_Jurassic_Farm",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "130311": {
+        "name": "3Souls",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/3Souls",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "USA",
+        "playable": "Loads"
+    },
+    "197589": {
+        "name": "Dungeon Hearts DX",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Dungeon_Hearts_DX",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "182235": {
+        "name": "Ballpoint Universe: Infinite",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Ballpoint_Universe:_Infinite",
+        "media": "",
+        "version": "1.17.0d",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "196829": {
+        "name": "ACE - Alien Cleanup Elite",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/ACE_-_Alien_Cleanup_Elite",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "215609": {
+        "name": "My Style Studio: Notebook",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/My_Style_Studio:_Notebook",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "11744": {
+        "name": "Marvel Avengers: Battle For Earth",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Marvel_Avengers:_Battle_For_Earth",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "215729": {
+        "name": "Tiny Galaxy",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Tiny_Galaxy",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "23982": {
+        "name": "Wii Sports Club",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Wii_Sports_Club",
+        "media": "",
+        "version": "1.25.4",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "127187": {
+        "name": "Star Wars Pinball",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Star_Wars_Pinball",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "149696": {
+        "name": "Bike Rider UltraDX - WORLD TOUR",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Bike_Rider_UltraDX_-_WORLD_TOUR",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "182353": {
+        "name": "BRICK RACE",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/BRICK_RACE",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "103506": {
+        "name": "Tokyo Mirage Sessions",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Tokyo_Mirage_Sessions",
+        "media": "",
+        "version": "1.15.3b",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "197664": {
+        "name": "Flapp & Zegeta",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Flapp_%26_Zegeta",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "137405": {
+        "name": "Barbie and Her Sisters: Puppy Rescue",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Barbie_and_Her_Sisters:_Puppy_Rescue",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Runs"
+    },
+    "197663": {
+        "name": "FIFTEEN",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/FIFTEEN",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "197544": {
+        "name": "Defense Dome",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Defense_Dome",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "137399": {
+        "name": "Spongebob Squarepants: Plankton's Robotic Revenge",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Spongebob_Squarepants:_Plankton%27s_Robotic_Revenge",
+        "media": "",
+        "version": "1.22.4",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "166368": {
+        "name": "Pumped BMX +",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Pumped_BMX_%2B",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "168080": {
+        "name": "Woah Dave!",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Woah_Dave!",
+        "media": "",
+        "version": "1.19.2c",
+        "region": "USA",
+        "playable": "Runs"
+    },
+    "166134": {
+        "name": "Chroma Blast",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Chroma_Blast",
+        "media": "",
+        "version": "1.26.2f",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "197595": {
+        "name": "Emojikara: A Clever Emoji Match Game",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Emojikara:_A_Clever_Emoji_Match_Game",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134403": {
+        "name": "Amiibo tap Nintendo's Greatest Bits",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Amiibo_tap_Nintendo%27s_Greatest_Bits",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "213876": {
+        "name": "SHOOTY SPACE",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/SHOOTY_SPACE",
+        "media": "",
+        "version": "1.11.5d",
+        "region": "USA",
+        "playable": "Unplayable"
+    },
+    "215736": {
+        "name": "Turtle Tale",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Turtle_Tale",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "213840": {
+        "name": "PSIBO",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/PSIBO",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134402": {
+        "name": "The Swindle",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Swindle",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "173953": {
+        "name": "Asteroid Quarry",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Asteroid_Quarry",
+        "media": "",
+        "version": "1.26.2f",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "162827": {
+        "name": "The Gem Collector",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Gem_Collector",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "162650": {
+        "name": "Futuridium Extended Play Deluxe",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Futuridium_Extended_Play_Deluxe",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "162662": {
+        "name": "The Rivers of Alice: Extended Version",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/The_Rivers_of_Alice:_Extended_Version",
+        "media": "",
+        "version": "1.12.0d",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "197591": {
+        "name": "El Silla - Arcade Edition",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/El_Silla_-_Arcade_Edition",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "134310": {
+        "name": "Pullblox World",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Pullblox_World",
+        "media": "",
+        "version": "1.18.0c",
+        "region": "EUR",
+        "playable": "Playable"
+    },
+    "166133": {
+        "name": "Christmas Adventure of Rocket Penguin",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Christmas_Adventure_of_Rocket_Penguin",
+        "media": "",
+        "version": "1.22.2",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "134334": {
+        "name": "Freeze Me",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Freeze_Me",
+        "media": "",
+        "version": "1.15.10",
+        "region": "EUR",
+        "playable": "Perfect"
+    },
+    "137418": {
+        "name": "Disney Planes",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Disney_Planes",
+        "media": "",
+        "version": "1.27.1",
+        "region": "USA",
+        "playable": "Playable"
+    },
+    "165911": {
+        "name": "B3 Game Expo For Bees",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/B3_Game_Expo_For_Bees",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Runs"
+    },
+    "126927": {
+        "name": "Mini Mario & Friends: Amiibo Challenge",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Mini_Mario_%26_Friends:_Amiibo_Challenge",
+        "media": "",
+        "version": "2.0-10",
+        "region": "EUR",
+        "playable": "Unplayable"
+    },
+    "182315": {
+        "name": "Blue-Collar Astronaut",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Blue-Collar_Astronaut",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "142918": {
+        "name": "Minecraft: Story Mode",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Minecraft:_Story_Mode",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Runs"
+    },
+    "197541": {
+        "name": "Cutie Pets Pick Berries",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Cutie_Pets_Pick_Berries",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "149707": {
+        "name": "Infinity Runner",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Infinity_Runner",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "198201": {
+        "name": "Jones on Fire",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Jones_on_Fire",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Playable"
+    },
+    "215647": {
+        "name": "Prism Pets",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Prism_Pets",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Unknown"
+    },
+    "16065": {
+        "name": "Family Party: 30 Great Games Obstacle Arcade",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Family_Party:_30_Great_Games_Obstacle_Arcade",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Runs"
+    },
+    "163973": {
+        "name": "EvoFish",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/EvoFish",
+        "media": "",
+        "version": "Unknown",
+        "region": "Unknown",
+        "playable": "Loads"
+    },
+    "162693": {
+        "name": "Mutant Mudds Super Challenge",
+        "url": "https:\/\/wiki.cemu.info\/wiki\/Mutant_Mudds_Super_Challenge",
+        "media": "",
+        "version": "1.10.0f",
+        "region": "EUR",
+        "playable": "Playable"
+    }
+}

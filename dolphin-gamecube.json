@@ -1,0 +1,4094 @@
+{
+    "6249": {
+        "name": "Final Fantasy Crystal Chronicles",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Final_Fantasy_Crystal_Chronicles",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7020": {
+        "name": "One Piece: Grand Battle!",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=One_Piece%3A_Grand_Battle%21",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30780": {
+        "name": "Batman: Dark Tomorrow",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Batman%3A_Dark_Tomorrow",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "156127": {
+        "name": "Gekit\u014d Pro Yaky\u016b (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Gekit%C5%8D_Pro_Yaky%C5%AB_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "5272": {
+        "name": "Need for Speed: Most Wanted",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Need_for_Speed%3A_Most_Wanted",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "130204": {
+        "name": "Peach's Castle",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Peach%27s_Castle",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "95253": {
+        "name": "Neighbours from Hell",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Neighbours_from_Hell",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "15791": {
+        "name": "Big Air Freestyle",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Big_Air_Freestyle",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "6954": {
+        "name": "Crash Nitro Kart",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Crash_Nitro_Kart",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30930": {
+        "name": "Top Angler: Real Bass Fishing",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Top_Angler%3A_Real_Bass_Fishing",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11461": {
+        "name": "Mortal Kombat: Deception",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Mortal_Kombat%3A_Deception",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "11456": {
+        "name": "Tak and the Power of Juju",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tak_and_the_Power_of_Juju",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11460": {
+        "name": "Medabots Infinity",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Medabots_Infinity",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6982": {
+        "name": "Tom Clancy's Ghost Recon 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tom_Clancy%27s_Ghost_Recon_2",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "2324": {
+        "name": "Tony Hawk's Underground 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tony_Hawk%27s_Underground_2",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "22476": {
+        "name": "NHL Hitz 2002",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NHL_Hitz_2002",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "19584": {
+        "name": "Universal Studios Theme Parks Adventure",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Universal_Studios_Theme_Parks_Adventure",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "13650": {
+        "name": "Bratz: Forever Diamondz",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Bratz%3A_Forever_Diamondz",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30908": {
+        "name": "The Scorpion King: Rise of the Akkadian",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Scorpion_King%3A_Rise_of_the_Akkadian",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30815": {
+        "name": "Driven",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Driven",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6966": {
+        "name": "Donkey Konga",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Donkey_Konga",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "5435": {
+        "name": "Lego Star Wars II: The Original Trilogy",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Lego_Star_Wars_II%3A_The_Original_Trilogy",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "14407": {
+        "name": "Super Monkey Ball Adventure",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Super_Monkey_Ball_Adventure",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "26354": {
+        "name": "Madden NFL 2004",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Madden_NFL_2004",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30897": {
+        "name": "Over the Hedge",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Over_the_Hedge",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30940": {
+        "name": "X-Men: The Official Game",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=X-Men%3A_The_Official_Game",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "26355": {
+        "name": "Mary-Kate and Ashley: Sweet 16 Licensed to Drive",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Mary-Kate_and_Ashley%3A_Sweet_16_Licensed_to_Drive",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "27858": {
+        "name": "Gakuen Toshi Vara Noir Roses",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Gakuen_Toshi_Vara_Noir_Roses",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "71": {
+        "name": "Viewtiful Joe: Revival",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Viewtiful_Joe%3A_Revival",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30892": {
+        "name": "NHL 2004",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NHL_2004",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "24756": {
+        "name": "NBA Live 2003",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NBA_Live_2003",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "3925": {
+        "name": "Metal Gear Solid: The Twin Snakes",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Metal_Gear_Solid%3A_The_Twin_Snakes",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "13458": {
+        "name": "Harry Potter and the Goblet of Fire",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Harry_Potter_and_the_Goblet_of_Fire",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "20563": {
+        "name": "Egg Mania: Eggstreme Madness",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Egg_Mania%3A_Eggstreme_Madness",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "26353": {
+        "name": "Madden NFL 2002",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Madden_NFL_2002",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "32357": {
+        "name": "Bomberman Land 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Bomberman_Land_2",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11475": {
+        "name": "The Lord of the Rings: The Two Towers",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Lord_of_the_Rings%3A_The_Two_Towers",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "6262": {
+        "name": "Mortal Kombat: Deadly Alliance",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Mortal_Kombat%3A_Deadly_Alliance",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "24238": {
+        "name": "The Urbz: Sims in the City",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Urbz%3A_Sims_in_the_City",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "19277": {
+        "name": "NBA 2K3",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NBA_2K3",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "15035": {
+        "name": "Outlaw Golf",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Outlaw_Golf",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7029": {
+        "name": "Pok\u00e9mon XD: Gale of Darkness",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Pok%C3%A9mon_XD%3A_Gale_of_Darkness",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "113994": {
+        "name": "Super Robot Wars GC",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Super_Robot_Wars_GC",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "14319": {
+        "name": "ZooCube",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=ZooCube",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7038": {
+        "name": "Resident Evil Code: Veronica X",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Resident_Evil_Code%3A_Veronica_X",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "32205": {
+        "name": "Captain Tsubasa: Ougon Sedai no Chousen",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Captain_Tsubasa%3A_Ougon_Sedai_no_Chousen",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "176473": {
+        "name": "Dokapon DX: Wataru Sekai wa Oni Darake",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Dokapon_DX%3A_Wataru_Sekai_wa_Oni_Darake",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "22670": {
+        "name": "NHL 2005",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NHL_2005",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11619": {
+        "name": "Conflict: Desert Storm II",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Conflict%3A_Desert_Storm_II",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "91157": {
+        "name": "Naruto: Gekit\u014d Ninja Taisen! 4",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Naruto%3A_Gekit%C5%8D_Ninja_Taisen%21_4",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "7021": {
+        "name": "Pac-Man Vs.",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Pac-Man_Vs.",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30794": {
+        "name": "Charlie's Angels",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Charlie%27s_Angels",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "176455": {
+        "name": "Jikky\u014d Powerful Pro Yaky\u016b 12",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Jikky%C5%8D_Powerful_Pro_Yaky%C5%AB_12",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11622": {
+        "name": "Dragon Ball Z: Budokai 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Dragon_Ball_Z%3A_Budokai_2",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6963": {
+        "name": "Disney's Hide & Sneak",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Disney%27s_Hide_%26_Sneak",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11727": {
+        "name": "Summoner: A Goddess Reborn",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Summoner%3A_A_Goddess_Reborn",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "20929": {
+        "name": "Hot Wheels: World Race",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Hot_Wheels%3A_World_Race",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "176470": {
+        "name": "Jikky\u014d Powerful Major League",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Jikky%C5%8D_Powerful_Major_League",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "24797": {
+        "name": "Nintendo Puzzle Collection",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Nintendo_Puzzle_Collection",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "26361": {
+        "name": "MVP Baseball 2004",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=MVP_Baseball_2004",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "26362": {
+        "name": "MVP Baseball 2005",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=MVP_Baseball_2005",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "10070": {
+        "name": "Super Monkey Ball 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Super_Monkey_Ball_2",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "16838": {
+        "name": "Chicken Little",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Chicken_Little",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7065": {
+        "name": "Virtua Striker 2002 (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Virtua_Striker_2002_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5468": {
+        "name": "Star Wars Jedi Knight II: Jedi Outcast",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Star_Wars_Jedi_Knight_II%3A_Jedi_Outcast",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "11624": {
+        "name": "Lost Kingdoms",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Lost_Kingdoms",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30853": {
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Harry_Potter_and_the_Sorcerer%27s_Stone",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "9804": {
+        "name": "Serious Sam: Next Encounter",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Serious_Sam%3A_Next_Encounter",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "95245": {
+        "name": "Knights of the Temple: Infernal Crusade",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Knights_of_the_Temple%3A_Infernal_Crusade",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30934": {
+        "name": "Wallace & Gromit in Project Zoo",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Wallace_%26_Gromit_in_Project_Zoo",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "95244": {
+        "name": "Kid\u014d Senshi Gundam: Gundam vs. Z Gundam",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Kid%C5%8D_Senshi_Gundam%3A_Gundam_vs._Z_Gundam",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "18870": {
+        "name": "XGRA: Extreme G Racing Association",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=XGRA%3A_Extreme_G_Racing_Association",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "9874": {
+        "name": "Evolution Worlds",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Evolution_Worlds",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30767": {
+        "name": "All-Star Baseball 2003 featuring Derek Jeter",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=All-Star_Baseball_2003_featuring_Derek_Jeter",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "24755": {
+        "name": "Madden NFL 2003",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Madden_NFL_2003",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "2328": {
+        "name": "Wave Race: Blue Storm",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Wave_Race%3A_Blue_Storm",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7051": {
+        "name": "The SpongeBob SquarePants Movie",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_SpongeBob_SquarePants_Movie",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "2291": {
+        "name": "Kururin Squash!",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Kururin_Squash%21",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30806": {
+        "name": "Dakar 2: The World's Ultimate Rally",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Dakar_2%3A_The_World%27s_Ultimate_Rally",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6265": {
+        "name": "Tony Hawk's Pro Skater 3",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tony_Hawk%27s_Pro_Skater_3",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30907": {
+        "name": "Rocket Power: Beach Bandits",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Rocket_Power%3A_Beach_Bandits",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "17009": {
+        "name": "Lego Star Wars: The Video Game",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Lego_Star_Wars%3A_The_Video_Game",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "10653": {
+        "name": "The Fairly OddParents: Breakin' Da Rules",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Fairly_OddParents%3A_Breakin%27_Da_Rules",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6987": {
+        "name": "Harry Potter: Quidditch World Cup",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Harry_Potter%3A_Quidditch_World_Cup",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "26363": {
+        "name": "MX Superfly",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=MX_Superfly",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "176450": {
+        "name": "Momotar\u014d Dentetsu 12",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Momotar%C5%8D_Dentetsu_12",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "131143": {
+        "name": "One Piece: Treasure Battle!",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=One_Piece%3A_Treasure_Battle%21",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30858": {
+        "name": "Kao the Kangaroo Round 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Kao_the_Kangaroo_Round_2",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7006": {
+        "name": "Midway Arcade Treasures 3",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Midway_Arcade_Treasures_3",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "18160": {
+        "name": "Pinball Hall of Fame: The Gottlieb Collection (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Pinball_Hall_of_Fame%3A_The_Gottlieb_Collection_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "32358": {
+        "name": "One Piece: Grand Battle! 3",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=One_Piece%3A_Grand_Battle%21_3",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "176471": {
+        "name": "Family Stadium 2003",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Family_Stadium_2003",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "14872": {
+        "name": "Dragon's Lair 3D: Return to the Lair",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Dragon%27s_Lair_3D%3A_Return_to_the_Lair",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11481": {
+        "name": "Blood Omen 2: Legacy of Kain",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Blood_Omen_2%3A_Legacy_of_Kain",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "26359": {
+        "name": "MLB Slugfest 20-04",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=MLB_Slugfest_20-04",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "20562": {
+        "name": "V-Rally 3",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=V-Rally_3",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "26357": {
+        "name": "Men in Black II: Alien Escape",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Men_in_Black_II%3A_Alien_Escape",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5768": {
+        "name": "Doubutsu no Mori e+",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Doubutsu_no_Mori_e%2B",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "2236": {
+        "name": "Super Mario Sunshine",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Super_Mario_Sunshine",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "91227": {
+        "name": "Homeland",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Homeland",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "13648": {
+        "name": "Taz: Wanted",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Taz%3A_Wanted",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "26356": {
+        "name": "MC Groovz Dance Craze",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=MC_Groovz_Dance_Craze",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "191313": {
+        "name": "Interactive Multi Game Demo Disc v30",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v30",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "16766": {
+        "name": "Teenage Mutant Ninja Turtles 2: Battle Nexus",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Teenage_Mutant_Ninja_Turtles_2%3A_Battle_Nexus",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5469": {
+        "name": "Tom Clancy's Splinter Cell",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tom_Clancy%27s_Splinter_Cell",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "10658": {
+        "name": "RoadKill",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=RoadKill",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "9255": {
+        "name": "Harvest Moon: A Wonderful Life",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Harvest_Moon%3A_A_Wonderful_Life",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30893": {
+        "name": "NHL 2K3",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NHL_2K3",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "24736": {
+        "name": "The Sims",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Sims",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6988": {
+        "name": "Hulk",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Hulk",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "138711": {
+        "name": "Bleach GC: Tasogare Ni Mamieru Shinigami",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Bleach_GC%3A_Tasogare_Ni_Mamieru_Shinigami",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30772": {
+        "name": "American Chopper 2: Full Throttle",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=American_Chopper_2%3A_Full_Throttle",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "9694": {
+        "name": "Freekstyle",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Freekstyle",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "9833": {
+        "name": "UFC: Throwdown",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=UFC%3A_Throwdown",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6971": {
+        "name": "XG3: Extreme G Racing",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=XG3%3A_Extreme_G_Racing",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "16854": {
+        "name": "Bokuj\u014d Monogatari: Shiawase no Uta",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Bokuj%C5%8D_Monogatari%3A_Shiawase_no_Uta",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "27471": {
+        "name": "NHL 2003",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NHL_2003",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "33969": {
+        "name": "Doraemon: Minna de Asob\u014d! Minidorando",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Doraemon%3A_Minna_de_Asob%C5%8D%21_Minidorando",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "27857": {
+        "name": "DreamMix TV World Fighters",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=DreamMix_TV_World_Fighters",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7011": {
+        "name": "NBA Street V3",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NBA_Street_V3",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "191297": {
+        "name": "Interactive Multi Game Demo Disc v23",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v23",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "2301": {
+        "name": "1080\u00b0 Avalanche",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=1080%C2%B0_Avalanche",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "176447": {
+        "name": "Tensai Bit-Kun: Gramon Battle",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tensai_Bit-Kun%3A_Gramon_Battle",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "191314": {
+        "name": "Interactive Multi Game Demo Disc v31",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v31",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30926": {
+        "name": "Tiger Woods PGA Tour 06",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tiger_Woods_PGA_Tour_06",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5440": {
+        "name": "Resident Evil 3: Nemesis",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Resident_Evil_3%3A_Nemesis",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7048": {
+        "name": "Space Raiders",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Space_Raiders",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "176456": {
+        "name": "Jikky\u014d Powerful Pro Yaky\u016b 12 Ketteiban",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Jikky%C5%8D_Powerful_Pro_Yaky%C5%AB_12_Ketteiban",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "4574": {
+        "name": "Enter the Matrix",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Enter_the_Matrix",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "20926": {
+        "name": "Dora the Explorer: Journey to the Purple Planet",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Dora_the_Explorer%3A_Journey_to_the_Purple_Planet",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30855": {
+        "name": "Home Run King",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Home_Run_King",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7057": {
+        "name": "The Legend of Spyro: A New Beginning",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Legend_of_Spyro%3A_A_New_Beginning",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "21755": {
+        "name": "Ultimate Muscle: Legends vs. New Generation",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Ultimate_Muscle%3A_Legends_vs._New_Generation",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "18714": {
+        "name": "Samurai Jack: The Shadow of Aku",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Samurai_Jack%3A_The_Shadow_of_Aku",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7024": {
+        "name": "Phantasy Star Online Episode I & II Plus",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Phantasy_Star_Online_Episode_I_%26_II_Plus",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30852": {
+        "name": "Harry Potter and the Chamber of Secrets",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Harry_Potter_and_the_Chamber_of_Secrets",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "17595": {
+        "name": "Freestyle MetalX",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Freestyle_MetalX",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "11623": {
+        "name": "Gladius",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Gladius",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "28984": {
+        "name": "R: Racing Evolution",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=R%3A_Racing_Evolution",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5431": {
+        "name": "Fantastic 4",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Fantastic_4",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30919": {
+        "name": "Strike Force Bowling",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Strike_Force_Bowling",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "6994": {
+        "name": "Kirby Air Ride",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Kirby_Air_Ride",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "7052": {
+        "name": "SSX 3",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=SSX_3",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5444": {
+        "name": "X-Men Legends",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=X-Men_Legends",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7001": {
+        "name": "Madden NFL 2005",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Madden_NFL_2005",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5832": {
+        "name": "Baten Kaitos Origins",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Baten_Kaitos_Origins",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30901": {
+        "name": "Rally Championship",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Rally_Championship",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "20203": {
+        "name": "Harvest Moon: Another Wonderful Life",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Harvest_Moon%3A_Another_Wonderful_Life",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "18715": {
+        "name": "Sphinx and the Cursed Mummy",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Sphinx_and_the_Cursed_Mummy",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7032": {
+        "name": "Prince of Persia: The Sands of Time",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Prince_of_Persia%3A_The_Sands_of_Time",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6276": {
+        "name": "Animaniacs: The Great Edgar Hunt",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Animaniacs%3A_The_Great_Edgar_Hunt",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7066": {
+        "name": "WarioWare, Inc.: Mega Party Game$!",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=WarioWare%2C_Inc.%3A_Mega_Party_Game%24%21",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "6778": {
+        "name": "Pikmin 2 (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Pikmin_2_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7007": {
+        "name": "Monopoly Party",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Monopoly_Party",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "5834": {
+        "name": "Batman: Rise of Sin Tzu",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Batman%3A_Rise_of_Sin_Tzu",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "33960": {
+        "name": "Charinko Hero",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Charinko_Hero",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30875": {
+        "name": "NASCAR Thunder 2003",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NASCAR_Thunder_2003",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "14506": {
+        "name": "NCAA College Football 2K3",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NCAA_College_Football_2K3",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "172461": {
+        "name": "Interactive Multi Game Demo Disc v7",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v7",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "95266": {
+        "name": "Taxi 3",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Taxi_3",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "2323": {
+        "name": "Tony Hawk's Underground",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tony_Hawk%27s_Underground",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11467": {
+        "name": "X-Men: Next Dimension",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=X-Men%3A_Next_Dimension",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "172470": {
+        "name": "Interactive Multi Game Demo Disc v17",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v17",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "6254": {
+        "name": "Geist",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Geist",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "176469": {
+        "name": "Jikky\u014d Powerful Pro Yaky\u016b 10",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Jikky%C5%8D_Powerful_Pro_Yaky%C5%AB_10",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "172": {
+        "name": "Metroid Prime (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Metroid_Prime_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "95271": {
+        "name": "World Racing",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=World_Racing",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "4192": {
+        "name": "Bomberman Generation",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Bomberman_Generation",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30779": {
+        "name": "Bad Boys: Miami Takedown",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Bad_Boys%3A_Miami_Takedown",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "33965": {
+        "name": "Conan",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Conan",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "56": {
+        "name": "Resident Evil 4",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Resident_Evil_4",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "187255": {
+        "name": "Interactive Multi Game Demo Disc v20",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v20",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "191316": {
+        "name": "Interactive Multi Game Demo Disc v33",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v33",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "9869": {
+        "name": "Backyard Football",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Backyard_Football",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "95265": {
+        "name": "Speed Challenge: Jacques Villeneuve's Racing Vision",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Speed_Challenge%3A_Jacques_Villeneuve%27s_Racing_Vision",
+        "media": "Gamecube",
+        "playable": "Intro\/Menu"
+    },
+    "33575": {
+        "name": "Shikigami no Shiro II",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Shikigami_no_Shiro_II",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "10593": {
+        "name": "Donkey Konga 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Donkey_Konga_2",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30828": {
+        "name": "FIFA Soccer 2004",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=FIFA_Soccer_2004",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "20922": {
+        "name": "Disney's Donald Duck: Goin' Qu@ckers",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Disney%27s_Donald_Duck%3A_Goin%27_Qu%40ckers",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30711": {
+        "name": "Street Hoops",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Street_Hoops",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "124476": {
+        "name": "Mario Kart: Double Dash\u203c Bonus Disc",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Mario_Kart%3A_Double_Dash%E2%80%BC_Bonus_Disc",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5828": {
+        "name": "Army Men: RTS",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Army_Men%3A_RTS",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "177499": {
+        "name": "Resident Evil 4 Preview Disc",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Resident_Evil_4_Preview_Disc",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "12376": {
+        "name": "Shadow the Hedgehog",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Shadow_the_Hedgehog",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "18712": {
+        "name": "True Crime: New York City",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=True_Crime%3A_New_York_City",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7028": {
+        "name": "Pok\u00e9mon Colosseum",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Pok%C3%A9mon_Colosseum",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6999": {
+        "name": "The Lord of the Rings: The Third Age",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Lord_of_the_Rings%3A_The_Third_Age",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "176453": {
+        "name": "Legend of Golfer",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Legend_of_Golfer",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "95262": {
+        "name": "RoboCop",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=RoboCop",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11476": {
+        "name": "One Piece: Grand Adventure",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=One_Piece%3A_Grand_Adventure",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "5446": {
+        "name": "Ultimate Spider-Man",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Ultimate_Spider-Man",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "20940": {
+        "name": "Shrek SuperSlam",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Shrek_SuperSlam",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "18709": {
+        "name": "Micro Machines",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Micro_Machines",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "95269": {
+        "name": "UEFA Champions League 2004-2005",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=UEFA_Champions_League_2004-2005",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "26352": {
+        "name": "Lotus Challenge",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Lotus_Challenge",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "23685": {
+        "name": "Donkey Konga 3: Tabe-houdai! Haru Mogitate 50 Kyoku",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Donkey_Konga_3%3A_Tabe-houdai%21_Haru_Mogitate_50_Kyoku",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "2302": {
+        "name": "Donkey Kong Jungle Beat (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Donkey_Kong_Jungle_Beat_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "9334": {
+        "name": "Need for Speed: Underground 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Need_for_Speed%3A_Underground_2",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30913": {
+        "name": "Spirits & Spells",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Spirits_%26_Spells",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5649": {
+        "name": "Beyond Good & Evil",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Beyond_Good_%26_Evil",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6990": {
+        "name": "Ice Age 2: The Meltdown (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Ice_Age_2%3A_The_Meltdown_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30810": {
+        "name": "Disney Sports Soccer",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Disney_Sports_Soccer",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "12534": {
+        "name": "Monsters Inc. Scream Arena",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Monsters_Inc._Scream_Arena",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "2237": {
+        "name": "Luigi's Mansion",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Luigi%27s_Mansion",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "176472": {
+        "name": "Eisei Meijin VI",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Eisei_Meijin_VI",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30872": {
+        "name": "Namco Museum: 50th Anniversary",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Namco_Museum%3A_50th_Anniversary",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30882": {
+        "name": "NBA Street Vol. 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NBA_Street_Vol._2",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30691": {
+        "name": "Knockout Kings 2003",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Knockout_Kings_2003",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7041": {
+        "name": "Sega Soccer Slam",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Sega_Soccer_Slam",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "13779": {
+        "name": "Tiger Woods PGA Tour 2005",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tiger_Woods_PGA_Tour_2005",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "11474": {
+        "name": "Vexx",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Vexx",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "8594": {
+        "name": "F1 Career Challenge",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=F1_Career_Challenge",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "2318": {
+        "name": "Mario Party 7",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Mario_Party_7",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "3899": {
+        "name": "Chibi-Robo! (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Chibi-Robo%21_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30877": {
+        "name": "NBA 2K2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NBA_2K2",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "2322": {
+        "name": "Tony Hawk's Pro Skater 4",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tony_Hawk%27s_Pro_Skater_4",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30781": {
+        "name": "Big Mutha Truckers",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Big_Mutha_Truckers",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30935": {
+        "name": "World Series of Poker",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=World_Series_of_Poker",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "18187": {
+        "name": "Top Gun: Combat Zones",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Top_Gun%3A_Combat_Zones",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "4217": {
+        "name": "Sonic Adventure 2: Battle",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Sonic_Adventure_2%3A_Battle",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "172466": {
+        "name": "Interactive Multi Game Demo Disc v13",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v13",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "20928": {
+        "name": "Hot Wheels Velocity X",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Hot_Wheels_Velocity_X",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "13778": {
+        "name": "Tiger Woods PGA Tour 2004",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tiger_Woods_PGA_Tour_2004",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "23332": {
+        "name": "Digimon Rumble Arena 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Digimon_Rumble_Arena_2",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "6426": {
+        "name": "Metroid Prime 2: Echoes (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Metroid_Prime_2%3A_Echoes_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5428": {
+        "name": "007: Nightfire",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=007%3A_Nightfire",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6965": {
+        "name": "Disney Sports Skateboarding",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Disney_Sports_Skateboarding",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "177148": {
+        "name": "Lupin the 3rd: Lost Treasure by the Sea",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Lupin_the_3rd%3A_Lost_Treasure_by_the_Sea",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "10654": {
+        "name": "Scooby-Doo! Unmasked",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Scooby-Doo%21_Unmasked",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "113993": {
+        "name": "Special Jinsei Game",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Special_Jinsei_Game",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "7039": {
+        "name": "Ribbit King",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Ribbit_King",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "2569": {
+        "name": "Batman Vengeance",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Batman_Vengeance",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "95247": {
+        "name": "Konjiki no Gash Bell\u203c Y\u016bj\u014d Tag Battle Full Power",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Konjiki_no_Gash_Bell%E2%80%BC_Y%C5%ABj%C5%8D_Tag_Battle_Full_Power",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "138710": {
+        "name": "The Baseball 2003-Battle Ball Park Sengen Perfect Play Pro Yakyuu",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Baseball_2003-Battle_Ball_Park_Sengen_Perfect_Play_Pro_Yakyuu",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30847": {
+        "name": "Go! Go! Hypergrind",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Go%21_Go%21_Hypergrind",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6943": {
+        "name": "Bionicle Heroes (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Bionicle_Heroes_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "7049": {
+        "name": "Spartan: Total Warrior",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Spartan%3A_Total_Warrior",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30811": {
+        "name": "Disney's Tarzan Untamed",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Disney%27s_Tarzan_Untamed",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11463": {
+        "name": "Spy Hunter",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Spy_Hunter",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30765": {
+        "name": "4x4 EVO 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=4x4_EVO_2",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "6981": {
+        "name": "007: From Russia with Love",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=007%3A_From_Russia_with_Love",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6267": {
+        "name": "Super Mario Strikers",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Super_Mario_Strikers",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5833": {
+        "name": "Batman Begins",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Batman_Begins",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30925": {
+        "name": "Terminator 3: The Redemption",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Terminator_3%3A_The_Redemption",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "20930": {
+        "name": "The Italian Job",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Italian_Job",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "6992": {
+        "name": "Intellivision Lives!",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Intellivision_Lives%21",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "191295": {
+        "name": "Interactive Multi Game Demo Disc v22",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v22",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "27856": {
+        "name": "GiFTPiA",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=GiFTPiA",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30782": {
+        "name": "Black & Bruised",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Black_%26_Bruised",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "191293": {
+        "name": "Interactive Multi Game Demo Disc v21",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v21",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "5648": {
+        "name": "Capcom vs. SNK 2 EO",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Capcom_vs._SNK_2_EO",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "24230": {
+        "name": "Mystic Heroes",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Mystic_Heroes",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6780": {
+        "name": "Super Monkey Ball",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Super_Monkey_Ball",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "7008": {
+        "name": "Monster House",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Monster_House",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6969": {
+        "name": "Drome Racers",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Drome_Racers",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "15818": {
+        "name": "Madden NFL 07 (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Madden_NFL_07_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "172462": {
+        "name": "Interactive Multi Game Demo Disc v8",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v8",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "3944": {
+        "name": "Resident Evil",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Resident_Evil",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "18869": {
+        "name": "Smashing Drive",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Smashing_Drive",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11618": {
+        "name": "Beach Spikers",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Beach_Spikers",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "14113": {
+        "name": "Gotcha Force",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Gotcha_Force",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "28982": {
+        "name": "Auto Modellista",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Auto_Modellista",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "95249": {
+        "name": "Korokke! Ban-\u014c no Kiki o Sukue",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Korokke%21_Ban-%C5%8C_no_Kiki_o_Sukue",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "2319": {
+        "name": "Paper Mario: The Thousand-Year Door",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Paper_Mario%3A_The_Thousand-Year_Door",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30827": {
+        "name": "FIFA Soccer 2003",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=FIFA_Soccer_2003",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30808": {
+        "name": "Disney Sports Basketball",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Disney_Sports_Basketball",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7050": {
+        "name": "SpongeBob SquarePants: Creature from the Krusty Krab (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=SpongeBob_SquarePants%3A_Creature_from_the_Krusty_Krab_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "191323": {
+        "name": "Interactive Multi Game Demo Disc v24",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v24",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "7047": {
+        "name": "Sonic Riders",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Sonic_Riders",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30826": {
+        "name": "F1 2002",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=F1_2002",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30823": {
+        "name": "Evolution Skateboarding",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Evolution_Skateboarding",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6953": {
+        "name": "Chaos Field",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Chaos_Field",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "10789": {
+        "name": "Tales of Symphonia",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tales_of_Symphonia",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "167": {
+        "name": "Mario Party 4",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Mario_Party_4",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "20575": {
+        "name": "NCAA Football 2005",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NCAA_Football_2005",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "191308": {
+        "name": "Interactive Multi Game Demo Disc v26",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v26",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "191317": {
+        "name": "Interactive Multi Game Demo Disc v34",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v34",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5430": {
+        "name": "Die Hard Vendetta",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Die_Hard_Vendetta",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "6967": {
+        "name": "Dragon Ball Z: Budokai",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Dragon_Ball_Z%3A_Budokai",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "8530": {
+        "name": "Barnyard (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Barnyard_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "24207": {
+        "name": "Bionicle: The Game",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Bionicle%3A_The_Game",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "7018": {
+        "name": "Nicktoons Unite!",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Nicktoons_Unite%21",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "95242": {
+        "name": "Hudson Selection Vol. 2: Star Soldier",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Hudson_Selection_Vol._2%3A_Star_Soldier",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30896": {
+        "name": "Open Season (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Open_Season_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "18713": {
+        "name": "Tetris Worlds",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tetris_Worlds",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11458": {
+        "name": "SSX Tricky",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=SSX_Tricky",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30937": {
+        "name": "WTA Tour Tennis",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=WTA_Tour_Tennis",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6946": {
+        "name": "Bomberman Jetters",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Bomberman_Jetters",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7022": {
+        "name": "Pac-Man World 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Pac-Man_World_2",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "2258": {
+        "name": "Star Fox: Assault",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Star_Fox%3A_Assault",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "176530": {
+        "name": "Jikky\u014d Powerful Pro Yaky\u016b 9",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Jikky%C5%8D_Powerful_Pro_Yaky%C5%AB_9",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "33985": {
+        "name": "Zoids: Full Metal Crash",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Zoids%3A_Full_Metal_Crash",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "2327": {
+        "name": "Wario World",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Wario_World",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6993": {
+        "name": "Jimmy Neutron Boy Genius",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Jimmy_Neutron_Boy_Genius",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30878": {
+        "name": "NBA Live 2004",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NBA_Live_2004",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7012": {
+        "name": "Need for Speed: Carbon (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Need_for_Speed%3A_Carbon_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "143675": {
+        "name": "SD Gundam Gashapon Wars Taikenban",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=SD_Gundam_Gashapon_Wars_Taikenban",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30771": {
+        "name": "The Adventures of Jimmy Neutron Boy Genius: Jet Fusion",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Adventures_of_Jimmy_Neutron_Boy_Genius%3A_Jet_Fusion",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "6945": {
+        "name": "BMX XXX",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=BMX_XXX",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "20925": {
+        "name": "Winnie the Pooh's Rumbly Tumbly Adventure",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Winnie_the_Pooh%27s_Rumbly_Tumbly_Adventure",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "11108": {
+        "name": "Mega Man X: Command Mission",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Mega_Man_X%3A_Command_Mission",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "7005": {
+        "name": "Midway Arcade Treasures 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Midway_Arcade_Treasures_2",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "20955": {
+        "name": "Teenage Mutant Ninja Turtles (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Teenage_Mutant_Ninja_Turtles_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30886": {
+        "name": "NFL 2K3",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NFL_2K3",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "27011": {
+        "name": "Judge Dredd: Dredd vs. Death",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Judge_Dredd%3A_Dredd_vs._Death",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "95241": {
+        "name": "Hudson Selection Vol. 1: Cubic Lode Runner",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Hudson_Selection_Vol._1%3A_Cubic_Lode_Runner",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "10656": {
+        "name": "Curious George",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Curious_George",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6951": {
+        "name": "Call of Duty: Finest Hour",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Call_of_Duty%3A_Finest_Hour",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30911": {
+        "name": "The Sims 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Sims_2",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "33978": {
+        "name": "GT Cube",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=GT_Cube",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "9050": {
+        "name": "2002 FIFA World Cup",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=2002_FIFA_World_Cup",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "10591": {
+        "name": "Burnout",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Burnout",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "11459": {
+        "name": "The Hobbit",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Hobbit",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "2321": {
+        "name": "Tony Hawk's American Wasteland",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tony_Hawk%27s_American_Wasteland",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30854": {
+        "name": "The Haunted Mansion",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Haunted_Mansion",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "7037": {
+        "name": "Rayman Arena",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Rayman_Arena",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "5432": {
+        "name": "Hitman 2: Silent Assassin",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Hitman_2%3A_Silent_Assassin",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "6257": {
+        "name": "Ikaruga",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Ikaruga",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "2498": {
+        "name": "F-Zero GX",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=F-Zero_GX",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "22954": {
+        "name": "Peter Jackson's King Kong: The Official Game of the Movie",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Peter_Jackson%27s_King_Kong%3A_The_Official_Game_of_the_Movie",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30905": {
+        "name": "Reign of Fire",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Reign_of_Fire",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5837": {
+        "name": "Beyblade VForce: Super Tournament Battle",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Beyblade_VForce%3A_Super_Tournament_Battle",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30857": {
+        "name": "Jeremy McGrath Supercross World",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Jeremy_McGrath_Supercross_World",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11469": {
+        "name": "Prince of Persia: Warrior Within",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Prince_of_Persia%3A_Warrior_Within",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6942": {
+        "name": "Billy Hatcher and the Giant Egg",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Billy_Hatcher_and_the_Giant_Egg",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "172467": {
+        "name": "Interactive Multi Game Demo Disc v14",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v14",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "30787": {
+        "name": "Cabela's Dangerous Hunts 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Cabela%27s_Dangerous_Hunts_2",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "18557": {
+        "name": "WWE WrestleMania X8",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=WWE_WrestleMania_X8",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "18716": {
+        "name": "Spyro: Enter the Dragonfly",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Spyro%3A_Enter_the_Dragonfly",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "15827": {
+        "name": "Madden NFL 08 (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Madden_NFL_08_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30842": {
+        "name": "Fireblade",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Fireblade",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7027": {
+        "name": "Pok\u00e9mon Channel",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Pok%C3%A9mon_Channel",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "16767": {
+        "name": "Naruto: Clash of Ninja 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Naruto%3A_Clash_of_Ninja_2",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "20142": {
+        "name": "Tiger Woods PGA Tour 2003",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tiger_Woods_PGA_Tour_2003",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5433": {
+        "name": "The Incredible Hulk: Ultimate Destruction",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Incredible_Hulk%3A_Ultimate_Destruction",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "7067": {
+        "name": "Zapper: One Wicked Cricket",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Zapper%3A_One_Wicked_Cricket",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30941": {
+        "name": "Ast\u00e9rix & Ob\u00e9lix XXL",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Ast%C3%A9rix_%26_Ob%C3%A9lix_XXL",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30831": {
+        "name": "Finding Nemo",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Finding_Nemo",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "31805": {
+        "name": "International Superstar Soccer 3",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=International_Superstar_Soccer_3",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30777": {
+        "name": "Backyard Baseball",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Backyard_Baseball",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "33574": {
+        "name": "Kiwame Mahjong DX2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Kiwame_Mahjong_DX2",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "17383": {
+        "name": "Mr Driller: Drill Land",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Mr_Driller%3A_Drill_Land",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30862": {
+        "name": "Legends of Wrestling",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Legends_of_Wrestling",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "2496": {
+        "name": "Bust-a-Move 3000",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Bust-a-Move_3000",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "33963": {
+        "name": "Cocoto Platform Jumper (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Cocoto_Platform_Jumper_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "18711": {
+        "name": "Trigger Man",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Trigger_Man",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "190567": {
+        "name": "Game Boy Player",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Game_Boy_Player",
+        "media": "Gamecube",
+        "playable": "Intro\/Menu"
+    },
+    "30845": {
+        "name": "Frogger's Adventures: The Rescue",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Frogger%27s_Adventures%3A_The_Rescue",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30931": {
+        "name": "TransWorld Surf: Next Wave",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=TransWorld_Surf%3A_Next_Wave",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6960": {
+        "name": "Dead to Rights",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Dead_to_Rights",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11735": {
+        "name": "Tom Clancy's Splinter Cell: Double Agent (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tom_Clancy%27s_Splinter_Cell%3A_Double_Agent_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11621": {
+        "name": "Dark Summit",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Dark_Summit",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "12936": {
+        "name": "Red Faction II",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Red_Faction_II",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "7745": {
+        "name": "Spawn: Armageddon",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Spawn%3A_Armageddon",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7023": {
+        "name": "Phantasy Star Online Episode I & II",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Phantasy_Star_Online_Episode_I_%26_II",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6975": {
+        "name": "FIFA Soccer 2002",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=FIFA_Soccer_2002",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30843": {
+        "name": "Freaky Flyers",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Freaky_Flyers",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11464": {
+        "name": "X2: Wolverine's Revenge",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=X2%3A_Wolverine%27s_Revenge",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11480": {
+        "name": "Ty the Tasmanian Tiger",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Ty_the_Tasmanian_Tiger",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30803": {
+        "name": "City Racer",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=City_Racer",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "191318": {
+        "name": "Interactive Multi Game Demo Disc v35",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v35",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "30818": {
+        "name": "Ed, Edd n Eddy: The Mis-Edventures",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Ed%2C_Edd_n_Eddy%3A_The_Mis-Edventures",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "4213": {
+        "name": "XIII",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=XIII",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6956": {
+        "name": "Crash Tag Team Racing",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Crash_Tag_Team_Racing",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "113996": {
+        "name": "Hikaru no Go 3",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Hikaru_no_Go_3",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "22514": {
+        "name": "Monster Jam: Maximum Destruction",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Monster_Jam%3A_Maximum_Destruction",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "9052": {
+        "name": "Aggressive Inline",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Aggressive_Inline",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6944": {
+        "name": "Bloody Roar: Primal Fury",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Bloody_Roar%3A_Primal_Fury",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "10659": {
+        "name": "NFL Blitz Pro",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NFL_Blitz_Pro",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6952": {
+        "name": "Cars (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Cars_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "8911": {
+        "name": "The Sims: Bustin' Out",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Sims%3A_Bustin%27_Out",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30889": {
+        "name": "NFL Blitz 20-03",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NFL_Blitz_20-03",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "176474": {
+        "name": "Densetsu no Quiz ou Ketteisen",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Densetsu_no_Quiz_ou_Ketteisen",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "34": {
+        "name": "Killer7",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Killer7",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "16847": {
+        "name": "Madagascar",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Madagascar",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5766": {
+        "name": "Amazing Island",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Amazing_Island",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30805": {
+        "name": "Cubix Robots for Everyone: Showdown",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Cubix_Robots_for_Everyone%3A_Showdown",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "33962": {
+        "name": "Cocoto Kart Racer (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Cocoto_Kart_Racer_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "20937": {
+        "name": "Scooby-Doo! Night of 100 Frights",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Scooby-Doo%21_Night_of_100_Frights",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "29848": {
+        "name": "Carmen Sandiego: The Secret of the Stolen Drums",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Carmen_Sandiego%3A_The_Secret_of_the_Stolen_Drums",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "2316": {
+        "name": "Mario Party 5",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Mario_Party_5",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5831": {
+        "name": "Baten Kaitos: Eternal Wings and the Lost Ocean",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Baten_Kaitos%3A_Eternal_Wings_and_the_Lost_Ocean",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "6964": {
+        "name": "Disney's PK: Out of the Shadows",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Disney%27s_PK%3A_Out_of_the_Shadows",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5561": {
+        "name": "Gauntlet Dark Legacy",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Gauntlet_Dark_Legacy",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6974": {
+        "name": "FIFA Soccer 07",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=FIFA_Soccer_07",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "12920": {
+        "name": "Pac-Man World 3",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Pac-Man_World_3",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7058": {
+        "name": "The Sims 2: Pets (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Sims_2%3A_Pets_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30844": {
+        "name": "Freestyle Street Soccer",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Freestyle_Street_Soccer",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30769": {
+        "name": "All-Star Baseball 2004 featuring Derek Jeter",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=All-Star_Baseball_2004_featuring_Derek_Jeter",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "11470": {
+        "name": "Rayman 3: Hoodlum Havoc",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Rayman_3%3A_Hoodlum_Havoc",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30879": {
+        "name": "NBA Live 2005",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NBA_Live_2005",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "13261": {
+        "name": "Rogue Ops",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Rogue_Ops",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30938": {
+        "name": "WWE Crush Hour",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=WWE_Crush_Hour",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5829": {
+        "name": "Baldur's Gate: Dark Alliance",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Baldur%27s_Gate%3A_Dark_Alliance",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "2320": {
+        "name": "Superman: Shadow of Apokolips",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Superman%3A_Shadow_of_Apokolips",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "20605": {
+        "name": "Tom and Jerry in War of the Whiskers",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tom_and_Jerry_in_War_of_the_Whiskers",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30848": {
+        "name": "Goblin Commander: Unleash the Horde",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Goblin_Commander%3A_Unleash_the_Horde",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "20956": {
+        "name": "Tonka: Rescue Patrol",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tonka%3A_Rescue_Patrol",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30885": {
+        "name": "NCAA Football 2004",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NCAA_Football_2004",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6978": {
+        "name": "Fire Emblem: Path of Radiance",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Fire_Emblem%3A_Path_of_Radiance",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "15778": {
+        "name": "Phantasy Star Online Episode III: C.A.R.D. Revolution Trial Edition",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Phantasy_Star_Online_Episode_III%3A_C.A.R.D._Revolution_Trial_Edition",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "14609": {
+        "name": "The Legend of Zelda: Ocarina of Time Master Quest",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Legend_of_Zelda%3A_Ocarina_of_Time_Master_Quest",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "11620": {
+        "name": "Dance Dance Revolution: Mario Mix",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Dance_Dance_Revolution%3A_Mario_Mix",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "95268": {
+        "name": "The Tower of Druaga",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Tower_of_Druaga",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "21007": {
+        "name": "Legends of Wrestling II",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Legends_of_Wrestling_II",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "7016": {
+        "name": "NHL 06",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NHL_06",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "24734": {
+        "name": "Army Men: Air Combat - The Elite Missions",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Army_Men%3A_Air_Combat_-_The_Elite_Missions",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7042": {
+        "name": "Shrek Smash n' Crash Racing",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Shrek_Smash_n%27_Crash_Racing",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7045": {
+        "name": "Sonic Heroes",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Sonic_Heroes",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "15054": {
+        "name": "The Simpsons Road Rage",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Simpsons_Road_Rage",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "22667": {
+        "name": "WWE WrestleMania XIX",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=WWE_WrestleMania_XIX",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30830": {
+        "name": "FIFA Street 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=FIFA_Street_2",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7056": {
+        "name": "Star Wars: The Clone Wars",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Star_Wars%3A_The_Clone_Wars",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7030": {
+        "name": "The Polar Express",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Polar_Express",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30804": {
+        "name": "Conflict: Desert Storm",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Conflict%3A_Desert_Storm",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "177503": {
+        "name": "Biohazard 0 Trial Edition",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Biohazard_0_Trial_Edition",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "20939": {
+        "name": "Shrek: Super Party",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Shrek%3A_Super_Party",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "33973": {
+        "name": "Duel Masters Nettou! Battle Arena",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Duel_Masters_Nettou%21_Battle_Arena",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "12938": {
+        "name": "Scaler",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Scaler",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7063": {
+        "name": "The Sum of All Fears",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Sum_of_All_Fears",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "33971": {
+        "name": "Dragon Drive: D-Masters Shot",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Dragon_Drive%3A_D-Masters_Shot",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30874": {
+        "name": "NASCAR 2005: Chase for the Cup",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NASCAR_2005%3A_Chase_for_the_Cup",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30788": {
+        "name": "Cabela's Outdoor Adventures (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Cabela%27s_Outdoor_Adventures_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "12921": {
+        "name": "BloodRayne",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=BloodRayne",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7013": {
+        "name": "Need for Speed: Hot Pursuit 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Need_for_Speed%3A_Hot_Pursuit_2",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "20932": {
+        "name": "Monster 4x4: Masters of Metal",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Monster_4x4%3A_Masters_of_Metal",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30933": {
+        "name": "Ty the Tasmanian Tiger 3: Night of the Quinkan",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Ty_the_Tasmanian_Tiger_3%3A_Night_of_the_Quinkan",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7036": {
+        "name": "Rampage: Total Destruction (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Rampage%3A_Total_Destruction_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "8777": {
+        "name": "Metal Arms: Glitch in the System",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Metal_Arms%3A_Glitch_in_the_System",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30770": {
+        "name": "The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Adventures_of_Jimmy_Neutron_Boy_Genius%3A_Attack_of_the_Twonkies",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "24137": {
+        "name": "Tom Clancy's Ghost Recon (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tom_Clancy%27s_Ghost_Recon_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7060": {
+        "name": "The Lord of the Rings: The Return of the King",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Lord_of_the_Rings%3A_The_Return_of_the_King",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "172465": {
+        "name": "Interactive Multi Game Demo Disc v11",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v11",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6985": {
+        "name": "Gun",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Gun",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "30850": {
+        "name": "Grooverider: Slot Car Thunder",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Grooverider%3A_Slot_Car_Thunder",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7040": {
+        "name": "Robots",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Robots",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "9049": {
+        "name": "18 Wheeler: American Pro Trucker",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=18_Wheeler%3A_American_Pro_Trucker",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "11479": {
+        "name": "Zoids: Battle Legends",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Zoids%3A_Battle_Legends",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "8457": {
+        "name": "Medal of Honor: Rising Sun",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Medal_of_Honor%3A_Rising_Sun",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7002": {
+        "name": "Disney's Meet the Robinsons (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Disney%27s_Meet_the_Robinsons_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7026": {
+        "name": "P.N.03",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=P.N.03",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "8560": {
+        "name": "Dragon Ball Z: Sagas",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Dragon_Ball_Z%3A_Sagas",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "14116": {
+        "name": "Midway Arcade Treasures",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Midway_Arcade_Treasures",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "191315": {
+        "name": "Interactive Multi Game Demo Disc v32",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v32",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7019": {
+        "name": "Odama",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Odama",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30849": {
+        "name": "The Grim Adventures of Billy & Mandy (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Grim_Adventures_of_Billy_%26_Mandy_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "20931": {
+        "name": "Mission: Impossible - Operation Surma",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Mission%3A_Impossible_-_Operation_Surma",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "20934": {
+        "name": "SpongeBob SquarePants: Revenge of the Flying Dutchman",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=SpongeBob_SquarePants%3A_Revenge_of_the_Flying_Dutchman",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30894": {
+        "name": "NHL Hitz 2003",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NHL_Hitz_2003",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30910": {
+        "name": "Shark Tale",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Shark_Tale",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "22669": {
+        "name": "WWE Day of Reckoning 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=WWE_Day_of_Reckoning_2",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30903": {
+        "name": "Rave Master",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Rave_Master",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7025": {
+        "name": "Pitfall: The Lost Expedition",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Pitfall%3A_The_Lost_Expedition",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "20927": {
+        "name": "Frogger: Ancient Shadow",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Frogger%3A_Ancient_Shadow",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7009": {
+        "name": "Naruto: Clash of Ninja",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Naruto%3A_Clash_of_Ninja",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "11736": {
+        "name": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tom_Clancy%27s_Splinter_Cell%3A_Pandora_Tomorrow",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30786": {
+        "name": "Bratz: Rock Angelz",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Bratz%3A_Rock_Angelz",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "8553": {
+        "name": "TimeSplitters 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=TimeSplitters_2",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "9051": {
+        "name": "FIFA World Cup: Germany 2006",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=FIFA_World_Cup%3A_Germany_2006",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "26360": {
+        "name": "Muppets Party Cruise",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Muppets_Party_Cruise",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11468": {
+        "name": "Spyro: A Hero's Tail",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Spyro%3A_A_Hero%27s_Tail",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "2325": {
+        "name": "Viewtiful Joe 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Viewtiful_Joe_2",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "6261": {
+        "name": "Mario Superstar Baseball",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Mario_Superstar_Baseball",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "5437": {
+        "name": "Medal of Honor: European Assault",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Medal_of_Honor%3A_European_Assault",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30700": {
+        "name": "Whirl Tour",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Whirl_Tour",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5443": {
+        "name": "Shrek 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Shrek_2",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6979": {
+        "name": "Flushed Away",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Flushed_Away",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7034": {
+        "name": "Tom Clancy's Rainbow Six 3",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tom_Clancy%27s_Rainbow_Six_3",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30876": {
+        "name": "NASCAR: Dirt to Daytona",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NASCAR%3A_Dirt_to_Daytona",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "23686": {
+        "name": "Puyo Pop Fever",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Puyo_Pop_Fever",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "95254": {
+        "name": "Pool Edge",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Pool_Edge",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "20936": {
+        "name": "Scooby-Doo! Mystery Mayhem",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Scooby-Doo%21_Mystery_Mayhem",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "20710": {
+        "name": "Spider-Man 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Spider-Man_2",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "95260": {
+        "name": "Radirgy GeneriC",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Radirgy_GeneriC",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "7059": {
+        "name": "TimeSplitters: Future Perfect",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=TimeSplitters%3A_Future_Perfect",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "20921": {
+        "name": "Casper: Spirit Dimensions",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Casper%3A_Spirit_Dimensions",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30904": {
+        "name": "RedCard 20-03",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=RedCard_20-03",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "176446": {
+        "name": "Ohenro-San",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Ohenro-San",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11708": {
+        "name": "Second Sight",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Second_Sight",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "9868": {
+        "name": "007: Everything or Nothing",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=007%3A_Everything_or_Nothing",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "20611": {
+        "name": "King Arthur",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=King_Arthur",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "14504": {
+        "name": "Mark Davis Pro Bass Challenge",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Mark_Davis_Pro_Bass_Challenge",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "176477": {
+        "name": "Jikky\u014d Powerful Pro Yaky\u016b 10 Ch\u014d Ketteiban",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Jikky%C5%8D_Powerful_Pro_Yaky%C5%AB_10_Ch%C5%8D_Ketteiban",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "90988": {
+        "name": "Kid\u014d Senshi Gundam: Senshitachi no Kiseki",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Kid%C5%8D_Senshi_Gundam%3A_Senshitachi_no_Kiseki",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "176475": {
+        "name": "Derby Tsuku 3: Derby Uma o Tsukur\u014d!",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Derby_Tsuku_3%3A_Derby_Uma_o_Tsukur%C5%8D%21",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7053": {
+        "name": "Star Wars: Bounty Hunter",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Star_Wars%3A_Bounty_Hunter",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "8772": {
+        "name": "Mat Hoffman's Pro BMX 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Mat_Hoffman%27s_Pro_BMX_2",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "95240": {
+        "name": "Franklin: A Birthday Surprise",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Franklin%3A_A_Birthday_Surprise",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "20703": {
+        "name": "Lemony Snicket's A Series of Unfortunate Events",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Lemony_Snicket%27s_A_Series_of_Unfortunate_Events",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5436": {
+        "name": "Mega Man X Collection",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Mega_Man_X_Collection",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6268": {
+        "name": "Soulcalibur II",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Soulcalibur_II",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6779": {
+        "name": "Sonic Adventure DX: Director's Cut",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Sonic_Adventure_DX%3A_Director%27s_Cut",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5441": {
+        "name": "Resident Evil Zero",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Resident_Evil_Zero",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "98695": {
+        "name": "Tengai Maky\u014d II: Manjimaru",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tengai_Maky%C5%8D_II%3A_Manjimaru",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30895": {
+        "name": "NHL Hitz Pro",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NHL_Hitz_Pro",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30912": {
+        "name": "Speed Kings",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Speed_Kings",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7046": {
+        "name": "Sonic Mega Collection",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Sonic_Mega_Collection",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30778": {
+        "name": "Backyard Baseball 2007",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Backyard_Baseball_2007",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "6983": {
+        "name": "Godzilla: Destroy All Monsters Melee",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Godzilla%3A_Destroy_All_Monsters_Melee",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6968": {
+        "name": "Dr. Muto",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Dr._Muto",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30699": {
+        "name": "Pro Rally",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Pro_Rally",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6995": {
+        "name": "Tomb Raider: Legend",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tomb_Raider%3A_Legend",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6260": {
+        "name": "Mario Golf: Toadstool Tour",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Mario_Golf%3A_Toadstool_Tour",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "2520": {
+        "name": "Crazy Taxi",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Crazy_Taxi",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5438": {
+        "name": "Pac-Man World Rally",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Pac-Man_World_Rally",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "191311": {
+        "name": "Interactive Multi Game Demo Disc v28",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v28",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "30899": {
+        "name": "The Powerpuff Girls: Relish Rampage",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Powerpuff_Girls%3A_Relish_Rampage",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "28983": {
+        "name": "World Soccer Winning Eleven 6 Final Evolution",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=World_Soccer_Winning_Eleven_6_Final_Evolution",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "26358": {
+        "name": "Minority Report: Everybody Runs",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Minority_Report%3A_Everybody_Runs",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "178451": {
+        "name": "Mutsu Tonohohon",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Mutsu_Tonohohon",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11625": {
+        "name": "Lost Kingdoms II",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Lost_Kingdoms_II",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "6947": {
+        "name": "Buffy the Vampire Slayer: Chaos Bleeds",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Buffy_the_Vampire_Slayer%3A_Chaos_Bleeds",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "9932": {
+        "name": "Tube Slider",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tube_Slider",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "7035": {
+        "name": "Tom Clancy's Rainbow Six: Lockdown",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tom_Clancy%27s_Rainbow_Six%3A_Lockdown",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "8323": {
+        "name": "Crash Bandicoot: The Wrath of Cortex",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Crash_Bandicoot%3A_The_Wrath_of_Cortex",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6998": {
+        "name": "Looney Tunes: Back in Action",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Looney_Tunes%3A_Back_in_Action",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "5439": {
+        "name": "Resident Evil 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Resident_Evil_2",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "12925": {
+        "name": "Harry Potter and the Prisoner of Azkaban",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Harry_Potter_and_the_Prisoner_of_Azkaban",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "30859": {
+        "name": "Karaoke Revolution Party",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Karaoke_Revolution_Party",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "2326": {
+        "name": "Viewtiful Joe: Red Hot Rumble",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Viewtiful_Joe%3A_Red_Hot_Rumble",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "7033": {
+        "name": "Prince of Persia: The Two Thrones",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Prince_of_Persia%3A_The_Two_Thrones",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "2522": {
+        "name": "Mario Power Tennis (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Mario_Power_Tennis_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30906": {
+        "name": "Road Trip: The Arcade Edition",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Road_Trip%3A_The_Arcade_Edition",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "16765": {
+        "name": "Tak 2: The Staff of Dreams",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tak_2%3A_The_Staff_of_Dreams",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30921": {
+        "name": "Surf's Up (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Surf%27s_Up_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "7004": {
+        "name": "Mega Man Network Transmission",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Mega_Man_Network_Transmission",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "191310": {
+        "name": "Interactive Multi Game Demo Disc v27",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v27",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "17854": {
+        "name": "Interactive Multi Game Demo Disc v12",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v12",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5654": {
+        "name": "Super Smash Bros. Melee",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Super_Smash_Bros._Melee",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "131557": {
+        "name": "Star Wars Rogue Squadron III: Rebel Strike Limited Edition Preview Disc",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Star_Wars_Rogue_Squadron_III%3A_Rebel_Strike_Limited_Edition_Preview_Disc",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "18556": {
+        "name": "Pool Paradise",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Pool_Paradise",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30710": {
+        "name": "Rugrats: Royal Ransom",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Rugrats%3A_Royal_Ransom",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30923": {
+        "name": "SX Superstar",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=SX_Superstar",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "95250": {
+        "name": "Largo Winch: Empire Under Threat",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Largo_Winch%3A_Empire_Under_Threat",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5427": {
+        "name": "007: Agent Under Fire",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=007%3A_Agent_Under_Fire",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7055": {
+        "name": "Star Wars Rogue Squadron II: Rogue Leader",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Star_Wars_Rogue_Squadron_II%3A_Rogue_Leader",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "191302": {
+        "name": "Interactive Multi Game Demo Disc v25",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v25",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "187254": {
+        "name": "Interactive Multi Game Demo Disc v19",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v19",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "30712": {
+        "name": "Frogger Beyond",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Frogger_Beyond",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11903": {
+        "name": "Major League Baseball 2K6",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Major_League_Baseball_2K6",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30890": {
+        "name": "NFL Quarterback Club 2002",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NFL_Quarterback_Club_2002",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "20924": {
+        "name": "Disney's Magical Mirror starring Mickey Mouse",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Disney%27s_Magical_Mirror_starring_Mickey_Mouse",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "12929": {
+        "name": "I-Ninja",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=I-Ninja",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "95252": {
+        "name": "Naruto: Gekit\u014d Ninja Taisen! 3",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Naruto%3A_Gekit%C5%8D_Ninja_Taisen%21_3",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6984": {
+        "name": "GoldenEye: Rogue Agent",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=GoldenEye%3A_Rogue_Agent",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "172469": {
+        "name": "Interactive Multi Game Demo Disc v16",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v16",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "30820": {
+        "name": "ESPN International Winter Sports 2002",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=ESPN_International_Winter_Sports_2002",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7179": {
+        "name": "Darkened Skye",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Darkened_Skye",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "7015": {
+        "name": "NFL Street",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NFL_Street",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "7043": {
+        "name": "Smuggler's Run: Warzones",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Smuggler%27s_Run%3A_Warzones",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "29725": {
+        "name": "Yu-Gi-Oh! The Falsebound Kingdom",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Yu-Gi-Oh%21_The_Falsebound_Kingdom",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "8982": {
+        "name": "Nickelodeon Party Blast",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Nickelodeon_Party_Blast",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7061": {
+        "name": "TMNT (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=TMNT_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "95263": {
+        "name": "Shaman King: Soul Fight",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Shaman_King%3A_Soul_Fight",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6263": {
+        "name": "Star Fox Adventures",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Star_Fox_Adventures",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30922": {
+        "name": "Swingerz Golf",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Swingerz_Golf",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "174": {
+        "name": "The Legend of Zelda: The Wind Waker",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Legend_of_Zelda%3A_The_Wind_Waker",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "7044": {
+        "name": "Sonic Gems Collection",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Sonic_Gems_Collection",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30846": {
+        "name": "Future Tactics: The Uprising",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Future_Tactics%3A_The_Uprising",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6961": {
+        "name": "Def Jam Vendetta",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Def_Jam_Vendetta",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6269": {
+        "name": "Skies of Arcadia Legends",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Skies_of_Arcadia_Legends",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "32064": {
+        "name": "International Superstar Soccer 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=International_Superstar_Soccer_2",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "97372": {
+        "name": "Nintendo GameCube Preview Disc",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Nintendo_GameCube_Preview_Disc",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30888": {
+        "name": "NFL Blitz 20-02",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NFL_Blitz_20-02",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6991": {
+        "name": "The Incredibles",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Incredibles",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "187252": {
+        "name": "Interactive Multi Game Demo Disc v18",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v18",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "5764": {
+        "name": "Alien Hominid",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Alien_Hominid",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "176468": {
+        "name": "Jikky\u014d Powerful Pro Yaky\u016b 11",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Jikky%C5%8D_Powerful_Pro_Yaky%C5%AB_11",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7010": {
+        "name": "NBA Live 06",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NBA_Live_06",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6976": {
+        "name": "FIFA Soccer 2005",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=FIFA_Soccer_2005",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30881": {
+        "name": "NBA Street",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NBA_Street",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "166": {
+        "name": "Mario Kart: Double Dash\u203c",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Mario_Kart%3A_Double_Dash%E2%80%BC",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "33961": {
+        "name": "Cocoto Funfair",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Cocoto_Funfair",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11462": {
+        "name": "Teen Titans",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Teen_Titans",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "216136": {
+        "name": "Service Disc",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Service_Disc",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "30936": {
+        "name": "Worms Blast",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Worms_Blast",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "20941": {
+        "name": "Super Bubble Pop",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Super_Bubble_Pop",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30884": {
+        "name": "NCAA Football 2003",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NCAA_Football_2003",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30829": {
+        "name": "FIFA Street",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=FIFA_Street",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7031": {
+        "name": "Power Rangers: Dino Thunder",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Power_Rangers%3A_Dino_Thunder",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11443": {
+        "name": "Zatch Bell! Mamodo Battles",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Zatch_Bell%21_Mamodo_Battles",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11465": {
+        "name": "TMNT: Mutant Melee",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=TMNT%3A_Mutant_Melee",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30802": {
+        "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Chronicles_of_Narnia%3A_The_Lion%2C_the_Witch_and_the_Wardrobe",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11661": {
+        "name": "Medal of Honor: Frontline",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Medal_of_Honor%3A_Frontline",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5765": {
+        "name": "All-Star Baseball 2002",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=All-Star_Baseball_2002",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "11734": {
+        "name": "Tom Clancy's Splinter Cell: Chaos Theory",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tom_Clancy%27s_Splinter_Cell%3A_Chaos_Theory",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6986": {
+        "name": "Happy Feet (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Happy_Feet_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11466": {
+        "name": "Teenage Mutant Ninja Turtles 3: Mutant Nightmare",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Teenage_Mutant_Ninja_Turtles_3%3A_Mutant_Nightmare",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "95251": {
+        "name": "MaxPlay Classic Games Volume 1",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=MaxPlay_Classic_Games_Volume_1",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "8552": {
+        "name": "The Simpsons Hit & Run",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Simpsons_Hit_%26_Run",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5442": {
+        "name": "Rocky",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Rocky",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "10790": {
+        "name": "SSX on Tour",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=SSX_on_Tour",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6972": {
+        "name": "The Fairly OddParents: Shadow Showdown",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Fairly_OddParents%3A_Shadow_Showdown",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "95270": {
+        "name": "Warrior Blade: Rastan vs. Barbarian",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Warrior_Blade%3A_Rastan_vs._Barbarian",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5434": {
+        "name": "The Legend of Zelda: Twilight Princess (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Legend_of_Zelda%3A_Twilight_Princess_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "22668": {
+        "name": "WWE Day of Reckoning",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=WWE_Day_of_Reckoning",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30821": {
+        "name": "ESPN MLS ExtraTime 2002",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=ESPN_MLS_ExtraTime_2002",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30856": {
+        "name": "The Incredibles: Rise of the Underminer",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Incredibles%3A_Rise_of_the_Underminer",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "191312": {
+        "name": "Interactive Multi Game Demo Disc v29",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v29",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "7017": {
+        "name": "Nicktoons: Battle for Volcano Island",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Nicktoons%3A_Battle_for_Volcano_Island",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30924": {
+        "name": "Tak: The Great Juju Challenge",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Tak%3A_The_Great_Juju_Challenge",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11441": {
+        "name": "Spider-Man",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Spider-Man",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "7000": {
+        "name": "Madden NFL 06",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Madden_NFL_06",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6980": {
+        "name": "Freedom Fighters",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Freedom_Fighters",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "6957": {
+        "name": "Cubivore: Survival of the Fittest",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Cubivore%3A_Survival_of_the_Fittest",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "22574": {
+        "name": "Cel Damage",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Cel_Damage",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "33954": {
+        "name": "Bobobo-bo Bo-bobo Dassutsu! Hajike Royale",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Bobobo-bo_Bo-bobo_Dassutsu%21_Hajike_Royale",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "22490": {
+        "name": "Hello Kitty: Roller Rescue",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Hello_Kitty%3A_Roller_Rescue",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5826": {
+        "name": "Army Men: Sarge's War",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Army_Men%3A_Sarge%27s_War",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6977": {
+        "name": "Fight Night Round 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Fight_Night_Round_2",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6950": {
+        "name": "Call of Duty 2: Big Red One",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Call_of_Duty_2%3A_Big_Red_One",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30898": {
+        "name": "Pac-Man Fever",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Pac-Man_Fever",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11478": {
+        "name": "Avatar: The Last Airbender (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Avatar%3A_The_Last_Airbender_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30902": {
+        "name": "Ratatouille (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Ratatouille_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "20981": {
+        "name": "Aquaman: Battle for Atlantis",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Aquaman%3A_Battle_for_Atlantis",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "32360": {
+        "name": "Zoids Vs. III",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Zoids_Vs._III",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "2383": {
+        "name": "The Legend of Zelda: Collector's Edition",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Legend_of_Zelda%3A_Collector%27s_Edition",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "7054": {
+        "name": "Star Wars Rogue Squadron III: Rebel Strike",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Star_Wars_Rogue_Squadron_III%3A_Rebel_Strike",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30932": {
+        "name": "Ty the Tasmanian Tiger 2: Bush Rescue",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Ty_the_Tasmanian_Tiger_2%3A_Bush_Rescue",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30824": {
+        "name": "Evolution Snowboarding",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Evolution_Snowboarding",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5429": {
+        "name": "Charlie and the Chocolate Factory",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Charlie_and_the_Chocolate_Factory",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "21754": {
+        "name": "Starsky & Hutch",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Starsky_%26_Hutch",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "9871": {
+        "name": "Catwoman",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Catwoman",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "5836": {
+        "name": "Battalion Wars",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Battalion_Wars",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "33982": {
+        "name": "Zoids Vs.",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Zoids_Vs.",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6962": {
+        "name": "Dinotopia: The Sunstone Odyssey",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Dinotopia%3A_The_Sunstone_Odyssey",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "20933": {
+        "name": "SpongeBob SquarePants: Battle for Bikini Bottom",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=SpongeBob_SquarePants%3A_Battle_for_Bikini_Bottom",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "176451": {
+        "name": "Momotar\u014d Dentetsu 11",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Momotar%C5%8D_Dentetsu_11",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11444": {
+        "name": "Zatch Bell! Mamodo Fury",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Zatch_Bell%21_Mamodo_Fury",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "124460": {
+        "name": "Pok\u00e9mon Colosseum Bonus Disc",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Pok%C3%A9mon_Colosseum_Bonus_Disc",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "4756": {
+        "name": "Worms 3D",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Worms_3D",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "8723": {
+        "name": "Marvel Nemesis: Rise of the Imperfects",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Marvel_Nemesis%3A_Rise_of_the_Imperfects",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "17596": {
+        "name": "Robotech: Battlecry",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Robotech%3A_Battlecry",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6973": {
+        "name": "FIFA Soccer 06",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=FIFA_Soccer_06",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30860": {
+        "name": "Kelly Slater's Pro Surfer",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Kelly_Slater%27s_Pro_Surfer",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "24518": {
+        "name": "Codename: Kids Next Door - Operation: V.I.D.E.O.G.A.M.E.",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Codename%3A_Kids_Next_Door_-_Operation%3A_V.I.D.E.O.G.A.M.E.",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30918": {
+        "name": "Street Racing Syndicate",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Street_Racing_Syndicate",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6948": {
+        "name": "Burnout 2: Point of Impact",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Burnout_2%3A_Point_of_Impact",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30775": {
+        "name": "ATV Quad Power Racing 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=ATV_Quad_Power_Racing_2",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30891": {
+        "name": "NFL Street 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NFL_Street_2",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "6989": {
+        "name": "Hunter: The Reckoning",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Hunter%3A_The_Reckoning",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "18710": {
+        "name": "Piglet's Big Game",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Piglet%27s_Big_Game",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6949": {
+        "name": "Cabela's Big Game Hunter 2005 Adventures",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Cabela%27s_Big_Game_Hunter_2005_Adventures",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7014": {
+        "name": "Need for Speed: Underground",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Need_for_Speed%3A_Underground",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11477": {
+        "name": "One Piece: Pirates' Carnival",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=One_Piece%3A_Pirates%27_Carnival",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "13647": {
+        "name": "Wreckless: The Yakuza Missions",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Wreckless%3A_The_Yakuza_Missions",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "95264": {
+        "name": "Future GPX Cyber Formula: Road to the Evolution",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Future_GPX_Cyber_Formula%3A_Road_to_the_Evolution",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "26702": {
+        "name": "Virtua Quest",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Virtua_Quest",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "30883": {
+        "name": "NCAA College Basketball 2K3",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NCAA_College_Basketball_2K3",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "13777": {
+        "name": "MLB Slugfest 20-03",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=MLB_Slugfest_20-03",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "6264": {
+        "name": "Turok: Evolution",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Turok%3A_Evolution",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "33296": {
+        "name": "Battle Stadium D.O.N",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Battle_Stadium_D.O.N",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "172468": {
+        "name": "Interactive Multi Game Demo Disc v15",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v15",
+        "media": "Gamecube",
+        "playable": "Starts"
+    },
+    "17948": {
+        "name": "Disney's Party",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Disney%27s_Party",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "7003": {
+        "name": "Mega Man Anniversary Collection",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Mega_Man_Anniversary_Collection",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "24552": {
+        "name": "Namco Museum",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Namco_Museum",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "172463": {
+        "name": "Interactive Multi Game Demo Disc v9",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v9",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "6959": {
+        "name": "Dave Mirra Freestyle BMX 2",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Dave_Mirra_Freestyle_BMX_2",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6970": {
+        "name": "Eternal Darkness: Sanity's Requiem",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Eternal_Darkness%3A_Sanity%27s_Requiem",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30785": {
+        "name": "BlowOut",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=BlowOut",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "33957": {
+        "name": "Butt-Ugly Martians: Zoom or Doom",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Butt-Ugly_Martians%3A_Zoom_or_Doom",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "18469": {
+        "name": "SpongeBob SquarePants: Lights, Camera, Pants!",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=SpongeBob_SquarePants%3A_Lights%2C_Camera%2C_Pants%21",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30809": {
+        "name": "Disney Sports Football",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Disney_Sports_Football",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11662": {
+        "name": "NBA Courtside 2002",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=NBA_Courtside_2002",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "172464": {
+        "name": "Interactive Multi Game Demo Disc v10",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Interactive_Multi_Game_Demo_Disc_v10",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11737": {
+        "name": "True Crime: Streets of LA",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=True_Crime%3A_Streets_of_LA",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "156486": {
+        "name": "Jikky\u014d Powerful Pro Yaky\u016b 9 Ketteiban",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Jikky%C5%8D_Powerful_Pro_Yaky%C5%AB_9_Ketteiban",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "176476": {
+        "name": "Jikky\u014d Powerful Pro Yaky\u016b 11 Ch\u014d Ketteiban",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Jikky%C5%8D_Powerful_Pro_Yaky%C5%AB_11_Ch%C5%8D_Ketteiban",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "20938": {
+        "name": "Shrek Extra Large",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Shrek_Extra_Large",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "2317": {
+        "name": "Mario Party 6",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Mario_Party_6",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "5445": {
+        "name": "X-Men Legends II: Rise of Apocalypse",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=X-Men_Legends_II%3A_Rise_of_Apocalypse",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6958": {
+        "name": "Custom Robo",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Custom_Robo",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "24223": {
+        "name": "Doshin the Giant",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Doshin_the_Giant",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "30773": {
+        "name": "The Ant Bully (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Ant_Bully_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "95246": {
+        "name": "Konjiki no Gash Bell\u203c Go! Go! Mamono Fight\u203c",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Konjiki_no_Gash_Bell%E2%80%BC_Go%21_Go%21_Mamono_Fight%E2%80%BC",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "6996": {
+        "name": "The Legend of Zelda: Four Swords Adventures",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=The_Legend_of_Zelda%3A_Four_Swords_Adventures",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "20923": {
+        "name": "Disney's Extreme Skate Adventure",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Disney%27s_Extreme_Skate_Adventure",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "29809": {
+        "name": "Pok\u00e9mon Box: Ruby & Sapphire",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Pok%C3%A9mon_Box%3A_Ruby_%26_Sapphire",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "2519": {
+        "name": "Pikmin (GC)",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Pikmin_%28GC%29",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "9873": {
+        "name": "Def Jam: Fight for NY",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Def_Jam%3A_Fight_for_NY",
+        "media": "Gamecube",
+        "playable": "Playable"
+    },
+    "11442": {
+        "name": "Digimon World 4",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Digimon_World_4",
+        "media": "Gamecube",
+        "playable": "Perfect"
+    },
+    "176448": {
+        "name": "Muscle Champion: Kinnikut\u014d Kessen",
+        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Muscle_Champion%3A_Kinnikut%C5%8D_Kessen",
+        "media": "Gamecube",
+        "playable": "Playable"
+    }
+}

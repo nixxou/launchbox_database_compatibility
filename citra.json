@@ -1,0 +1,3425 @@
+{
+    "34844": {
+        "name": "LEGO Marvel's Avengers",
+        "url": "https:\/\/citra-emu.org\/game\/lego-marvels-avengers\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "165128": {
+        "name": "Etrian Odyssey Nexus",
+        "url": "https:\/\/citra-emu.org\/game\/etrian-odyssey-nexus\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "123263": {
+        "name": "Mario and Donkey Kong: Minis on the Move",
+        "url": "https:\/\/citra-emu.org\/game\/mario-and-donkey-kong-minis-on-the-move\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "135119": {
+        "name": "Kirby\u2019s Blowout Blast",
+        "url": "https:\/\/citra-emu.org\/game\/kirbys-blowout-blast\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "97555": {
+        "name": "Langrisser Re:Incarnation -TENSEI-",
+        "url": "https:\/\/citra-emu.org\/game\/langrisser-reincarnation-tensei-\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "150368": {
+        "name": "Infinite Dunamis",
+        "url": "https:\/\/citra-emu.org\/game\/infinite-dunamis\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "34020": {
+        "name": "Harvest Moon: The Lost Valley",
+        "url": "https:\/\/citra-emu.org\/game\/harvest-moon-the-lost-valley\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "13086": {
+        "name": "Crosswords Plus",
+        "url": "https:\/\/citra-emu.org\/game\/crosswords-plus\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "123408": {
+        "name": "Steel Diver: Sub Wars",
+        "url": "https:\/\/citra-emu.org\/game\/steel-diver-sub-wars\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "26986": {
+        "name": "Beyblade Evolution",
+        "url": "https:\/\/citra-emu.org\/game\/beyblade-evolution\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "124580": {
+        "name": "LEGO Star Wars: The Force Awakens",
+        "url": "https:\/\/citra-emu.org\/game\/lego-star-wars-the-force-awakens\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "12985": {
+        "name": "nintendogs + cats: Toy Poodle",
+        "url": "https:\/\/citra-emu.org\/game\/nintendogs-cats-toy-poodle\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "148417": {
+        "name": "3D Galaxy Force II",
+        "url": "https:\/\/citra-emu.org\/game\/3d-galaxy-force-ii\/",
+        "media": "3DS Game",
+        "compat": "4",
+        "playable": "Intro\/Menu"
+    },
+    "132772": {
+        "name": "Picross 3D Round 2",
+        "url": "https:\/\/citra-emu.org\/game\/picross-3d-round-2\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "127120": {
+        "name": "Fluidity: Spin Cycle",
+        "url": "https:\/\/citra-emu.org\/game\/fluidity-spin-cycle\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "115701": {
+        "name": "Phoenix Wright: Ace Attorney \u2013 Spirit of Justice",
+        "url": "https:\/\/citra-emu.org\/game\/phoenix-wright-ace-attorney-spirit-of-justice\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "136600": {
+        "name": "Metroid: Samus Returns",
+        "url": "https:\/\/citra-emu.org\/game\/metroid-samus-returns\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "137036": {
+        "name": "Saban's Power Rangers Super Megaforce",
+        "url": "https:\/\/citra-emu.org\/game\/sabans-power-rangers-super-megaforce\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "101929": {
+        "name": "SENRAN KAGURA 2: Deep Crimson",
+        "url": "https:\/\/citra-emu.org\/game\/senran-kagura-2-deep-crimson\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "17013": {
+        "name": "CRIMSON SHROUD",
+        "url": "https:\/\/citra-emu.org\/game\/crimson-shroud\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "15090": {
+        "name": "Michael Jackson The Experience",
+        "url": "https:\/\/citra-emu.org\/game\/michael-jackson-the-experience\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "135257": {
+        "name": "Nintendo Badge Arcade",
+        "url": "https:\/\/citra-emu.org\/game\/nintendo-badge-arcade\/",
+        "media": "3DS Game",
+        "compat": "4",
+        "playable": "Intro\/Menu"
+    },
+    "18165": {
+        "name": "Legend of Zelda:  A Link Between Worlds",
+        "url": "https:\/\/citra-emu.org\/game\/the-legend-of-zelda-a-link-between-worlds\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "35067": {
+        "name": "Fire Emblem Fates: Conquest",
+        "url": "https:\/\/citra-emu.org\/game\/fire-emblem-fates-conquest\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "137035": {
+        "name": "Saban's Power Rangers Megaforce",
+        "url": "https:\/\/citra-emu.org\/game\/sabans-power-rangers-megaforce\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "21213": {
+        "name": "Ikachan",
+        "url": "https:\/\/citra-emu.org\/game\/ikachan\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "34018": {
+        "name": "Style Savvy: Fashion Forward",
+        "url": "https:\/\/citra-emu.org\/game\/style-savvy-fashion-forward\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "20884": {
+        "name": "Persona Q: Shadow  of the Labyrinth",
+        "url": "https:\/\/citra-emu.org\/game\/persona-q-shadow-of-the-labyrinth\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "13004": {
+        "name": "Scribblenauts Unlimited",
+        "url": "https:\/\/citra-emu.org\/game\/scribblenauts-unlimited\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "147478": {
+        "name": "Skylanders SuperChargers Racing",
+        "url": "https:\/\/citra-emu.org\/game\/skylanders-superchargers-racing\/",
+        "media": "3DS Game",
+        "compat": "5",
+        "playable": "Won't boot"
+    },
+    "171557": {
+        "name": "Punch Club",
+        "url": "https:\/\/citra-emu.org\/game\/punch-club\/",
+        "media": "3DS Game",
+        "compat": "5",
+        "playable": "Won't boot"
+    },
+    "23409": {
+        "name": "THEATRHYTHM FINAL FANTASY CURTAIN CALL",
+        "url": "https:\/\/citra-emu.org\/game\/theatrhythm-final-fantasy-curtain-call\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "21206": {
+        "name": "Professor Layton and the Azran Legacy",
+        "url": "https:\/\/citra-emu.org\/game\/professor-layton-and-the-azran-legacy\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "33562": {
+        "name": "Pok\u00e9mon Super Mystery Dungeon",
+        "url": "https:\/\/citra-emu.org\/game\/pokemon-super-mystery-dungeon\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "122772": {
+        "name": "Shantae and the Pirate's Curse",
+        "url": "https:\/\/citra-emu.org\/game\/shantae-and-the-pirates-curse\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "126811": {
+        "name": "3D Classics: TwinBee",
+        "url": "https:\/\/citra-emu.org\/game\/3d-classics-twinbee\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "18027": {
+        "name": "MAHJONG CUB3D",
+        "url": "https:\/\/citra-emu.org\/game\/mahjong-cub3d\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "12733": {
+        "name": "Mario Kart 7",
+        "url": "https:\/\/citra-emu.org\/game\/mario-kart-7\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "148420": {
+        "name": "3D Space Harrier",
+        "url": "https:\/\/citra-emu.org\/game\/3d-space-harrier\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "148907": {
+        "name": "Cube Creator 3D",
+        "url": "https:\/\/citra-emu.org\/game\/cube-creator-3d\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "127952": {
+        "name": "Dr. Mario:  Miracle Cure",
+        "url": "https:\/\/citra-emu.org\/game\/dr-mario-miracle-cure\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "127184": {
+        "name": "Hazumi",
+        "url": "https:\/\/citra-emu.org\/game\/hazumi\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "118292": {
+        "name": "3D Sonic The Hedgehog",
+        "url": "https:\/\/citra-emu.org\/game\/3d-sonic-the-hedgehog\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "136516": {
+        "name": "PICROSS e3",
+        "url": "https:\/\/citra-emu.org\/game\/picross-e3\/",
+        "media": "3DS Game",
+        "compat": "99",
+        "playable": ""
+    },
+    "21218": {
+        "name": "Mighty Switch Force! 2",
+        "url": "https:\/\/citra-emu.org\/game\/mighty-switch-force-2\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "123136": {
+        "name": "Dragon Ball Fusions",
+        "url": "https:\/\/citra-emu.org\/game\/dragon-ball-fusions\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "32311": {
+        "name": "Legend of Zelda: Tri Force Heroes",
+        "url": "https:\/\/citra-emu.org\/game\/the-legend-of-zelda-tri-force-heroes\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "165181": {
+        "name": "Runbow Pocket",
+        "url": "https:\/\/citra-emu.org\/game\/runbow-pocket\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "173513": {
+        "name": "Shovel Knight: Treasure Trove",
+        "url": "https:\/\/citra-emu.org\/game\/shovel-knight-treasure-trove\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "200324": {
+        "name": "Kingdom's Item Shop",
+        "url": "https:\/\/citra-emu.org\/game\/kingdoms-item-shop\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "148987": {
+        "name": "KORG DSN-12",
+        "url": "https:\/\/citra-emu.org\/game\/korg-dsn-12\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "142317": {
+        "name": "Kirby Battle Royale",
+        "url": "https:\/\/citra-emu.org\/game\/kirby-battle-royale\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "18031": {
+        "name": "Scribblenauts Unmasked:  A DC Comics Adventure",
+        "url": "https:\/\/citra-emu.org\/game\/scribblenauts-unmasked-a-dc-comics-adventure\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "205385": {
+        "name": "Pirate Pop Plus",
+        "url": "https:\/\/citra-emu.org\/game\/pirate-pop-plus\/",
+        "media": "3DS Game",
+        "compat": "4",
+        "playable": "Intro\/Menu"
+    },
+    "24173": {
+        "name": "Cubit The Hardcore Platformer Robot",
+        "url": "https:\/\/citra-emu.org\/game\/cubit-the-hardcore-platformer-robot\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "21033": {
+        "name": "LIBERATION MAIDEN",
+        "url": "https:\/\/citra-emu.org\/game\/liberation-maiden\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "143564": {
+        "name": "A-Train 3D: City Simulator",
+        "url": "https:\/\/citra-emu.org\/game\/a-train-3d-city-simulator\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "126795": {
+        "name": "Adventure Bar Story",
+        "url": "https:\/\/citra-emu.org\/game\/adventure-bar-story\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "13342": {
+        "name": "DEAD OR ALIVE Dimensions",
+        "url": "https:\/\/citra-emu.org\/game\/dead-or-alive-dimensions\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "16398": {
+        "name": "Pok\u00e9mon Mystery Dungeon: Gates to Infinity",
+        "url": "https:\/\/citra-emu.org\/game\/pokemon-mystery-dungeon-gates-to-infinity\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "12505": {
+        "name": "Professor Layton and the Miracle Mask",
+        "url": "https:\/\/citra-emu.org\/game\/professor-layton-and-the-miracle-mask\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "148682": {
+        "name": "Chain Blaster",
+        "url": "https:\/\/citra-emu.org\/game\/chain-blaster\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "215803": {
+        "name": "Dodge Club Pocket",
+        "url": "https:\/\/citra-emu.org\/game\/dodge-club-pocket\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "148358": {
+        "name": "Bird Mania Christmas 3D",
+        "url": "https:\/\/citra-emu.org\/game\/bird-mania-christmas-3d\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "142316": {
+        "name": "3D Classics: Urban Champion",
+        "url": "https:\/\/citra-emu.org\/game\/3d-classics-urban-champion\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "142394": {
+        "name": "PICROSS e7",
+        "url": "https:\/\/citra-emu.org\/game\/picross-e7\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "145036": {
+        "name": "Gabrielle's Ghostly Groove 3D",
+        "url": "https:\/\/citra-emu.org\/game\/gabrielles-ghostly-groove-3d\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "19632": {
+        "name": "Rune Factory 4",
+        "url": "https:\/\/citra-emu.org\/game\/rune-factory-4\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "149464": {
+        "name": "Unchained Blades",
+        "url": "https:\/\/citra-emu.org\/game\/unchained-blades\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "34541": {
+        "name": "PICROSS e6",
+        "url": "https:\/\/citra-emu.org\/game\/picross-e6\/",
+        "media": "3DS Game",
+        "compat": "99",
+        "playable": ""
+    },
+    "13002": {
+        "name": "LEGO Harry Potter: Years 5-7",
+        "url": "https:\/\/citra-emu.org\/game\/lego-harry-potter-years-5-7\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "149436": {
+        "name": "Yumi's Odd Odyssey",
+        "url": "https:\/\/citra-emu.org\/game\/yumis-odd-odyssey\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "20833": {
+        "name": "Dillon's Rolling Western",
+        "url": "https:\/\/citra-emu.org\/game\/dillons-rolling-western\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "147097": {
+        "name": "LEGO Ninjago: Shadow of Ronin",
+        "url": "https:\/\/citra-emu.org\/game\/lego-ninjago-shadow-of-ronin\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "149457": {
+        "name": "Thorium Wars: Attack of the Skyfighter",
+        "url": "https:\/\/citra-emu.org\/game\/thorium-wars-attack-of-the-skyfighter\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "126887": {
+        "name": "3D Super Hang-On",
+        "url": "https:\/\/citra-emu.org\/game\/3d-super-hang-on\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "21228": {
+        "name": "Tokyo Crash Mobs",
+        "url": "https:\/\/citra-emu.org\/game\/tokyo-crash-mobs\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "200415": {
+        "name": "Race To The Line",
+        "url": "https:\/\/citra-emu.org\/game\/race-to-the-line\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "13330": {
+        "name": "Shin Megami Tensei: Devil Survivor Overclocked",
+        "url": "https:\/\/citra-emu.org\/game\/shin-megami-tensei-devil-survivor-overclocked\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "215876": {
+        "name": "I am an air traffic controller AIRPORT HERO OSAKA-KIX",
+        "url": "https:\/\/citra-emu.org\/game\/i-am-an-air-traffic-controller-airport-hero-osaka-kix\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "165183": {
+        "name": "YO-KAI WATCH BLASTERS:  White Dog Squad",
+        "url": "https:\/\/citra-emu.org\/game\/yo-kai-watch-blasters-white-dog-squad\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "13307": {
+        "name": "Spirit Camera: The Cursed Memoir",
+        "url": "https:\/\/citra-emu.org\/game\/spirit-camera-the-cursed-memoir\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "215921": {
+        "name": "Mighty Final Fight",
+        "url": "https:\/\/citra-emu.org\/game\/mighty-final-fight\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "20678": {
+        "name": "AERO PORTER",
+        "url": "https:\/\/citra-emu.org\/game\/aero-porter\/",
+        "media": "3DS Game",
+        "compat": "99",
+        "playable": ""
+    },
+    "135706": {
+        "name": "PICROSS e2",
+        "url": "https:\/\/citra-emu.org\/game\/picross-e2\/",
+        "media": "3DS Game",
+        "compat": "99",
+        "playable": ""
+    },
+    "121783": {
+        "name": "YO-KAI WATCH 2:  Bony Spirits",
+        "url": "https:\/\/citra-emu.org\/game\/yo-kai-watch-2-bony-spirits\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "34019": {
+        "name": "Little Battlers eXperience",
+        "url": "https:\/\/citra-emu.org\/game\/little-battlers-experience\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "12585": {
+        "name": "THEATRHYTHM FINAL FANTASY",
+        "url": "https:\/\/citra-emu.org\/game\/theatrhythm-final-fantasy\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "148912": {
+        "name": "Dementium Remastered",
+        "url": "https:\/\/citra-emu.org\/game\/dementium-remastered\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "148940": {
+        "name": "Family Kart 3D",
+        "url": "https:\/\/citra-emu.org\/game\/family-kart-3d\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "34543": {
+        "name": "LEGO Jurassic World",
+        "url": "https:\/\/citra-emu.org\/game\/lego-jurassic-world\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "16486": {
+        "name": "Tom Clancy's Splinter Cell 3D",
+        "url": "https:\/\/citra-emu.org\/game\/tom-clancys-splinter-cell-3d\/",
+        "media": "3DS Game",
+        "compat": "4",
+        "playable": "Intro\/Menu"
+    },
+    "17626": {
+        "name": "Etrian Odyssey Untold: The Millennium Girl",
+        "url": "https:\/\/citra-emu.org\/game\/etrian-odyssey-untold-the-millennium-girl\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "137188": {
+        "name": "Quell Memento",
+        "url": "https:\/\/citra-emu.org\/game\/quell-memento\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "21209": {
+        "name": "Colors! 3D",
+        "url": "https:\/\/citra-emu.org\/game\/colors-3d\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "146620": {
+        "name": "Petit Novel series - Harvest December",
+        "url": "https:\/\/citra-emu.org\/game\/petit-novel-series-harvest-december\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "21084": {
+        "name": "HarmoKnight",
+        "url": "https:\/\/citra-emu.org\/game\/harmoknight\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "146165": {
+        "name": "Shin Megami Tensei: Strange Journey Redux",
+        "url": "https:\/\/citra-emu.org\/game\/shin-megami-tensei-strange-journey-redux\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "119661": {
+        "name": "Pok\u00e9mon Moon",
+        "url": "https:\/\/citra-emu.org\/game\/pokemon-moon\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "149459": {
+        "name": "Titan Attacks!",
+        "url": "https:\/\/citra-emu.org\/game\/titan-attacks\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "174941": {
+        "name": "Shift DX",
+        "url": "https:\/\/citra-emu.org\/game\/shift-dx\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "145142": {
+        "name": "PAC-MAN and the Ghostly Adventures 2",
+        "url": "https:\/\/citra-emu.org\/game\/pac-man-and-the-ghostly-adventures-2\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "21225": {
+        "name": "SteamWorld Dig",
+        "url": "https:\/\/citra-emu.org\/game\/steamworld-dig\/",
+        "media": "3DS Game",
+        "compat": "99",
+        "playable": ""
+    },
+    "35066": {
+        "name": "Fire Emblem Fates: Birthright",
+        "url": "https:\/\/citra-emu.org\/game\/fire-emblem-fates-birthright\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "149440": {
+        "name": "SKYPEACE",
+        "url": "https:\/\/citra-emu.org\/game\/skypeace\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "148979": {
+        "name": "Kersploosh!",
+        "url": "https:\/\/citra-emu.org\/game\/kersploosh\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "12014": {
+        "name": "KINGDOM HEARTS 3D [Dream Drop Distance]",
+        "url": "https:\/\/citra-emu.org\/game\/kingdom-hearts-3d-dream-drop-distance\/",
+        "media": "3DS Game",
+        "compat": "5",
+        "playable": "Won't boot"
+    },
+    "12982": {
+        "name": "nintendogs + cats: Golden Retriever",
+        "url": "https:\/\/citra-emu.org\/game\/nintendogs-cats-golden-retriever\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "20577": {
+        "name": "Disney Magical World",
+        "url": "https:\/\/citra-emu.org\/game\/disney-magical-world\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "14073": {
+        "name": "BATTLESHIP",
+        "url": "https:\/\/citra-emu.org\/game\/battleship\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "12725": {
+        "name": "Pok\u00e9mon Rumble Blast",
+        "url": "https:\/\/citra-emu.org\/game\/pokemon-rumble-blast\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "21226": {
+        "name": "Tappingo",
+        "url": "https:\/\/citra-emu.org\/game\/tappingo\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "21221": {
+        "name": "Pushmo",
+        "url": "https:\/\/citra-emu.org\/game\/pushmo\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "25096": {
+        "name": "Shin Megami Tensei: Devil  Survivor 2: Record Breaker",
+        "url": "https:\/\/citra-emu.org\/game\/shin-megami-tensei-devil-survivor-2-record-breaker\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "21217": {
+        "name": "Mighty Switch Force!",
+        "url": "https:\/\/citra-emu.org\/game\/mighty-switch-force\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "173664": {
+        "name": "Bike Rider DX",
+        "url": "https:\/\/citra-emu.org\/game\/bike-rider-dx\/",
+        "media": "3DS Game",
+        "compat": "99",
+        "playable": ""
+    },
+    "146909": {
+        "name": "BLAZBLUE -CLONEPHANTASMA-",
+        "url": "https:\/\/citra-emu.org\/game\/blazblue-clonephantasma-\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "14461": {
+        "name": "LEGO Pirates of the Caribbean: The Video Game",
+        "url": "https:\/\/citra-emu.org\/game\/lego-pirates-of-the-caribbean-the-video-game\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "20488": {
+        "name": "Kirby: Triple Deluxe",
+        "url": "https:\/\/citra-emu.org\/game\/kirby-triple-deluxe\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "13913": {
+        "name": "Need For Speed: The Run",
+        "url": "https:\/\/citra-emu.org\/game\/need-for-speed-the-run\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "13085": {
+        "name": "Freakyforms Deluxe: Your Creations Alive!",
+        "url": "https:\/\/citra-emu.org\/game\/freakyforms-deluxe-your-creations-alive\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "23587": {
+        "name": "Pok\u00e9mon Alpha Sapphire",
+        "url": "https:\/\/citra-emu.org\/game\/pokemon-alpha-sapphire\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "14141": {
+        "name": "METAL GEAR SOLID SNAKE EATER 3D",
+        "url": "https:\/\/citra-emu.org\/game\/metal-gear-solid-snake-eater-3d\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "126912": {
+        "name": "3D Classics: Excitebike",
+        "url": "https:\/\/citra-emu.org\/game\/3d-classics-excitebike\/",
+        "media": "3DS Game",
+        "compat": "4",
+        "playable": "Intro\/Menu"
+    },
+    "12786": {
+        "name": "Super Monkey Ball 3D",
+        "url": "https:\/\/citra-emu.org\/game\/super-monkey-ball-3d\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "215884": {
+        "name": "Kutar End Credits",
+        "url": "https:\/\/citra-emu.org\/game\/kutar-end-credits\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "8715": {
+        "name": "Harvest Moon 3D: The Tale of Two Towns",
+        "url": "https:\/\/citra-emu.org\/game\/harvest-moon-3d-the-tale-of-two-towns\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "18161": {
+        "name": "Sonic Lost World",
+        "url": "https:\/\/citra-emu.org\/game\/sonic-lost-world\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "107503": {
+        "name": "Moon Chronicles",
+        "url": "https:\/\/citra-emu.org\/game\/moon-chronicles\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "18079": {
+        "name": "Pok\u00e9mon Y",
+        "url": "https:\/\/citra-emu.org\/game\/pokemon-y\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "12998": {
+        "name": "James Noir's Hollywood Crimes",
+        "url": "https:\/\/citra-emu.org\/game\/james-noirs-hollywood-crimes\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "147081": {
+        "name": "Cartoon Network:  Battle Crashers",
+        "url": "https:\/\/citra-emu.org\/game\/cartoon-network-battle-crashers\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "21085": {
+        "name": "Dillon's Rolling Western The Last Ranger",
+        "url": "https:\/\/citra-emu.org\/game\/dillons-rolling-western-the-last-ranger\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "17217": {
+        "name": "Mario & Luigi: Dream Team",
+        "url": "https:\/\/citra-emu.org\/game\/mario-and-luigi-dream-team\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "20860": {
+        "name": "3D Classics: Kid Icarus",
+        "url": "https:\/\/citra-emu.org\/game\/3d-classics-kid-icarus\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "140420": {
+        "name": "Ever Oasis",
+        "url": "https:\/\/citra-emu.org\/game\/ever-oasis\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "149468": {
+        "name": "URBAN TRIAL FREESTYLE 2",
+        "url": "https:\/\/citra-emu.org\/game\/urban-trial-freestyle-2\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "122373": {
+        "name": "Corpse Party",
+        "url": "https:\/\/citra-emu.org\/game\/corpse-party\/",
+        "media": "3DS Game",
+        "compat": "99",
+        "playable": ""
+    },
+    "200339": {
+        "name": "Of Mice And Sand",
+        "url": "https:\/\/citra-emu.org\/game\/of-mice-and-sand\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "34539": {
+        "name": "Mario & Luigi: Paper Jam",
+        "url": "https:\/\/citra-emu.org\/game\/mario-and-luigi-paper-jam\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "154874": {
+        "name": "Nintendo 3DS Guide: Louvre (English Version)",
+        "url": "https:\/\/citra-emu.org\/game\/nintendo-3ds-guide-louvre-english-version\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "30637": {
+        "name": "Animal Crossing: Happy Home Designer",
+        "url": "https:\/\/citra-emu.org\/game\/animal-crossing-happy-home-designer\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "150374": {
+        "name": "Noitu Love: Devolution",
+        "url": "https:\/\/citra-emu.org\/game\/noitu-love-devolution\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "126895": {
+        "name": "THE \"DENPA\" MEN They Came By Wave",
+        "url": "https:\/\/citra-emu.org\/game\/the-denpa-men-they-came-by-wave\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "12712": {
+        "name": "BUST-A-MOVE UNIVERSE",
+        "url": "https:\/\/citra-emu.org\/game\/bust-a-move-universe\/",
+        "media": "3DS Game",
+        "compat": "5",
+        "playable": "Won't boot"
+    },
+    "119660": {
+        "name": "Pok\u00e9mon Rumble World",
+        "url": "https:\/\/citra-emu.org\/game\/pokemon-rumble-world\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "12782": {
+        "name": "Disney Epic Mickey: Power of Illusion",
+        "url": "https:\/\/citra-emu.org\/game\/disney-epic-mickey-power-of-illusion\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "150389": {
+        "name": "Legend of Dark Witch 3 Wisdom and Lunacy",
+        "url": "https:\/\/citra-emu.org\/game\/the-legend-of-dark-witch-3-wisdom-and-lunacy\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "148981": {
+        "name": "Kirby's Dream Land",
+        "url": "https:\/\/citra-emu.org\/game\/kirbys-dream-land\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "119662": {
+        "name": "Pok\u00e9mon Sun",
+        "url": "https:\/\/citra-emu.org\/game\/pokemon-sun\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "131643": {
+        "name": "YO-KAI WATCH 2:  Fleshy Souls",
+        "url": "https:\/\/citra-emu.org\/game\/yo-kai-watch-2-fleshy-souls\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "20704": {
+        "name": "BlazBlue: Continuum Shift II",
+        "url": "https:\/\/citra-emu.org\/game\/blazblue-continuum-shift-ii\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "149441": {
+        "name": "Slice It!",
+        "url": "https:\/\/citra-emu.org\/game\/slice-it\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "149324": {
+        "name": "Parascientific Escape Cruise in the Distant Seas",
+        "url": "https:\/\/citra-emu.org\/game\/parascientific-escape-cruise-in-the-distant-seas\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "132351": {
+        "name": "Pok\u00e9dex 3D Pro",
+        "url": "https:\/\/citra-emu.org\/game\/pokedex-3d-pro\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "93914": {
+        "name": "3D Out Run",
+        "url": "https:\/\/citra-emu.org\/game\/3d-out-run\/",
+        "media": "3DS Game",
+        "compat": "4",
+        "playable": "Intro\/Menu"
+    },
+    "34157": {
+        "name": "Hatsune Miku: Project Mirai DX",
+        "url": "https:\/\/citra-emu.org\/game\/hatsune-miku-project-mirai-dx\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "143549": {
+        "name": "Alliance Alive",
+        "url": "https:\/\/citra-emu.org\/game\/the-alliance-alive\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "13340": {
+        "name": "SUPER STREET FIGHTER IV 3D EDITION",
+        "url": "https:\/\/citra-emu.org\/game\/super-street-fighter-iv-3d-edition\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "123256": {
+        "name": "7th Dragon III Code: VFD",
+        "url": "https:\/\/citra-emu.org\/game\/7th-dragon-iii-code-vfd\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "127947": {
+        "name": "Fire Emblem Echoes: Shadows of Valentia",
+        "url": "https:\/\/citra-emu.org\/game\/fire-emblem-echoes-shadows-of-valentia\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "150360": {
+        "name": "Adventure Labyrinth Story",
+        "url": "https:\/\/citra-emu.org\/game\/adventure-labyrinth-story\/",
+        "media": "3DS Game",
+        "compat": "99",
+        "playable": ""
+    },
+    "34540": {
+        "name": "Terraria",
+        "url": "https:\/\/citra-emu.org\/game\/terraria\/",
+        "media": "3DS Game",
+        "compat": "99",
+        "playable": ""
+    },
+    "147533": {
+        "name": "Fire Emblem Warriors",
+        "url": "https:\/\/citra-emu.org\/game\/fire-emblem-warriors\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "215881": {
+        "name": "Kid Tripp",
+        "url": "https:\/\/citra-emu.org\/game\/kid-tripp\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "195974": {
+        "name": "Legend of Zelda: Oracle of Ages",
+        "url": "https:\/\/citra-emu.org\/game\/the-legend-of-zelda-oracle-of-ages\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "15200": {
+        "name": "LEGO Batman 2: DC Super Heroes",
+        "url": "https:\/\/citra-emu.org\/game\/lego-batman-2-dc-super-heroes\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "153615": {
+        "name": "Cooking Mama: Sweet Shop",
+        "url": "https:\/\/citra-emu.org\/game\/cooking-mama-sweet-shop\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "15116": {
+        "name": "Pinball Hall of Fame: The Williams Collection",
+        "url": "https:\/\/citra-emu.org\/game\/pinball-hall-of-fame-the-williams-collection\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "145146": {
+        "name": "Petz Fantasy 3D",
+        "url": "https:\/\/citra-emu.org\/game\/petz-fantasy-3d\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "146452": {
+        "name": "Keep",
+        "url": "https:\/\/citra-emu.org\/game\/the-keep\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "13309": {
+        "name": "Cooking Mama 4: Kitchen Magic",
+        "url": "https:\/\/citra-emu.org\/game\/cooking-mama-4-kitchen-magic\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "12999": {
+        "name": "Dream Trigger 3D",
+        "url": "https:\/\/citra-emu.org\/game\/dream-trigger-3d\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "24410": {
+        "name": "Cooking Mama 5: Bon App\u00e9tit!",
+        "url": "https:\/\/citra-emu.org\/game\/cooking-mama-5-bon-appetit\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "12691": {
+        "name": "Mario Tennis Open",
+        "url": "https:\/\/citra-emu.org\/game\/mario-tennis-open\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "18030": {
+        "name": "Hakuoki: Memories of the Shinsengumi",
+        "url": "https:\/\/citra-emu.org\/game\/hakuoki-memories-of-the-shinsengumi\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "23593": {
+        "name": "LEGO Batman 3: Beyond Gotham",
+        "url": "https:\/\/citra-emu.org\/game\/lego-batman-3-beyond-gotham\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "16979": {
+        "name": "Frogger 3D",
+        "url": "https:\/\/citra-emu.org\/game\/frogger-3d\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "127943": {
+        "name": "Team Kirby Clash Deluxe",
+        "url": "https:\/\/citra-emu.org\/game\/team-kirby-clash-deluxe\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "21220": {
+        "name": "Phoenix Wright: Ace  Attorney - Dual Destinies",
+        "url": "https:\/\/citra-emu.org\/game\/phoenix-wright-ace-attorney-dual-destinies\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "35013": {
+        "name": "Metroid Prime:  Federation Force",
+        "url": "https:\/\/citra-emu.org\/game\/metroid-prime-federation-force\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "122366": {
+        "name": "Mario Party Star Rush",
+        "url": "https:\/\/citra-emu.org\/game\/mario-party-star-rush\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "141407": {
+        "name": "Azure Striker Gunovlt  Striker Pack",
+        "url": "https:\/\/citra-emu.org\/game\/azure-striker-gunovlt-striker-pack\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "12686": {
+        "name": "Star Fox 64 3D",
+        "url": "https:\/\/citra-emu.org\/game\/star-fox-64-3d\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "21309": {
+        "name": "Pok\u00e9mon Dream Radar",
+        "url": "https:\/\/citra-emu.org\/game\/pokemon-dream-radar\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "173666": {
+        "name": "Pikmin Short Movies 3D",
+        "url": "https:\/\/citra-emu.org\/game\/pikmin-short-movies-3d\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "149446": {
+        "name": "SpeedX 3D Hyper Edition",
+        "url": "https:\/\/citra-emu.org\/game\/speedx-3d-hyper-edition\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "149481": {
+        "name": "Xeodrifter",
+        "url": "https:\/\/citra-emu.org\/game\/xeodrifter\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "22793": {
+        "name": "FIFA 15",
+        "url": "https:\/\/citra-emu.org\/game\/fifa-15\/",
+        "media": "3DS Game",
+        "compat": "4",
+        "playable": "Intro\/Menu"
+    },
+    "147075": {
+        "name": "Goosebumps: The Game",
+        "url": "https:\/\/citra-emu.org\/game\/goosebumps-the-game\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "13185": {
+        "name": "Disney Princess:  My Fairytale Adventure",
+        "url": "https:\/\/citra-emu.org\/game\/disney-princess-my-fairytale-adventure\/",
+        "media": "3DS Game",
+        "compat": "4",
+        "playable": "Intro\/Menu"
+    },
+    "14072": {
+        "name": "Reel Fishing Paradise 3D",
+        "url": "https:\/\/citra-emu.org\/game\/reel-fishing-paradise-3d\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "148413": {
+        "name": "10-in-1: Arcade Collection",
+        "url": "https:\/\/citra-emu.org\/game\/10-in-1-arcade-collection\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "93945": {
+        "name": "Disney Infinity",
+        "url": "https:\/\/citra-emu.org\/game\/disney-infinity\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "131640": {
+        "name": "Monster Hunter Stories",
+        "url": "https:\/\/citra-emu.org\/game\/monster-hunter-stories\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "148929": {
+        "name": "Donkey Kong Jr.",
+        "url": "https:\/\/citra-emu.org\/game\/donkey-kong-jr\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "144133": {
+        "name": "Mercenaries Saga 2",
+        "url": "https:\/\/citra-emu.org\/game\/mercenaries-saga-2\/",
+        "media": "3DS Game",
+        "compat": "99",
+        "playable": ""
+    },
+    "215891": {
+        "name": "Kutar Tube Rider",
+        "url": "https:\/\/citra-emu.org\/game\/kutar-tube-rider\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "90938": {
+        "name": "Hyrule Warriors Legends",
+        "url": "https:\/\/citra-emu.org\/game\/hyrule-warriors-legends\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "149329": {
+        "name": "Pocket Card Jockey",
+        "url": "https:\/\/citra-emu.org\/game\/pocket-card-jockey\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "18147": {
+        "name": "LEGO Legends of Chima: Laval's Journey",
+        "url": "https:\/\/citra-emu.org\/game\/lego-legends-of-chima-lavals-journey\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "12717": {
+        "name": "Code of Princess",
+        "url": "https:\/\/citra-emu.org\/game\/code-of-princess\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "144941": {
+        "name": "Return to PopoloCrois: A STORY OF SEASONS Fairytale",
+        "url": "https:\/\/citra-emu.org\/game\/return-to-popolocrois-a-story-of-seasons-fairytale\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "146736": {
+        "name": "River City: Tokyo Rumble",
+        "url": "https:\/\/citra-emu.org\/game\/river-city-tokyo-rumble\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "142315": {
+        "name": "Metroid",
+        "url": "https:\/\/citra-emu.org\/game\/metroid\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "152385": {
+        "name": "Sushi Striker:  The Way of Sushido",
+        "url": "https:\/\/citra-emu.org\/game\/sushi-striker-the-way-of-sushido\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "154618": {
+        "name": "Dillon\u2019s Dead-Heat Breakers",
+        "url": "https:\/\/citra-emu.org\/game\/dillons-dead-heat-breakers\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "26733": {
+        "name": "1001 Spikes",
+        "url": "https:\/\/citra-emu.org\/game\/1001-spikes\/",
+        "media": "3DS Game",
+        "compat": "99",
+        "playable": ""
+    },
+    "150367": {
+        "name": "Ice Station Z",
+        "url": "https:\/\/citra-emu.org\/game\/ice-station-z\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "93152": {
+        "name": "Shin Megami Tensei IV:  Apocalypse",
+        "url": "https:\/\/citra-emu.org\/game\/shin-megami-tensei-iv-apocalypse\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "174526": {
+        "name": "Bird Mania 3D",
+        "url": "https:\/\/citra-emu.org\/game\/bird-mania-3d\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "13172": {
+        "name": "Wreck-it Ralph",
+        "url": "https:\/\/citra-emu.org\/game\/wreck-it-ralph\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "142393": {
+        "name": "PICROSS e5",
+        "url": "https:\/\/citra-emu.org\/game\/picross-e5\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "15075": {
+        "name": "Brain Age: Concentration Training",
+        "url": "https:\/\/citra-emu.org\/game\/brain-age-concentration-training\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "155060": {
+        "name": "Captain Toad:  Treasure Tracker",
+        "url": "https:\/\/citra-emu.org\/game\/captain-toad-treasure-tracker\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "24143": {
+        "name": "PAC-MAN",
+        "url": "https:\/\/citra-emu.org\/game\/pac-man\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "14077": {
+        "name": "Nano Assault",
+        "url": "https:\/\/citra-emu.org\/game\/nano-assault\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "21151": {
+        "name": "3D Classics: Kirby's Adventure",
+        "url": "https:\/\/citra-emu.org\/game\/3d-classics-kirbys-adventure\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "145043": {
+        "name": "Gravity Falls - Legend of the Gnome Gemulets",
+        "url": "https:\/\/citra-emu.org\/game\/gravity-falls-legend-of-the-gnome-gemulets\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "24781": {
+        "name": "FINAL FANTASY EXPLORERS",
+        "url": "https:\/\/citra-emu.org\/game\/final-fantasy-explorers\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "215922": {
+        "name": "Miitopia: Casting Call",
+        "url": "https:\/\/citra-emu.org\/game\/miitopia-casting-call\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "18346": {
+        "name": "Mario Party Island Tour",
+        "url": "https:\/\/citra-emu.org\/game\/mario-party-island-tour\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "16799": {
+        "name": "LEGO City Undercover: The Chase Begins",
+        "url": "https:\/\/citra-emu.org\/game\/lego-city-undercover-the-chase-begins\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "12798": {
+        "name": "Myst",
+        "url": "https:\/\/citra-emu.org\/game\/myst\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "27917": {
+        "name": "Code Name: S.T.E.A.M.",
+        "url": "https:\/\/citra-emu.org\/game\/code-name-steam\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "174939": {
+        "name": "Ninja Usagimaru - The Mysterious Karakuri Castle",
+        "url": "https:\/\/citra-emu.org\/game\/ninja-usagimaru-the-mysterious-karakuri-castle\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "21210": {
+        "name": "Crashmo",
+        "url": "https:\/\/citra-emu.org\/game\/crashmo\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "16487": {
+        "name": "Spider-Man: Edge of Time",
+        "url": "https:\/\/citra-emu.org\/game\/spider-man-edge-of-time\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "166681": {
+        "name": "Battle Cats POP!",
+        "url": "https:\/\/citra-emu.org\/game\/the-battle-cats-pop\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "130653": {
+        "name": "PICROSS e",
+        "url": "https:\/\/citra-emu.org\/game\/picross-e\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "23464": {
+        "name": "Super Smash Bros. for Nintendo 3DS",
+        "url": "https:\/\/citra-emu.org\/game\/super-smash-bros-for-nintendo-3ds\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "165180": {
+        "name": "Minecraft",
+        "url": "https:\/\/citra-emu.org\/game\/minecraft\/",
+        "media": "3DS Game",
+        "compat": "99",
+        "playable": ""
+    },
+    "145026": {
+        "name": "Cut the Rope: Triple Treat",
+        "url": "https:\/\/citra-emu.org\/game\/cut-the-rope-triple-treat\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "34634": {
+        "name": "Phoenix Wright: Ace Attorney Trilogy",
+        "url": "https:\/\/citra-emu.org\/game\/phoenix-wright-ace-attorney-trilogy\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "148484": {
+        "name": "Blast 'Em Bunnies",
+        "url": "https:\/\/citra-emu.org\/game\/blast-em-bunnies\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "12777": {
+        "name": "RAYMAN 3D",
+        "url": "https:\/\/citra-emu.org\/game\/rayman-3d\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "147300": {
+        "name": "Sadame",
+        "url": "https:\/\/citra-emu.org\/game\/sadame\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "20564": {
+        "name": "Yoshi's New Island",
+        "url": "https:\/\/citra-emu.org\/game\/yoshis-new-island\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "13767": {
+        "name": "Resident Evil: The Mercenaries 3D",
+        "url": "https:\/\/citra-emu.org\/game\/resident-evil-the-mercenaries-3d\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "148416": {
+        "name": "3D Fantasy Zone",
+        "url": "https:\/\/citra-emu.org\/game\/3d-fantasy-zone\/",
+        "media": "3DS Game",
+        "compat": "4",
+        "playable": "Intro\/Menu"
+    },
+    "12707": {
+        "name": "Paper Mario: Sticker Star",
+        "url": "https:\/\/citra-emu.org\/game\/paper-mario-sticker-star\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "29433": {
+        "name": "Etrian Odyssey 2 Untold: The Fafnir Knight",
+        "url": "https:\/\/citra-emu.org\/game\/etrian-odyssey-2-untold-the-fafnir-knight\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "195996": {
+        "name": "SteamWorld Dig 2",
+        "url": "https:\/\/citra-emu.org\/game\/steamworld-dig-2\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "14040": {
+        "name": "Tom Clancy\u2019s Ghost Recon Shadow Wars",
+        "url": "https:\/\/citra-emu.org\/game\/tom-clancys-ghost-recon-shadow-wars\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "18363": {
+        "name": "Spongebob Squigglepants",
+        "url": "https:\/\/citra-emu.org\/game\/spongebob-squigglepants\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "148473": {
+        "name": "ATV Wild Ride 3D",
+        "url": "https:\/\/citra-emu.org\/game\/atv-wild-ride-3d\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "12082": {
+        "name": "Cave Story 3D",
+        "url": "https:\/\/citra-emu.org\/game\/cave-story-3d\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "123407": {
+        "name": "Woah Dave!",
+        "url": "https:\/\/citra-emu.org\/game\/woah-dave\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "17319": {
+        "name": "Bravely Default",
+        "url": "https:\/\/citra-emu.org\/game\/bravely-default\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "146908": {
+        "name": "3D Streets of Rage 2",
+        "url": "https:\/\/citra-emu.org\/game\/3d-streets-of-rage-2\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "174940": {
+        "name": "Pyramids",
+        "url": "https:\/\/citra-emu.org\/game\/pyramids\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "24170": {
+        "name": "AiRace Speed",
+        "url": "https:\/\/citra-emu.org\/game\/airace-speed\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "15183": {
+        "name": "Luigi's Mansion: Dark Moon",
+        "url": "https:\/\/citra-emu.org\/game\/luigis-mansion-dark-moon\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "160433": {
+        "name": "Blaster Master Zero",
+        "url": "https:\/\/citra-emu.org\/game\/blaster-master-zero\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "121512": {
+        "name": "3D After Burner II",
+        "url": "https:\/\/citra-emu.org\/game\/3d-after-burner-ii\/",
+        "media": "3DS Game",
+        "compat": "4",
+        "playable": "Intro\/Menu"
+    },
+    "137848": {
+        "name": "Mario and Luigi: Superstar Saga + Bowser\u2019s Minions",
+        "url": "https:\/\/citra-emu.org\/game\/mario-and-luigi-superstar-saga-bowsers-minions\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "23586": {
+        "name": "Pok\u00e9mon Omega Ruby",
+        "url": "https:\/\/citra-emu.org\/game\/pokemon-omega-ruby\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "149327": {
+        "name": "PIX3D",
+        "url": "https:\/\/citra-emu.org\/game\/pix3d\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "97268": {
+        "name": "Kirby Planet Robobot",
+        "url": "https:\/\/citra-emu.org\/game\/kirby-planet-robobot\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "215932": {
+        "name": "Parascientific Escape - Crossing at the Farthest Horizon",
+        "url": "https:\/\/citra-emu.org\/game\/parascientific-escape-crossing-at-the-farthest-horizon\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "145055": {
+        "name": "I Love My Pony",
+        "url": "https:\/\/citra-emu.org\/game\/i-love-my-pony\/",
+        "media": "3DS Game",
+        "compat": "99",
+        "playable": ""
+    },
+    "145449": {
+        "name": "Radiant Historia: Perfect Chronology",
+        "url": "https:\/\/citra-emu.org\/game\/radiant-historia-perfect-chronology\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "215786": {
+        "name": "Battleminerz",
+        "url": "https:\/\/citra-emu.org\/game\/battleminerz\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "147072": {
+        "name": "Disney Art Academy",
+        "url": "https:\/\/citra-emu.org\/game\/disney-art-academy\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "12584": {
+        "name": "Rhythm Thief & the Emperor's Treasure",
+        "url": "https:\/\/citra-emu.org\/game\/rhythm-thief-and-the-emperors-treasure\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "96182": {
+        "name": "Lord of Magna: Maiden Heaven",
+        "url": "https:\/\/citra-emu.org\/game\/lord-of-magna-maiden-heaven\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "141465": {
+        "name": "YO-KAI WATCH 2: Psychic Specters",
+        "url": "https:\/\/citra-emu.org\/game\/yo-kai-watch-2-psychic-specters\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "13902": {
+        "name": "LEGO Star Wars III: The Clone Wars",
+        "url": "https:\/\/citra-emu.org\/game\/lego-star-wars-iii-the-clone-wars\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "21227": {
+        "name": "WEAPON SHOP de OMASSE",
+        "url": "https:\/\/citra-emu.org\/game\/weapon-shop-de-omasse\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "148362": {
+        "name": "IRONFALL Invasion",
+        "url": "https:\/\/citra-emu.org\/game\/ironfall-invasion\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "25651": {
+        "name": "Pok\u00e9mon Shuffle",
+        "url": "https:\/\/citra-emu.org\/game\/pokemon-shuffle\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "12598": {
+        "name": "Kid Icarus: Uprising",
+        "url": "https:\/\/citra-emu.org\/game\/kid-icarus-uprising\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "93944": {
+        "name": "Mega Man Legacy Collection",
+        "url": "https:\/\/citra-emu.org\/game\/mega-man-legacy-collection\/",
+        "media": "3DS Game",
+        "compat": "99",
+        "playable": ""
+    },
+    "193469": {
+        "name": "Grinsia",
+        "url": "https:\/\/citra-emu.org\/game\/grinsia\/",
+        "media": "3DS Game",
+        "compat": "4",
+        "playable": "Intro\/Menu"
+    },
+    "12986": {
+        "name": "Sims 3",
+        "url": "https:\/\/citra-emu.org\/game\/the-sims-3\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "148936": {
+        "name": "Fairune",
+        "url": "https:\/\/citra-emu.org\/game\/fairune\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "138553": {
+        "name": "Pok\u00e9mon Ultra Sun",
+        "url": "https:\/\/citra-emu.org\/game\/pokemon-ultra-sun\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "144942": {
+        "name": "STORY OF SEASONS: Trio of Towns",
+        "url": "https:\/\/citra-emu.org\/game\/story-of-seasons-trio-of-towns\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "145027": {
+        "name": "Deer Drive Legends",
+        "url": "https:\/\/citra-emu.org\/game\/deer-drive-legends\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "138074": {
+        "name": "NightSky",
+        "url": "https:\/\/citra-emu.org\/game\/nightsky\/",
+        "media": "3DS Game",
+        "compat": "5",
+        "playable": "Won't boot"
+    },
+    "10605": {
+        "name": "Super Mario 3D Land",
+        "url": "https:\/\/citra-emu.org\/game\/super-mario-3d-land\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "12793": {
+        "name": "Ben 10 Omniverse",
+        "url": "https:\/\/citra-emu.org\/game\/ben-10-omniverse\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "21216": {
+        "name": "Kokuga",
+        "url": "https:\/\/citra-emu.org\/game\/kokuga\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "127204": {
+        "name": "Mario Sports Superstars",
+        "url": "https:\/\/citra-emu.org\/game\/mario-sports-superstars\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "147073": {
+        "name": "Disney Magical World 2",
+        "url": "https:\/\/citra-emu.org\/game\/disney-magical-world-2\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "19619": {
+        "name": "Hometown Story",
+        "url": "https:\/\/citra-emu.org\/game\/hometown-story\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "24175": {
+        "name": "Retro City Rampage: DX",
+        "url": "https:\/\/citra-emu.org\/game\/retro-city-rampage-dx\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "200335": {
+        "name": "Elminage Original",
+        "url": "https:\/\/citra-emu.org\/game\/elminage-original\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "15181": {
+        "name": "Monster Hunter 3 Ultimate",
+        "url": "https:\/\/citra-emu.org\/game\/monster-hunter-3-ultimate\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "156451": {
+        "name": "YO-KAI WATCH  BLASTERS:  Red Cat Corps",
+        "url": "https:\/\/citra-emu.org\/game\/yo-kai-watch-blasters-red-cat-corps\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "150371": {
+        "name": "MIGHTY GUNVOLT BURST",
+        "url": "https:\/\/citra-emu.org\/game\/mighty-gunvolt-burst\/",
+        "media": "3DS Game",
+        "compat": "5",
+        "playable": "Won't boot"
+    },
+    "162861": {
+        "name": "Mario & Luigi:Bowser\u2019s Inside  Story + Bowser Jr.\u2019s Journey",
+        "url": "https:\/\/citra-emu.org\/game\/mario-and-luigibowsers-inside-story-bowser-jrs-journey\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "147237": {
+        "name": "Stretchmo",
+        "url": "https:\/\/citra-emu.org\/game\/stretchmo\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "128613": {
+        "name": "Pok\u00e9mon Picross",
+        "url": "https:\/\/citra-emu.org\/game\/pokemon-picross\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "146866": {
+        "name": "Photos with Mario",
+        "url": "https:\/\/citra-emu.org\/game\/photos-with-mario\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "199713": {
+        "name": "Bit Dungeon Plus",
+        "url": "https:\/\/citra-emu.org\/game\/bit-dungeon-plus\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "21087": {
+        "name": "Conception II: Children of the Seven Stars",
+        "url": "https:\/\/citra-emu.org\/game\/conception-ii-children-of-the-seven-stars\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "14075": {
+        "name": "Ben 10 Galactic Racing",
+        "url": "https:\/\/citra-emu.org\/game\/ben-10-galactic-racing\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "13601": {
+        "name": "Tales of the Abyss 3D",
+        "url": "https:\/\/citra-emu.org\/game\/tales-of-the-abyss-3d\/",
+        "media": "3DS Game",
+        "compat": "4",
+        "playable": "Intro\/Menu"
+    },
+    "200337": {
+        "name": "Mom Hid My Game!",
+        "url": "https:\/\/citra-emu.org\/game\/mom-hid-my-game\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "148425": {
+        "name": "Angry Video Game Nerd  Adventures",
+        "url": "https:\/\/citra-emu.org\/game\/angry-video-game-nerd-adventures\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "150366": {
+        "name": "Gurumin 3D:  A Monstrous Adventure",
+        "url": "https:\/\/citra-emu.org\/game\/gurumin-3d-a-monstrous-adventure\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "179334": {
+        "name": "Style Savvy: Styling Star",
+        "url": "https:\/\/citra-emu.org\/game\/style-savvy-styling-star\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "21223": {
+        "name": "Rusty's Real Deal Baseball",
+        "url": "https:\/\/citra-emu.org\/game\/rustys-real-deal-baseball\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "12775": {
+        "name": "Steel Diver",
+        "url": "https:\/\/citra-emu.org\/game\/steel-diver\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "12504": {
+        "name": "Super Mario Bros. 2",
+        "url": "https:\/\/citra-emu.org\/game\/super-mario-bros-2\/",
+        "media": "3DS Game",
+        "compat": "99",
+        "playable": ""
+    },
+    "131402": {
+        "name": "BOXBOXBOY!",
+        "url": "https:\/\/citra-emu.org\/game\/boxboxboy\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "147599": {
+        "name": "PICROSS e8",
+        "url": "https:\/\/citra-emu.org\/game\/picross-e8\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "13192": {
+        "name": "Asphalt 3D",
+        "url": "https:\/\/citra-emu.org\/game\/asphalt-3d\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "127112": {
+        "name": "3D Thunder Blade",
+        "url": "https:\/\/citra-emu.org\/game\/3d-thunder-blade\/",
+        "media": "3DS Game",
+        "compat": "4",
+        "playable": "Intro\/Menu"
+    },
+    "12599": {
+        "name": "Pilotwings Resort",
+        "url": "https:\/\/citra-emu.org\/game\/pilotwings-resort\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "215931": {
+        "name": "Operation COBRA",
+        "url": "https:\/\/citra-emu.org\/game\/operation-cobra\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "149475": {
+        "name": "Witch & Hero",
+        "url": "https:\/\/citra-emu.org\/game\/witch-and-hero\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "32827": {
+        "name": "Stella Glow",
+        "url": "https:\/\/citra-emu.org\/game\/stella-glow\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "16228": {
+        "name": "Pro Evolution Soccer 2012 3D",
+        "url": "https:\/\/citra-emu.org\/game\/pro-evolution-soccer-2012-3d\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "18078": {
+        "name": "Pok\u00e9mon X",
+        "url": "https:\/\/citra-emu.org\/game\/pokemon-x\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "148423": {
+        "name": "Alphadia",
+        "url": "https:\/\/citra-emu.org\/game\/alphadia\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "150392": {
+        "name": "Creeping Terror",
+        "url": "https:\/\/citra-emu.org\/game\/creeping-terror\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "20487": {
+        "name": "Mario Golf: World Tour",
+        "url": "https:\/\/citra-emu.org\/game\/mario-golf-world-tour\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "21211": {
+        "name": "EDGE",
+        "url": "https:\/\/citra-emu.org\/game\/edge\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "146892": {
+        "name": "3D Ecco the Dolphin",
+        "url": "https:\/\/citra-emu.org\/game\/3d-ecco-the-dolphin\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "145120": {
+        "name": "Moco Moco Friends",
+        "url": "https:\/\/citra-emu.org\/game\/moco-moco-friends\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "13337": {
+        "name": "Combat of Giants Dinosaurs 3D",
+        "url": "https:\/\/citra-emu.org\/game\/combat-of-giants-dinosaurs-3d\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "148474": {
+        "name": "Balloon Fight",
+        "url": "https:\/\/citra-emu.org\/game\/balloon-fight\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "146617": {
+        "name": "Teenage Mutant Ninja Turtles: Master Splinter's Training Pack",
+        "url": "https:\/\/citra-emu.org\/game\/teenage-mutant-ninja-turtles-master-splinters-training-pack\/",
+        "media": "3DS Game",
+        "compat": "4",
+        "playable": "Intro\/Menu"
+    },
+    "90937": {
+        "name": "SEGA 3D Classics Collection",
+        "url": "https:\/\/citra-emu.org\/game\/sega-3d-classics-collection\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "35054": {
+        "name": "STORY OF SEASONS",
+        "url": "https:\/\/citra-emu.org\/game\/story-of-seasons\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "18032": {
+        "name": "LEGO Marvel Super Heroes: Universe in Peril",
+        "url": "https:\/\/citra-emu.org\/game\/lego-marvel-super-heroes-universe-in-peril\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "148357": {
+        "name": "BIKE RIDER DX2: GALAXY",
+        "url": "https:\/\/citra-emu.org\/game\/bike-rider-dx2-galaxy\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "148031": {
+        "name": "Mini Mario & Friends amiibo Challenge",
+        "url": "https:\/\/citra-emu.org\/game\/mini-mario-and-friends-amiibo-challenge\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "147296": {
+        "name": "Cave Story",
+        "url": "https:\/\/citra-emu.org\/game\/cave-story\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "20685": {
+        "name": "ATTACK OF THE FRIDAY MONSTERS! A TOKYO TALE",
+        "url": "https:\/\/citra-emu.org\/game\/attack-of-the-friday-monsters-a-tokyo-tale\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "127993": {
+        "name": "Detective Pikachu",
+        "url": "https:\/\/citra-emu.org\/game\/detective-pikachu\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "23870": {
+        "name": "Legend of Zelda: Majora\u2019s Mask 3D",
+        "url": "https:\/\/citra-emu.org\/game\/the-legend-of-zelda-majoras-mask-3d\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "94012": {
+        "name": "Legend of Dark Witch",
+        "url": "https:\/\/citra-emu.org\/game\/the-legend-of-dark-witch\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "10864": {
+        "name": "Castlevania: Lords of Shadow - Mirror of Fate",
+        "url": "https:\/\/citra-emu.org\/game\/castlevania-lords-of-shadow-mirror-of-fate\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "150362": {
+        "name": "Asdivine Cross",
+        "url": "https:\/\/citra-emu.org\/game\/asdivine-cross\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "34240": {
+        "name": "Let's Golf! 3D",
+        "url": "https:\/\/citra-emu.org\/game\/lets-golf-3d\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "13188": {
+        "name": "Monster 4x4 3D",
+        "url": "https:\/\/citra-emu.org\/game\/monster-4x4-3d\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "141275": {
+        "name": "River City: Rival Showdown",
+        "url": "https:\/\/citra-emu.org\/game\/river-city-rival-showdown\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "115762": {
+        "name": "Monster Hunter Generations",
+        "url": "https:\/\/citra-emu.org\/game\/monster-hunter-generations\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "149034": {
+        "name": "Lufia: The Legend Returns",
+        "url": "https:\/\/citra-emu.org\/game\/lufia-the-legend-returns\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "126788": {
+        "name": "Harvest Moon: Skytree Village",
+        "url": "https:\/\/citra-emu.org\/game\/harvest-moon-skytree-village\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "30063": {
+        "name": "Ultimate NES Remix",
+        "url": "https:\/\/citra-emu.org\/game\/ultimate-nes-remix\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "200325": {
+        "name": "Drancia Saga",
+        "url": "https:\/\/citra-emu.org\/game\/drancia-saga\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "122365": {
+        "name": "Dragon Quest VII: Fragments of the Forgotten Past",
+        "url": "https:\/\/citra-emu.org\/game\/dragon-quest-vii-fragments-of-the-forgotten-past\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "17216": {
+        "name": "Shin Megami Tensei IV",
+        "url": "https:\/\/citra-emu.org\/game\/shin-megami-tensei-iv\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "148971": {
+        "name": "Jett Rocket II: The Wrath of Taikai",
+        "url": "https:\/\/citra-emu.org\/game\/jett-rocket-ii-the-wrath-of-taikai\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "149451": {
+        "name": "SWORDS & DARKNESS",
+        "url": "https:\/\/citra-emu.org\/game\/swords-and-darkness\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "21467": {
+        "name": "Picdun 2: Witch's Curse",
+        "url": "https:\/\/citra-emu.org\/game\/picdun-2-witchs-curse\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "21212": {
+        "name": "Gunman Clive",
+        "url": "https:\/\/citra-emu.org\/game\/gunman-clive\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "149435": {
+        "name": "Samurai Sword Destiny",
+        "url": "https:\/\/citra-emu.org\/game\/samurai-sword-destiny\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "140418": {
+        "name": "Culdcept Revolt",
+        "url": "https:\/\/citra-emu.org\/game\/culdcept-revolt\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "142344": {
+        "name": "Etrian Odyssey V:  Beyond the Myth",
+        "url": "https:\/\/citra-emu.org\/game\/etrian-odyssey-v-beyond-the-myth\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "12779": {
+        "name": "Sonic Generations",
+        "url": "https:\/\/citra-emu.org\/game\/sonic-generations\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "145156": {
+        "name": "Rodea the Sky Soldier",
+        "url": "https:\/\/citra-emu.org\/game\/rodea-the-sky-soldier\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "148414": {
+        "name": "2048",
+        "url": "https:\/\/citra-emu.org\/game\/2048\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "34961": {
+        "name": "Chibi-Robo! Zip Lash",
+        "url": "https:\/\/citra-emu.org\/game\/chibi-robo-zip-lash\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "13153": {
+        "name": "Style Savvy: Trendsetters",
+        "url": "https:\/\/citra-emu.org\/game\/style-savvy-trendsetters\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "145163": {
+        "name": "Sudoku by Nikoli",
+        "url": "https:\/\/citra-emu.org\/game\/sudoku-by-nikoli\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "24171": {
+        "name": "3D Classics: Xevious",
+        "url": "https:\/\/citra-emu.org\/game\/3d-classics-xevious\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "14076": {
+        "name": "BIT.TRIP SAGA",
+        "url": "https:\/\/citra-emu.org\/game\/bittrip-saga\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "148988": {
+        "name": "KORG M01D",
+        "url": "https:\/\/citra-emu.org\/game\/korg-m01d\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "146918": {
+        "name": "AeternoBlade",
+        "url": "https:\/\/citra-emu.org\/game\/aeternoblade\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "29391": {
+        "name": "Pok\u00e9mon Art Academy",
+        "url": "https:\/\/citra-emu.org\/game\/pokemon-art-academy\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "28909": {
+        "name": "Etrian Mystery Dungeon",
+        "url": "https:\/\/citra-emu.org\/game\/etrian-mystery-dungeon\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "123340": {
+        "name": "Crash City Mayhem",
+        "url": "https:\/\/citra-emu.org\/game\/crash-city-mayhem\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "23603": {
+        "name": "Sonic Boom: Shattered Crystal",
+        "url": "https:\/\/citra-emu.org\/game\/sonic-boom-shattered-crystal\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "12721": {
+        "name": "Rabbids Travel in Time 3D",
+        "url": "https:\/\/citra-emu.org\/game\/rabbids-travel-in-time-3d\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "13000": {
+        "name": "Centipede: Infestation",
+        "url": "https:\/\/citra-emu.org\/game\/centipede-infestation\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "15093": {
+        "name": "Etrian Odyssey IV:  Legends of the Titan",
+        "url": "https:\/\/citra-emu.org\/game\/etrian-odyssey-iv-legends-of-the-titan\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "149321": {
+        "name": "Ninja Usagimaru - The Gem of Blessings -",
+        "url": "https:\/\/citra-emu.org\/game\/ninja-usagimaru-the-gem-of-blessings-\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "21214": {
+        "name": "INAZUMA ELEVEN",
+        "url": "https:\/\/citra-emu.org\/game\/inazuma-eleven\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "12715": {
+        "name": "RAYMAN ORIGINS",
+        "url": "https:\/\/citra-emu.org\/game\/rayman-origins\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "127951": {
+        "name": "Dedede\u2019s Drum Dash Deluxe",
+        "url": "https:\/\/citra-emu.org\/game\/dededes-drum-dash-deluxe\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "108538": {
+        "name": "Legend of Zelda",
+        "url": "https:\/\/citra-emu.org\/game\/the-legend-of-zelda\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "150395": {
+        "name": "80'S OVERDRIVE",
+        "url": "https:\/\/citra-emu.org\/game\/80s-overdrive\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "12781": {
+        "name": "Crush3D",
+        "url": "https:\/\/citra-emu.org\/game\/crush3d\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "147084": {
+        "name": "LEGO Ninjago: Nindroids",
+        "url": "https:\/\/citra-emu.org\/game\/lego-ninjago-nindroids\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "145041": {
+        "name": "Garfield Kart",
+        "url": "https:\/\/citra-emu.org\/game\/garfield-kart\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "143574": {
+        "name": "Asterix The Mansions of the Gods",
+        "url": "https:\/\/citra-emu.org\/game\/asterix-the-mansions-of-the-gods\/",
+        "media": "3DS Game",
+        "compat": "99",
+        "playable": ""
+    },
+    "35273": {
+        "name": "BRAVELY SECOND: END LAYER",
+        "url": "https:\/\/citra-emu.org\/game\/bravely-second-end-layer\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "193468": {
+        "name": "Bonds of the Skies",
+        "url": "https:\/\/citra-emu.org\/game\/bonds-of-the-skies\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "12698": {
+        "name": "Legend of Zelda: Ocarina of Time 3D",
+        "url": "https:\/\/citra-emu.org\/game\/the-legend-of-zelda-ocarina-of-time-3d\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "13182": {
+        "name": "RIDGE RACER 3D",
+        "url": "https:\/\/citra-emu.org\/game\/ridge-racer-3d\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "16735": {
+        "name": "Shin Megami Tensei: Devil Summoner: Soul Hackers",
+        "url": "https:\/\/citra-emu.org\/game\/shin-megami-tensei-devil-summoner-soul-hackers\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "123234": {
+        "name": "Dragon Quest VIII:  Journey of the Cursed King",
+        "url": "https:\/\/citra-emu.org\/game\/dragon-quest-viii-journey-of-the-cursed-king\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "215874": {
+        "name": "I am an Air Traffic Controller Airport Hero Hawaii",
+        "url": "https:\/\/citra-emu.org\/game\/i-am-an-air-traffic-controller-airport-hero-hawaii\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "18473": {
+        "name": "Batman: Arkham Origins Blackgate",
+        "url": "https:\/\/citra-emu.org\/game\/batman-arkham-origins-blackgate\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "215892": {
+        "name": "Legend of Kusakari",
+        "url": "https:\/\/citra-emu.org\/game\/the-legend-of-kusakari\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "127114": {
+        "name": "THE \"DENPA\" MEN 2: Beyond the Waves",
+        "url": "https:\/\/citra-emu.org\/game\/the-denpa-men-2-beyond-the-waves\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "32748": {
+        "name": "YO-KAI WATCH",
+        "url": "https:\/\/citra-emu.org\/game\/yo-kai-watch\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "147313": {
+        "name": "Legend of Dark Witch 2",
+        "url": "https:\/\/citra-emu.org\/game\/the-legend-of-dark-witch-2\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "140423": {
+        "name": "LAYTON'S MYSTERY JOURNEY",
+        "url": "https:\/\/citra-emu.org\/game\/laytons-mystery-journey\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "149030": {
+        "name": "Legend of Zelda: Oracle of Seasons",
+        "url": "https:\/\/citra-emu.org\/game\/the-legend-of-zelda-oracle-of-seasons\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "12790": {
+        "name": "Captain America: Super Soldier",
+        "url": "https:\/\/citra-emu.org\/game\/captain-america-super-soldier\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "138075": {
+        "name": "Skylanders SWAP Force",
+        "url": "https:\/\/citra-emu.org\/game\/skylanders-swap-force\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "148937": {
+        "name": "Fairune2",
+        "url": "https:\/\/citra-emu.org\/game\/fairune2\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "133936": {
+        "name": "Cursed Castilla",
+        "url": "https:\/\/citra-emu.org\/game\/cursed-castilla\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "12876": {
+        "name": "Sonic & All-Stars Racing Transformed",
+        "url": "https:\/\/citra-emu.org\/game\/sonic-and-all-stars-racing-transformed\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "150364": {
+        "name": "Chase Cold Case Investigations ~Distant Memories~",
+        "url": "https:\/\/citra-emu.org\/game\/chase-cold-case-investigations-~distant-memories~\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "12981": {
+        "name": "nintendogs + cats: French Bulldog",
+        "url": "https:\/\/citra-emu.org\/game\/nintendogs-cats-french-bulldog\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "123238": {
+        "name": "Rhythm Heaven Megamix",
+        "url": "https:\/\/citra-emu.org\/game\/rhythm-heaven-megamix\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "18381": {
+        "name": "SENRAN KAGURA Burst",
+        "url": "https:\/\/citra-emu.org\/game\/senran-kagura-burst\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "13815": {
+        "name": "Harvest Moon 3D:  A New Beginning",
+        "url": "https:\/\/citra-emu.org\/game\/harvest-moon-3d-a-new-beginning\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "145561": {
+        "name": "3D Sonic The Hedgehog 2",
+        "url": "https:\/\/citra-emu.org\/game\/3d-sonic-the-hedgehog-2\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "156367": {
+        "name": "Luigi\u2019s Mansion",
+        "url": "https:\/\/citra-emu.org\/game\/luigis-mansion\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "123264": {
+        "name": "Mario vs. Donkey Kong: Tipping Stars",
+        "url": "https:\/\/citra-emu.org\/game\/mario-vs-donkey-kong-tipping-stars\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "13343": {
+        "name": "Cartoon Network Punch Time Explosion",
+        "url": "https:\/\/citra-emu.org\/game\/cartoon-network-punch-time-explosion\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "100068": {
+        "name": "Zero Escape: Zero Time Dilemma",
+        "url": "https:\/\/citra-emu.org\/game\/zero-escape-zero-time-dilemma\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "147560": {
+        "name": "Apollo Justice: Ace Attorney",
+        "url": "https:\/\/citra-emu.org\/game\/apollo-justice-ace-attorney\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "150365": {
+        "name": "Crystareino",
+        "url": "https:\/\/citra-emu.org\/game\/crystareino\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "145044": {
+        "name": "Green Lantern: Rise of the Manhunters",
+        "url": "https:\/\/citra-emu.org\/game\/green-lantern-rise-of-the-manhunters\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "135217": {
+        "name": "BYE-BYE BOXBOY!",
+        "url": "https:\/\/citra-emu.org\/game\/bye-bye-boxboy\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "150376": {
+        "name": "Symphony of Eternity",
+        "url": "https:\/\/citra-emu.org\/game\/symphony-of-eternity\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "149316": {
+        "name": "Mutant Mudds Super Challenge",
+        "url": "https:\/\/citra-emu.org\/game\/mutant-mudds-super-challenge\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "24176": {
+        "name": "3D Streets of Rage",
+        "url": "https:\/\/citra-emu.org\/game\/3d-streets-of-rage\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "13087": {
+        "name": "Art Academy:  Lessons for Everyone!",
+        "url": "https:\/\/citra-emu.org\/game\/art-academy-lessons-for-everyone\/",
+        "media": "3DS Game",
+        "compat": "4",
+        "playable": "Intro\/Menu"
+    },
+    "148923": {
+        "name": "Dragon Fantasy: The Volumes of Westeria",
+        "url": "https:\/\/citra-emu.org\/game\/dragon-fantasy-the-volumes-of-westeria\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "29381": {
+        "name": "Fossil Fighters: Frontier",
+        "url": "https:\/\/citra-emu.org\/game\/fossil-fighters-frontier\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "17109": {
+        "name": "Donkey Kong Country",
+        "url": "https:\/\/citra-emu.org\/game\/donkey-kong-country\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "142437": {
+        "name": "Gotta Protectors",
+        "url": "https:\/\/citra-emu.org\/game\/gotta-protectors\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "154787": {
+        "name": "WarioWare Gold",
+        "url": "https:\/\/citra-emu.org\/game\/warioware-gold\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "153621": {
+        "name": "Cube Creator DX",
+        "url": "https:\/\/citra-emu.org\/game\/cube-creator-dx\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "21219": {
+        "name": "Mutant Mudds",
+        "url": "https:\/\/citra-emu.org\/game\/mutant-mudds\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "12788": {
+        "name": "Thor: God of Thunder",
+        "url": "https:\/\/citra-emu.org\/game\/thor-god-of-thunder\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "174934": {
+        "name": "Chicken Wiggle",
+        "url": "https:\/\/citra-emu.org\/game\/chicken-wiggle\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "15118": {
+        "name": "Madden NFL Football",
+        "url": "https:\/\/citra-emu.org\/game\/madden-nfl-football\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "150563": {
+        "name": "Dragon Sinker",
+        "url": "https:\/\/citra-emu.org\/game\/dragon-sinker\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "18169": {
+        "name": "PAC-MAN and the Ghostly Adventures",
+        "url": "https:\/\/citra-emu.org\/game\/pac-man-and-the-ghostly-adventures\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "27918": {
+        "name": "Xenoblade Chronicles 3D",
+        "url": "https:\/\/citra-emu.org\/game\/xenoblade-chronicles-3d\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "13174": {
+        "name": "Shifting World",
+        "url": "https:\/\/citra-emu.org\/game\/shifting-world\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "20607": {
+        "name": "Tomodachi Life",
+        "url": "https:\/\/citra-emu.org\/game\/tomodachi-life\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "23240": {
+        "name": "Fantasy Life",
+        "url": "https:\/\/citra-emu.org\/game\/fantasy-life\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "154790": {
+        "name": "YO-KAI WATCH  3",
+        "url": "https:\/\/citra-emu.org\/game\/yo-kai-watch-3\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "208769": {
+        "name": "Ping Pong Trick Shot",
+        "url": "https:\/\/citra-emu.org\/game\/ping-pong-trick-shot\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "30836": {
+        "name": "Citizens of Earth",
+        "url": "https:\/\/citra-emu.org\/game\/citizens-of-earth\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "138077": {
+        "name": "Zen Pinball 3D",
+        "url": "https:\/\/citra-emu.org\/game\/zen-pinball-3d\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "21207": {
+        "name": "Art of Balance TOUCH!",
+        "url": "https:\/\/citra-emu.org\/game\/art-of-balance-touch\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "12728": {
+        "name": "Heroes of Ruin",
+        "url": "https:\/\/citra-emu.org\/game\/heroes-of-ruin\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "12719": {
+        "name": "Shinobi",
+        "url": "https:\/\/citra-emu.org\/game\/shinobi\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "146907": {
+        "name": "Binding of Isaac: Rebirth",
+        "url": "https:\/\/citra-emu.org\/game\/the-binding-of-isaac-rebirth\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "215879": {
+        "name": "Jump Trials Supreme",
+        "url": "https:\/\/citra-emu.org\/game\/jump-trials-supreme\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "145020": {
+        "name": "Cloudy With a Chance of Meatballs 2",
+        "url": "https:\/\/citra-emu.org\/game\/cloudy-with-a-chance-of-meatballs-2\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "148975": {
+        "name": "Justice Chronicles",
+        "url": "https:\/\/citra-emu.org\/game\/justice-chronicles\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "20561": {
+        "name": "Professor Layton vs. Phoenix Wright: Ace Attorney",
+        "url": "https:\/\/citra-emu.org\/game\/professor-layton-vs-phoenix-wright-ace-attorney\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "148933": {
+        "name": "Excave",
+        "url": "https:\/\/citra-emu.org\/game\/excave\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "149432": {
+        "name": "Rytmik Ultimate",
+        "url": "https:\/\/citra-emu.org\/game\/rytmik-ultimate\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "23621": {
+        "name": "LEGO Movie Videogame",
+        "url": "https:\/\/citra-emu.org\/game\/the-lego-movie-videogame\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "147843": {
+        "name": "Miitopia",
+        "url": "https:\/\/citra-emu.org\/game\/miitopia\/",
+        "media": "3DS Game",
+        "compat": "4",
+        "playable": "Intro\/Menu"
+    },
+    "13834": {
+        "name": "ACE COMBAT Assault Horizon Legacy",
+        "url": "https:\/\/citra-emu.org\/game\/ace-combat-assault-horizon-legacy\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "107502": {
+        "name": "BOXBOY!",
+        "url": "https:\/\/citra-emu.org\/game\/boxboy\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "34542": {
+        "name": "Puzzle & Dragons Z + Super Mario Bros. Edition",
+        "url": "https:\/\/citra-emu.org\/game\/puzzle-and-dragons-z-super-mario-bros-edition\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "21901": {
+        "name": "Azure Striker GUNVOLT",
+        "url": "https:\/\/citra-emu.org\/game\/azure-striker-gunvolt\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "123763": {
+        "name": "Poochy & Yoshi\u2019s Woolly World",
+        "url": "https:\/\/citra-emu.org\/game\/poochy-and-yoshis-woolly-world\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "13142": {
+        "name": "Skylanders Spyro's Adventure",
+        "url": "https:\/\/citra-emu.org\/game\/skylanders-spyros-adventure\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "150370": {
+        "name": "Legna Tactica",
+        "url": "https:\/\/citra-emu.org\/game\/legna-tactica\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "146621": {
+        "name": "SteamWorld Heist",
+        "url": "https:\/\/citra-emu.org\/game\/steamworld-heist\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "169381": {
+        "name": "Mercenaries Saga 3",
+        "url": "https:\/\/citra-emu.org\/game\/mercenaries-saga-3\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "14459": {
+        "name": "Fire Emblem Awakening",
+        "url": "https:\/\/citra-emu.org\/game\/fire-emblem-awakening\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "12692": {
+        "name": "Resident Evil Revelations",
+        "url": "https:\/\/citra-emu.org\/game\/resident-evil-revelations\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "34423": {
+        "name": "Kirby Fighters Deluxe",
+        "url": "https:\/\/citra-emu.org\/game\/kirby-fighters-deluxe\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "144192": {
+        "name": "Azure Striker GUNVOLT 2",
+        "url": "https:\/\/citra-emu.org\/game\/azure-striker-gunvolt-2\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "123896": {
+        "name": "Pok\u00e9mon Battle Trozei",
+        "url": "https:\/\/citra-emu.org\/game\/pokemon-battle-trozei\/",
+        "media": "3DS Game",
+        "compat": "99",
+        "playable": ""
+    },
+    "123389": {
+        "name": "Legend of Legacy",
+        "url": "https:\/\/citra-emu.org\/game\/the-legend-of-legacy\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "139637": {
+        "name": "Mario Party: The Top 100",
+        "url": "https:\/\/citra-emu.org\/game\/mario-party-the-top-100\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "115616": {
+        "name": "MIGHTY GUNVOLT",
+        "url": "https:\/\/citra-emu.org\/game\/mighty-gunvolt\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "150363": {
+        "name": "Brave Dungeon",
+        "url": "https:\/\/citra-emu.org\/game\/brave-dungeon\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "138554": {
+        "name": "Pok\u00e9mon Ultra Moon",
+        "url": "https:\/\/citra-emu.org\/game\/pokemon-ultra-moon\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "17019": {
+        "name": "Animal Crossing: New Leaf Welcome amiibo",
+        "url": "https:\/\/citra-emu.org\/game\/animal-crossing-new-leaf-welcome-amiibo\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "21466": {
+        "name": "Nano Assault EX",
+        "url": "https:\/\/citra-emu.org\/game\/nano-assault-ex\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "12720": {
+        "name": "Rabbids Rumble",
+        "url": "https:\/\/citra-emu.org\/game\/rabbids-rumble\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "12993": {
+        "name": "Zero Escape:  Virtue's Last Reward",
+        "url": "https:\/\/citra-emu.org\/game\/zero-escape-virtues-last-reward\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "15158": {
+        "name": "TEKKEN 3D Prime Edition",
+        "url": "https:\/\/citra-emu.org\/game\/tekken-3d-prime-edition\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "127117": {
+        "name": "escapeVektor",
+        "url": "https:\/\/citra-emu.org\/game\/escapevektor\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "148470": {
+        "name": "Aqua Moto Racing 3D",
+        "url": "https:\/\/citra-emu.org\/game\/aqua-moto-racing-3d\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "138231": {
+        "name": "PICROSS e4",
+        "url": "https:\/\/citra-emu.org\/game\/picross-e4\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "127116": {
+        "name": "THE \"DENPA\" MEN 3 The Rise of Digitoll",
+        "url": "https:\/\/citra-emu.org\/game\/the-denpa-men-3-the-rise-of-digitoll\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "21560": {
+        "name": "VVVVVV",
+        "url": "https:\/\/citra-emu.org\/game\/vvvvvv\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "148354": {
+        "name": "RPG Maker Fes",
+        "url": "https:\/\/citra-emu.org\/game\/rpg-maker-fes\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "156248": {
+        "name": "Jake Hunter Detective Story:   Ghost of the Dusk",
+        "url": "https:\/\/citra-emu.org\/game\/jake-hunter-detective-story-ghost-of-the-dusk\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "141276": {
+        "name": "River City: Knights of Justice",
+        "url": "https:\/\/citra-emu.org\/game\/river-city-knights-of-justice\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "132649": {
+        "name": "Hey! Pikmin",
+        "url": "https:\/\/citra-emu.org\/game\/hey-pikmin\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "25632": {
+        "name": "Monster Hunter 4 Ultimate",
+        "url": "https:\/\/citra-emu.org\/game\/monster-hunter-4-ultimate\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "13338": {
+        "name": "SAMURAI WARRIORS: Chronicles",
+        "url": "https:\/\/citra-emu.org\/game\/samurai-warriors-chronicles\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    },
+    "215933": {
+        "name": "Parascientific Escape  - Gear Detective",
+        "url": "https:\/\/citra-emu.org\/game\/parascientific-escape-gear-detective\/",
+        "media": "3DS Game",
+        "compat": "0",
+        "playable": "Perfect"
+    },
+    "124901": {
+        "name": "Sonic Boom: Fire & Ice",
+        "url": "https:\/\/citra-emu.org\/game\/sonic-boom-fire-and-ice\/",
+        "media": "3DS Game",
+        "compat": "2",
+        "playable": "Okay"
+    },
+    "123395": {
+        "name": "Super Mario Maker for Nintendo 3DS",
+        "url": "https:\/\/citra-emu.org\/game\/super-mario-maker-for-nintendo-3ds\/",
+        "media": "3DS Game",
+        "compat": "3",
+        "playable": "Bad"
+    },
+    "21465": {
+        "name": "Fun! Fun! Minigolf TOUCH!",
+        "url": "https:\/\/citra-emu.org\/game\/fun-fun-minigolf-touch\/",
+        "media": "3DS Game",
+        "compat": "1",
+        "playable": "Great"
+    }
+}

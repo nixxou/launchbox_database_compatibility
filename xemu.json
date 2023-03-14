@@ -1,0 +1,4522 @@
+{
+    "16801": {
+        "name": "Silent Hill 4: The Room",
+        "url": "https:\/\/xemu.app\/titles\/4b4e001f#Silent-Hill-4-The-Room",
+        "playable": "Playable"
+    },
+    "158121": {
+        "name": "N.U.D.E.@: Natural Ultimate Digital Experiment",
+        "url": "https:\/\/xemu.app\/titles\/4d53003c#N-U-D-E-Natural-Ultimate-Digital-Experiment",
+        "playable": "Intro"
+    },
+    "28514": {
+        "name": "Vietcong: Purple Haze",
+        "url": "https:\/\/xemu.app\/titles\/5454000a#Vietcong-Purple-Haze",
+        "playable": "Playable"
+    },
+    "6029": {
+        "name": "Conker: Live & Reloaded",
+        "url": "https:\/\/xemu.app\/titles\/4d530051#Conker-Live-Reloaded",
+        "playable": "Playable"
+    },
+    "8066": {
+        "name": "Teenage Mutant Ninja Turtles 2: Battle Nexus",
+        "url": "https:\/\/xemu.app\/titles\/4b4e0023#Teenage-Mutant-Ninja-Turtles-2-Battle-Nexus",
+        "playable": "Playable"
+    },
+    "160250": {
+        "name": "Sentou Yousei Yukikaze: Yousei no Mau Sora",
+        "url": "https:\/\/xemu.app\/titles\/41510003#Sentou-Yousei-Yukikaze-Yousei-no-Mau-Sora",
+        "playable": "Starts"
+    },
+    "154244": {
+        "name": "World Series Baseball 2K3",
+        "url": "https:\/\/xemu.app\/titles\/5345001a#World-Series-Baseball-2K3",
+        "playable": "Starts"
+    },
+    "169418": {
+        "name": "Ski Racing 2005",
+        "url": "https:\/\/xemu.app\/titles\/4a570005#Ski-Racing-2005",
+        "playable": "Playable"
+    },
+    "153839": {
+        "name": "Trivial Pursuit: Unhinged",
+        "url": "https:\/\/xemu.app\/titles\/4947003d#Trivial-Pursuit-Unhinged",
+        "playable": "Playable"
+    },
+    "6191": {
+        "name": "Sid Meier's Pirates!",
+        "url": "https:\/\/xemu.app\/titles\/5454008f#Sid-Meier-s-Pirates",
+        "playable": "Playable"
+    },
+    "153861": {
+        "name": "World Racing",
+        "url": "https:\/\/xemu.app\/titles\/544d0005#World-Racing",
+        "playable": "Playable"
+    },
+    "17396": {
+        "name": "All-Star Baseball 2003 featuring Derek Jeter",
+        "url": "https:\/\/xemu.app\/titles\/41430002#All-Star-Baseball-2003-featuring-Derek-Jeter",
+        "playable": "Playable"
+    },
+    "153809": {
+        "name": "Pump It Up: Exceed",
+        "url": "https:\/\/xemu.app\/titles\/41440002#Pump-It-Up-Exceed",
+        "playable": "Playable"
+    },
+    "28464": {
+        "name": "Fantastic 4",
+        "url": "https:\/\/xemu.app\/titles\/4156001a#Fantastic-4",
+        "playable": "Starts"
+    },
+    "22703": {
+        "name": "Just Cause",
+        "url": "https:\/\/xemu.app\/titles\/534300fb#Just-Cause",
+        "playable": "Playable"
+    },
+    "18385": {
+        "name": "Half-Life 2",
+        "url": "https:\/\/xemu.app\/titles\/45410091#Half-Life-2",
+        "playable": "Starts"
+    },
+    "109457": {
+        "name": "World Series of Poker",
+        "url": "https:\/\/xemu.app\/titles\/41560054#World-Series-of-Poker",
+        "playable": "Playable"
+    },
+    "29408": {
+        "name": "Colin McRae Rally 3",
+        "url": "https:\/\/xemu.app\/titles\/434d0001#Colin-McRae-Rally-3",
+        "playable": "Playable"
+    },
+    "8040": {
+        "name": "RLH: Run Like Hell",
+        "url": "https:\/\/xemu.app\/titles\/49500006#RLH-Run-Like-Hell",
+        "playable": "Playable"
+    },
+    "23297": {
+        "name": "Goblin Commander: Unleash the Horde",
+        "url": "https:\/\/xemu.app\/titles\/4a410005#Goblin-Commander-Unleash-the-Horde",
+        "playable": "Playable"
+    },
+    "5987": {
+        "name": "Big Bumpin'",
+        "url": "https:\/\/xemu.app\/titles\/4d5300d2#Big-Bumpin",
+        "playable": "Playable"
+    },
+    "28456": {
+        "name": "Disney's Chicken Little",
+        "url": "https:\/\/xemu.app\/titles\/42560002#Disney-s-Chicken-Little",
+        "playable": "Playable"
+    },
+    "154110": {
+        "name": "NASCAR 06: Total Team Control",
+        "url": "https:\/\/xemu.app\/titles\/4541008b#NASCAR-06-Total-Team-Control",
+        "playable": "Starts"
+    },
+    "6198": {
+        "name": "Star Wars: Battlefront",
+        "url": "https:\/\/xemu.app\/titles\/4c410011#Star-Wars-Battlefront",
+        "playable": "Perfect"
+    },
+    "153823": {
+        "name": "Madden NFL 2004",
+        "url": "https:\/\/xemu.app\/titles\/45410036#Madden-NFL-2004",
+        "playable": "Playable"
+    },
+    "6036": {
+        "name": "Curse: The Eye of Isis",
+        "url": "https:\/\/xemu.app\/titles\/57450005#Curse-The-Eye-of-Isis",
+        "playable": "Playable"
+    },
+    "29412": {
+        "name": "Mashed: Fully Loaded",
+        "url": "https:\/\/xemu.app\/titles\/454d001b#Mashed-Fully-Loaded",
+        "playable": "Playable"
+    },
+    "24988": {
+        "name": "TY the Tasmanian Tiger 2: Bush Rescue",
+        "url": "https:\/\/xemu.app\/titles\/45410063#TY-the-Tasmanian-Tiger-2-Bush-Rescue",
+        "playable": "Playable"
+    },
+    "154015": {
+        "name": "Frogger: Ancient Shadow",
+        "url": "https:\/\/xemu.app\/titles\/4b4e002c#Frogger-Ancient-Shadow",
+        "playable": "Playable"
+    },
+    "7986": {
+        "name": "Kabuki Warriors",
+        "url": "https:\/\/xemu.app\/titles\/43560001#Kabuki-Warriors",
+        "playable": "Playable"
+    },
+    "6187": {
+        "name": "Scarface: The World Is Yours",
+        "url": "https:\/\/xemu.app\/titles\/5655003f#Scarface-The-World-Is-Yours",
+        "playable": "Playable"
+    },
+    "202288": {
+        "name": "Micro Machines",
+        "url": "https:\/\/xemu.app\/titles\/4947001c#Micro-Machines",
+        "playable": "Playable"
+    },
+    "23904": {
+        "name": "Raze's Hell",
+        "url": "https:\/\/xemu.app\/titles\/4d4a0011#Raze-s-Hell",
+        "playable": "Playable"
+    },
+    "24307": {
+        "name": "Toxic Grind",
+        "url": "https:\/\/xemu.app\/titles\/54510007#Toxic-Grind",
+        "playable": "Playable"
+    },
+    "6027": {
+        "name": "Conflict: Global Storm",
+        "url": "https:\/\/xemu.app\/titles\/5343000c#Conflict-Global-Storm",
+        "playable": "Playable"
+    },
+    "8029": {
+        "name": "Night Caster: Defeat the Darkness",
+        "url": "https:\/\/xemu.app\/titles\/4d530008#Night-Caster-Defeat-the-Darkness",
+        "playable": "Starts"
+    },
+    "28479": {
+        "name": "MTV Celebrity Deathmatch",
+        "url": "https:\/\/xemu.app\/titles\/5454000b#MTV-Celebrity-Deathmatch",
+        "playable": "Playable"
+    },
+    "163506": {
+        "name": "Star Trek: Shattered Universe",
+        "url": "https:\/\/xemu.app\/titles\/544d0010#Star-Trek-Shattered-Universe",
+        "playable": "Playable"
+    },
+    "8053": {
+        "name": "Still Life",
+        "url": "https:\/\/xemu.app\/titles\/4d49000b#Still-Life",
+        "playable": "Perfect"
+    },
+    "167638": {
+        "name": "NFL Street",
+        "url": "https:\/\/xemu.app\/titles\/45410048#NFL-Street",
+        "playable": "Playable"
+    },
+    "153789": {
+        "name": "Night Caster II: Equinox",
+        "url": "https:\/\/xemu.app\/titles\/4a410002#Night-Caster-II-Equinox",
+        "playable": "Intro"
+    },
+    "163555": {
+        "name": "SX Superstar",
+        "url": "https:\/\/xemu.app\/titles\/41430010#SX-Superstar",
+        "playable": "Playable"
+    },
+    "6106": {
+        "name": "Otogi: Myth of Demons",
+        "url": "https:\/\/xemu.app\/titles\/46530002#Otogi-Myth-of-Demons",
+        "playable": "Starts"
+    },
+    "93389": {
+        "name": "Dead or Alive 1 Ultimate",
+        "url": "https:\/\/xemu.app\/titles\/54430006#Dead-or-Alive-1-Ultimate",
+        "playable": "Playable"
+    },
+    "4257": {
+        "name": "Area 51",
+        "url": "https:\/\/xemu.app\/titles\/4d570005#Area-51",
+        "playable": "Playable"
+    },
+    "13959": {
+        "name": "Syberia II",
+        "url": "https:\/\/xemu.app\/titles\/4d490008#Syberia-II",
+        "playable": "Playable"
+    },
+    "8002": {
+        "name": "The Lord of the Rings: The Fellowship of the Ring",
+        "url": "https:\/\/xemu.app\/titles\/56550004#The-Lord-of-the-Rings-The-Fellowship-of-the-Ring",
+        "playable": "Playable"
+    },
+    "5978": {
+        "name": "Backyard Wrestling: Don't Try This at Home",
+        "url": "https:\/\/xemu.app\/titles\/4553000d#Backyard-Wrestling-Don-t-Try-This-at-Home",
+        "playable": "Playable"
+    },
+    "17036": {
+        "name": "Shrek 2",
+        "url": "https:\/\/xemu.app\/titles\/41560037#Shrek-2",
+        "playable": "Playable"
+    },
+    "30255": {
+        "name": "Crimson Skies: High Road to Revenge",
+        "url": "https:\/\/xemu.app\/titles\/4d530021#Crimson-Skies-High-Road-to-Revenge",
+        "playable": "Playable"
+    },
+    "153764": {
+        "name": "MotoGP 2",
+        "url": "https:\/\/xemu.app\/titles\/54510016#MotoGP-2",
+        "playable": "Starts"
+    },
+    "158122": {
+        "name": "Nobunaga no Yabou: Ranseiki",
+        "url": "https:\/\/xemu.app\/titles\/4b4f0001#Nobunaga-no-Yabou-Ranseiki",
+        "playable": "Playable"
+    },
+    "158109": {
+        "name": "Cabela's Big Game Hunter 2005 Adventures",
+        "url": "https:\/\/xemu.app\/titles\/4156003e#Cabela-s-Big-Game-Hunter-2005-Adventures",
+        "playable": "Playable"
+    },
+    "28466": {
+        "name": "FIFA Soccer 2003",
+        "url": "https:\/\/xemu.app\/titles\/45410017#FIFA-Soccer-2003",
+        "playable": "Playable"
+    },
+    "183666": {
+        "name": "FILA World Tour Tennis",
+        "url": "https:\/\/xemu.app\/titles\/54510009#FILA-World-Tour-Tennis",
+        "playable": "Playable"
+    },
+    "163503": {
+        "name": "V-Rally 3",
+        "url": "https:\/\/xemu.app\/titles\/49470034#V-Rally-3",
+        "playable": "Starts"
+    },
+    "13028": {
+        "name": "The Dukes of Hazzard: Return of the General Lee",
+        "url": "https:\/\/xemu.app\/titles\/5553003a#The-Dukes-of-Hazzard-Return-of-the-General-Lee",
+        "playable": "Playable"
+    },
+    "95295": {
+        "name": "NASCAR Thunder 2003",
+        "url": "https:\/\/xemu.app\/titles\/4541001b#NASCAR-Thunder-2003",
+        "playable": "Playable"
+    },
+    "6120": {
+        "name": "Return to Castle Wolfenstein: Tides of War",
+        "url": "https:\/\/xemu.app\/titles\/41560010#Return-to-Castle-Wolfenstein-Tides-of-War",
+        "playable": "Playable"
+    },
+    "95300": {
+        "name": "Tiger Woods PGA Tour 2003",
+        "url": "https:\/\/xemu.app\/titles\/45410021#Tiger-Woods-PGA-Tour-2003",
+        "playable": "Playable"
+    },
+    "6008": {
+        "name": "Buffy the Vampire Slayer: Chaos Bleeds",
+        "url": "https:\/\/xemu.app\/titles\/56550005#Buffy-the-Vampire-Slayer-Chaos-Bleeds",
+        "playable": "Playable"
+    },
+    "29411": {
+        "name": "RalliSport Challenge",
+        "url": "https:\/\/xemu.app\/titles\/4d53000f#RalliSport-Challenge",
+        "playable": "Playable"
+    },
+    "153794": {
+        "name": "Open Season",
+        "url": "https:\/\/xemu.app\/titles\/55530061#Open-Season",
+        "playable": "Playable"
+    },
+    "14583": {
+        "name": "NASCAR 2005: Chase for the Cup",
+        "url": "https:\/\/xemu.app\/titles\/45410053#NASCAR-2005-Chase-for-the-Cup",
+        "playable": "Playable"
+    },
+    "153775": {
+        "name": "NBA Live 2003",
+        "url": "https:\/\/xemu.app\/titles\/4541001c#NBA-Live-2003",
+        "playable": "Playable"
+    },
+    "6217": {
+        "name": "Lara Croft Tomb Raider: Legend",
+        "url": "https:\/\/xemu.app\/titles\/534300fd#Lara-Croft-Tomb-Raider-Legend",
+        "playable": "Starts"
+    },
+    "24286": {
+        "name": "Broken Sword: The Sleeping Dragon",
+        "url": "https:\/\/xemu.app\/titles\/5451001d#Broken-Sword-The-Sleeping-Dragon",
+        "playable": "Playable"
+    },
+    "35102": {
+        "name": "Dr. Muto",
+        "url": "https:\/\/xemu.app\/titles\/4d570011#Dr-Muto",
+        "playable": "Playable"
+    },
+    "6089": {
+        "name": "Marvel vs. Capcom 2: New Age of Heroes",
+        "url": "https:\/\/xemu.app\/titles\/43430007#Marvel-vs-Capcom-2-New-Age-of-Heroes",
+        "playable": "Playable"
+    },
+    "158107": {
+        "name": "Bistro Cupid 2",
+        "url": "https:\/\/xemu.app\/titles\/53550008#Bistro-Cupid-2",
+        "playable": "Playable"
+    },
+    "18373": {
+        "name": "Super Monkey Ball Deluxe",
+        "url": "https:\/\/xemu.app\/titles\/53450038#Super-Monkey-Ball-Deluxe",
+        "playable": "Playable"
+    },
+    "6006": {
+        "name": "Brute Force",
+        "url": "https:\/\/xemu.app\/titles\/4d53001e#Brute-Force",
+        "playable": "Playable"
+    },
+    "153763": {
+        "name": "Motocross Mania 3",
+        "url": "https:\/\/xemu.app\/titles\/54540015#Motocross-Mania-3",
+        "playable": "Playable"
+    },
+    "8057": {
+        "name": "Super Bubble Pop",
+        "url": "https:\/\/xemu.app\/titles\/4a410004#Super-Bubble-Pop",
+        "playable": "Perfect"
+    },
+    "20177": {
+        "name": "World Soccer Winning Eleven 9",
+        "url": "https:\/\/xemu.app\/titles\/4b4e002f#World-Soccer-Winning-Eleven-9",
+        "playable": "Playable"
+    },
+    "6068": {
+        "name": "Freedom Fighters",
+        "url": "https:\/\/xemu.app\/titles\/4541002a#Freedom-Fighters",
+        "playable": "Playable"
+    },
+    "13506": {
+        "name": "Tim Burton's The Nightmare Before Christmas: Oogie's Revenge",
+        "url": "https:\/\/xemu.app\/titles\/42560004#Tim-Burton-s-The-Nightmare-Before-Christmas-Oogie-s-Revenge",
+        "playable": "Starts"
+    },
+    "154029": {
+        "name": "NBA 2K6",
+        "url": "https:\/\/xemu.app\/titles\/54540090#NBA-2K6",
+        "playable": "Playable"
+    },
+    "8565": {
+        "name": "ESPN College Hoops 2K5",
+        "url": "https:\/\/xemu.app\/titles\/53450033#ESPN-College-Hoops-2K5",
+        "playable": "Playable"
+    },
+    "153770": {
+        "name": "NBA 2K2",
+        "url": "https:\/\/xemu.app\/titles\/53450002#NBA-2K2",
+        "playable": "Playable"
+    },
+    "8017": {
+        "name": "Metal Gear Solid 2: Substance",
+        "url": "https:\/\/xemu.app\/titles\/4b4e0007#Metal-Gear-Solid-2-Substance",
+        "playable": "Playable"
+    },
+    "8006": {
+        "name": "Mace Griffin: Bounty Hunter",
+        "url": "https:\/\/xemu.app\/titles\/56550018#Mace-Griffin-Bounty-Hunter",
+        "playable": "Playable"
+    },
+    "6051": {
+        "name": "Doom 3: Resurrection of Evil",
+        "url": "https:\/\/xemu.app\/titles\/4156004e#Doom-3-Resurrection-of-Evil",
+        "playable": "Playable"
+    },
+    "163523": {
+        "name": "Ultimate Pro Pinball",
+        "url": "https:\/\/xemu.app\/titles\/454d001d#Ultimate-Pro-Pinball",
+        "playable": "Playable"
+    },
+    "8069": {
+        "name": "Trigger Man",
+        "url": "https:\/\/xemu.app\/titles\/43560009#Trigger-Man",
+        "playable": "Starts"
+    },
+    "171014": {
+        "name": "Dinosaur Hunting: Ushinawareta Daichi",
+        "url": "https:\/\/xemu.app\/titles\/4d530069#Dinosaur-Hunting-Ushinawareta-Daichi",
+        "playable": "Playable"
+    },
+    "153830": {
+        "name": "Speed Kings",
+        "url": "https:\/\/xemu.app\/titles\/4143000b#Speed-Kings",
+        "playable": "Playable"
+    },
+    "6050": {
+        "name": "Doom 3",
+        "url": "https:\/\/xemu.app\/titles\/41560020#Doom-3",
+        "playable": "Playable"
+    },
+    "34737": {
+        "name": "Antz Extreme Racing",
+        "url": "https:\/\/xemu.app\/titles\/454d0001#Antz-Extreme-Racing",
+        "playable": "Starts"
+    },
+    "8324": {
+        "name": "Crash Bandicoot: The Wrath of Cortex",
+        "url": "https:\/\/xemu.app\/titles\/56550003#Crash-Bandicoot-The-Wrath-of-Cortex",
+        "playable": "Playable"
+    },
+    "158176": {
+        "name": "Umezawa Yukari no Igo Seminar",
+        "url": "https:\/\/xemu.app\/titles\/53550003#Umezawa-Yukari-no-Igo-Seminar",
+        "playable": "Perfect"
+    },
+    "5937": {
+        "name": "Advent Rising",
+        "url": "https:\/\/xemu.app\/titles\/4d4a0009#Advent-Rising",
+        "playable": "Playable"
+    },
+    "204196": {
+        "name": "Shikigami no Shiro Evolution",
+        "url": "https:\/\/xemu.app\/titles\/4b490001#Shikigami-no-Shiro-Evolution",
+        "playable": "Playable"
+    },
+    "24306": {
+        "name": "TOCA Race Driver 3",
+        "url": "https:\/\/xemu.app\/titles\/434d0050#TOCA-Race-Driver-3",
+        "playable": "Playable"
+    },
+    "8071": {
+        "name": "True Crime: Streets of LA",
+        "url": "https:\/\/xemu.app\/titles\/4156000e#True-Crime-Streets-of-LA",
+        "playable": "Playable"
+    },
+    "154214": {
+        "name": "World Racing 2",
+        "url": "https:\/\/xemu.app\/titles\/544d0012#World-Racing-2",
+        "playable": "Playable"
+    },
+    "158113": {
+        "name": "Greg Hastings' Tournament Paintball Max'd",
+        "url": "https:\/\/xemu.app\/titles\/41560057#Greg-Hastings-Tournament-Paintball-Max-d",
+        "playable": "Playable"
+    },
+    "21439": {
+        "name": "Indiana Jones and the Emperor's Tomb",
+        "url": "https:\/\/xemu.app\/titles\/4c410007#Indiana-Jones-and-the-Emperor-s-Tomb",
+        "playable": "Playable"
+    },
+    "5948": {
+        "name": "AMF Bowling 2004",
+        "url": "https:\/\/xemu.app\/titles\/42530009#AMF-Bowling-2004",
+        "playable": "Playable"
+    },
+    "24986": {
+        "name": "TransWorld Surf",
+        "url": "https:\/\/xemu.app\/titles\/49470005#TransWorld-Surf",
+        "playable": "Playable"
+    },
+    "6055": {
+        "name": "Fable (Limited Edition Bonus DVD)",
+        "url": "https:\/\/xemu.app\/titles\/4d530080#Fable-Limited-Edition-Bonus-DVD",
+        "playable": "Playable"
+    },
+    "129994": {
+        "name": "Rugby 2005",
+        "url": "https:\/\/xemu.app\/titles\/45410061#Rugby-2005",
+        "playable": "Playable"
+    },
+    "10604": {
+        "name": "The King of Fighters 2002",
+        "url": "https:\/\/xemu.app\/titles\/534e0006#The-King-of-Fighters-2002",
+        "playable": "Starts"
+    },
+    "169695": {
+        "name": "Flight Academy",
+        "url": "https:\/\/xemu.app\/titles\/41510002#Flight-Academy",
+        "playable": "Intro"
+    },
+    "30337": {
+        "name": "Ricky Ponting International Cricket 2005",
+        "url": "https:\/\/xemu.app\/titles\/434d0057#Ricky-Ponting-International-Cricket-2005",
+        "playable": "Playable"
+    },
+    "15209": {
+        "name": "Mega Man Anniversary Collection",
+        "url": "https:\/\/xemu.app\/titles\/43430011#Mega-Man-Anniversary-Collection",
+        "playable": "Playable"
+    },
+    "162162": {
+        "name": "College Hoops 2K7",
+        "url": "https:\/\/xemu.app\/titles\/545400af#College-Hoops-2K7",
+        "playable": "Playable"
+    },
+    "16044": {
+        "name": "NHL 2K7",
+        "url": "https:\/\/xemu.app\/titles\/545400ad#NHL-2K7",
+        "playable": "Playable"
+    },
+    "91181": {
+        "name": "Kakuto Chojin",
+        "url": "https:\/\/xemu.app\/titles\/4d53000c#Kakuto-Chojin",
+        "playable": "Playable"
+    },
+    "14581": {
+        "name": "Top Spin",
+        "url": "https:\/\/xemu.app\/titles\/4d530035#Top-Spin",
+        "playable": "Starts"
+    },
+    "213536": {
+        "name": "Shikigami no Shiro II",
+        "url": "https:\/\/xemu.app\/titles\/4b490002#Shikigami-no-Shiro-II",
+        "playable": "Playable"
+    },
+    "95284": {
+        "name": "Breeders' Cup: World Thoroughbred Championships",
+        "url": "https:\/\/xemu.app\/titles\/42530012#Breeders-Cup-World-Thoroughbred-Championships",
+        "playable": "Playable"
+    },
+    "28497": {
+        "name": "SpyHunter 2",
+        "url": "https:\/\/xemu.app\/titles\/4d57001b#SpyHunter-2",
+        "playable": "Playable"
+    },
+    "6195": {
+        "name": "Spider-Man 2",
+        "url": "https:\/\/xemu.app\/titles\/4156002b#Spider-Man-2",
+        "playable": "Playable"
+    },
+    "3368": {
+        "name": "Phantasy Star Online Episode I & II",
+        "url": "https:\/\/xemu.app\/titles\/4d53004a#Phantasy-Star-Online-Episode-I-II",
+        "playable": "Starts"
+    },
+    "153778": {
+        "name": "NCAA College Basketball 2K3",
+        "url": "https:\/\/xemu.app\/titles\/53450018#NCAA-College-Basketball-2K3",
+        "playable": "Playable"
+    },
+    "33352": {
+        "name": "Street Fighter Anniversary Collection",
+        "url": "https:\/\/xemu.app\/titles\/4343000f#Street-Fighter-Anniversary-Collection",
+        "playable": "Playable"
+    },
+    "6052": {
+        "name": "Dragon Ball Z: Sagas",
+        "url": "https:\/\/xemu.app\/titles\/4947007a#Dragon-Ball-Z-Sagas",
+        "playable": "Playable"
+    },
+    "18377": {
+        "name": "Prisoner of War",
+        "url": "https:\/\/xemu.app\/titles\/434d0008#Prisoner-of-War",
+        "playable": "Starts"
+    },
+    "6028": {
+        "name": "Conflict: Vietnam",
+        "url": "https:\/\/xemu.app\/titles\/5343000a#Conflict-Vietnam",
+        "playable": "Playable"
+    },
+    "158106": {
+        "name": "Bistro Cupid",
+        "url": "https:\/\/xemu.app\/titles\/53550001#Bistro-Cupid",
+        "playable": "Playable"
+    },
+    "24157": {
+        "name": "NFL Head Coach",
+        "url": "https:\/\/xemu.app\/titles\/4541008e#NFL-Head-Coach",
+        "playable": "Playable"
+    },
+    "7990": {
+        "name": "Legends of Wrestling",
+        "url": "https:\/\/xemu.app\/titles\/41430003#Legends-of-Wrestling",
+        "playable": "Playable"
+    },
+    "14117": {
+        "name": "Midway Arcade Treasures 2",
+        "url": "https:\/\/xemu.app\/titles\/4d570020#Midway-Arcade-Treasures-2",
+        "playable": "Playable"
+    },
+    "24971": {
+        "name": "The Guy Game",
+        "url": "https:\/\/xemu.app\/titles\/5454007b#The-Guy-Game",
+        "playable": "Playable"
+    },
+    "34742": {
+        "name": "Charlie and the Chocolate Factory",
+        "url": "https:\/\/xemu.app\/titles\/54540081#Charlie-and-the-Chocolate-Factory",
+        "playable": "Playable"
+    },
+    "23750": {
+        "name": "The Urbz: Sims in the City",
+        "url": "https:\/\/xemu.app\/titles\/45410060#The-Urbz-Sims-in-the-City",
+        "playable": "Playable"
+    },
+    "153781": {
+        "name": "NCAA March Madness 06",
+        "url": "https:\/\/xemu.app\/titles\/45410090#NCAA-March-Madness-06",
+        "playable": "Playable"
+    },
+    "13776": {
+        "name": "The Sims: Bustin' Out",
+        "url": "https:\/\/xemu.app\/titles\/45410043#The-Sims-Bustin-Out",
+        "playable": "Playable"
+    },
+    "6109": {
+        "name": "Outlaw Volleyball",
+        "url": "https:\/\/xemu.app\/titles\/53530003#Outlaw-Volleyball",
+        "playable": "Playable"
+    },
+    "6070": {
+        "name": "Fuzion Frenzy",
+        "url": "https:\/\/xemu.app\/titles\/4d530002#Fuzion-Frenzy",
+        "playable": "Playable"
+    },
+    "29026": {
+        "name": "Club Football 2005",
+        "url": "https:\/\/xemu.app\/titles\/434d003f#Club-Football-2005",
+        "playable": "Playable"
+    },
+    "204195": {
+        "name": "Major League Baseball 2K5",
+        "url": "https:\/\/xemu.app\/titles\/53450037#Major-League-Baseball-2K5",
+        "playable": "Starts"
+    },
+    "95720": {
+        "name": "High Rollers Casino",
+        "url": "https:\/\/xemu.app\/titles\/4253000f#High-Rollers-Casino",
+        "playable": "Perfect"
+    },
+    "6017": {
+        "name": "Call of Duty 2: Big Red One",
+        "url": "https:\/\/xemu.app\/titles\/41560051#Call-of-Duty-2-Big-Red-One",
+        "playable": "Playable"
+    },
+    "153777": {
+        "name": "NBA Starting Five",
+        "url": "https:\/\/xemu.app\/titles\/4b4e0012#NBA-Starting-Five",
+        "playable": "Playable"
+    },
+    "5919": {
+        "name": "25 to Life",
+        "url": "https:\/\/xemu.app\/titles\/45530018#25-to-Life",
+        "playable": "Playable"
+    },
+    "24992": {
+        "name": "AFL Live 2004",
+        "url": "https:\/\/xemu.app\/titles\/4143001b#AFL-Live-2004",
+        "playable": "Playable"
+    },
+    "95296": {
+        "name": "Rapala Pro Fishing",
+        "url": "https:\/\/xemu.app\/titles\/4156003a#Rapala-Pro-Fishing",
+        "playable": "Playable"
+    },
+    "6073": {
+        "name": "Godzilla: Save the Earth",
+        "url": "https:\/\/xemu.app\/titles\/49470073#Godzilla-Save-the-Earth",
+        "playable": "Playable"
+    },
+    "176675": {
+        "name": "Nakajima Tetsuya no Othello Seminar",
+        "url": "https:\/\/xemu.app\/titles\/53550002#Nakajima-Tetsuya-no-Othello-Seminar",
+        "playable": "Playable"
+    },
+    "153921": {
+        "name": "Motor Trend Presents Lotus Challenge",
+        "url": "https:\/\/xemu.app\/titles\/58490005#Motor-Trend-Presents-Lotus-Challenge",
+        "playable": "Playable"
+    },
+    "187476": {
+        "name": "Combat: Task Force 121",
+        "url": "https:\/\/xemu.app\/titles\/47560003#Combat-Task-Force-121",
+        "playable": "Playable"
+    },
+    "162155": {
+        "name": "Championship Manager 2006",
+        "url": "https:\/\/xemu.app\/titles\/53430100#Championship-Manager-2006",
+        "playable": "Playable"
+    },
+    "24968": {
+        "name": "Test Drive",
+        "url": "https:\/\/xemu.app\/titles\/49470007#Test-Drive",
+        "playable": "Playable"
+    },
+    "14365": {
+        "name": "Madden NFL 06",
+        "url": "https:\/\/xemu.app\/titles\/45410075#Madden-NFL-06",
+        "playable": "Starts"
+    },
+    "153765": {
+        "name": "MTV Music Generator 3",
+        "url": "https:\/\/xemu.app\/titles\/434d0029#MTV-Music-Generator-3",
+        "playable": "Starts"
+    },
+    "170968": {
+        "name": "England International Football: 2004 Edition",
+        "url": "https:\/\/xemu.app\/titles\/434d0028#England-International-Football-2004-Edition",
+        "playable": "Starts"
+    },
+    "6063": {
+        "name": "Fight Night 2004",
+        "url": "https:\/\/xemu.app\/titles\/4541004b#Fight-Night-2004",
+        "playable": "Playable"
+    },
+    "17399": {
+        "name": "Beat Down: Fists of Vengeance",
+        "url": "https:\/\/xemu.app\/titles\/43430015#Beat-Down-Fists-of-Vengeance",
+        "playable": "Playable"
+    },
+    "169417": {
+        "name": "Slam Tennis",
+        "url": "https:\/\/xemu.app\/titles\/49470011#Slam-Tennis",
+        "playable": "Playable"
+    },
+    "34739": {
+        "name": "Nickelodeon Avatar: The Last Airbender",
+        "url": "https:\/\/xemu.app\/titles\/54510105#Nickelodeon-Avatar-The-Last-Airbender",
+        "playable": "Starts"
+    },
+    "24965": {
+        "name": "Taito Legends",
+        "url": "https:\/\/xemu.app\/titles\/454d001c#Taito-Legends",
+        "playable": "Playable"
+    },
+    "6103": {
+        "name": "NHL 07",
+        "url": "https:\/\/xemu.app\/titles\/454100a5#NHL-07",
+        "playable": "Playable"
+    },
+    "18374": {
+        "name": "Total Immersion Racing",
+        "url": "https:\/\/xemu.app\/titles\/454d0003#Total-Immersion-Racing",
+        "playable": "Starts"
+    },
+    "8062": {
+        "name": "Thief: Deadly Shadows",
+        "url": "https:\/\/xemu.app\/titles\/45530004#Thief-Deadly-Shadows",
+        "playable": "Playable"
+    },
+    "8046": {
+        "name": "The Simpsons: Road Rage",
+        "url": "https:\/\/xemu.app\/titles\/45410013#The-Simpsons-Road-Rage",
+        "playable": "Perfect"
+    },
+    "28485": {
+        "name": "Predator: Concrete Jungle",
+        "url": "https:\/\/xemu.app\/titles\/56550030#Predator-Concrete-Jungle",
+        "playable": "Playable"
+    },
+    "153807": {
+        "name": "ProStroke Golf: World Tour 2007",
+        "url": "https:\/\/xemu.app\/titles\/4f580004#ProStroke-Golf-World-Tour-2007",
+        "playable": "Starts"
+    },
+    "6208": {
+        "name": "Strike Force Bowling",
+        "url": "https:\/\/xemu.app\/titles\/43560008#Strike-Force-Bowling",
+        "playable": "Playable"
+    },
+    "8068": {
+        "name": "Tork: Prehistoric Punk",
+        "url": "https:\/\/xemu.app\/titles\/55530040#Tork-Prehistoric-Punk",
+        "playable": "Playable"
+    },
+    "15498": {
+        "name": "SSX On Tour",
+        "url": "https:\/\/xemu.app\/titles\/45410082#SSX-On-Tour",
+        "playable": "Playable"
+    },
+    "16017": {
+        "name": "NCAA Football 08",
+        "url": "https:\/\/xemu.app\/titles\/454100ab#NCAA-Football-08",
+        "playable": "Playable"
+    },
+    "5974": {
+        "name": "Aquaman: Battle for Atlantis",
+        "url": "https:\/\/xemu.app\/titles\/544d0003#Aquaman-Battle-for-Atlantis",
+        "playable": "Playable"
+    },
+    "7989": {
+        "name": "Legacy of Kain: Defiance",
+        "url": "https:\/\/xemu.app\/titles\/4553000f#Legacy-of-Kain-Defiance",
+        "playable": "Playable"
+    },
+    "153858": {
+        "name": "Wings of War",
+        "url": "https:\/\/xemu.app\/titles\/54540018#Wings-of-War",
+        "playable": "Playable"
+    },
+    "28501": {
+        "name": "SWAT: Global Strike Team",
+        "url": "https:\/\/xemu.app\/titles\/56560025#SWAT-Global-Strike-Team",
+        "playable": "Starts"
+    },
+    "34767": {
+        "name": "Dakar 2",
+        "url": "https:\/\/xemu.app\/titles\/41430017#Dakar-2",
+        "playable": "Playable"
+    },
+    "153811": {
+        "name": "Real World Golf",
+        "url": "https:\/\/xemu.app\/titles\/49410001#Real-World-Golf",
+        "playable": "Intro"
+    },
+    "5939": {
+        "name": "Aggressive Inline",
+        "url": "https:\/\/xemu.app\/titles\/41430007#Aggressive-Inline",
+        "playable": "Playable"
+    },
+    "24724": {
+        "name": "Pac-Man World 2",
+        "url": "https:\/\/xemu.app\/titles\/4e4d0006#Pac-Man-World-2",
+        "playable": "Playable"
+    },
+    "153786": {
+        "name": "NFL Blitz 2002",
+        "url": "https:\/\/xemu.app\/titles\/4d570001#NFL-Blitz-2002",
+        "playable": "Playable"
+    },
+    "5273": {
+        "name": "Need for Speed: Most Wanted",
+        "url": "https:\/\/xemu.app\/titles\/4541007b#Need-for-Speed-Most-Wanted",
+        "playable": "Playable"
+    },
+    "15815": {
+        "name": "Madden NFL 07",
+        "url": "https:\/\/xemu.app\/titles\/4541009f#Madden-NFL-07",
+        "playable": "Starts"
+    },
+    "6031": {
+        "name": "Crash 'n' Burn",
+        "url": "https:\/\/xemu.app\/titles\/45530014#Crash-n-Burn",
+        "playable": "Playable"
+    },
+    "27499": {
+        "name": "Arx Fatalis",
+        "url": "https:\/\/xemu.app\/titles\/44430002#Arx-Fatalis",
+        "playable": "Playable"
+    },
+    "10590": {
+        "name": "OutRun 2006: Coast 2 Coast",
+        "url": "https:\/\/xemu.app\/titles\/53450088#OutRun-2006-Coast-2-Coast",
+        "playable": "Playable"
+    },
+    "163564": {
+        "name": "Championship Manager 5",
+        "url": "https:\/\/xemu.app\/titles\/4553001a#Championship-Manager-5",
+        "playable": "Starts"
+    },
+    "153783": {
+        "name": "NCAA March Madness 2005",
+        "url": "https:\/\/xemu.app\/titles\/45410052#NCAA-March-Madness-2005",
+        "playable": "Playable"
+    },
+    "163535": {
+        "name": "AFL Premiership 2005",
+        "url": "https:\/\/xemu.app\/titles\/54510101#AFL-Premiership-2005",
+        "playable": "Playable"
+    },
+    "6202": {
+        "name": "Star Wars: Jedi Starfighter",
+        "url": "https:\/\/xemu.app\/titles\/4c410005#Star-Wars-Jedi-Starfighter",
+        "playable": "Playable"
+    },
+    "24136": {
+        "name": "Tom Clancy's Ghost Recon: Island Thunder",
+        "url": "https:\/\/xemu.app\/titles\/55530007#Tom-Clancy-s-Ghost-Recon-Island-Thunder",
+        "playable": "Playable"
+    },
+    "15037": {
+        "name": "Outlaw Golf 2",
+        "url": "https:\/\/xemu.app\/titles\/54540017#Outlaw-Golf-2",
+        "playable": "Playable"
+    },
+    "16490": {
+        "name": "ToeJam & Earl III: Mission to Earth",
+        "url": "https:\/\/xemu.app\/titles\/5345000f#ToeJam-Earl-III-Mission-to-Earth",
+        "playable": "Playable"
+    },
+    "5921": {
+        "name": "187: Ride or Die",
+        "url": "https:\/\/xemu.app\/titles\/55530036#187-Ride-or-Die",
+        "playable": "Playable"
+    },
+    "5973": {
+        "name": "Racing Evoluzione",
+        "url": "https:\/\/xemu.app\/titles\/49470015#Racing-Evoluzione",
+        "playable": "Playable"
+    },
+    "29033": {
+        "name": "Phantom Crash",
+        "url": "https:\/\/xemu.app\/titles\/47450002#Phantom-Crash",
+        "playable": "Perfect"
+    },
+    "169609": {
+        "name": "LMA Manager 2005",
+        "url": "https:\/\/xemu.app\/titles\/434d0046#LMA-Manager-2005",
+        "playable": "Starts"
+    },
+    "164586": {
+        "name": "Guilty Gear Isuka",
+        "url": "https:\/\/xemu.app\/titles\/41570001#Guilty-Gear-Isuka",
+        "playable": "Playable"
+    },
+    "153863": {
+        "name": "World War II Combat: Iwo Jima",
+        "url": "https:\/\/xemu.app\/titles\/4756000b#World-War-II-Combat-Iwo-Jima",
+        "playable": "Playable"
+    },
+    "6078": {
+        "name": "Guilty Gear XX #Reload: The Midnight Carnival",
+        "url": "https:\/\/xemu.app\/titles\/53410002#Guilty-Gear-XX-Reload-The-Midnight-Carnival",
+        "playable": "Playable"
+    },
+    "18226": {
+        "name": "Halo 2 Multiplayer Map Pack",
+        "url": "https:\/\/xemu.app\/titles\/4d5300cd#Halo-2-Multiplayer-Map-Pack",
+        "playable": "Playable"
+    },
+    "22374": {
+        "name": "X-Men Legends II: Rise of Apocalypse",
+        "url": "https:\/\/xemu.app\/titles\/41560047#X-Men-Legends-II-Rise-of-Apocalypse",
+        "playable": "Playable"
+    },
+    "6080": {
+        "name": "Heroes of the Pacific",
+        "url": "https:\/\/xemu.app\/titles\/45430004#Heroes-of-the-Pacific",
+        "playable": "Playable"
+    },
+    "18915": {
+        "name": "Medal of Honor: Frontline",
+        "url": "https:\/\/xemu.app\/titles\/4541001a#Medal-of-Honor-Frontline",
+        "playable": "Starts"
+    },
+    "24978": {
+        "name": "The Sims 2",
+        "url": "https:\/\/xemu.app\/titles\/4541038b#The-Sims-2",
+        "playable": "Playable"
+    },
+    "6193": {
+        "name": "Spawn: Armageddon",
+        "url": "https:\/\/xemu.app\/titles\/4e4d000c#Spawn-Armageddon",
+        "playable": "Starts"
+    },
+    "14363": {
+        "name": "ESPN NFL 2K5",
+        "url": "https:\/\/xemu.app\/titles\/53450030#ESPN-NFL-2K5",
+        "playable": "Playable"
+    },
+    "153742": {
+        "name": "IHRA Professional Drag Racing 2005",
+        "url": "https:\/\/xemu.app\/titles\/4253000c#IHRA-Professional-Drag-Racing-2005",
+        "playable": "Playable"
+    },
+    "158178": {
+        "name": "Triangle Again 2",
+        "url": "https:\/\/xemu.app\/titles\/4b4b0002#Triangle-Again-2",
+        "playable": "Playable"
+    },
+    "153810": {
+        "name": "Rally Fusion: Race of Champions",
+        "url": "https:\/\/xemu.app\/titles\/41560009#Rally-Fusion-Race-of-Champions",
+        "playable": "Starts"
+    },
+    "12510": {
+        "name": "The Warriors",
+        "url": "https:\/\/xemu.app\/titles\/5454009b#The-Warriors",
+        "playable": "Playable"
+    },
+    "14579": {
+        "name": "Atari Anthology",
+        "url": "https:\/\/xemu.app\/titles\/49470079#Atari-Anthology",
+        "playable": "Playable"
+    },
+    "6220": {
+        "name": "Tony Hawk's Pro Skater 4",
+        "url": "https:\/\/xemu.app\/titles\/41560017#Tony-Hawk-s-Pro-Skater-4",
+        "playable": "Playable"
+    },
+    "153795": {
+        "name": "NBA Ballers: Phenom",
+        "url": "https:\/\/xemu.app\/titles\/4d57002e#NBA-Ballers-Phenom",
+        "playable": "Playable"
+    },
+    "28455": {
+        "name": "Championship Manager: Season 02\/03",
+        "url": "https:\/\/xemu.app\/titles\/4553000c#Championship-Manager-Season-02-03",
+        "playable": "Playable"
+    },
+    "16622": {
+        "name": "Harry Potter: Quidditch World Cup",
+        "url": "https:\/\/xemu.app\/titles\/4541003d#Harry-Potter-Quidditch-World-Cup",
+        "playable": "Playable"
+    },
+    "153785": {
+        "name": "NFL 2K3",
+        "url": "https:\/\/xemu.app\/titles\/53450011#NFL-2K3",
+        "playable": "Playable"
+    },
+    "17066": {
+        "name": "Outlaw Tennis",
+        "url": "https:\/\/xemu.app\/titles\/54540076#Outlaw-Tennis",
+        "playable": "Playable"
+    },
+    "170967": {
+        "name": "ESPN NFL PrimeTime 2002",
+        "url": "https:\/\/xemu.app\/titles\/4b4e0003#ESPN-NFL-PrimeTime-2002",
+        "playable": "Starts"
+    },
+    "8720": {
+        "name": "DreamWorks Madagascar",
+        "url": "https:\/\/xemu.app\/titles\/4156003b#DreamWorks-Madagascar",
+        "playable": "Playable"
+    },
+    "20204": {
+        "name": "Steel Battalion: Line of Contact",
+        "url": "https:\/\/xemu.app\/titles\/43430009#Steel-Battalion-Line-of-Contact",
+        "playable": "Starts"
+    },
+    "4259": {
+        "name": "Mortal Kombat: Armageddon",
+        "url": "https:\/\/xemu.app\/titles\/4d570034#Mortal-Kombat-Armageddon",
+        "playable": "Playable"
+    },
+    "158177": {
+        "name": "Triangle Again",
+        "url": "https:\/\/xemu.app\/titles\/4b4b0001#Triangle-Again",
+        "playable": "Playable"
+    },
+    "15548": {
+        "name": "Dynasty Warriors 3",
+        "url": "https:\/\/xemu.app\/titles\/4b4f0003#Dynasty-Warriors-3",
+        "playable": "Playable"
+    },
+    "164875": {
+        "name": "Gene Troopers",
+        "url": "https:\/\/xemu.app\/titles\/544d0011#Gene-Troopers",
+        "playable": "Playable"
+    },
+    "6018": {
+        "name": "Call of Duty: Finest Hour",
+        "url": "https:\/\/xemu.app\/titles\/4156002a#Call-of-Duty-Finest-Hour",
+        "playable": "Starts"
+    },
+    "6189": {
+        "name": "Shadow The Hedgehog",
+        "url": "https:\/\/xemu.app\/titles\/53450086#Shadow-The-Hedgehog",
+        "playable": "Playable"
+    },
+    "23943": {
+        "name": "Justice League Heroes",
+        "url": "https:\/\/xemu.app\/titles\/57520001#Justice-League-Heroes",
+        "playable": "Playable"
+    },
+    "6077": {
+        "name": "Grand Theft Auto: Vice City",
+        "url": "https:\/\/xemu.app\/titles\/5454000f#Grand-Theft-Auto-Vice-City",
+        "playable": "Playable"
+    },
+    "15097": {
+        "name": "Wrath Unleashed",
+        "url": "https:\/\/xemu.app\/titles\/4c41000f#Wrath-Unleashed",
+        "playable": "Playable"
+    },
+    "200845": {
+        "name": "Kikou Heidan J-Phoenix +",
+        "url": "https:\/\/xemu.app\/titles\/54410001#Kikou-Heidan-J-Phoenix",
+        "playable": "Intro"
+    },
+    "31766": {
+        "name": "New Legends",
+        "url": "https:\/\/xemu.app\/titles\/54510001#New-Legends",
+        "playable": "Starts"
+    },
+    "24305": {
+        "name": "TOCA Race Driver",
+        "url": "https:\/\/xemu.app\/titles\/434d0002#TOCA-Race-Driver",
+        "playable": "Playable"
+    },
+    "13289": {
+        "name": "Tom Clancy's Splinter Cell: Chaos Theory",
+        "url": "https:\/\/xemu.app\/titles\/55530038#Tom-Clancy-s-Splinter-Cell-Chaos-Theory",
+        "playable": "Playable"
+    },
+    "161924": {
+        "name": "World Championship Snooker 2004",
+        "url": "https:\/\/xemu.app\/titles\/434d002a#World-Championship-Snooker-2004",
+        "playable": "Playable"
+    },
+    "6003": {
+        "name": "Brothers in Arms: Earned in Blood",
+        "url": "https:\/\/xemu.app\/titles\/5553005a#Brothers-in-Arms-Earned-in-Blood",
+        "playable": "Intro"
+    },
+    "22523": {
+        "name": "WWE WrestleMania 21",
+        "url": "https:\/\/xemu.app\/titles\/54510024#WWE-WrestleMania-21",
+        "playable": "Broken"
+    },
+    "23537": {
+        "name": "TOCA Race Driver 2",
+        "url": "https:\/\/xemu.app\/titles\/434d0011#TOCA-Race-Driver-2",
+        "playable": "Playable"
+    },
+    "135544": {
+        "name": "NASCAR Thunder 2004",
+        "url": "https:\/\/xemu.app\/titles\/45410031#NASCAR-Thunder-2004",
+        "playable": "Playable"
+    },
+    "6066": {
+        "name": "FlatOut 2",
+        "url": "https:\/\/xemu.app\/titles\/454d0020#FlatOut-2",
+        "playable": "Playable"
+    },
+    "6058": {
+        "name": "Project Zero",
+        "url": "https:\/\/xemu.app\/titles\/4d530059#Project-Zero",
+        "playable": "Starts"
+    },
+    "8052": {
+        "name": "Star Wars: Obi-Wan",
+        "url": "https:\/\/xemu.app\/titles\/4156000f#Star-Wars-Obi-Wan",
+        "playable": "Starts"
+    },
+    "153719": {
+        "name": "ESPN International Winter Sports 2002",
+        "url": "https:\/\/xemu.app\/titles\/4b4e000b#ESPN-International-Winter-Sports-2002",
+        "playable": "Playable"
+    },
+    "169620": {
+        "name": "Innocent Tears",
+        "url": "https:\/\/xemu.app\/titles\/4b550001#Innocent-Tears",
+        "playable": "Playable"
+    },
+    "14118": {
+        "name": "Midway Arcade Treasures 3",
+        "url": "https:\/\/xemu.app\/titles\/4d57002d#Midway-Arcade-Treasures-3",
+        "playable": "Playable"
+    },
+    "6206": {
+        "name": "Star Wars: Starfighter Special Edition",
+        "url": "https:\/\/xemu.app\/titles\/4c410002#Star-Wars-Starfighter-Special-Edition",
+        "playable": "Playable"
+    },
+    "4197": {
+        "name": "Ninja Gaiden",
+        "url": "https:\/\/xemu.app\/titles\/54430003#Ninja-Gaiden",
+        "playable": "Playable"
+    },
+    "22704": {
+        "name": "Die Hard: Vendetta",
+        "url": "https:\/\/xemu.app\/titles\/56560029#Die-Hard-Vendetta",
+        "playable": "Starts"
+    },
+    "15173": {
+        "name": "Intellivision Lives!",
+        "url": "https:\/\/xemu.app\/titles\/43560006#Intellivision-Lives",
+        "playable": "Playable"
+    },
+    "153831": {
+        "name": "Nickelodeon SpongeBob SquarePants: Lights, Camera, Pants!",
+        "url": "https:\/\/xemu.app\/titles\/545100fa#Nickelodeon-SpongeBob-SquarePants-Lights-Camera-Pants",
+        "playable": "Playable"
+    },
+    "8059": {
+        "name": "Teen Titans",
+        "url": "https:\/\/xemu.app\/titles\/4d4a0013#Teen-Titans",
+        "playable": "Playable"
+    },
+    "95290": {
+        "name": "Jaws Unleashed",
+        "url": "https:\/\/xemu.app\/titles\/4d4a000f#Jaws-Unleashed",
+        "playable": "Playable"
+    },
+    "6186": {
+        "name": "Rogue Trooper",
+        "url": "https:\/\/xemu.app\/titles\/5343000e#Rogue-Trooper",
+        "playable": "Playable"
+    },
+    "6074": {
+        "name": "GoldenEye: Rogue Agent",
+        "url": "https:\/\/xemu.app\/titles\/4541005d#GoldenEye-Rogue-Agent",
+        "playable": "Perfect"
+    },
+    "6020": {
+        "name": "Disney\/Pixar Cars",
+        "url": "https:\/\/xemu.app\/titles\/545100f2#Disney-Pixar-Cars",
+        "playable": "Playable"
+    },
+    "132751": {
+        "name": "NFL Fever 2003",
+        "url": "https:\/\/xemu.app\/titles\/4d530028#NFL-Fever-2003",
+        "playable": "Playable"
+    },
+    "147103": {
+        "name": "NHL Hitz Pro",
+        "url": "https:\/\/xemu.app\/titles\/4d57001a#NHL-Hitz-Pro",
+        "playable": "Playable"
+    },
+    "10597": {
+        "name": "Dead to Rights",
+        "url": "https:\/\/xemu.app\/titles\/4541002c#Dead-to-Rights",
+        "playable": "Playable"
+    },
+    "95291": {
+        "name": "Madden NFL 2003",
+        "url": "https:\/\/xemu.app\/titles\/45410019#Madden-NFL-2003",
+        "playable": "Playable"
+    },
+    "151244": {
+        "name": "Classified: The Sentinel Crisis",
+        "url": "https:\/\/xemu.app\/titles\/5454007d#Classified-The-Sentinel-Crisis",
+        "playable": "Playable"
+    },
+    "4195": {
+        "name": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+        "url": "https:\/\/xemu.app\/titles\/55530019#Tom-Clancy-s-Splinter-Cell-Pandora-Tomorrow",
+        "playable": "Starts"
+    },
+    "93958": {
+        "name": "The Fairly OddParents: Breakin' da Rules",
+        "url": "https:\/\/xemu.app\/titles\/54510020#The-Fairly-OddParents-Breakin-da-Rules",
+        "playable": "Playable"
+    },
+    "18378": {
+        "name": "Red Faction II",
+        "url": "https:\/\/xemu.app\/titles\/54510005#Red-Faction-II",
+        "playable": "Playable"
+    },
+    "17448": {
+        "name": "Fallout: Brotherhood of Steel",
+        "url": "https:\/\/xemu.app\/titles\/49500008#Fallout-Brotherhood-of-Steel",
+        "playable": "Playable"
+    },
+    "17064": {
+        "name": "Gladiator: Sword of Vengeance",
+        "url": "https:\/\/xemu.app\/titles\/4143001a#Gladiator-Sword-of-Vengeance",
+        "playable": "Playable"
+    },
+    "17539": {
+        "name": "Namco Museum",
+        "url": "https:\/\/xemu.app\/titles\/4e4d0007#Namco-Museum",
+        "playable": "Playable"
+    },
+    "27547": {
+        "name": "Xbox Live Arcade",
+        "url": "https:\/\/xemu.app\/titles\/4d5300c8#Xbox-Live-Arcade",
+        "playable": "Playable"
+    },
+    "158125": {
+        "name": "Rent a Hero No. 1",
+        "url": "https:\/\/xemu.app\/titles\/5345001d#Rent-a-Hero-No-1",
+        "playable": "Playable"
+    },
+    "17415": {
+        "name": "Drake of the 99 Dragons",
+        "url": "https:\/\/xemu.app\/titles\/4d4a000b#Drake-of-the-99-Dragons",
+        "playable": "Playable"
+    },
+    "5945": {
+        "name": "American Chopper",
+        "url": "https:\/\/xemu.app\/titles\/4156003d#American-Chopper",
+        "playable": "Playable"
+    },
+    "125665": {
+        "name": "DreamWorks Over the Hedge",
+        "url": "https:\/\/xemu.app\/titles\/41560058#DreamWorks-Over-the-Hedge",
+        "playable": "Starts"
+    },
+    "8047": {
+        "name": "Soldier of Fortune II: Double Helix",
+        "url": "https:\/\/xemu.app\/titles\/4156001b#Soldier-of-Fortune-II-Double-Helix",
+        "playable": "Playable"
+    },
+    "6221": {
+        "name": "Without Warning",
+        "url": "https:\/\/xemu.app\/titles\/43430014#Without-Warning",
+        "playable": "Playable"
+    },
+    "16727": {
+        "name": "Harry Potter and the Chamber of Secrets",
+        "url": "https:\/\/xemu.app\/titles\/4541000e#Harry-Potter-and-the-Chamber-of-Secrets",
+        "playable": "Playable"
+    },
+    "28522": {
+        "name": "X-Men 2: Wolverine's Revenge",
+        "url": "https:\/\/xemu.app\/titles\/41560008#X-Men-2-Wolverine-s-Revenge",
+        "playable": "Playable"
+    },
+    "23520": {
+        "name": "Tom Clancy's Ghost Recon",
+        "url": "https:\/\/xemu.app\/titles\/55530006#Tom-Clancy-s-Ghost-Recon",
+        "playable": "Playable"
+    },
+    "15497": {
+        "name": "SSX 3",
+        "url": "https:\/\/xemu.app\/titles\/4541003c#SSX-3",
+        "playable": "Playable"
+    },
+    "6025": {
+        "name": "Colin McRae Rally 2005",
+        "url": "https:\/\/xemu.app\/titles\/434d002b#Colin-McRae-Rally-2005",
+        "playable": "Playable"
+    },
+    "8787": {
+        "name": "The Elder Scrolls III: Morrowind",
+        "url": "https:\/\/xemu.app\/titles\/42530001#The-Elder-Scrolls-III-Morrowind",
+        "playable": "Playable"
+    },
+    "28467": {
+        "name": "FIFA Football 2004",
+        "url": "https:\/\/xemu.app\/titles\/4541003b#FIFA-Football-2004",
+        "playable": "Playable"
+    },
+    "34762": {
+        "name": "Carmen Sandiego: The Secret of the Stolen Drums",
+        "url": "https:\/\/xemu.app\/titles\/424d0006#Carmen-Sandiego-The-Secret-of-the-Stolen-Drums",
+        "playable": "Starts"
+    },
+    "10285": {
+        "name": "Links 2004",
+        "url": "https:\/\/xemu.app\/titles\/4d53005d#Links-2004",
+        "playable": "Starts"
+    },
+    "6091": {
+        "name": "MechAssault 2: Lone Wolf + OutRun 2",
+        "url": "https:\/\/xemu.app\/titles\/584c0013#MechAssault-2-Lone-Wolf-OutRun-2",
+        "playable": "Starts"
+    },
+    "169544": {
+        "name": "MX SuperFly",
+        "url": "https:\/\/xemu.app\/titles\/54510010#MX-SuperFly",
+        "playable": "Playable"
+    },
+    "29034": {
+        "name": "Spartan: Total Warrior",
+        "url": "https:\/\/xemu.app\/titles\/53450084#Spartan-Total-Warrior",
+        "playable": "Playable"
+    },
+    "22522": {
+        "name": "Tiger Woods PGA Tour 06",
+        "url": "https:\/\/xemu.app\/titles\/4541007e#Tiger-Woods-PGA-Tour-06",
+        "playable": "Playable"
+    },
+    "160405": {
+        "name": "Harry Potter and the Philosopher's Stone",
+        "url": "https:\/\/xemu.app\/titles\/45410037#Harry-Potter-and-the-Philosopher-s-Stone",
+        "playable": "Playable"
+    },
+    "13878": {
+        "name": "Hitman: Contracts",
+        "url": "https:\/\/xemu.app\/titles\/45530012#Hitman-Contracts",
+        "playable": "Playable"
+    },
+    "5996": {
+        "name": "Blinx: The Time Sweeper",
+        "url": "https:\/\/xemu.app\/titles\/4d530013#Blinx-The-Time-Sweeper",
+        "playable": "Playable"
+    },
+    "28460": {
+        "name": "Dark Summit",
+        "url": "https:\/\/xemu.app\/titles\/54510004#Dark-Summit",
+        "playable": "Playable"
+    },
+    "28480": {
+        "name": "NBA Live 2002",
+        "url": "https:\/\/xemu.app\/titles\/45410003#NBA-Live-2002",
+        "playable": "Playable"
+    },
+    "6088": {
+        "name": "Marvel: Ultimate Alliance",
+        "url": "https:\/\/xemu.app\/titles\/4156005c#Marvel-Ultimate-Alliance",
+        "playable": "Playable"
+    },
+    "21254": {
+        "name": "Project Gotham Racing",
+        "url": "https:\/\/xemu.app\/titles\/4d530003#Project-Gotham-Racing",
+        "playable": "Starts"
+    },
+    "153776": {
+        "name": "NBA Live 2005",
+        "url": "https:\/\/xemu.app\/titles\/45410050#NBA-Live-2005",
+        "playable": "Playable"
+    },
+    "8004": {
+        "name": "The Lord of the Rings: The Third Age",
+        "url": "https:\/\/xemu.app\/titles\/4541005f#The-Lord-of-the-Rings-The-Third-Age",
+        "playable": "Starts"
+    },
+    "28473": {
+        "name": "Harry Potter and the Goblet of Fire",
+        "url": "https:\/\/xemu.app\/titles\/45410077#Harry-Potter-and-the-Goblet-of-Fire",
+        "playable": "Starts"
+    },
+    "13774": {
+        "name": "Blood Omen 2: The Legacy of Kain Series",
+        "url": "https:\/\/xemu.app\/titles\/45530006#Blood-Omen-2-The-Legacy-of-Kain-Series",
+        "playable": "Playable"
+    },
+    "160240": {
+        "name": "Dennou Taisen: DroneZ",
+        "url": "https:\/\/xemu.app\/titles\/4d440003#Dennou-Taisen-DroneZ",
+        "playable": "Playable"
+    },
+    "163525": {
+        "name": "Touge R",
+        "url": "https:\/\/xemu.app\/titles\/41540001#Touge-R",
+        "playable": "Starts"
+    },
+    "130548": {
+        "name": "C.A.T: Cyber Attack Team",
+        "url": "https:\/\/xemu.app\/titles\/4d450001#C-A-T-Cyber-Attack-Team",
+        "playable": "Playable"
+    },
+    "6035": {
+        "name": "Crazy Taxi 3",
+        "url": "https:\/\/xemu.app\/titles\/49470023#Crazy-Taxi-3",
+        "playable": "Playable"
+    },
+    "202082": {
+        "name": "Petit Copter",
+        "url": "https:\/\/xemu.app\/titles\/41510001#Petit-Copter",
+        "playable": "Perfect"
+    },
+    "24969": {
+        "name": "Test Drive Off-Road: Wide Open",
+        "url": "https:\/\/xemu.app\/titles\/49470001#Test-Drive-Off-Road-Wide-Open",
+        "playable": "Playable"
+    },
+    "153772": {
+        "name": "NBA Ballers",
+        "url": "https:\/\/xemu.app\/titles\/4d570010#NBA-Ballers",
+        "playable": "Playable"
+    },
+    "6082": {
+        "name": "JSRF: Jet Set Radio Future",
+        "url": "https:\/\/xemu.app\/titles\/49470018#JSRF-Jet-Set-Radio-Future",
+        "playable": "Playable"
+    },
+    "6043": {
+        "name": "Dead or Alive 3",
+        "url": "https:\/\/xemu.app\/titles\/4d53002d#Dead-or-Alive-3",
+        "playable": "Playable"
+    },
+    "34885": {
+        "name": "Bass Pro Shops: Trophy Bass 2007",
+        "url": "https:\/\/xemu.app\/titles\/56550049#Bass-Pro-Shops-Trophy-Bass-2007",
+        "playable": "Playable"
+    },
+    "6118": {
+        "name": "RalliSport Challenge 2",
+        "url": "https:\/\/xemu.app\/titles\/4d530039#RalliSport-Challenge-2",
+        "playable": "Playable"
+    },
+    "8031": {
+        "name": "Oddworld: Stranger's Wrath",
+        "url": "https:\/\/xemu.app\/titles\/4541006d#Oddworld-Stranger-s-Wrath",
+        "playable": "Playable"
+    },
+    "163521": {
+        "name": "The Wild Rings",
+        "url": "https:\/\/xemu.app\/titles\/4d530048#The-Wild-Rings",
+        "playable": "Playable"
+    },
+    "153743": {
+        "name": "IndyCar Series 2005",
+        "url": "https:\/\/xemu.app\/titles\/434d0024#IndyCar-Series-2005",
+        "playable": "Playable"
+    },
+    "6033": {
+        "name": "Baldur's Gate: Dark Alliance",
+        "url": "https:\/\/xemu.app\/titles\/564e0006#Baldur-s-Gate-Dark-Alliance",
+        "playable": "Playable"
+    },
+    "169699": {
+        "name": "F1 Career Challenge",
+        "url": "https:\/\/xemu.app\/titles\/45410032#F1-Career-Challenge",
+        "playable": "Playable"
+    },
+    "34765": {
+        "name": "Curious George",
+        "url": "https:\/\/xemu.app\/titles\/4e4d0019#Curious-George",
+        "playable": "Playable"
+    },
+    "5915": {
+        "name": "007: Agent Under Fire",
+        "url": "https:\/\/xemu.app\/titles\/4541000d#007-Agent-Under-Fire",
+        "playable": "Playable"
+    },
+    "91822": {
+        "name": "WWE Raw 2",
+        "url": "https:\/\/xemu.app\/titles\/5451000d#WWE-Raw-2",
+        "playable": "Playable"
+    },
+    "34738": {
+        "name": "Auto Modellista",
+        "url": "https:\/\/xemu.app\/titles\/4343000e#Auto-Modellista",
+        "playable": "Playable"
+    },
+    "121710": {
+        "name": "Worms 3D",
+        "url": "https:\/\/xemu.app\/titles\/5345002a#Worms-3D",
+        "playable": "Playable"
+    },
+    "6110": {
+        "name": "OutRun 2",
+        "url": "https:\/\/xemu.app\/titles\/53450036#OutRun-2",
+        "playable": "Playable"
+    },
+    "24979": {
+        "name": "The Legend of Spyro: A New Beginning",
+        "url": "https:\/\/xemu.app\/titles\/5655004a#The-Legend-of-Spyro-A-New-Beginning",
+        "playable": "Playable"
+    },
+    "6101": {
+        "name": "Need for Speed: Carbon",
+        "url": "https:\/\/xemu.app\/titles\/4541009e#Need-for-Speed-Carbon",
+        "playable": "Playable"
+    },
+    "169698": {
+        "name": "Galaxy Angel",
+        "url": "https:\/\/xemu.app\/titles\/42520001#Galaxy-Angel",
+        "playable": "Playable"
+    },
+    "169694": {
+        "name": "FIFA Soccer 2005",
+        "url": "https:\/\/xemu.app\/titles\/4541004e#FIFA-Soccer-2005",
+        "playable": "Playable"
+    },
+    "17065": {
+        "name": "Hunter: The Reckoning",
+        "url": "https:\/\/xemu.app\/titles\/564e0004#Hunter-The-Reckoning",
+        "playable": "Playable"
+    },
+    "6219": {
+        "name": "Tony Hawk's Pro Skater 2x",
+        "url": "https:\/\/xemu.app\/titles\/41560001#Tony-Hawk-s-Pro-Skater-2x",
+        "playable": "Playable"
+    },
+    "114949": {
+        "name": "Ford Mustang: The Legend Lives",
+        "url": "https:\/\/xemu.app\/titles\/54540077#Ford-Mustang-The-Legend-Lives",
+        "playable": "Playable"
+    },
+    "13911": {
+        "name": "Max Payne",
+        "url": "https:\/\/xemu.app\/titles\/54540003#Max-Payne",
+        "playable": "Playable"
+    },
+    "17037": {
+        "name": "NBA Street Vol. 2",
+        "url": "https:\/\/xemu.app\/titles\/45410027#NBA-Street-Vol-2",
+        "playable": "Playable"
+    },
+    "14364": {
+        "name": "NCAA Football 2005 + Top Spin",
+        "url": "https:\/\/xemu.app\/titles\/584c000f#NCAA-Football-2005-Top-Spin",
+        "playable": "Playable"
+    },
+    "91369": {
+        "name": "Far Cry Instincts: Evolution",
+        "url": "https:\/\/xemu.app\/titles\/55530060#Far-Cry-Instincts-Evolution",
+        "playable": "Playable"
+    },
+    "95292": {
+        "name": "Mike Tyson Heavyweight Boxing",
+        "url": "https:\/\/xemu.app\/titles\/434d0003#Mike-Tyson-Heavyweight-Boxing",
+        "playable": "Playable"
+    },
+    "160241": {
+        "name": "Double-S.T.E.A.L: The Second Clash",
+        "url": "https:\/\/xemu.app\/titles\/42550004#Double-S-T-E-A-L-The-Second-Clash",
+        "playable": "Starts"
+    },
+    "163504": {
+        "name": "Taito Legends 2",
+        "url": "https:\/\/xemu.app\/titles\/454d0022#Taito-Legends-2",
+        "playable": "Playable"
+    },
+    "6076": {
+        "name": "Grand Theft Auto: San Andreas",
+        "url": "https:\/\/xemu.app\/titles\/54540082#Grand-Theft-Auto-San-Andreas",
+        "playable": "Playable"
+    },
+    "154159": {
+        "name": "World Championship Pool 2004",
+        "url": "https:\/\/xemu.app\/titles\/4a410007#World-Championship-Pool-2004",
+        "playable": "Playable"
+    },
+    "129421": {
+        "name": "Shin Megami Tensei: Nine",
+        "url": "https:\/\/xemu.app\/titles\/41540002#Shin-Megami-Tensei-Nine",
+        "playable": "Playable"
+    },
+    "5949": {
+        "name": "Tenku: Freestyle Snowboarding",
+        "url": "https:\/\/xemu.app\/titles\/4d53002f#Tenku-Freestyle-Snowboarding",
+        "playable": "Playable"
+    },
+    "6064": {
+        "name": "Fight Night Round 2",
+        "url": "https:\/\/xemu.app\/titles\/45410055#Fight-Night-Round-2",
+        "playable": "Playable"
+    },
+    "24304": {
+        "name": "SRS: Street Racing Syndicate",
+        "url": "https:\/\/xemu.app\/titles\/4e4d0013#SRS-Street-Racing-Syndicate",
+        "playable": "Playable"
+    },
+    "24556": {
+        "name": "Pinball Hall of Fame: The Gottlieb Collection",
+        "url": "https:\/\/xemu.app\/titles\/4356000a#Pinball-Hall-of-Fame-The-Gottlieb-Collection",
+        "playable": "Playable"
+    },
+    "153758": {
+        "name": "MLB SlugFest 2004",
+        "url": "https:\/\/xemu.app\/titles\/4d570009#MLB-SlugFest-2004",
+        "playable": "Playable"
+    },
+    "6005": {
+        "name": "Bruce Lee: Quest of the Dragon",
+        "url": "https:\/\/xemu.app\/titles\/56550016#Bruce-Lee-Quest-of-the-Dragon",
+        "playable": "Playable"
+    },
+    "14366": {
+        "name": "Madden NFL 2005",
+        "url": "https:\/\/xemu.app\/titles\/4541004d#Madden-NFL-2005",
+        "playable": "Playable"
+    },
+    "24991": {
+        "name": "AFL Live 2003",
+        "url": "https:\/\/xemu.app\/titles\/4143000d#AFL-Live-2003",
+        "playable": "Playable"
+    },
+    "6011": {
+        "name": "Burnout 3: Takedown",
+        "url": "https:\/\/xemu.app\/titles\/4541005b#Burnout-3-Takedown",
+        "playable": "Playable"
+    },
+    "153782": {
+        "name": "NCAA March Madness 2004",
+        "url": "https:\/\/xemu.app\/titles\/45410044#NCAA-March-Madness-2004",
+        "playable": "Playable"
+    },
+    "163520": {
+        "name": "WCR: World Championship Rugby",
+        "url": "https:\/\/xemu.app\/titles\/4143001f#WCR-World-Championship-Rugby",
+        "playable": "Playable"
+    },
+    "8020": {
+        "name": "Midtown Madness 3",
+        "url": "https:\/\/xemu.app\/titles\/4d53002a#Midtown-Madness-3",
+        "playable": "Playable"
+    },
+    "160252": {
+        "name": "Angelic Concert",
+        "url": "https:\/\/xemu.app\/titles\/53550007#Angelic-Concert",
+        "playable": "Playable"
+    },
+    "21231": {
+        "name": "NCAA Football 2004",
+        "url": "https:\/\/xemu.app\/titles\/45410035#NCAA-Football-2004",
+        "playable": "Starts"
+    },
+    "8021": {
+        "name": "Minority Report: Everybody Runs",
+        "url": "https:\/\/xemu.app\/titles\/41560014#Minority-Report-Everybody-Runs",
+        "playable": "Playable"
+    },
+    "6085": {
+        "name": "LEGO Star Wars II: The Original Trilogy",
+        "url": "https:\/\/xemu.app\/titles\/4c41001f#LEGO-Star-Wars-II-The-Original-Trilogy",
+        "playable": "Playable"
+    },
+    "153826": {
+        "name": "DreamWorks Shrek: SuperSlam",
+        "url": "https:\/\/xemu.app\/titles\/41560048#DreamWorks-Shrek-SuperSlam",
+        "playable": "Playable"
+    },
+    "28516": {
+        "name": "World War II Combat: Road to Berlin",
+        "url": "https:\/\/xemu.app\/titles\/47560009#World-War-II-Combat-Road-to-Berlin",
+        "playable": "Starts"
+    },
+    "154004": {
+        "name": "Kao the Kangaroo: Round 2",
+        "url": "https:\/\/xemu.app\/titles\/4a570003#Kao-the-Kangaroo-Round-2",
+        "playable": "Playable"
+    },
+    "28476": {
+        "name": "Largo Winch: Empire Under Threat",
+        "url": "https:\/\/xemu.app\/titles\/5553000b#Largo-Winch-Empire-Under-Threat",
+        "playable": "Playable"
+    },
+    "6104": {
+        "name": "NHL Rivals 2004",
+        "url": "https:\/\/xemu.app\/titles\/4d53004e#NHL-Rivals-2004",
+        "playable": "Intro"
+    },
+    "195415": {
+        "name": "Knights of the Temple II",
+        "url": "https:\/\/xemu.app\/titles\/544d0013#Knights-of-the-Temple-II",
+        "playable": "Playable"
+    },
+    "24982": {
+        "name": "Torino 2006",
+        "url": "https:\/\/xemu.app\/titles\/545400a9#Torino-2006",
+        "playable": "Starts"
+    },
+    "28521": {
+        "name": "Worms 4: Mayhem",
+        "url": "https:\/\/xemu.app\/titles\/434d0052#Worms-4-Mayhem",
+        "playable": "Playable"
+    },
+    "23524": {
+        "name": "Tennis Masters Series 2003",
+        "url": "https:\/\/xemu.app\/titles\/4d490003#Tennis-Masters-Series-2003",
+        "playable": "Playable"
+    },
+    "19278": {
+        "name": "NBA 2K3",
+        "url": "https:\/\/xemu.app\/titles\/53450013#NBA-2K3",
+        "playable": "Playable"
+    },
+    "9689": {
+        "name": "Fight Night Round 3",
+        "url": "https:\/\/xemu.app\/titles\/45410086#Fight-Night-Round-3",
+        "playable": "Playable"
+    },
+    "14045": {
+        "name": "Jade Empire",
+        "url": "https:\/\/xemu.app\/titles\/4d53006d#Jade-Empire",
+        "playable": "Playable"
+    },
+    "6012": {
+        "name": "Burnout Revenge",
+        "url": "https:\/\/xemu.app\/titles\/45410076#Burnout-Revenge",
+        "playable": "Playable"
+    },
+    "6209": {
+        "name": "Stubbs the Zombie in Rebel Without a Pulse",
+        "url": "https:\/\/xemu.app\/titles\/41590002#Stubbs-the-Zombie-in-Rebel-Without-a-Pulse",
+        "playable": "Playable"
+    },
+    "91913": {
+        "name": "Full Spectrum Warrior: Ten Hammers",
+        "url": "https:\/\/xemu.app\/titles\/545100f8#Full-Spectrum-Warrior-Ten-Hammers",
+        "playable": "Playable"
+    },
+    "24994": {
+        "name": "Alien Hominid",
+        "url": "https:\/\/xemu.app\/titles\/5a440004#Alien-Hominid",
+        "playable": "Perfect"
+    },
+    "153736": {
+        "name": "Group S Challenge",
+        "url": "https:\/\/xemu.app\/titles\/43430005#Group-S-Challenge",
+        "playable": "Intro"
+    },
+    "122642": {
+        "name": "SSX Tricky",
+        "url": "https:\/\/xemu.app\/titles\/45410004#SSX-Tricky",
+        "playable": "Playable"
+    },
+    "153805": {
+        "name": "Pro Fishing Challenge",
+        "url": "https:\/\/xemu.app\/titles\/41540003#Pro-Fishing-Challenge",
+        "playable": "Broken"
+    },
+    "5986": {
+        "name": "Beyond Good & Evil",
+        "url": "https:\/\/xemu.app\/titles\/55530018#Beyond-Good-Evil",
+        "playable": "Playable"
+    },
+    "153854": {
+        "name": "Future Tactics: The Uprising",
+        "url": "https:\/\/xemu.app\/titles\/43560007#Future-Tactics-The-Uprising",
+        "playable": "Perfect"
+    },
+    "24981": {
+        "name": "Tony Hawk's Pro Skater 3",
+        "url": "https:\/\/xemu.app\/titles\/41560004#Tony-Hawk-s-Pro-Skater-3",
+        "playable": "Playable"
+    },
+    "23522": {
+        "name": "MVP 06 NCAA Baseball",
+        "url": "https:\/\/xemu.app\/titles\/4541008d#MVP-06-NCAA-Baseball",
+        "playable": "Playable"
+    },
+    "34740": {
+        "name": "Bad Boys: Miami Takedown",
+        "url": "https:\/\/xemu.app\/titles\/454d0016#Bad-Boys-Miami-Takedown",
+        "playable": "Playable"
+    },
+    "18372": {
+        "name": "DreamWorks Shark Tale",
+        "url": "https:\/\/xemu.app\/titles\/41560038#DreamWorks-Shark-Tale",
+        "playable": "Playable"
+    },
+    "169607": {
+        "name": "MLB SlugFest 2006",
+        "url": "https:\/\/xemu.app\/titles\/4d570038#MLB-SlugFest-2006",
+        "playable": "Starts"
+    },
+    "6023": {
+        "name": "Cold Fear",
+        "url": "https:\/\/xemu.app\/titles\/5553004b#Cold-Fear",
+        "playable": "Playable"
+    },
+    "22372": {
+        "name": "Peter Jackson's King Kong: The Official Game of the Movie",
+        "url": "https:\/\/xemu.app\/titles\/5553004c#Peter-Jackson-s-King-Kong-The-Official-Game-of-the-Movie",
+        "playable": "Starts"
+    },
+    "202289": {
+        "name": "Robot Wars: Extreme Destruction",
+        "url": "https:\/\/xemu.app\/titles\/42570001#Robot-Wars-Extreme-Destruction",
+        "playable": "Playable"
+    },
+    "6007": {
+        "name": "Buffy the Vampire Slayer",
+        "url": "https:\/\/xemu.app\/titles\/45410012#Buffy-the-Vampire-Slayer",
+        "playable": "Perfect"
+    },
+    "151193": {
+        "name": "Dinotopia: The Sunstone Odyssey",
+        "url": "https:\/\/xemu.app\/titles\/544d000f#Dinotopia-The-Sunstone-Odyssey",
+        "playable": "Playable"
+    },
+    "202083": {
+        "name": "Pilot Down: Behind Enemy Lines",
+        "url": "https:\/\/xemu.app\/titles\/4f580002#Pilot-Down-Behind-Enemy-Lines",
+        "playable": "Playable"
+    },
+    "6119": {
+        "name": "Reservoir Dogs",
+        "url": "https:\/\/xemu.app\/titles\/534300ff#Reservoir-Dogs",
+        "playable": "Playable"
+    },
+    "13497": {
+        "name": "Tom Clancy's Splinter Cell",
+        "url": "https:\/\/xemu.app\/titles\/5553000c#Tom-Clancy-s-Splinter-Cell",
+        "playable": "Starts"
+    },
+    "17069": {
+        "name": "Teenage Mutant Ninja Turtles 3: Mutant Nightmare",
+        "url": "https:\/\/xemu.app\/titles\/4b4e002a#Teenage-Mutant-Ninja-Turtles-3-Mutant-Nightmare",
+        "playable": "Playable"
+    },
+    "6075": {
+        "name": "Grand Theft Auto III",
+        "url": "https:\/\/xemu.app\/titles\/5454000e#Grand-Theft-Auto-III",
+        "playable": "Playable"
+    },
+    "15788": {
+        "name": "The Terminator: Dawn of Fate",
+        "url": "https:\/\/xemu.app\/titles\/49470026#The-Terminator-Dawn-of-Fate",
+        "playable": "Starts"
+    },
+    "10595": {
+        "name": "Capcom vs. SNK 2 EO",
+        "url": "https:\/\/xemu.app\/titles\/43430008#Capcom-vs-SNK-2-EO",
+        "playable": "Playable"
+    },
+    "13724": {
+        "name": "Evil Dead: A Fistful of Boomstick",
+        "url": "https:\/\/xemu.app\/titles\/5451000b#Evil-Dead-A-Fistful-of-Boomstick",
+        "playable": "Playable"
+    },
+    "17122": {
+        "name": "The Incredible Hulk: Ultimate Destruction",
+        "url": "https:\/\/xemu.app\/titles\/56550039#The-Incredible-Hulk-Ultimate-Destruction",
+        "playable": "Playable"
+    },
+    "24295": {
+        "name": "Cold War",
+        "url": "https:\/\/xemu.app\/titles\/44430004#Cold-War",
+        "playable": "Playable"
+    },
+    "24975": {
+        "name": "The King of Fighters 2003",
+        "url": "https:\/\/xemu.app\/titles\/534e0003#The-King-of-Fighters-2003",
+        "playable": "Starts"
+    },
+    "163526": {
+        "name": "Top Gear: RPM Tuning",
+        "url": "https:\/\/xemu.app\/titles\/4b420007#Top-Gear-RPM-Tuning",
+        "playable": "Intro"
+    },
+    "8003": {
+        "name": "The Lord of the Rings: The Return of the King",
+        "url": "https:\/\/xemu.app\/titles\/4541003e#The-Lord-of-the-Rings-The-Return-of-the-King",
+        "playable": "Playable"
+    },
+    "169423": {
+        "name": "Pool Shark 2",
+        "url": "https:\/\/xemu.app\/titles\/5a440001#Pool-Shark-2",
+        "playable": "Playable"
+    },
+    "17068": {
+        "name": "State of Emergency",
+        "url": "https:\/\/xemu.app\/titles\/54540006#State-of-Emergency",
+        "playable": "Playable"
+    },
+    "6114": {
+        "name": "Prince of Persia: The Sands of Time",
+        "url": "https:\/\/xemu.app\/titles\/5553001d#Prince-of-Persia-The-Sands-of-Time",
+        "playable": "Playable"
+    },
+    "6062": {
+        "name": "Fight Club",
+        "url": "https:\/\/xemu.app\/titles\/5655002f#Fight-Club",
+        "playable": "Playable"
+    },
+    "24296": {
+        "name": "Dynasty Warriors 4",
+        "url": "https:\/\/xemu.app\/titles\/4b4f0004#Dynasty-Warriors-4",
+        "playable": "Playable"
+    },
+    "6071": {
+        "name": "Gauntlet: Seven Sorrows",
+        "url": "https:\/\/xemu.app\/titles\/4d570022#Gauntlet-Seven-Sorrows",
+        "playable": "Playable"
+    },
+    "13278": {
+        "name": "Jurassic Park: Operation Genesis",
+        "url": "https:\/\/xemu.app\/titles\/56550021#Jurassic-Park-Operation-Genesis",
+        "playable": "Playable"
+    },
+    "6015": {
+        "name": "Cabela's Deer Hunt: 2005 Season",
+        "url": "https:\/\/xemu.app\/titles\/4156003f#Cabela-s-Deer-Hunt-2005-Season",
+        "playable": "Playable"
+    },
+    "109458": {
+        "name": "MVP Baseball 2005",
+        "url": "https:\/\/xemu.app\/titles\/45410056#MVP-Baseball-2005",
+        "playable": "Playable"
+    },
+    "22706": {
+        "name": "UEFA Champions League 2004-2005",
+        "url": "https:\/\/xemu.app\/titles\/45410070#UEFA-Champions-League-2004-2005",
+        "playable": "Playable"
+    },
+    "6039": {
+        "name": "Dance Dance Revolution Ultramix",
+        "url": "https:\/\/xemu.app\/titles\/4b4e0019#Dance-Dance-Revolution-Ultramix",
+        "playable": "Playable"
+    },
+    "169419": {
+        "name": "Secret Weapons over Normandy",
+        "url": "https:\/\/xemu.app\/titles\/4c410006#Secret-Weapons-over-Normandy",
+        "playable": "Starts"
+    },
+    "28468": {
+        "name": "Freestyle Metal X",
+        "url": "https:\/\/xemu.app\/titles\/4d570017#Freestyle-Metal-X",
+        "playable": "Playable"
+    },
+    "13725": {
+        "name": "Evil Dead: Regeneration",
+        "url": "https:\/\/xemu.app\/titles\/54510025#Evil-Dead-Regeneration",
+        "playable": "Playable"
+    },
+    "24309": {
+        "name": "Neighbours from Hell",
+        "url": "https:\/\/xemu.app\/titles\/4a570002#Neighbours-from-Hell",
+        "playable": "Perfect"
+    },
+    "18524": {
+        "name": "Total Club Manager 2005",
+        "url": "https:\/\/xemu.app\/titles\/45410065#Total-Club-Manager-2005",
+        "playable": "Playable"
+    },
+    "152620": {
+        "name": "Gungriffon: Allied Strike",
+        "url": "https:\/\/xemu.app\/titles\/54430009#Gungriffon-Allied-Strike",
+        "playable": "Playable"
+    },
+    "15100": {
+        "name": "Deus Ex: Invisible War",
+        "url": "https:\/\/xemu.app\/titles\/45530005#Deus-Ex-Invisible-War",
+        "playable": "Playable"
+    },
+    "24312": {
+        "name": "Xbox Music Mixer",
+        "url": "https:\/\/xemu.app\/titles\/4d53005a#Xbox-Music-Mixer",
+        "playable": "Playable"
+    },
+    "13498": {
+        "name": "Mortal Kombat: Deception",
+        "url": "https:\/\/xemu.app\/titles\/4d570019#Mortal-Kombat-Deception",
+        "playable": "Playable"
+    },
+    "6000": {
+        "name": "Bloody Roar: Extreme",
+        "url": "https:\/\/xemu.app\/titles\/48550001#Bloody-Roar-Extreme",
+        "playable": "Starts"
+    },
+    "6210": {
+        "name": "The Chronicles of Riddick: Escape from Butcher Bay",
+        "url": "https:\/\/xemu.app\/titles\/56550026#The-Chronicles-of-Riddick-Escape-from-Butcher-Bay",
+        "playable": "Starts"
+    },
+    "18384": {
+        "name": "Championship Manager: Season 01\/02",
+        "url": "https:\/\/xemu.app\/titles\/45530002#Championship-Manager-Season-01-02",
+        "playable": "Playable"
+    },
+    "153824": {
+        "name": "Rugby 06",
+        "url": "https:\/\/xemu.app\/titles\/45410087#Rugby-06",
+        "playable": "Playable"
+    },
+    "8064": {
+        "name": "TimeSplitters 2",
+        "url": "https:\/\/xemu.app\/titles\/4553000a#TimeSplitters-2",
+        "playable": "Playable"
+    },
+    "7794": {
+        "name": "The Simpsons: Hit & Run",
+        "url": "https:\/\/xemu.app\/titles\/56550015#The-Simpsons-Hit-Run",
+        "playable": "Playable"
+    },
+    "95293": {
+        "name": "NHL Hitz 2002",
+        "url": "https:\/\/xemu.app\/titles\/4d570003#NHL-Hitz-2002",
+        "playable": "Playable"
+    },
+    "24299": {
+        "name": "Gun Metal",
+        "url": "https:\/\/xemu.app\/titles\/4d4a0003#Gun-Metal",
+        "playable": "Playable"
+    },
+    "7982": {
+        "name": "James Cameron's Dark Angel",
+        "url": "https:\/\/xemu.app\/titles\/56550014#James-Cameron-s-Dark-Angel",
+        "playable": "Playable"
+    },
+    "153793": {
+        "name": "NASCAR Thunder 2002",
+        "url": "https:\/\/xemu.app\/titles\/45410002#NASCAR-Thunder-2002",
+        "playable": "Playable"
+    },
+    "24970": {
+        "name": "The Great Escape",
+        "url": "https:\/\/xemu.app\/titles\/53430003#The-Great-Escape",
+        "playable": "Playable"
+    },
+    "15120": {
+        "name": "Crash Tag Team Racing",
+        "url": "https:\/\/xemu.app\/titles\/56550041#Crash-Tag-Team-Racing",
+        "playable": "Playable"
+    },
+    "10600": {
+        "name": "Second Sight",
+        "url": "https:\/\/xemu.app\/titles\/434d0047#Second-Sight",
+        "playable": "Playable"
+    },
+    "163522": {
+        "name": "Volvo: Drive for Life",
+        "url": "https:\/\/xemu.app\/titles\/4d530084#Volvo-Drive-for-Life",
+        "playable": "Playable"
+    },
+    "23745": {
+        "name": "The Da Vinci Code",
+        "url": "https:\/\/xemu.app\/titles\/545400ab#The-Da-Vinci-Code",
+        "playable": "Playable"
+    },
+    "5946": {
+        "name": "American Chopper 2: Full Throttle",
+        "url": "https:\/\/xemu.app\/titles\/4156004f#American-Chopper-2-Full-Throttle",
+        "playable": "Starts"
+    },
+    "6016": {
+        "name": "Cabela's Outdoor Adventures",
+        "url": "https:\/\/xemu.app\/titles\/4156004d#Cabela-s-Outdoor-Adventures",
+        "playable": "Playable"
+    },
+    "8058": {
+        "name": "Nickelodeon Tak 2: The Staff of Dreams",
+        "url": "https:\/\/xemu.app\/titles\/5451008b#Nickelodeon-Tak-2-The-Staff-of-Dreams",
+        "playable": "Playable"
+    },
+    "6049": {
+        "name": "Dino Crisis 3",
+        "url": "https:\/\/xemu.app\/titles\/43430003#Dino-Crisis-3",
+        "playable": "Playable"
+    },
+    "169617": {
+        "name": "Jockey's Road",
+        "url": "https:\/\/xemu.app\/titles\/4d530030#Jockey-s-Road",
+        "playable": "Starts"
+    },
+    "169614": {
+        "name": "Knights of the Temple: Infernal Crusade",
+        "url": "https:\/\/xemu.app\/titles\/544d0007#Knights-of-the-Temple-Infernal-Crusade",
+        "playable": "Playable"
+    },
+    "6197": {
+        "name": "Tom Clancy's Splinter Cell: Double Agent",
+        "url": "https:\/\/xemu.app\/titles\/5553005e#Tom-Clancy-s-Splinter-Cell-Double-Agent",
+        "playable": "Playable"
+    },
+    "8024": {
+        "name": "Murakumo: Renegade Mech Pursuit",
+        "url": "https:\/\/xemu.app\/titles\/55530016#Murakumo-Renegade-Mech-Pursuit",
+        "playable": "Playable"
+    },
+    "111210": {
+        "name": "Van Helsing",
+        "url": "https:\/\/xemu.app\/titles\/56550029#Van-Helsing",
+        "playable": "Playable"
+    },
+    "169615": {
+        "name": "King Arthur",
+        "url": "https:\/\/xemu.app\/titles\/4b4e0024#King-Arthur",
+        "playable": "Playable"
+    },
+    "28512": {
+        "name": "UEFA Euro 2004: Portugal",
+        "url": "https:\/\/xemu.app\/titles\/4541004a#UEFA-Euro-2004-Portugal",
+        "playable": "Playable"
+    },
+    "8556": {
+        "name": "Tony Hawk's American Wasteland",
+        "url": "https:\/\/xemu.app\/titles\/41560049#Tony-Hawk-s-American-Wasteland",
+        "playable": "Playable"
+    },
+    "20649": {
+        "name": "Call of Duty 3",
+        "url": "https:\/\/xemu.app\/titles\/4156005d#Call-of-Duty-3",
+        "playable": "Playable"
+    },
+    "153769": {
+        "name": "Namco Museum 50th Anniversary",
+        "url": "https:\/\/xemu.app\/titles\/4e4d0016#Namco-Museum-50th-Anniversary",
+        "playable": "Perfect"
+    },
+    "153747": {
+        "name": "Loons: The Fight for Fame",
+        "url": "https:\/\/xemu.app\/titles\/49470006#Loons-The-Fight-for-Fame",
+        "playable": "Perfect"
+    },
+    "6044": {
+        "name": "Dead to Rights II",
+        "url": "https:\/\/xemu.app\/titles\/4e4d0015#Dead-to-Rights-II",
+        "playable": "Playable"
+    },
+    "15494": {
+        "name": "Capcom Classics Collection Vol. 1",
+        "url": "https:\/\/xemu.app\/titles\/43430018#Capcom-Classics-Collection-Vol-1",
+        "playable": "Starts"
+    },
+    "5947": {
+        "name": "America's Army: Rise of a Soldier",
+        "url": "https:\/\/xemu.app\/titles\/55530043#America-s-Army-Rise-of-a-Soldier",
+        "playable": "Playable"
+    },
+    "28471": {
+        "name": "Dragon's Lair 3D: Return to the Lair",
+        "url": "https:\/\/xemu.app\/titles\/55530012#Dragon-s-Lair-3D-Return-to-the-Lair",
+        "playable": "Playable"
+    },
+    "34735": {
+        "name": "Chase: Hollywood Stunt Driver",
+        "url": "https:\/\/xemu.app\/titles\/424d0001#Chase-Hollywood-Stunt-Driver",
+        "playable": "Starts"
+    },
+    "8026": {
+        "name": "Myst IV: Revelation",
+        "url": "https:\/\/xemu.app\/titles\/5553004a#Myst-IV-Revelation",
+        "playable": "Playable"
+    },
+    "196503": {
+        "name": "Club Football",
+        "url": "https:\/\/xemu.app\/titles\/434d0021#Club-Football",
+        "playable": "Playable"
+    },
+    "17866": {
+        "name": "Mad Dash Racing",
+        "url": "https:\/\/xemu.app\/titles\/45530001#Mad-Dash-Racing",
+        "playable": "Playable"
+    },
+    "33561": {
+        "name": "MX vs. ATV Unleashed",
+        "url": "https:\/\/xemu.app\/titles\/545100ed#MX-vs-ATV-Unleashed",
+        "playable": "Playable"
+    },
+    "153718": {
+        "name": "Mashed: Drive to Survive",
+        "url": "https:\/\/xemu.app\/titles\/454d000a#Mashed-Drive-to-Survive",
+        "playable": "Starts"
+    },
+    "123196": {
+        "name": "Lemony Snicket's A Series of Unfortunate Events",
+        "url": "https:\/\/xemu.app\/titles\/4156001f#Lemony-Snicket-s-A-Series-of-Unfortunate-Events",
+        "playable": "Playable"
+    },
+    "8043": {
+        "name": "Samurai Shodown V",
+        "url": "https:\/\/xemu.app\/titles\/534e0004#Samurai-Shodown-V",
+        "playable": "Starts"
+    },
+    "8045": {
+        "name": "Serious Sam II",
+        "url": "https:\/\/xemu.app\/titles\/5454000d#Serious-Sam-II",
+        "playable": "Playable"
+    },
+    "15577": {
+        "name": "The Matrix: Path of Neo",
+        "url": "https:\/\/xemu.app\/titles\/4947007c#The-Matrix-Path-of-Neo",
+        "playable": "Playable"
+    },
+    "169700": {
+        "name": "F1 2002",
+        "url": "https:\/\/xemu.app\/titles\/45410014#F1-2002",
+        "playable": "Starts"
+    },
+    "8039": {
+        "name": "Red Dead Revolver",
+        "url": "https:\/\/xemu.app\/titles\/5454001a#Red-Dead-Revolver",
+        "playable": "Playable"
+    },
+    "8018": {
+        "name": "Metal Slug 3",
+        "url": "https:\/\/xemu.app\/titles\/494f0005#Metal-Slug-3",
+        "playable": "Playable"
+    },
+    "6048": {
+        "name": "Destroy All Humans! 2",
+        "url": "https:\/\/xemu.app\/titles\/54510106#Destroy-All-Humans-2",
+        "playable": "Playable"
+    },
+    "158124": {
+        "name": "Psyvariar 2: Extend Edition",
+        "url": "https:\/\/xemu.app\/titles\/53550009#Psyvariar-2-Extend-Edition",
+        "playable": "Perfect"
+    },
+    "6100": {
+        "name": "NCAA Football 2005",
+        "url": "https:\/\/xemu.app\/titles\/45410051#NCAA-Football-2005",
+        "playable": "Playable"
+    },
+    "16990": {
+        "name": "Unreal II: The Awakening",
+        "url": "https:\/\/xemu.app\/titles\/4947003c#Unreal-II-The-Awakening",
+        "playable": "Playable"
+    },
+    "151172": {
+        "name": "Urban Freestyle Soccer",
+        "url": "https:\/\/xemu.app\/titles\/4143000c#Urban-Freestyle-Soccer",
+        "playable": "Playable"
+    },
+    "18914": {
+        "name": "Full Spectrum Warrior",
+        "url": "https:\/\/xemu.app\/titles\/54510022#Full-Spectrum-Warrior",
+        "playable": "Playable"
+    },
+    "6094": {
+        "name": "Major League Baseball 2K6",
+        "url": "https:\/\/xemu.app\/titles\/54540092#Major-League-Baseball-2K6",
+        "playable": "Starts"
+    },
+    "153833": {
+        "name": "TMNT: Mutant Melee",
+        "url": "https:\/\/xemu.app\/titles\/4b4e0020#TMNT-Mutant-Melee",
+        "playable": "Playable"
+    },
+    "8042": {
+        "name": "Rogue Ops",
+        "url": "https:\/\/xemu.app\/titles\/4b420003#Rogue-Ops",
+        "playable": "Playable"
+    },
+    "34736": {
+        "name": "Animaniacs: The Great Edgar Hunt",
+        "url": "https:\/\/xemu.app\/titles\/494f0003#Animaniacs-The-Great-Edgar-Hunt",
+        "playable": "Playable"
+    },
+    "7981": {
+        "name": "CSI: Crime Scene Investigation",
+        "url": "https:\/\/xemu.app\/titles\/5553003f#CSI-Crime-Scene-Investigation",
+        "playable": "Playable"
+    },
+    "5976": {
+        "name": "ATV: Quad Power Racing 2",
+        "url": "https:\/\/xemu.app\/titles\/4143000a#ATV-Quad-Power-Racing-2",
+        "playable": "Playable"
+    },
+    "17402": {
+        "name": "Dance Dance Revolution Ultramix 4",
+        "url": "https:\/\/xemu.app\/titles\/4b4e0037#Dance-Dance-Revolution-Ultramix-4",
+        "playable": "Playable"
+    },
+    "153787": {
+        "name": "NFL Blitz 2003",
+        "url": "https:\/\/xemu.app\/titles\/4d57000a#NFL-Blitz-2003",
+        "playable": "Playable"
+    },
+    "6047": {
+        "name": "Destroy All Humans!",
+        "url": "https:\/\/xemu.app\/titles\/54510026#Destroy-All-Humans",
+        "playable": "Playable"
+    },
+    "153842": {
+        "name": "Wakeboarding Unleashed featuring Shaun Murray",
+        "url": "https:\/\/xemu.app\/titles\/4156000d#Wakeboarding-Unleashed-featuring-Shaun-Murray",
+        "playable": "Playable"
+    },
+    "28513": {
+        "name": "Ultimate Spider-Man",
+        "url": "https:\/\/xemu.app\/titles\/41560035#Ultimate-Spider-Man",
+        "playable": "Playable"
+    },
+    "6034": {
+        "name": "Crash Nitro Kart",
+        "url": "https:\/\/xemu.app\/titles\/5655001f#Crash-Nitro-Kart",
+        "playable": "Playable"
+    },
+    "29029": {
+        "name": "Final Fight: Streetwise",
+        "url": "https:\/\/xemu.app\/titles\/43430013#Final-Fight-Streetwise",
+        "playable": "Playable"
+    },
+    "153843": {
+        "name": "Wallace & Gromit: The Curse of the Were-Rabbit",
+        "url": "https:\/\/xemu.app\/titles\/4b4e0034#Wallace-Gromit-The-Curse-of-the-Were-Rabbit",
+        "playable": "Starts"
+    },
+    "21006": {
+        "name": "Sega GT 2002",
+        "url": "https:\/\/xemu.app\/titles\/4947002c#Sega-GT-2002",
+        "playable": "Playable"
+    },
+    "23521": {
+        "name": "NHL 2003",
+        "url": "https:\/\/xemu.app\/titles\/4541001e#NHL-2003",
+        "playable": "Playable"
+    },
+    "153856": {
+        "name": "WinBack 2: Project Poseidon",
+        "url": "https:\/\/xemu.app\/titles\/4b4f0008#WinBack-2-Project-Poseidon",
+        "playable": "Playable"
+    },
+    "162153": {
+        "name": "4x4 Evo 2",
+        "url": "https:\/\/xemu.app\/titles\/54540001#4x4-Evo-2",
+        "playable": "Starts"
+    },
+    "153882": {
+        "name": "Tom Clancy's Rainbow Six: Critical Hour",
+        "url": "https:\/\/xemu.app\/titles\/5553005f#Tom-Clancy-s-Rainbow-Six-Critical-Hour",
+        "playable": "Playable"
+    },
+    "34203": {
+        "name": "Kingdom Under Fire: Heroes",
+        "url": "https:\/\/xemu.app\/titles\/504c0006#Kingdom-Under-Fire-Heroes",
+        "playable": "Playable"
+    },
+    "24983": {
+        "name": "Total Overdose",
+        "url": "https:\/\/xemu.app\/titles\/53430010#Total-Overdose",
+        "playable": "Playable"
+    },
+    "165886": {
+        "name": "Metal Slug 5",
+        "url": "https:\/\/xemu.app\/titles\/534e0008#Metal-Slug-5",
+        "playable": "Playable"
+    },
+    "111211": {
+        "name": "Rocky Legends",
+        "url": "https:\/\/xemu.app\/titles\/55530034#Rocky-Legends",
+        "playable": "Playable"
+    },
+    "7983": {
+        "name": "Dreamfall: The Longest Journey",
+        "url": "https:\/\/xemu.app\/titles\/41590004#Dreamfall-The-Longest-Journey",
+        "playable": "Playable"
+    },
+    "153723": {
+        "name": "ESPN NBA 2Night 2002",
+        "url": "https:\/\/xemu.app\/titles\/4b4e0006#ESPN-NBA-2Night-2002",
+        "playable": "Playable"
+    },
+    "7787": {
+        "name": "Triple Play 2002",
+        "url": "https:\/\/xemu.app\/titles\/45410009#Triple-Play-2002",
+        "playable": "Perfect"
+    },
+    "6019": {
+        "name": "Capcom Fighting Evolution ~ Capcom Fighting Jam",
+        "url": "https:\/\/xemu.app\/titles\/43430010#Capcom-Fighting-Evolution-Capcom-Fighting-Jam",
+        "playable": "Starts"
+    },
+    "23813": {
+        "name": "Land of the Dead: Road to Fiddler's Green",
+        "url": "https:\/\/xemu.app\/titles\/47560004#Land-of-the-Dead-Road-to-Fiddler-s-Green",
+        "playable": "Playable"
+    },
+    "22702": {
+        "name": "Need for Speed: Underground 2",
+        "url": "https:\/\/xemu.app\/titles\/4541005a#Need-for-Speed-Underground-2",
+        "playable": "Playable"
+    },
+    "169424": {
+        "name": "NFL Street 2",
+        "url": "https:\/\/xemu.app\/titles\/45410057#NFL-Street-2",
+        "playable": "Starts"
+    },
+    "16733": {
+        "name": "Silent Hill 2: Restless Dreams",
+        "url": "https:\/\/xemu.app\/titles\/4b4e0004#Silent-Hill-2-Restless-Dreams",
+        "playable": "Playable"
+    },
+    "21436": {
+        "name": "Dungeons & Dragons: Heroes",
+        "url": "https:\/\/xemu.app\/titles\/49470013#Dungeons-Dragons-Heroes",
+        "playable": "Playable"
+    },
+    "195523": {
+        "name": "Miami Vice",
+        "url": "https:\/\/xemu.app\/titles\/44580001#Miami-Vice",
+        "playable": "Playable"
+    },
+    "6069": {
+        "name": "Furious Karting",
+        "url": "https:\/\/xemu.app\/titles\/4947000b#Furious-Karting",
+        "playable": "Playable"
+    },
+    "14161": {
+        "name": "Enter the Matrix",
+        "url": "https:\/\/xemu.app\/titles\/49470022#Enter-the-Matrix",
+        "playable": "Playable"
+    },
+    "6072": {
+        "name": "Genma Onimusha",
+        "url": "https:\/\/xemu.app\/titles\/43430001#Genma-Onimusha",
+        "playable": "Playable"
+    },
+    "28490": {
+        "name": "Richard Burns Rally",
+        "url": "https:\/\/xemu.app\/titles\/53430005#Richard-Burns-Rally",
+        "playable": "Playable"
+    },
+    "14178": {
+        "name": "MVP Baseball 2004",
+        "url": "https:\/\/xemu.app\/titles\/45410045#MVP-Baseball-2004",
+        "playable": "Playable"
+    },
+    "34200": {
+        "name": "Tao Feng: Fist of the Lotus",
+        "url": "https:\/\/xemu.app\/titles\/4d530014#Tao-Feng-Fist-of-the-Lotus",
+        "playable": "Playable"
+    },
+    "163519": {
+        "name": "World Championship Snooker 2003",
+        "url": "https:\/\/xemu.app\/titles\/434d000d#World-Championship-Snooker-2003",
+        "playable": "Playable"
+    },
+    "6059": {
+        "name": "Fatal Frame II: Crimson Butterfly",
+        "url": "https:\/\/xemu.app\/titles\/5443000a#Fatal-Frame-II-Crimson-Butterfly",
+        "playable": "Starts"
+    },
+    "153829": {
+        "name": "Sneak King",
+        "url": "https:\/\/xemu.app\/titles\/4d5300d3#Sneak-King",
+        "playable": "Playable"
+    },
+    "8014": {
+        "name": "Men of Valor",
+        "url": "https:\/\/xemu.app\/titles\/56550019#Men-of-Valor",
+        "playable": "Playable"
+    },
+    "5972": {
+        "name": "Amped 2",
+        "url": "https:\/\/xemu.app\/titles\/4d530041#Amped-2",
+        "playable": "Playable"
+    },
+    "6026": {
+        "name": "Combat Elite: WWII Paratroopers",
+        "url": "https:\/\/xemu.app\/titles\/53500001#Combat-Elite-WWII-Paratroopers",
+        "playable": "Playable"
+    },
+    "13982": {
+        "name": "Tiger Woods PGA Tour 2004",
+        "url": "https:\/\/xemu.app\/titles\/4541003a#Tiger-Woods-PGA-Tour-2004",
+        "playable": "Playable"
+    },
+    "29149": {
+        "name": "Conflict: Desert Storm",
+        "url": "https:\/\/xemu.app\/titles\/53430001#Conflict-Desert-Storm",
+        "playable": "Playable"
+    },
+    "6099": {
+        "name": "NBA Live 07",
+        "url": "https:\/\/xemu.app\/titles\/454100a1#NBA-Live-07",
+        "playable": "Playable"
+    },
+    "14585": {
+        "name": "Tiger Woods PGA Tour 2005",
+        "url": "https:\/\/xemu.app\/titles\/45410054#Tiger-Woods-PGA-Tour-2005",
+        "playable": "Playable"
+    },
+    "163511": {
+        "name": "Shrek Super Party",
+        "url": "https:\/\/xemu.app\/titles\/544d0004#Shrek-Super-Party",
+        "playable": "Playable"
+    },
+    "6083": {
+        "name": "Kung Fu Chaos",
+        "url": "https:\/\/xemu.app\/titles\/4d530031#Kung-Fu-Chaos",
+        "playable": "Playable"
+    },
+    "6054": {
+        "name": "ESPN Winter X Games Snowboarding 2002",
+        "url": "https:\/\/xemu.app\/titles\/4b4e0009#ESPN-Winter-X-Games-Snowboarding-2002",
+        "playable": "Playable"
+    },
+    "6046": {
+        "name": "Delta Force: Black Hawk Down",
+        "url": "https:\/\/xemu.app\/titles\/4e4c0002#Delta-Force-Black-Hawk-Down",
+        "playable": "Playable"
+    },
+    "7980": {
+        "name": "Crouching Tiger, Hidden Dragon",
+        "url": "https:\/\/xemu.app\/titles\/55530020#Crouching-Tiger-Hidden-Dragon",
+        "playable": "Playable"
+    },
+    "6121": {
+        "name": "Robotech: Invasion",
+        "url": "https:\/\/xemu.app\/titles\/5454001b#Robotech-Invasion",
+        "playable": "Playable"
+    },
+    "6045": {
+        "name": "Def Jam: Fight for NY",
+        "url": "https:\/\/xemu.app\/titles\/45410049#Def-Jam-Fight-for-NY",
+        "playable": "Intro"
+    },
+    "24993": {
+        "name": "AFL Live Premiership Edition",
+        "url": "https:\/\/xemu.app\/titles\/41430023#AFL-Live-Premiership-Edition",
+        "playable": "Playable"
+    },
+    "6067": {
+        "name": "Forza Motorsport",
+        "url": "https:\/\/xemu.app\/titles\/4d53006e#Forza-Motorsport",
+        "playable": "Starts"
+    },
+    "169616": {
+        "name": "Kelly Slater's Pro Surfer",
+        "url": "https:\/\/xemu.app\/titles\/41560002#Kelly-Slater-s-Pro-Surfer",
+        "playable": "Playable"
+    },
+    "5942": {
+        "name": "Aliens Versus Predator: Extinction",
+        "url": "https:\/\/xemu.app\/titles\/56550022#Aliens-Versus-Predator-Extinction",
+        "playable": "Perfect"
+    },
+    "169604": {
+        "name": "LMA Manager 2006",
+        "url": "https:\/\/xemu.app\/titles\/434d0054#LMA-Manager-2006",
+        "playable": "Starts"
+    },
+    "170965": {
+        "name": "Grooverider: Slot Car Thunder",
+        "url": "https:\/\/xemu.app\/titles\/45430002#Grooverider-Slot-Car-Thunder",
+        "playable": "Playable"
+    },
+    "21005": {
+        "name": "IndyCar Series",
+        "url": "https:\/\/xemu.app\/titles\/434d0006#IndyCar-Series",
+        "playable": "Playable"
+    },
+    "24308": {
+        "name": "True Crime: New York City",
+        "url": "https:\/\/xemu.app\/titles\/41560045#True-Crime-New-York-City",
+        "playable": "Playable"
+    },
+    "6004": {
+        "name": "Brothers in Arms: Road to Hill 30",
+        "url": "https:\/\/xemu.app\/titles\/5553003c#Brothers-in-Arms-Road-to-Hill-30",
+        "playable": "Intro"
+    },
+    "158175": {
+        "name": "Yetisports Arctic Adventures",
+        "url": "https:\/\/xemu.app\/titles\/4a570004#Yetisports-Arctic-Adventures",
+        "playable": "Playable"
+    },
+    "24725": {
+        "name": "Pac-Man World 3",
+        "url": "https:\/\/xemu.app\/titles\/4e4d0017#Pac-Man-World-3",
+        "playable": "Playable"
+    },
+    "6192": {
+        "name": "Soulcalibur II",
+        "url": "https:\/\/xemu.app\/titles\/4e4d0003#Soulcalibur-II",
+        "playable": "Playable"
+    },
+    "6014": {
+        "name": "Cabela's Dangerous Hunts",
+        "url": "https:\/\/xemu.app\/titles\/41560019#Cabela-s-Dangerous-Hunts",
+        "playable": "Playable"
+    },
+    "24156": {
+        "name": "Disney\/Pixar Finding Nemo",
+        "url": "https:\/\/xemu.app\/titles\/5451001e#Disney-Pixar-Finding-Nemo",
+        "playable": "Playable"
+    },
+    "5981": {
+        "name": "Batman: Dark Tomorrow",
+        "url": "https:\/\/xemu.app\/titles\/4b420001#Batman-Dark-Tomorrow",
+        "playable": "Playable"
+    },
+    "169618": {
+        "name": "Jikkyou World Soccer 2002",
+        "url": "https:\/\/xemu.app\/titles\/4b410001#Jikkyou-World-Soccer-2002",
+        "playable": "Starts"
+    },
+    "23519": {
+        "name": "RedCard 20-03",
+        "url": "https:\/\/xemu.app\/titles\/4d57000f#RedCard-20-03",
+        "playable": "Starts"
+    },
+    "23957": {
+        "name": "TransWorld Snowboarding",
+        "url": "https:\/\/xemu.app\/titles\/49470004#TransWorld-Snowboarding",
+        "playable": "Playable"
+    },
+    "91821": {
+        "name": "WWF Raw",
+        "url": "https:\/\/xemu.app\/titles\/54510002#WWF-Raw",
+        "playable": "Playable"
+    },
+    "28450": {
+        "name": "Backyard Wrestling 2: There Goes the Neighborhood",
+        "url": "https:\/\/xemu.app\/titles\/45530016#Backyard-Wrestling-2-There-Goes-the-Neighborhood",
+        "playable": "Playable"
+    },
+    "169605": {
+        "name": "MLB SlugFest: Loaded",
+        "url": "https:\/\/xemu.app\/titles\/4d57001d#MLB-SlugFest-Loaded",
+        "playable": "Playable"
+    },
+    "8033": {
+        "name": "Prince of Persia: Warrior Within",
+        "url": "https:\/\/xemu.app\/titles\/5553003b#Prince-of-Persia-Warrior-Within",
+        "playable": "Playable"
+    },
+    "17540": {
+        "name": "NHL Hitz 2003",
+        "url": "https:\/\/xemu.app\/titles\/4d57000b#NHL-Hitz-2003",
+        "playable": "Playable"
+    },
+    "17398": {
+        "name": "Army Men: Major Malfunction",
+        "url": "https:\/\/xemu.app\/titles\/54540088#Army-Men-Major-Malfunction",
+        "playable": "Playable"
+    },
+    "6086": {
+        "name": "Leisure Suit Larry: Magna Cum Laude",
+        "url": "https:\/\/xemu.app\/titles\/56550031#Leisure-Suit-Larry-Magna-Cum-Laude",
+        "playable": "Playable"
+    },
+    "8056": {
+        "name": "The Suffering: Ties That Bind",
+        "url": "https:\/\/xemu.app\/titles\/4d57002c#The-Suffering-Ties-That-Bind",
+        "playable": "Playable"
+    },
+    "169420": {
+        "name": "Rugby League",
+        "url": "https:\/\/xemu.app\/titles\/48450001#Rugby-League",
+        "playable": "Playable"
+    },
+    "35096": {
+        "name": "Wallace & Gromit in Project Zoo",
+        "url": "https:\/\/xemu.app\/titles\/424d0003#Wallace-Gromit-in-Project-Zoo",
+        "playable": "Playable"
+    },
+    "29074": {
+        "name": "Yu-Gi-Oh! The Dawn of Destiny",
+        "url": "https:\/\/xemu.app\/titles\/4b4e001e#Yu-Gi-Oh-The-Dawn-of-Destiny",
+        "playable": "Playable"
+    },
+    "205049": {
+        "name": "Shinchou Mahjong",
+        "url": "https:\/\/xemu.app\/titles\/45460001#Shinchou-Mahjong",
+        "playable": "Playable"
+    },
+    "114873": {
+        "name": "ESPN NBA Basketball",
+        "url": "https:\/\/xemu.app\/titles\/53450023#ESPN-NBA-Basketball",
+        "playable": "Starts"
+    },
+    "13879": {
+        "name": "Hitman: Blood Money",
+        "url": "https:\/\/xemu.app\/titles\/534300fa#Hitman-Blood-Money",
+        "playable": "Playable"
+    },
+    "24977": {
+        "name": "The Sims",
+        "url": "https:\/\/xemu.app\/titles\/4541002f#The-Sims",
+        "playable": "Playable"
+    },
+    "153730": {
+        "name": "Ford Street Racing",
+        "url": "https:\/\/xemu.app\/titles\/454d001f#Ford-Street-Racing",
+        "playable": "Playable"
+    },
+    "21515": {
+        "name": "NHL 2005",
+        "url": "https:\/\/xemu.app\/titles\/4541004f#NHL-2005",
+        "playable": "Playable"
+    },
+    "35212": {
+        "name": "Rayman 3: Hoodlum Havoc",
+        "url": "https:\/\/xemu.app\/titles\/55530002#Rayman-3-Hoodlum-Havoc",
+        "playable": "Playable"
+    },
+    "153737": {
+        "name": "High Heat Major League Baseball 2004",
+        "url": "https:\/\/xemu.app\/titles\/54440006#High-Heat-Major-League-Baseball-2004",
+        "playable": "Playable"
+    },
+    "6196": {
+        "name": "Splat Magazine Renegade Paintball",
+        "url": "https:\/\/xemu.app\/titles\/54540093#Splat-Magazine-Renegade-Paintball",
+        "playable": "Starts"
+    },
+    "153738": {
+        "name": "Hot Wheels: Stunt Track Challenge",
+        "url": "https:\/\/xemu.app\/titles\/54510089#Hot-Wheels-Stunt-Track-Challenge",
+        "playable": "Playable"
+    },
+    "170964": {
+        "name": "International Superstar Soccer 2",
+        "url": "https:\/\/xemu.app\/titles\/4b4e0008#International-Superstar-Soccer-2",
+        "playable": "Starts"
+    },
+    "153791": {
+        "name": "Outlaw Golf: Holiday Golf",
+        "url": "https:\/\/xemu.app\/titles\/53530005#Outlaw-Golf-Holiday-Golf",
+        "playable": "Playable"
+    },
+    "169421": {
+        "name": "Rugby League 2",
+        "url": "https:\/\/xemu.app\/titles\/48450005#Rugby-League-2",
+        "playable": "Playable"
+    },
+    "14588": {
+        "name": "Sega GT 2002 + JSRF: Jet Set Radio Future",
+        "url": "https:\/\/xemu.app\/titles\/4d53003d#Sega-GT-2002-JSRF-Jet-Set-Radio-Future",
+        "playable": "Playable"
+    },
+    "153825": {
+        "name": "Scooby-Doo! Night of 100 Frights",
+        "url": "https:\/\/xemu.app\/titles\/5451001f#Scooby-Doo-Night-of-100-Frights",
+        "playable": "Playable"
+    },
+    "153749": {
+        "name": "Marc Ecko's Getting Up: Contents Under Pressure",
+        "url": "https:\/\/xemu.app\/titles\/4947007d#Marc-Ecko-s-Getting-Up-Contents-Under-Pressure",
+        "playable": "Playable"
+    },
+    "24302": {
+        "name": "ShellShock: Nam '67",
+        "url": "https:\/\/xemu.app\/titles\/45530013#ShellShock-Nam-67",
+        "playable": "Playable"
+    },
+    "34201": {
+        "name": "NHL 2K6",
+        "url": "https:\/\/xemu.app\/titles\/5454008d#NHL-2K6",
+        "playable": "Playable"
+    },
+    "153766": {
+        "name": "MX 2002 featuring Ricky Carmichael",
+        "url": "https:\/\/xemu.app\/titles\/54510003#MX-2002-featuring-Ricky-Carmichael",
+        "playable": "Playable"
+    },
+    "5983": {
+        "name": "Battle Engine Aquila",
+        "url": "https:\/\/xemu.app\/titles\/49470010#Battle-Engine-Aquila",
+        "playable": "Playable"
+    },
+    "6105": {
+        "name": "Ninja Gaiden Black",
+        "url": "https:\/\/xemu.app\/titles\/5443000d#Ninja-Gaiden-Black",
+        "playable": "Playable"
+    },
+    "8005": {
+        "name": "The Lord of the Rings: The Two Towers",
+        "url": "https:\/\/xemu.app\/titles\/45410010#The-Lord-of-the-Rings-The-Two-Towers",
+        "playable": "Playable"
+    },
+    "17038": {
+        "name": "Nickelodeon Tak: The Great Juju Challenge",
+        "url": "https:\/\/xemu.app\/titles\/545100f4#Nickelodeon-Tak-The-Great-Juju-Challenge",
+        "playable": "Playable"
+    },
+    "6107": {
+        "name": "Otogi 2: Immortal Warriors",
+        "url": "https:\/\/xemu.app\/titles\/46530004#Otogi-2-Immortal-Warriors",
+        "playable": "Starts"
+    },
+    "6201": {
+        "name": "Star Wars: Jedi Knight: Jedi Academy",
+        "url": "https:\/\/xemu.app\/titles\/4c41000b#Star-Wars-Jedi-Knight-Jedi-Academy",
+        "playable": "Starts"
+    },
+    "8035": {
+        "name": "Pure Pinball",
+        "url": "https:\/\/xemu.app\/titles\/54540011#Pure-Pinball",
+        "playable": "Playable"
+    },
+    "95298": {
+        "name": "Showdown: Legends of Wrestling",
+        "url": "https:\/\/xemu.app\/titles\/4143001d#Showdown-Legends-of-Wrestling",
+        "playable": "Playable"
+    },
+    "153767": {
+        "name": "MX World Tour featuring Jamie Little",
+        "url": "https:\/\/xemu.app\/titles\/4356000e#MX-World-Tour-featuring-Jamie-Little",
+        "playable": "Playable"
+    },
+    "8036": {
+        "name": "Quantum Redshift",
+        "url": "https:\/\/xemu.app\/titles\/4d530015#Quantum-Redshift",
+        "playable": "Starts"
+    },
+    "153813": {
+        "name": "Room Zoom: Race for Impact",
+        "url": "https:\/\/xemu.app\/titles\/4a410006#Room-Zoom-Race-for-Impact",
+        "playable": "Playable"
+    },
+    "153859": {
+        "name": "World Championship Poker 2 featuring Howard Lederer",
+        "url": "https:\/\/xemu.app\/titles\/43560010#World-Championship-Poker-2-featuring-Howard-Lederer",
+        "playable": "Playable"
+    },
+    "28487": {
+        "name": "World Soccer Winning Eleven 8: International",
+        "url": "https:\/\/xemu.app\/titles\/4b4e0027#World-Soccer-Winning-Eleven-8-International",
+        "playable": "Playable"
+    },
+    "23445": {
+        "name": "The Elder Scrolls III: Morrowind: Game of the Year Edition",
+        "url": "https:\/\/xemu.app\/titles\/42530005#The-Elder-Scrolls-III-Morrowind-Game-of-the-Year-Edition",
+        "playable": "Playable"
+    },
+    "20769": {
+        "name": "Phantom Dust",
+        "url": "https:\/\/xemu.app\/titles\/4d530046#Phantom-Dust",
+        "playable": "Playable"
+    },
+    "153745": {
+        "name": "Karaoke Revolution Party",
+        "url": "https:\/\/xemu.app\/titles\/4b4e002e#Karaoke-Revolution-Party",
+        "playable": "Starts"
+    },
+    "153832": {
+        "name": "SpyHunter: Nowhere to Run",
+        "url": "https:\/\/xemu.app\/titles\/4d570037#SpyHunter-Nowhere-to-Run",
+        "playable": "Playable"
+    },
+    "5994": {
+        "name": "Blazing Angels: Squadrons of WWII",
+        "url": "https:\/\/xemu.app\/titles\/55530057#Blazing-Angels-Squadrons-of-WWII",
+        "playable": "Playable"
+    },
+    "10596": {
+        "name": "SNK vs. Capcom: SVC Chaos",
+        "url": "https:\/\/xemu.app\/titles\/534e0001#SNK-vs-Capcom-SVC-Chaos",
+        "playable": "Starts"
+    },
+    "164898": {
+        "name": "Dance Dance Revolution Ultramix 2",
+        "url": "https:\/\/xemu.app\/titles\/4b4e0021#Dance-Dance-Revolution-Ultramix-2",
+        "playable": "Playable"
+    },
+    "17400": {
+        "name": "Crusty Demons",
+        "url": "https:\/\/xemu.app\/titles\/464c0002#Crusty-Demons",
+        "playable": "Playable"
+    },
+    "94429": {
+        "name": "2002 FIFA World Cup",
+        "url": "https:\/\/xemu.app\/titles\/4541000b#2002-FIFA-World-Cup",
+        "playable": "Playable"
+    },
+    "91447": {
+        "name": "Iron Phoenix",
+        "url": "https:\/\/xemu.app\/titles\/53410003#Iron-Phoenix",
+        "playable": "Playable"
+    },
+    "6212": {
+        "name": "Disney\/Pixar The Incredibles",
+        "url": "https:\/\/xemu.app\/titles\/54510028#Disney-Pixar-The-Incredibles",
+        "playable": "Playable"
+    },
+    "8559": {
+        "name": "Digimon World X",
+        "url": "https:\/\/xemu.app\/titles\/42410002#Digimon-World-X",
+        "playable": "Playable"
+    },
+    "6092": {
+        "name": "Medal of Honor: European Assault",
+        "url": "https:\/\/xemu.app\/titles\/4541005e#Medal-of-Honor-European-Assault",
+        "playable": "Playable"
+    },
+    "18467": {
+        "name": "NFL Fever 2002",
+        "url": "https:\/\/xemu.app\/titles\/4d530006#NFL-Fever-2002",
+        "playable": "Playable"
+    },
+    "6081": {
+        "name": "Ice Age 2: The Meltdown",
+        "url": "https:\/\/xemu.app\/titles\/5655004b#Ice-Age-2-The-Meltdown",
+        "playable": "Playable"
+    },
+    "5943": {
+        "name": "All-Star Baseball 2004 featuring Derek Jeter",
+        "url": "https:\/\/xemu.app\/titles\/41430018#All-Star-Baseball-2004-featuring-Derek-Jeter",
+        "playable": "Playable"
+    },
+    "6061": {
+        "name": "FIFA Street",
+        "url": "https:\/\/xemu.app\/titles\/45410072#FIFA-Street",
+        "playable": "Playable"
+    },
+    "13027": {
+        "name": "Test Drive: Eve of Destruction",
+        "url": "https:\/\/xemu.app\/titles\/49470075#Test-Drive-Eve-of-Destruction",
+        "playable": "Playable"
+    },
+    "34256": {
+        "name": "Gauntlet: Dark Legacy",
+        "url": "https:\/\/xemu.app\/titles\/4d57000e#Gauntlet-Dark-Legacy",
+        "playable": "Playable"
+    },
+    "15038": {
+        "name": "Voodoo Vince",
+        "url": "https:\/\/xemu.app\/titles\/4d53005f#Voodoo-Vince",
+        "playable": "Playable"
+    },
+    "163524": {
+        "name": "Le Tour de France",
+        "url": "https:\/\/xemu.app\/titles\/4b4e000f#Le-Tour-de-France",
+        "playable": "Playable"
+    },
+    "95299": {
+        "name": "Scooby-Doo! Mystery Mayhem",
+        "url": "https:\/\/xemu.app\/titles\/5451000e#Scooby-Doo-Mystery-Mayhem",
+        "playable": "Starts"
+    },
+    "17395": {
+        "name": "All-Star Baseball 2005 featuring Derek Jeter",
+        "url": "https:\/\/xemu.app\/titles\/4143001c#All-Star-Baseball-2005-featuring-Derek-Jeter",
+        "playable": "Playable"
+    },
+    "153724": {
+        "name": "ESPN NHL Hockey",
+        "url": "https:\/\/xemu.app\/titles\/53450026#ESPN-NHL-Hockey",
+        "playable": "Playable"
+    },
+    "18375": {
+        "name": "Robin Hood: Defender of the Crown",
+        "url": "https:\/\/xemu.app\/titles\/4343000c#Robin-Hood-Defender-of-the-Crown",
+        "playable": "Playable"
+    },
+    "153762": {
+        "name": "Monster 4x4: World Circuit",
+        "url": "https:\/\/xemu.app\/titles\/55530049#Monster-4x4-World-Circuit",
+        "playable": "Playable"
+    },
+    "6093": {
+        "name": "Metal Arms: Glitch in the System",
+        "url": "https:\/\/xemu.app\/titles\/5655000a#Metal-Arms-Glitch-in-the-System",
+        "playable": "Playable"
+    },
+    "6010": {
+        "name": "Burnout 2: Point of Impact",
+        "url": "https:\/\/xemu.app\/titles\/41430019#Burnout-2-Point-of-Impact",
+        "playable": "Playable"
+    },
+    "8067": {
+        "name": "Teenage Mutant Ninja Turtles",
+        "url": "https:\/\/xemu.app\/titles\/4b4e001b#Teenage-Mutant-Ninja-Turtles",
+        "playable": "Playable"
+    },
+    "7988": {
+        "name": "KOF: Maximum Impact: Maniax",
+        "url": "https:\/\/xemu.app\/titles\/534e0007#KOF-Maximum-Impact-Maniax",
+        "playable": "Playable"
+    },
+    "8012": {
+        "name": "Max Payne 2: The Fall of Max Payne",
+        "url": "https:\/\/xemu.app\/titles\/5454000c#Max-Payne-2-The-Fall-of-Max-Payne",
+        "playable": "Playable"
+    },
+    "153808": {
+        "name": "Pulse Racer",
+        "url": "https:\/\/xemu.app\/titles\/4a410001#Pulse-Racer",
+        "playable": "Playable"
+    },
+    "28491": {
+        "name": "Shadow Ops: Red Mercury",
+        "url": "https:\/\/xemu.app\/titles\/49470025#Shadow-Ops-Red-Mercury",
+        "playable": "Starts"
+    },
+    "91449": {
+        "name": "Metal Wolf Chaos",
+        "url": "https:\/\/xemu.app\/titles\/46530006#Metal-Wolf-Chaos",
+        "playable": "Starts"
+    },
+    "19275": {
+        "name": "ESPN College Hoops",
+        "url": "https:\/\/xemu.app\/titles\/53450024#ESPN-College-Hoops",
+        "playable": "Playable"
+    },
+    "17034": {
+        "name": "Harry Potter and the Prisoner of Azkaban",
+        "url": "https:\/\/xemu.app\/titles\/4541004c#Harry-Potter-and-the-Prisoner-of-Azkaban",
+        "playable": "Playable"
+    },
+    "202290": {
+        "name": "Plus Plumb 2",
+        "url": "https:\/\/xemu.app\/titles\/544b0004#Plus-Plumb-2",
+        "playable": "Perfect"
+    },
+    "90294": {
+        "name": "Tecmo Classic Arcade",
+        "url": "https:\/\/xemu.app\/titles\/5443000e#Tecmo-Classic-Arcade",
+        "playable": "Perfect"
+    },
+    "6112": {
+        "name": "Panzer Dragoon Orta",
+        "url": "https:\/\/xemu.app\/titles\/4947002b#Panzer-Dragoon-Orta",
+        "playable": "Playable"
+    },
+    "122388": {
+        "name": "Judge Dredd: Dredd vs. Death",
+        "url": "https:\/\/xemu.app\/titles\/5656000d#Judge-Dredd-Dredd-vs-Death",
+        "playable": "Playable"
+    },
+    "160249": {
+        "name": "SeaWorld Adventure Parks: Shamu's Deep Sea Adventures",
+        "url": "https:\/\/xemu.app\/titles\/41560050#SeaWorld-Adventure-Parks-Shamu-s-Deep-Sea-Adventures",
+        "playable": "Playable"
+    },
+    "5918": {
+        "name": "007: Nightfire",
+        "url": "https:\/\/xemu.app\/titles\/45410026#007-Nightfire",
+        "playable": "Playable"
+    },
+    "28463": {
+        "name": "ESPN NHL 2K5",
+        "url": "https:\/\/xemu.app\/titles\/53450032#ESPN-NHL-2K5",
+        "playable": "Playable"
+    },
+    "164877": {
+        "name": "Madden NFL 2002",
+        "url": "https:\/\/xemu.app\/titles\/45410001#Madden-NFL-2002",
+        "playable": "Playable"
+    },
+    "23905": {
+        "name": "Dave Mirra Freestyle BMX 2",
+        "url": "https:\/\/xemu.app\/titles\/41430001#Dave-Mirra-Freestyle-BMX-2",
+        "playable": "Playable"
+    },
+    "17401": {
+        "name": "Daisenryaku VII",
+        "url": "https:\/\/xemu.app\/titles\/434b0001#Daisenryaku-VII",
+        "playable": "Playable"
+    },
+    "28482": {
+        "name": "NHL 2K3",
+        "url": "https:\/\/xemu.app\/titles\/53450017#NHL-2K3",
+        "playable": "Playable"
+    },
+    "10601": {
+        "name": "Spikeout: Battle Street",
+        "url": "https:\/\/xemu.app\/titles\/53450029#Spikeout-Battle-Street",
+        "playable": "Playable"
+    },
+    "94428": {
+        "name": "Bicycle Casino Includes: Texas Hold'em",
+        "url": "https:\/\/xemu.app\/titles\/41560040#Bicycle-Casino-Includes-Texas-Hold-em",
+        "playable": "Playable"
+    },
+    "28492": {
+        "name": "Shattered Union",
+        "url": "https:\/\/xemu.app\/titles\/54540083#Shattered-Union",
+        "playable": "Playable"
+    },
+    "21514": {
+        "name": "Superman Returns",
+        "url": "https:\/\/xemu.app\/titles\/454100a0#Superman-Returns",
+        "playable": "Playable"
+    },
+    "34741": {
+        "name": "Barbie Horse Adventures: Wild Horse Rescue",
+        "url": "https:\/\/xemu.app\/titles\/5655002a#Barbie-Horse-Adventures-Wild-Horse-Rescue",
+        "playable": "Perfect"
+    },
+    "163516": {
+        "name": "Yonenaga Kunio no Shougi Seminar",
+        "url": "https:\/\/xemu.app\/titles\/53550004#Yonenaga-Kunio-no-Shougi-Seminar",
+        "playable": "Playable"
+    },
+    "21255": {
+        "name": "Disney\/Pixar Ratatouille",
+        "url": "https:\/\/xemu.app\/titles\/54510109#Disney-Pixar-Ratatouille",
+        "playable": "Playable"
+    },
+    "169422": {
+        "name": "Puyo Puyo Fever",
+        "url": "https:\/\/xemu.app\/titles\/53450027#Puyo-Puyo-Fever",
+        "playable": "Perfect"
+    },
+    "8779": {
+        "name": "Mortal Kombat: Shaolin Monks",
+        "url": "https:\/\/xemu.app\/titles\/4d570029#Mortal-Kombat-Shaolin-Monks",
+        "playable": "Playable"
+    },
+    "7786": {
+        "name": "NHL 2002",
+        "url": "https:\/\/xemu.app\/titles\/45410005#NHL-2002",
+        "playable": "Starts"
+    },
+    "153991": {
+        "name": "Gravity Games Bike: Street. Vert. Dirt.",
+        "url": "https:\/\/xemu.app\/titles\/4d57000d#Gravity-Games-Bike-Street-Vert-Dirt",
+        "playable": "Playable"
+    },
+    "11967": {
+        "name": "Castlevania: Curse of Darkness",
+        "url": "https:\/\/xemu.app\/titles\/4b4e002d#Castlevania-Curse-of-Darkness",
+        "playable": "Playable"
+    },
+    "169577": {
+        "name": "Maximum Chase",
+        "url": "https:\/\/xemu.app\/titles\/4d53002e#Maximum-Chase",
+        "playable": "Playable"
+    },
+    "5982": {
+        "name": "Batman: Rise of Sin Tzu",
+        "url": "https:\/\/xemu.app\/titles\/5553001c#Batman-Rise-of-Sin-Tzu",
+        "playable": "Playable"
+    },
+    "5992": {
+        "name": "Black Stone: Magic & Steel",
+        "url": "https:\/\/xemu.app\/titles\/58490004#Black-Stone-Magic-Steel",
+        "playable": "Playable"
+    },
+    "162161": {
+        "name": "College Hoops 2K6",
+        "url": "https:\/\/xemu.app\/titles\/54540091#College-Hoops-2K6",
+        "playable": "Playable"
+    },
+    "5989": {
+        "name": "Big Mutha Truckers 2",
+        "url": "https:\/\/xemu.app\/titles\/454d0017#Big-Mutha-Truckers-2",
+        "playable": "Playable"
+    },
+    "169701": {
+        "name": "F1 2001",
+        "url": "https:\/\/xemu.app\/titles\/45410007#F1-2001",
+        "playable": "Playable"
+    },
+    "140706": {
+        "name": "X-Men: The Official Game",
+        "url": "https:\/\/xemu.app\/titles\/41560046#X-Men-The-Official-Game",
+        "playable": "Playable"
+    },
+    "6111": {
+        "name": "Painkiller: Hell Wars",
+        "url": "https:\/\/xemu.app\/titles\/44430003#Painkiller-Hell-Wars",
+        "playable": "Playable"
+    },
+    "154038": {
+        "name": "Worms Forts: Under Siege",
+        "url": "https:\/\/xemu.app\/titles\/53450035#Worms-Forts-Under-Siege",
+        "playable": "Playable"
+    },
+    "8072": {
+        "name": "Driver: Parallel Lines",
+        "url": "https:\/\/xemu.app\/titles\/4947007f#Driver-Parallel-Lines",
+        "playable": "Starts"
+    },
+    "6057": {
+        "name": "Family Guy: Video Game!",
+        "url": "https:\/\/xemu.app\/titles\/545400b0#Family-Guy-Video-Game",
+        "playable": "Playable"
+    },
+    "12438": {
+        "name": "Turok: Evolution",
+        "url": "https:\/\/xemu.app\/titles\/41430004#Turok-Evolution",
+        "playable": "Playable"
+    },
+    "7978": {
+        "name": "Call of Cthulhu: Dark Corners of the Earth",
+        "url": "https:\/\/xemu.app\/titles\/42530007#Call-of-Cthulhu-Dark-Corners-of-the-Earth",
+        "playable": "Intro"
+    },
+    "5917": {
+        "name": "007: From Russia with Love",
+        "url": "https:\/\/xemu.app\/titles\/45410079#007-From-Russia-with-Love",
+        "playable": "Playable"
+    },
+    "6188": {
+        "name": "Serious Sam",
+        "url": "https:\/\/xemu.app\/titles\/54540004#Serious-Sam",
+        "playable": "Starts"
+    },
+    "8022": {
+        "name": "Mission: Impossible: Operation Surma",
+        "url": "https:\/\/xemu.app\/titles\/4947001f#Mission-Impossible-Operation-Surma",
+        "playable": "Starts"
+    },
+    "5938": {
+        "name": "Aeon Flux",
+        "url": "https:\/\/xemu.app\/titles\/4d4a0014#Aeon-Flux",
+        "playable": "Playable"
+    },
+    "14115": {
+        "name": "Midway Arcade Treasures",
+        "url": "https:\/\/xemu.app\/titles\/4d57001c#Midway-Arcade-Treasures",
+        "playable": "Playable"
+    },
+    "158108": {
+        "name": "Break Nine: World Billiards Tournament",
+        "url": "https:\/\/xemu.app\/titles\/41530001#Break-Nine-World-Billiards-Tournament",
+        "playable": "Starts"
+    },
+    "153728": {
+        "name": "Freaky Flyers",
+        "url": "https:\/\/xemu.app\/titles\/4d570007#Freaky-Flyers",
+        "playable": "Playable"
+    },
+    "5975": {
+        "name": "Armed and Dangerous",
+        "url": "https:\/\/xemu.app\/titles\/4c41000d#Armed-and-Dangerous",
+        "playable": "Playable"
+    },
+    "9976": {
+        "name": "Arctic Thunder",
+        "url": "https:\/\/xemu.app\/titles\/4d570002#Arctic-Thunder",
+        "playable": "Playable"
+    },
+    "24297": {
+        "name": "Dynasty Warriors 5",
+        "url": "https:\/\/xemu.app\/titles\/4b4f0007#Dynasty-Warriors-5",
+        "playable": "Playable"
+    },
+    "153748": {
+        "name": "Madden NFL 09",
+        "url": "https:\/\/xemu.app\/titles\/4541023b#Madden-NFL-09",
+        "playable": "Starts"
+    },
+    "163517": {
+        "name": "World Snooker Championship 2005",
+        "url": "https:\/\/xemu.app\/titles\/53450081#World-Snooker-Championship-2005",
+        "playable": "Playable"
+    },
+    "153744": {
+        "name": "Karaoke Revolution",
+        "url": "https:\/\/xemu.app\/titles\/4b4e0025#Karaoke-Revolution",
+        "playable": "Starts"
+    },
+    "18371": {
+        "name": "Power Drome",
+        "url": "https:\/\/xemu.app\/titles\/4253000b#Power-Drome",
+        "playable": "Playable"
+    },
+    "171285": {
+        "name": "Disney's Extreme Skate Adventure",
+        "url": "https:\/\/xemu.app\/titles\/41560027#Disney-s-Extreme-Skate-Adventure",
+        "playable": "Playable"
+    },
+    "95294": {
+        "name": "NHL 2004",
+        "url": "https:\/\/xemu.app\/titles\/45410030#NHL-2004",
+        "playable": "Playable"
+    },
+    "28478": {
+        "name": "Midnight Club 3: DUB Edition",
+        "url": "https:\/\/xemu.app\/titles\/54540079#Midnight-Club-3-DUB-Edition",
+        "playable": "Playable"
+    },
+    "6203": {
+        "name": "Star Wars: Knights of the Old Republic",
+        "url": "https:\/\/xemu.app\/titles\/4c410003#Star-Wars-Knights-of-the-Old-Republic",
+        "playable": "Playable"
+    },
+    "163563": {
+        "name": "Championship Bowling",
+        "url": "https:\/\/xemu.app\/titles\/584d0003#Championship-Bowling",
+        "playable": "Playable"
+    },
+    "5999": {
+        "name": "Blood Wake",
+        "url": "https:\/\/xemu.app\/titles\/4d530010#Blood-Wake",
+        "playable": "Starts"
+    },
+    "34764": {
+        "name": "Crime Life: Gang Wars",
+        "url": "https:\/\/xemu.app\/titles\/4b4e001c#Crime-Life-Gang-Wars",
+        "playable": "Starts"
+    },
+    "8023": {
+        "name": "Mortal Kombat: Deadly Alliance",
+        "url": "https:\/\/xemu.app\/titles\/4d57000c#Mortal-Kombat-Deadly-Alliance",
+        "playable": "Playable"
+    },
+    "153780": {
+        "name": "NCAA Football 2003",
+        "url": "https:\/\/xemu.app\/titles\/4541001d#NCAA-Football-2003",
+        "playable": "Starts"
+    },
+    "14586": {
+        "name": "Tetris Worlds",
+        "url": "https:\/\/xemu.app\/titles\/53550006#Tetris-Worlds",
+        "playable": "Playable"
+    },
+    "169606": {
+        "name": "MLB SlugFest 2003",
+        "url": "https:\/\/xemu.app\/titles\/4d570008#MLB-SlugFest-2003",
+        "playable": "Playable"
+    },
+    "169610": {
+        "name": "LMA Manager 2004",
+        "url": "https:\/\/xemu.app\/titles\/434d000f#LMA-Manager-2004",
+        "playable": "Starts"
+    },
+    "17397": {
+        "name": "Arena Football",
+        "url": "https:\/\/xemu.app\/titles\/45410094#Arena-Football",
+        "playable": "Starts"
+    },
+    "20844": {
+        "name": "Tony Hawk's Underground 2",
+        "url": "https:\/\/xemu.app\/titles\/4156003c#Tony-Hawk-s-Underground-2",
+        "playable": "Playable"
+    },
+    "205028": {
+        "name": "Muzzle Flash",
+        "url": "https:\/\/xemu.app\/titles\/56430001#Muzzle-Flash",
+        "playable": "Playable"
+    },
+    "8011": {
+        "name": "Marvel Nemesis: Rise of the Imperfects",
+        "url": "https:\/\/xemu.app\/titles\/45410089#Marvel-Nemesis-Rise-of-the-Imperfects",
+        "playable": "Starts"
+    },
+    "24303": {
+        "name": "Silent Scope Complete",
+        "url": "https:\/\/xemu.app\/titles\/4b4e001a#Silent-Scope-Complete",
+        "playable": "Starts"
+    },
+    "145566": {
+        "name": "Nickelodeon Party Blast",
+        "url": "https:\/\/xemu.app\/titles\/49470028#Nickelodeon-Party-Blast",
+        "playable": "Playable"
+    },
+    "5944": {
+        "name": "Alter Echo",
+        "url": "https:\/\/xemu.app\/titles\/5451000f#Alter-Echo",
+        "playable": "Playable"
+    },
+    "22707": {
+        "name": "Pitfall: The Lost Expedition",
+        "url": "https:\/\/xemu.app\/titles\/41560018#Pitfall-The-Lost-Expedition",
+        "playable": "Playable"
+    },
+    "6200": {
+        "name": "Star Wars: Episode III: Revenge of the Sith",
+        "url": "https:\/\/xemu.app\/titles\/4c410017#Star-Wars-Episode-III-Revenge-of-the-Sith",
+        "playable": "Playable"
+    },
+    "6108": {
+        "name": "Outlaw Golf: 9 More Holes of X-Mas",
+        "url": "https:\/\/xemu.app\/titles\/53530006#Outlaw-Golf-9-More-Holes-of-X-Mas",
+        "playable": "Starts"
+    },
+    "7985": {
+        "name": "Disney's The Haunted Mansion",
+        "url": "https:\/\/xemu.app\/titles\/544d000d#Disney-s-The-Haunted-Mansion",
+        "playable": "Playable"
+    },
+    "5979": {
+        "name": "Baldur's Gate: Dark Alliance II",
+        "url": "https:\/\/xemu.app\/titles\/4950000a#Baldur-s-Gate-Dark-Alliance-II",
+        "playable": "Intro"
+    },
+    "17067": {
+        "name": "Psi-Ops: The Mindgate Conspiracy",
+        "url": "https:\/\/xemu.app\/titles\/4d570016#Psi-Ops-The-Mindgate-Conspiracy",
+        "playable": "Playable"
+    },
+    "6060": {
+        "name": "FIFA 07",
+        "url": "https:\/\/xemu.app\/titles\/454100a6#FIFA-07",
+        "playable": "Playable"
+    },
+    "13941": {
+        "name": "Red Ninja: End of Honor",
+        "url": "https:\/\/xemu.app\/titles\/56550027#Red-Ninja-End-of-Honor",
+        "playable": "Playable"
+    },
+    "21011": {
+        "name": "Legends of Wrestling II",
+        "url": "https:\/\/xemu.app\/titles\/4143000f#Legends-of-Wrestling-II",
+        "playable": "Playable"
+    },
+    "6184": {
+        "name": "Tom Clancy's Ghost Recon 2: Summit Strike",
+        "url": "https:\/\/xemu.app\/titles\/5553004d#Tom-Clancy-s-Ghost-Recon-2-Summit-Strike",
+        "playable": "Playable"
+    },
+    "153740": {
+        "name": "The Hustle: Detroit Streets",
+        "url": "https:\/\/xemu.app\/titles\/4156005b#The-Hustle-Detroit-Streets",
+        "playable": "Playable"
+    },
+    "34763": {
+        "name": "Commandos 2: Men of Courage",
+        "url": "https:\/\/xemu.app\/titles\/45530008#Commandos-2-Men-of-Courage",
+        "playable": "Playable"
+    },
+    "6199": {
+        "name": "Star Wars: Battlefront II",
+        "url": "https:\/\/xemu.app\/titles\/4c41001a#Star-Wars-Battlefront-II",
+        "playable": "Playable"
+    },
+    "153741": {
+        "name": "IHRA Drag Racing: Sportsman Edition",
+        "url": "https:\/\/xemu.app\/titles\/42530011#IHRA-Drag-Racing-Sportsman-Edition",
+        "playable": "Playable"
+    },
+    "22708": {
+        "name": "Virtual Pool: Tournament Edition",
+        "url": "https:\/\/xemu.app\/titles\/54540016#Virtual-Pool-Tournament-Edition",
+        "playable": "Perfect"
+    },
+    "153722": {
+        "name": "ESPN NBA 2K5",
+        "url": "https:\/\/xemu.app\/titles\/53450031#ESPN-NBA-2K5",
+        "playable": "Playable"
+    },
+    "6207": {
+        "name": "Steel Battalion",
+        "url": "https:\/\/xemu.app\/titles\/43430002#Steel-Battalion",
+        "playable": "Intro"
+    },
+    "219491": {
+        "name": "Counter Terrorist Special Forces: Fire for Effect",
+        "url": "https:\/\/xemu.app\/titles\/48500002#Counter-Terrorist-Special-Forces-Fire-for-Effect",
+        "playable": "Starts"
+    },
+    "153725": {
+        "name": "FIFA Street 2",
+        "url": "https:\/\/xemu.app\/titles\/45410085#FIFA-Street-2",
+        "playable": "Playable"
+    },
+    "132753": {
+        "name": "NASCAR Heat 2002",
+        "url": "https:\/\/xemu.app\/titles\/49470009#NASCAR-Heat-2002",
+        "playable": "Playable"
+    },
+    "7987": {
+        "name": "Kingdom Under Fire: The Crusaders",
+        "url": "https:\/\/xemu.app\/titles\/504c0002#Kingdom-Under-Fire-The-Crusaders",
+        "playable": "Playable"
+    },
+    "20193": {
+        "name": "Sniper Elite",
+        "url": "https:\/\/xemu.app\/titles\/4d49000d#Sniper-Elite",
+        "playable": "Playable"
+    },
+    "14273": {
+        "name": "Chicago Enforcer",
+        "url": "https:\/\/xemu.app\/titles\/4b420005#Chicago-Enforcer",
+        "playable": "Starts"
+    },
+    "153726": {
+        "name": "Ford Racing 2",
+        "url": "https:\/\/xemu.app\/titles\/454d0007#Ford-Racing-2",
+        "playable": "Playable"
+    },
+    "24967": {
+        "name": "Terminator 3: Rise of the Machines",
+        "url": "https:\/\/xemu.app\/titles\/4947003b#Terminator-3-Rise-of-the-Machines",
+        "playable": "Starts"
+    },
+    "6205": {
+        "name": "Star Wars: Republic Commando",
+        "url": "https:\/\/xemu.app\/titles\/4c410013#Star-Wars-Republic-Commando",
+        "playable": "Playable"
+    },
+    "14140": {
+        "name": "The Hobbit: The Prelude to the Lord of the Rings",
+        "url": "https:\/\/xemu.app\/titles\/56550023#The-Hobbit-The-Prelude-to-the-Lord-of-the-Rings",
+        "playable": "Playable"
+    },
+    "7984": {
+        "name": "Ed, Edd n Eddy: The Mis-Edventures",
+        "url": "https:\/\/xemu.app\/titles\/4d570032#Ed-Edd-n-Eddy-The-Mis-Edventures",
+        "playable": "Playable"
+    },
+    "8016": {
+        "name": "Metal Dungeon",
+        "url": "https:\/\/xemu.app\/titles\/494c0001#Metal-Dungeon",
+        "playable": "Playable"
+    },
+    "5998": {
+        "name": "BloodRayne 2",
+        "url": "https:\/\/xemu.app\/titles\/4d4a000d#BloodRayne-2",
+        "playable": "Playable"
+    },
+    "31764": {
+        "name": "Conflict: Desert Storm II",
+        "url": "https:\/\/xemu.app\/titles\/53430006#Conflict-Desert-Storm-II",
+        "playable": "Playable"
+    },
+    "23718": {
+        "name": "The House of the Dead III",
+        "url": "https:\/\/xemu.app\/titles\/53450008#The-House-of-the-Dead-III",
+        "playable": "Playable"
+    },
+    "163515": {
+        "name": "Sensible Soccer 2006",
+        "url": "https:\/\/xemu.app\/titles\/434d005b#Sensible-Soccer-2006",
+        "playable": "Playable"
+    },
+    "6115": {
+        "name": "Prince of Persia: The Two Thrones",
+        "url": "https:\/\/xemu.app\/titles\/55530058#Prince-of-Persia-The-Two-Thrones",
+        "playable": "Playable"
+    },
+    "14580": {
+        "name": "NCAA Football 06",
+        "url": "https:\/\/xemu.app\/titles\/45410080#NCAA-Football-06",
+        "playable": "Starts"
+    },
+    "8070": {
+        "name": "Tron 2.0: Killer App",
+        "url": "https:\/\/xemu.app\/titles\/42560001#Tron-2-0-Killer-App",
+        "playable": "Starts"
+    },
+    "29028": {
+        "name": "David Beckham Soccer",
+        "url": "https:\/\/xemu.app\/titles\/52410003#David-Beckham-Soccer",
+        "playable": "Playable"
+    },
+    "153720": {
+        "name": "ESPN Major League Baseball",
+        "url": "https:\/\/xemu.app\/titles\/53450028#ESPN-Major-League-Baseball",
+        "playable": "Playable"
+    },
+    "17394": {
+        "name": "AirForce Delta Storm",
+        "url": "https:\/\/xemu.app\/titles\/4b4e0002#AirForce-Delta-Storm",
+        "playable": "Playable"
+    },
+    "5977": {
+        "name": "Azurik: Rise of Perathia",
+        "url": "https:\/\/xemu.app\/titles\/4d530007#Azurik-Rise-of-Perathia",
+        "playable": "Starts"
+    },
+    "14587": {
+        "name": "Sega GT Online",
+        "url": "https:\/\/xemu.app\/titles\/53450021#Sega-GT-Online",
+        "playable": "Starts"
+    },
+    "22700": {
+        "name": "Midnight Club II",
+        "url": "https:\/\/xemu.app\/titles\/54540008#Midnight-Club-II",
+        "playable": "Playable"
+    },
+    "22375": {
+        "name": "Unreal Championship",
+        "url": "https:\/\/xemu.app\/titles\/49470024#Unreal-Championship",
+        "playable": "Playable"
+    },
+    "153841": {
+        "name": "Ultimate Beach Soccer",
+        "url": "https:\/\/xemu.app\/titles\/57450001#Ultimate-Beach-Soccer",
+        "playable": "Starts"
+    },
+    "153779": {
+        "name": "NCAA College Football 2K3",
+        "url": "https:\/\/xemu.app\/titles\/53450010#NCAA-College-Football-2K3",
+        "playable": "Playable"
+    },
+    "6185": {
+        "name": "Tom Clancy's Ghost Recon: Advanced Warfighter",
+        "url": "https:\/\/xemu.app\/titles\/55530054#Tom-Clancy-s-Ghost-Recon-Advanced-Warfighter",
+        "playable": "Starts"
+    },
+    "6211": {
+        "name": "The Godfather",
+        "url": "https:\/\/xemu.app\/titles\/4541007d#The-Godfather",
+        "playable": "Playable"
+    },
+    "15947": {
+        "name": "Need for Speed: Underground",
+        "url": "https:\/\/xemu.app\/titles\/45410047#Need-for-Speed-Underground",
+        "playable": "Playable"
+    },
+    "16734": {
+        "name": "American McGee Presents Scrapland",
+        "url": "https:\/\/xemu.app\/titles\/454c0001#American-McGee-Presents-Scrapland",
+        "playable": "Playable"
+    },
+    "8049": {
+        "name": "Sphinx and the Cursed Mummy",
+        "url": "https:\/\/xemu.app\/titles\/54510023#Sphinx-and-the-Cursed-Mummy",
+        "playable": "Playable"
+    },
+    "24980": {
+        "name": "Tom and Jerry in War of the Whiskers",
+        "url": "https:\/\/xemu.app\/titles\/4e4b0001#Tom-and-Jerry-in-War-of-the-Whiskers",
+        "playable": "Playable"
+    },
+    "130542": {
+        "name": "The Baseball 2002: Battle Ball Park Sengen",
+        "url": "https:\/\/xemu.app\/titles\/4b410002#The-Baseball-2002-Battle-Ball-Park-Sengen",
+        "playable": "Playable"
+    },
+    "7308": {
+        "name": "Star Wars: Jedi Knight II: Jedi Outcast",
+        "url": "https:\/\/xemu.app\/titles\/41560015#Star-Wars-Jedi-Knight-II-Jedi-Outcast",
+        "playable": "Starts"
+    },
+    "6102": {
+        "name": "NFL Fever 2004",
+        "url": "https:\/\/xemu.app\/titles\/4d53004d#NFL-Fever-2004",
+        "playable": "Broken"
+    },
+    "28500": {
+        "name": "Spyro: A Hero's Tail",
+        "url": "https:\/\/xemu.app\/titles\/56550034#Spyro-A-Hero-s-Tail",
+        "playable": "Playable"
+    },
+    "154016": {
+        "name": "MTX Mototrax",
+        "url": "https:\/\/xemu.app\/titles\/41560022#MTX-Mototrax",
+        "playable": "Starts"
+    },
+    "20845": {
+        "name": "Tony Hawk's Underground",
+        "url": "https:\/\/xemu.app\/titles\/4156002d#Tony-Hawk-s-Underground",
+        "playable": "Playable"
+    },
+    "153992": {
+        "name": "Mat Hoffman's Pro BMX 2",
+        "url": "https:\/\/xemu.app\/titles\/4156000b#Mat-Hoffman-s-Pro-BMX-2",
+        "playable": "Playable"
+    },
+    "24301": {
+        "name": "Shadow of Memories",
+        "url": "https:\/\/xemu.app\/titles\/4b4e000e#Shadow-of-Memories",
+        "playable": "Playable"
+    },
+    "153731": {
+        "name": "FIFA World Cup Germany 2006",
+        "url": "https:\/\/xemu.app\/titles\/4541009c#FIFA-World-Cup-Germany-2006",
+        "playable": "Playable"
+    },
+    "8055": {
+        "name": "The Suffering",
+        "url": "https:\/\/xemu.app\/titles\/4d570015#The-Suffering",
+        "playable": "Playable"
+    },
+    "217241": {
+        "name": "Rugby Challenge 2006",
+        "url": "https:\/\/xemu.app\/titles\/48500005#Rugby-Challenge-2006",
+        "playable": "Playable"
+    },
+    "11918": {
+        "name": "Cabela's Deer Hunt: 2004 Season",
+        "url": "https:\/\/xemu.app\/titles\/41560030#Cabela-s-Deer-Hunt-2004-Season",
+        "playable": "Playable"
+    },
+    "153717": {
+        "name": "Dr. Seuss' The Cat in the Hat",
+        "url": "https:\/\/xemu.app\/titles\/56550028#Dr-Seuss-The-Cat-in-the-Hat",
+        "playable": "Playable"
+    },
+    "153760": {
+        "name": "Monopoly Party",
+        "url": "https:\/\/xemu.app\/titles\/4947000f#Monopoly-Party",
+        "playable": "Playable"
+    },
+    "6218": {
+        "name": "Tony Hawk's Project 8",
+        "url": "https:\/\/xemu.app\/titles\/4156005e#Tony-Hawk-s-Project-8",
+        "playable": "Playable"
+    },
+    "8028": {
+        "name": "NBA Jam",
+        "url": "https:\/\/xemu.app\/titles\/41430013#NBA-Jam",
+        "playable": "Playable"
+    },
+    "158123": {
+        "name": "Panzer Elite Action: Fields of Glory",
+        "url": "https:\/\/xemu.app\/titles\/4a570009#Panzer-Elite-Action-Fields-of-Glory",
+        "playable": "Playable"
+    },
+    "14582": {
+        "name": "Ultra Bust-A-Move",
+        "url": "https:\/\/xemu.app\/titles\/4d4a000c#Ultra-Bust-A-Move",
+        "playable": "Intro"
+    },
+    "6022": {
+        "name": "Circus Maximus: Chariot Wars",
+        "url": "https:\/\/xemu.app\/titles\/45430001#Circus-Maximus-Chariot-Wars",
+        "playable": "Playable"
+    },
+    "13947": {
+        "name": "Crimson Sea",
+        "url": "https:\/\/xemu.app\/titles\/4b4f0002#Crimson-Sea",
+        "playable": "Playable"
+    },
+    "24310": {
+        "name": "Urban Chaos: Riot Response",
+        "url": "https:\/\/xemu.app\/titles\/534300f7#Urban-Chaos-Riot-Response",
+        "playable": "Starts"
+    },
+    "22709": {
+        "name": "UFC: Ultimate Fighting Championship: Tapout",
+        "url": "https:\/\/xemu.app\/titles\/43560002#UFC-Ultimate-Fighting-Championship-Tapout",
+        "playable": "Playable"
+    },
+    "94430": {
+        "name": "World Series Baseball",
+        "url": "https:\/\/xemu.app\/titles\/5345000e#World-Series-Baseball",
+        "playable": "Playable"
+    },
+    "4567": {
+        "name": "Far Cry Instincts",
+        "url": "https:\/\/xemu.app\/titles\/55530008#Far-Cry-Instincts",
+        "playable": "Playable"
+    },
+    "29407": {
+        "name": "Sega Soccer Slam",
+        "url": "https:\/\/xemu.app\/titles\/49470029#Sega-Soccer-Slam",
+        "playable": "Playable"
+    },
+    "169681": {
+        "name": "Hello Kitty: Roller Rescue",
+        "url": "https:\/\/xemu.app\/titles\/58500004#Hello-Kitty-Roller-Rescue",
+        "playable": "Playable"
+    },
+    "27231": {
+        "name": "Ford Racing 3",
+        "url": "https:\/\/xemu.app\/titles\/454d000d#Ford-Racing-3",
+        "playable": "Playable"
+    },
+    "5980": {
+        "name": "Batman Begins",
+        "url": "https:\/\/xemu.app\/titles\/45410389#Batman-Begins",
+        "playable": "Playable"
+    },
+    "6215": {
+        "name": "Tiger Woods PGA Tour 07",
+        "url": "https:\/\/xemu.app\/titles\/454100a4#Tiger-Woods-PGA-Tour-07",
+        "playable": "Playable"
+    },
+    "14591": {
+        "name": "Playboy: The Mansion",
+        "url": "https:\/\/xemu.app\/titles\/41480002#Playboy-The-Mansion",
+        "playable": "Playable"
+    },
+    "6216": {
+        "name": "TimeSplitters: Future Perfect",
+        "url": "https:\/\/xemu.app\/titles\/45410066#TimeSplitters-Future-Perfect",
+        "playable": "Playable"
+    },
+    "21253": {
+        "name": "MX Unleashed",
+        "url": "https:\/\/xemu.app\/titles\/54510021#MX-Unleashed",
+        "playable": "Playable"
+    },
+    "6087": {
+        "name": "Major League Baseball 2K7",
+        "url": "https:\/\/xemu.app\/titles\/545400b1#Major-League-Baseball-2K7",
+        "playable": "Starts"
+    },
+    "8050": {
+        "name": "Nickelodeon SpongeBob SquarePants in: Battle for Bikini Bottom",
+        "url": "https:\/\/xemu.app\/titles\/5451001a#Nickelodeon-SpongeBob-SquarePants-in-Battle-for-Bikini-Bottom",
+        "playable": "Playable"
+    },
+    "153784": {
+        "name": "NFL 2K2",
+        "url": "https:\/\/xemu.app\/titles\/53450006#NFL-2K2",
+        "playable": "Perfect"
+    },
+    "7991": {
+        "name": "Tom Clancy's Rainbow Six: Lockdown",
+        "url": "https:\/\/xemu.app\/titles\/55530048#Tom-Clancy-s-Rainbow-Six-Lockdown",
+        "playable": "Playable"
+    },
+    "153804": {
+        "name": "Pro Cast: Sports Fishing Game",
+        "url": "https:\/\/xemu.app\/titles\/4343000b#Pro-Cast-Sports-Fishing-Game",
+        "playable": "Starts"
+    },
+    "8008": {
+        "name": "Magic: The Gathering: Battlegrounds",
+        "url": "https:\/\/xemu.app\/titles\/4947000e#Magic-The-Gathering-Battlegrounds",
+        "playable": "Playable"
+    },
+    "28474": {
+        "name": "Hunter: The Reckoning: Redeemer",
+        "url": "https:\/\/xemu.app\/titles\/5655002d#Hunter-The-Reckoning-Redeemer",
+        "playable": "Playable"
+    },
+    "28461": {
+        "name": "Cricket 2005",
+        "url": "https:\/\/xemu.app\/titles\/45410074#Cricket-2005",
+        "playable": "Playable"
+    },
+    "169696": {
+        "name": "Frankie Dettori Racing",
+        "url": "https:\/\/xemu.app\/titles\/48450004#Frankie-Dettori-Racing",
+        "playable": "Playable"
+    },
+    "6021": {
+        "name": "Cel Damage",
+        "url": "https:\/\/xemu.app\/titles\/45410011#Cel-Damage",
+        "playable": "Playable"
+    },
+    "7788": {
+        "name": "Starsky & Hutch",
+        "url": "https:\/\/xemu.app\/titles\/454d0005#Starsky-Hutch",
+        "playable": "Playable"
+    },
+    "153855": {
+        "name": "Superman: The Man of Steel",
+        "url": "https:\/\/xemu.app\/titles\/49470016#Superman-The-Man-of-Steel",
+        "playable": "Starts"
+    },
+    "8048": {
+        "name": "Sonic Heroes",
+        "url": "https:\/\/xemu.app\/titles\/5345002b#Sonic-Heroes",
+        "playable": "Playable"
+    },
+    "5993": {
+        "name": "Blade II",
+        "url": "https:\/\/xemu.app\/titles\/41560005#Blade-II",
+        "playable": "Playable"
+    },
+    "8025": {
+        "name": "Myst III: Exile",
+        "url": "https:\/\/xemu.app\/titles\/4d500001#Myst-III-Exile",
+        "playable": "Playable"
+    },
+    "8569": {
+        "name": "Forgotten Realms: Demon Stone",
+        "url": "https:\/\/xemu.app\/titles\/49470074#Forgotten-Realms-Demon-Stone",
+        "playable": "Playable"
+    },
+    "8060": {
+        "name": "Tenchu: Return from Darkness",
+        "url": "https:\/\/xemu.app\/titles\/41560026#Tenchu-Return-from-Darkness",
+        "playable": "Playable"
+    },
+    "153820": {
+        "name": "Eggo Mania",
+        "url": "https:\/\/xemu.app\/titles\/4b420002#Eggo-Mania",
+        "playable": "Starts"
+    },
+    "153729": {
+        "name": "Frogger Beyond",
+        "url": "https:\/\/xemu.app\/titles\/4b4e0013#Frogger-Beyond",
+        "playable": "Playable"
+    },
+    "29032": {
+        "name": "NBA Inside Drive 2002",
+        "url": "https:\/\/xemu.app\/titles\/4d530011#NBA-Inside-Drive-2002",
+        "playable": "Playable"
+    },
+    "5988": {
+        "name": "Big Mutha Truckers",
+        "url": "https:\/\/xemu.app\/titles\/454d0002#Big-Mutha-Truckers",
+        "playable": "Playable"
+    },
+    "154155": {
+        "name": "Scooby-Doo! Unmasked",
+        "url": "https:\/\/xemu.app\/titles\/545100f7#Scooby-Doo-Unmasked",
+        "playable": "Starts"
+    },
+    "12433": {
+        "name": "Reign of Fire",
+        "url": "https:\/\/xemu.app\/titles\/424d0002#Reign-of-Fire",
+        "playable": "Playable"
+    },
+    "8034": {
+        "name": "Project: Snowblind",
+        "url": "https:\/\/xemu.app\/titles\/45530019#Project-Snowblind",
+        "playable": "Playable"
+    },
+    "142731": {
+        "name": "Godzilla: Destroy All Monsters Melee",
+        "url": "https:\/\/xemu.app\/titles\/49470039#Godzilla-Destroy-All-Monsters-Melee",
+        "playable": "Playable"
+    },
+    "153840": {
+        "name": "UFC: Ultimate Fighting Championship: Tapout 2",
+        "url": "https:\/\/xemu.app\/titles\/544d000a#UFC-Ultimate-Fighting-Championship-Tapout-2",
+        "playable": "Playable"
+    },
+    "15036": {
+        "name": "Outlaw Golf",
+        "url": "https:\/\/xemu.app\/titles\/544d0006#Outlaw-Golf",
+        "playable": "Intro"
+    },
+    "6098": {
+        "name": "NBA Inside Drive 2004",
+        "url": "https:\/\/xemu.app\/titles\/4d53000b#NBA-Inside-Drive-2004",
+        "playable": "Playable"
+    },
+    "160245": {
+        "name": "Magi Death Fight!",
+        "url": "https:\/\/xemu.app\/titles\/544b0001#Magi-Death-Fight",
+        "playable": "Playable"
+    },
+    "13726": {
+        "name": "The Thing",
+        "url": "https:\/\/xemu.app\/titles\/5655000d#The-Thing",
+        "playable": "Playable"
+    },
+    "153746": {
+        "name": "Inside Pitch 2003",
+        "url": "https:\/\/xemu.app\/titles\/4d530034#Inside-Pitch-2003",
+        "playable": "Playable"
+    },
+    "153727": {
+        "name": "Ford vs. Chevy",
+        "url": "https:\/\/xemu.app\/titles\/54540089#Ford-vs-Chevy",
+        "playable": "Playable"
+    },
+    "10599": {
+        "name": "Headhunter: Redemption",
+        "url": "https:\/\/xemu.app\/titles\/53450025#Headhunter-Redemption",
+        "playable": "Playable"
+    },
+    "94026": {
+        "name": "Nickelodeon SpongeBob SquarePants: The Movie",
+        "url": "https:\/\/xemu.app\/titles\/54510027#Nickelodeon-SpongeBob-SquarePants-The-Movie",
+        "playable": "Playable"
+    },
+    "153774": {
+        "name": "NBA Live 06",
+        "url": "https:\/\/xemu.app\/titles\/4541007a#NBA-Live-06",
+        "playable": "Playable"
+    },
+    "24300": {
+        "name": "Samurai Warriors",
+        "url": "https:\/\/xemu.app\/titles\/4b4f0006#Samurai-Warriors",
+        "playable": "Starts"
+    },
+    "24989": {
+        "name": "TY the Tasmanian Tiger: Night of the Quinkan",
+        "url": "https:\/\/xemu.app\/titles\/41560055#TY-the-Tasmanian-Tiger-Night-of-the-Quinkan",
+        "playable": "Playable"
+    },
+    "154037": {
+        "name": "World Championship Poker",
+        "url": "https:\/\/xemu.app\/titles\/4356000d#World-Championship-Poker",
+        "playable": "Playable"
+    },
+    "154139": {
+        "name": "NBA Street V3",
+        "url": "https:\/\/xemu.app\/titles\/45410058#NBA-Street-V3",
+        "playable": "Playable"
+    },
+    "6183": {
+        "name": "Tom Clancy's Ghost Recon 2",
+        "url": "https:\/\/xemu.app\/titles\/55530005#Tom-Clancy-s-Ghost-Recon-2",
+        "playable": "Starts"
+    },
+    "9975": {
+        "name": "AND 1 Streetball",
+        "url": "https:\/\/xemu.app\/titles\/55530056#AND-1-Streetball",
+        "playable": "Starts"
+    },
+    "21230": {
+        "name": "Colin McRae Rally 04",
+        "url": "https:\/\/xemu.app\/titles\/434d0010#Colin-McRae-Rally-04",
+        "playable": "Playable"
+    },
+    "169603": {
+        "name": "SCAR: Squadra Corse Alfa Romeo",
+        "url": "https:\/\/xemu.app\/titles\/4c530002#SCAR-Squadra-Corse-Alfa-Romeo",
+        "playable": "Starts"
+    },
+    "8013": {
+        "name": "Medal of Honor: Rising Sun",
+        "url": "https:\/\/xemu.app\/titles\/4541003f#Medal-of-Honor-Rising-Sun",
+        "playable": "Playable"
+    },
+    "24067": {
+        "name": "NHL 06",
+        "url": "https:\/\/xemu.app\/titles\/4541007c#NHL-06",
+        "playable": "Playable"
+    },
+    "15493": {
+        "name": "Capcom Classics Collection Vol. 2",
+        "url": "https:\/\/xemu.app\/titles\/43430019#Capcom-Classics-Collection-Vol-2",
+        "playable": "Playable"
+    },
+    "95289": {
+        "name": "FIFA Soccer 06",
+        "url": "https:\/\/xemu.app\/titles\/45410078#FIFA-Soccer-06",
+        "playable": "Playable"
+    },
+    "24974": {
+        "name": "The Italian Job",
+        "url": "https:\/\/xemu.app\/titles\/4553000e#The-Italian-Job",
+        "playable": "Playable"
+    },
+    "14260": {
+        "name": "Pirates of the Caribbean",
+        "url": "https:\/\/xemu.app\/titles\/42530004#Pirates-of-the-Caribbean",
+        "playable": "Playable"
+    },
+    "154040": {
+        "name": "X-Men: Next Dimension",
+        "url": "https:\/\/xemu.app\/titles\/41560007#X-Men-Next-Dimension",
+        "playable": "Playable"
+    },
+    "6037": {
+        "name": "Dance Dance Revolution Ultramix 3",
+        "url": "https:\/\/xemu.app\/titles\/4b4e0029#Dance-Dance-Revolution-Ultramix-3",
+        "playable": "Playable"
+    },
+    "151194": {
+        "name": "IHRA Drag Racing 2004",
+        "url": "https:\/\/xemu.app\/titles\/42530006#IHRA-Drag-Racing-2004",
+        "playable": "Playable"
+    },
+    "143104": {
+        "name": "Star Wars: The Clone Wars",
+        "url": "https:\/\/xemu.app\/titles\/4c410004#Star-Wars-The-Clone-Wars",
+        "playable": "Playable"
+    },
+    "5995": {
+        "name": "Blinx 2: Battle of Time & Space ~ Blinx 2: Masters of Time & Space",
+        "url": "https:\/\/xemu.app\/titles\/4d530065#Blinx-2-Battle-of-Time-Space-Blinx-2-Masters-of-Time-Space",
+        "playable": "Starts"
+    },
+    "24311": {
+        "name": "Wreckless: The Yakuza Missions",
+        "url": "https:\/\/xemu.app\/titles\/4156000a#Wreckless-The-Yakuza-Missions",
+        "playable": "Intro"
+    },
+    "6116": {
+        "name": "Project Gotham Racing 2",
+        "url": "https:\/\/xemu.app\/titles\/4d53004b#Project-Gotham-Racing-2",
+        "playable": "Playable"
+    },
+    "21004": {
+        "name": "RollerCoaster Tycoon",
+        "url": "https:\/\/xemu.app\/titles\/4947002e#RollerCoaster-Tycoon",
+        "playable": "Playable"
+    },
+    "18379": {
+        "name": "Robotech: Battlecry",
+        "url": "https:\/\/xemu.app\/titles\/544d0002#Robotech-Battlecry",
+        "playable": "Playable"
+    },
+    "14606": {
+        "name": "Tom Clancy's Rainbow Six 3",
+        "url": "https:\/\/xemu.app\/titles\/55530013#Tom-Clancy-s-Rainbow-Six-3",
+        "playable": "Playable"
+    },
+    "34761": {
+        "name": "Batman: Vengeance",
+        "url": "https:\/\/xemu.app\/titles\/55530001#Batman-Vengeance",
+        "playable": "Playable"
+    },
+    "160254": {
+        "name": "Cabela's Dangerous Hunts 2",
+        "url": "https:\/\/xemu.app\/titles\/41560052#Cabela-s-Dangerous-Hunts-2",
+        "playable": "Playable"
+    },
+    "153739": {
+        "name": "Hummer Badlands",
+        "url": "https:\/\/xemu.app\/titles\/5454009c#Hummer-Badlands",
+        "playable": "Playable"
+    },
+    "124923": {
+        "name": "Smashing Drive",
+        "url": "https:\/\/xemu.app\/titles\/4e4d0001#Smashing-Drive",
+        "playable": "Playable"
+    },
+    "5985": {
+        "name": "Battlestar Galactica",
+        "url": "https:\/\/xemu.app\/titles\/5655000f#Battlestar-Galactica",
+        "playable": "Playable"
+    },
+    "154052": {
+        "name": "Taz: Wanted",
+        "url": "https:\/\/xemu.app\/titles\/4947000d#Taz-Wanted",
+        "playable": "Playable"
+    },
+    "6079": {
+        "name": "Halo 2",
+        "url": "https:\/\/xemu.app\/titles\/4d530064#Halo-2",
+        "playable": "Playable"
+    },
+    "153860": {
+        "name": "World Poker Tour",
+        "url": "https:\/\/xemu.app\/titles\/54540087#World-Poker-Tour",
+        "playable": "Playable"
+    },
+    "109459": {
+        "name": "NCAA Football 07",
+        "url": "https:\/\/xemu.app\/titles\/454100a2#NCAA-Football-07",
+        "playable": "Playable"
+    },
+    "104369": {
+        "name": "Pirates: The Legend of Black Kat",
+        "url": "https:\/\/xemu.app\/titles\/45410015#Pirates-The-Legend-of-Black-Kat",
+        "playable": "Starts"
+    },
+    "163532": {
+        "name": "Thousand Land",
+        "url": "https:\/\/xemu.app\/titles\/46530003#Thousand-Land",
+        "playable": "Starts"
+    },
+    "153792": {
+        "name": "MVP Baseball 2003",
+        "url": "https:\/\/xemu.app\/titles\/4541002d#MVP-Baseball-2003",
+        "playable": "Playable"
+    },
+    "15826": {
+        "name": "Madden NFL 08",
+        "url": "https:\/\/xemu.app\/titles\/454100ac#Madden-NFL-08",
+        "playable": "Starts"
+    },
+    "163510": {
+        "name": "Ski Racing 2006",
+        "url": "https:\/\/xemu.app\/titles\/4a57000a#Ski-Racing-2006",
+        "playable": "Playable"
+    },
+    "28462": {
+        "name": "ESPN NFL Football",
+        "url": "https:\/\/xemu.app\/titles\/53450022#ESPN-NFL-Football",
+        "playable": "Broken"
+    },
+    "124398": {
+        "name": "Manchester United Manager 2005",
+        "url": "https:\/\/xemu.app\/titles\/434d0049#Manchester-United-Manager-2005",
+        "playable": "Playable"
+    },
+    "91097": {
+        "name": "R:Racing Evolution",
+        "url": "https:\/\/xemu.app\/titles\/4e4d0008#R-Racing-Evolution",
+        "playable": "Playable"
+    },
+    "34886": {
+        "name": "Bass Pro Shops: Trophy Hunter 2007",
+        "url": "https:\/\/xemu.app\/titles\/56550048#Bass-Pro-Shops-Trophy-Hunter-2007",
+        "playable": "Playable"
+    },
+    "169416": {
+        "name": "Street Hoops",
+        "url": "https:\/\/xemu.app\/titles\/41560003#Street-Hoops",
+        "playable": "Playable"
+    },
+    "22699": {
+        "name": "L.A. Rush",
+        "url": "https:\/\/xemu.app\/titles\/4d570025#L-A-Rush",
+        "playable": "Starts"
+    },
+    "17062": {
+        "name": "Blitz: The League",
+        "url": "https:\/\/xemu.app\/titles\/4d570026#Blitz-The-League",
+        "playable": "Playable"
+    },
+    "5920": {
+        "name": "50 Cent: Bulletproof",
+        "url": "https:\/\/xemu.app\/titles\/56550042#50-Cent-Bulletproof",
+        "playable": "Playable"
+    },
+    "6097": {
+        "name": "NBA 2K7",
+        "url": "https:\/\/xemu.app\/titles\/545400ae#NBA-2K7",
+        "playable": "Playable"
+    },
+    "6204": {
+        "name": "Star Wars: Knights of the Old Republic II: The Sith Lords",
+        "url": "https:\/\/xemu.app\/titles\/4c410014#Star-Wars-Knights-of-the-Old-Republic-II-The-Sith-Lords",
+        "playable": "Playable"
+    },
+    "169576": {
+        "name": "Monster Garage",
+        "url": "https:\/\/xemu.app\/titles\/41560041#Monster-Garage",
+        "playable": "Playable"
+    },
+    "35095": {
+        "name": "X-Men Legends",
+        "url": "https:\/\/xemu.app\/titles\/4156001e#X-Men-Legends",
+        "playable": "Playable"
+    },
+    "6013": {
+        "name": "The Bard's Tale",
+        "url": "https:\/\/xemu.app\/titles\/49580001#The-Bard-s-Tale",
+        "playable": "Playable"
+    },
+    "24987": {
+        "name": "TY the Tasmanian Tiger",
+        "url": "https:\/\/xemu.app\/titles\/45410029#TY-the-Tasmanian-Tiger",
+        "playable": "Playable"
+    },
+    "28496": {
+        "name": "Sonic Riders",
+        "url": "https:\/\/xemu.app\/titles\/53450087#Sonic-Riders",
+        "playable": "Playable"
+    },
+    "13880": {
+        "name": "Hitman 2: Silent Assassin",
+        "url": "https:\/\/xemu.app\/titles\/45530009#Hitman-2-Silent-Assassin",
+        "playable": "Playable"
+    },
+    "8051": {
+        "name": "Spy vs. Spy",
+        "url": "https:\/\/xemu.app\/titles\/5454007c#Spy-vs-Spy",
+        "playable": "Playable"
+    },
+    "6222": {
+        "name": "XGRA: Extreme G Racing Association",
+        "url": "https:\/\/xemu.app\/titles\/41430014#XGRA-Extreme-G-Racing-Association",
+        "playable": "Playable"
+    },
+    "20164": {
+        "name": "Sonic Mega Collection Plus",
+        "url": "https:\/\/xemu.app\/titles\/5345003c#Sonic-Mega-Collection-Plus",
+        "playable": "Playable"
+    },
+    "6040": {
+        "name": "Dead Man's Hand",
+        "url": "https:\/\/xemu.app\/titles\/49470027#Dead-Man-s-Hand",
+        "playable": "Playable"
+    },
+    "23446": {
+        "name": "Star Wars: The Clone Wars + Tetris Worlds",
+        "url": "https:\/\/xemu.app\/titles\/584c000d#Star-Wars-The-Clone-Wars-Tetris-Worlds",
+        "playable": "Playable"
+    },
+    "170966": {
+        "name": "Ghost Master: The Gravenville Chronicles",
+        "url": "https:\/\/xemu.app\/titles\/454d0004#Ghost-Master-The-Gravenville-Chronicles",
+        "playable": "Playable"
+    },
+    "162154": {
+        "name": "The Bible Game",
+        "url": "https:\/\/xemu.app\/titles\/43560011#The-Bible-Game",
+        "playable": "Playable"
+    },
+    "6096": {
+        "name": "NASCAR 07",
+        "url": "https:\/\/xemu.app\/titles\/454100a3#NASCAR-07",
+        "playable": "Playable"
+    },
+    "6084": {
+        "name": "LEGO Star Wars: The Video Game",
+        "url": "https:\/\/xemu.app\/titles\/4553001d#LEGO-Star-Wars-The-Video-Game",
+        "playable": "Playable"
+    },
+    "3996": {
+        "name": "Halo: Combat Evolved",
+        "url": "https:\/\/xemu.app\/titles\/4d530004#Halo-Combat-Evolved",
+        "playable": "Playable"
+    },
+    "216788": {
+        "name": "Takahashi Junko no Mahjong Seminar",
+        "url": "https:\/\/xemu.app\/titles\/53550005#Takahashi-Junko-no-Mahjong-Seminar",
+        "playable": "Playable"
+    },
+    "25796": {
+        "name": "Codename: Kids Next Door: Operation: V.I.D.E.O.G.A.M.E.",
+        "url": "https:\/\/xemu.app\/titles\/5454008a#Codename-Kids-Next-Door-Operation-V-I-D-E-O-G-A-M-E",
+        "playable": "Playable"
+    },
+    "22701": {
+        "name": "Need for Speed: Hot Pursuit 2",
+        "url": "https:\/\/xemu.app\/titles\/45410028#Need-for-Speed-Hot-Pursuit-2",
+        "playable": "Playable"
+    },
+    "6002": {
+        "name": "BMX XXX",
+        "url": "https:\/\/xemu.app\/titles\/4143000e#BMX-XXX",
+        "playable": "Perfect"
+    },
+    "8037": {
+        "name": "Tom Clancy's Rainbow Six 3: Black Arrow",
+        "url": "https:\/\/xemu.app\/titles\/55530037#Tom-Clancy-s-Rainbow-Six-3-Black-Arrow",
+        "playable": "Playable"
+    },
+    "28511": {
+        "name": "Total Club Manager 2004",
+        "url": "https:\/\/xemu.app\/titles\/45410041#Total-Club-Manager-2004",
+        "playable": "Perfect"
+    },
+    "153721": {
+        "name": "ESPN MLS ExtraTime 2002",
+        "url": "https:\/\/xemu.app\/titles\/4b4e0005#ESPN-MLS-ExtraTime-2002",
+        "playable": "Playable"
+    },
+    "17403": {
+        "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "url": "https:\/\/xemu.app\/titles\/42560003#The-Chronicles-of-Narnia-The-Lion-the-Witch-and-the-Wardrobe",
+        "playable": "Playable"
+    },
+    "163507": {
+        "name": "Stacked with Daniel Negreanu",
+        "url": "https:\/\/xemu.app\/titles\/4d4d0001#Stacked-with-Daniel-Negreanu",
+        "playable": "Playable"
+    },
+    "24997": {
+        "name": "AMF Xtreme Bowling",
+        "url": "https:\/\/xemu.app\/titles\/42530014#AMF-Xtreme-Bowling",
+        "playable": "Playable"
+    },
+    "6190": {
+        "name": "Shenmue II",
+        "url": "https:\/\/xemu.app\/titles\/4d530032#Shenmue-II",
+        "playable": "Playable"
+    },
+    "5916": {
+        "name": "007: Everything or Nothing",
+        "url": "https:\/\/xemu.app\/titles\/45410042#007-Everything-or-Nothing",
+        "playable": "Starts"
+    },
+    "6113": {
+        "name": "PocketBike Racer",
+        "url": "https:\/\/xemu.app\/titles\/4d5300d4#PocketBike-Racer",
+        "playable": "Playable"
+    },
+    "10395": {
+        "name": "Oddworld: Munch's Oddysee",
+        "url": "https:\/\/xemu.app\/titles\/4d530001#Oddworld-Munch-s-Oddysee",
+        "playable": "Starts"
+    },
+    "160407": {
+        "name": "Xiaolin Showdown",
+        "url": "https:\/\/xemu.app\/titles\/4b4e0038#Xiaolin-Showdown",
+        "playable": "Playable"
+    },
+    "153788": {
+        "name": "NFL Blitz Pro",
+        "url": "https:\/\/xemu.app\/titles\/4d570014#NFL-Blitz-Pro",
+        "playable": "Playable"
+    },
+    "91448": {
+        "name": "Crash Twinsanity",
+        "url": "https:\/\/xemu.app\/titles\/56550036#Crash-Twinsanity",
+        "playable": "Playable"
+    },
+    "141480": {
+        "name": "Greg Hastings' Tournament Paintball",
+        "url": "https:\/\/xemu.app\/titles\/41560042#Greg-Hastings-Tournament-Paintball",
+        "playable": "Broken"
+    },
+    "18370": {
+        "name": "Grabbed by the Ghoulies",
+        "url": "https:\/\/xemu.app\/titles\/4d530053#Grabbed-by-the-Ghoulies",
+        "playable": "Playable"
+    },
+    "14875": {
+        "name": "Unreal Championship 2: The Liandri Conflict",
+        "url": "https:\/\/xemu.app\/titles\/4d570021#Unreal-Championship-2-The-Liandri-Conflict",
+        "playable": "Starts"
+    },
+    "5984": {
+        "name": "Battlefield 2: Modern Combat",
+        "url": "https:\/\/xemu.app\/titles\/45410062#Battlefield-2-Modern-Combat",
+        "playable": "Playable"
+    },
+    "91182": {
+        "name": "The King of Fighters: Neowave",
+        "url": "https:\/\/xemu.app\/titles\/534e000a#The-King-of-Fighters-Neowave",
+        "playable": "Playable"
+    },
+    "8019": {
+        "name": "Metal Slug 4",
+        "url": "https:\/\/xemu.app\/titles\/534e0005#Metal-Slug-4",
+        "playable": "Playable"
+    },
+    "8061": {
+        "name": "Terminator 3: The Redemption",
+        "url": "https:\/\/xemu.app\/titles\/4947003e#Terminator-3-The-Redemption",
+        "playable": "Intro"
+    },
+    "15547": {
+        "name": "Dead or Alive Xtreme Beach Volleyball",
+        "url": "https:\/\/xemu.app\/titles\/54430007#Dead-or-Alive-Xtreme-Beach-Volleyball",
+        "playable": "Playable"
+    },
+    "153773": {
+        "name": "NBA Inside Drive 2003",
+        "url": "https:\/\/xemu.app\/titles\/4d530045#NBA-Inside-Drive-2003",
+        "playable": "Playable"
+    },
+    "130551": {
+        "name": "Conspiracy: Weapons of Mass Destruction",
+        "url": "https:\/\/xemu.app\/titles\/4f580001#Conspiracy-Weapons-of-Mass-Destruction",
+        "playable": "Playable"
+    },
+    "22373": {
+        "name": "Army Men: Sarge's War",
+        "url": "https:\/\/xemu.app\/titles\/54540014#Army-Men-Sarge-s-War",
+        "playable": "Playable"
+    },
+    "153790": {
+        "name": "Operation Flashpoint: Elite",
+        "url": "https:\/\/xemu.app\/titles\/434d005a#Operation-Flashpoint-Elite",
+        "playable": "Starts"
+    },
+    "153922": {
+        "name": "Knight's Apprentice: Memorick's Adventures",
+        "url": "https:\/\/xemu.app\/titles\/4d490004#Knight-s-Apprentice-Memorick-s-Adventures",
+        "playable": "Starts"
+    },
+    "6056": {
+        "name": "Fable: The Lost Chapters",
+        "url": "https:\/\/xemu.app\/titles\/4d5300d1#Fable-The-Lost-Chapters",
+        "playable": "Playable"
+    },
+    "28481": {
+        "name": "NBA Live 2004",
+        "url": "https:\/\/xemu.app\/titles\/45410038#NBA-Live-2004",
+        "playable": "Playable"
+    },
+    "6213": {
+        "name": "The Punisher",
+        "url": "https:\/\/xemu.app\/titles\/54510018#The-Punisher",
+        "playable": "Playable"
+    },
+    "28457": {
+        "name": "Commandos: Strike Force",
+        "url": "https:\/\/xemu.app\/titles\/534300f9#Commandos-Strike-Force",
+        "playable": "Playable"
+    },
+    "130628": {
+        "name": "Braveknight: Lieveland Eiyuuden",
+        "url": "https:\/\/xemu.app\/titles\/494c0002#Braveknight-Lieveland-Eiyuuden",
+        "playable": "Starts"
+    },
+    "8038": {
+        "name": "Rayman Arena",
+        "url": "https:\/\/xemu.app\/titles\/55530003#Rayman-Arena",
+        "playable": "Playable"
+    },
+    "160253": {
+        "name": "Aoi Namida",
+        "url": "https:\/\/xemu.app\/titles\/494c0006#Aoi-Namida",
+        "playable": "Playable"
+    },
+    "24059": {
+        "name": "Close Combat: First to Fight: United States Marines",
+        "url": "https:\/\/xemu.app\/titles\/54540012#Close-Combat-First-to-Fight-United-States-Marines",
+        "playable": "Playable"
+    },
+    "17538": {
+        "name": "Major League Baseball 2K5: World Series Edition",
+        "url": "https:\/\/xemu.app\/titles\/54540096#Major-League-Baseball-2K5-World-Series-Edition",
+        "playable": "Playable"
+    },
+    "28475": {
+        "name": "Knockout Kings 2002",
+        "url": "https:\/\/xemu.app\/titles\/4541000a#Knockout-Kings-2002",
+        "playable": "Playable"
+    }
+}
