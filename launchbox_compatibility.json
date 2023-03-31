@@ -40809,7 +40809,7 @@
         "name": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
         "emulator": "xemu",
         "url": "https:\/\/xemu.app\/titles\/55530019#Tom-Clancy-s-Splinter-Cell-Pandora-Tomorrow",
-        "playable": "Gameplay"
+        "playable": "No Boot"
     },
     "93958": {
         "name": "The Fairly OddParents: Breakin' da Rules",
@@ -41559,7 +41559,7 @@
         "name": "Tom Clancy's Splinter Cell",
         "emulator": "xemu",
         "url": "https:\/\/xemu.app\/titles\/5553000c#Tom-Clancy-s-Splinter-Cell",
-        "playable": "Gameplay"
+        "playable": "No Boot"
     },
     "17069": {
         "name": "Teenage Mutant Ninja Turtles 3: Mutant Nightmare",
