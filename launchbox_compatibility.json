@@ -1431,7 +1431,7 @@
         "name": "Adventures of Pip",
         "emulator": "cemu",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Adventures_of_Pip",
-        "playable": "No Boot"
+        "playable": "Gameplay"
     },
     "25953": {
         "name": "How to Survive",
@@ -3045,7 +3045,7 @@
         "name": "A Drawing's Journey",
         "emulator": "cemu",
         "url": "https:\/\/wiki.cemu.info\/wiki\/A_Drawing%27s_Journey",
-        "playable": "No Boot"
+        "playable": "Intro\/Menu"
     },
     "197682": {
         "name": "Hot Rod Racer",
@@ -3675,7 +3675,7 @@
         "name": "Blockara",
         "emulator": "cemu",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Blockara",
-        "playable": "Unknown"
+        "playable": "Gameplay"
     },
     "131380": {
         "name": "Mighty Switch Force! 2",
@@ -4143,7 +4143,7 @@
         "name": "ACE - Alien Cleanup Elite",
         "emulator": "cemu",
         "url": "https:\/\/wiki.cemu.info\/wiki\/ACE_-_Alien_Cleanup_Elite",
-        "playable": "No Boot"
+        "playable": "Gameplay"
     },
     "215609": {
         "name": "My Style Studio: Notebook",

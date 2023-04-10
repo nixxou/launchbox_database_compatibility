@@ -1907,9 +1907,9 @@
         "name": "Adventures of Pip",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Adventures_of_Pip",
         "media": "",
-        "version": "2.0",
-        "region": "EUR",
-        "playable": "Unplayable"
+        "version": "2.0-32",
+        "region": "USA",
+        "playable": "Runs"
     },
     "25953": {
         "name": "How to Survive",
@@ -4059,9 +4059,9 @@
         "name": "A Drawing's Journey",
         "url": "https:\/\/wiki.cemu.info\/wiki\/A_Drawing%27s_Journey",
         "media": "eShop",
-        "version": "1.15.10",
-        "region": "EUR",
-        "playable": "Unplayable"
+        "version": "2.0-32",
+        "region": "USA",
+        "playable": "Loads"
     },
     "197682": {
         "name": "Hot Rod Racer",
@@ -4899,9 +4899,9 @@
         "name": "Blockara",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Blockara",
         "media": "",
-        "version": "Unknown",
-        "region": "Unknown",
-        "playable": "Unknown"
+        "version": "2.0-32",
+        "region": "USA",
+        "playable": "Runs"
     },
     "131380": {
         "name": "Mighty Switch Force! 2",
@@ -5523,9 +5523,9 @@
         "name": "ACE - Alien Cleanup Elite",
         "url": "https:\/\/wiki.cemu.info\/wiki\/ACE_-_Alien_Cleanup_Elite",
         "media": "",
-        "version": "1.15.10",
-        "region": "EUR",
-        "playable": "Unplayable"
+        "version": "2.0-32",
+        "region": "USA",
+        "playable": "Runs"
     },
     "215609": {
         "name": "My Style Studio: Notebook",
@@ -5555,8 +5555,8 @@
         "name": "Wii Sports Club",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Wii_Sports_Club",
         "media": "",
-        "version": "1.25.4",
-        "region": "USA",
+        "version": "2.0-32",
+        "region": "EUR",
         "playable": "Runs"
     },
     "127187": {
