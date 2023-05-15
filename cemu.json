@@ -1387,7 +1387,7 @@
         "name": "Paper Mario: Color Splash",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Paper_Mario:_Color_Splash",
         "media": "",
-        "version": "1.26.2f",
+        "version": "2.0-29",
         "region": "USA",
         "playable": "Playable"
     },
@@ -1835,8 +1835,8 @@
         "name": "NES Remix 1",
         "url": "https:\/\/wiki.cemu.info\/wiki\/NES_Remix_1",
         "media": "",
-        "version": "1.16.1",
-        "region": "USA",
+        "version": "1.26.2f",
+        "region": "EUR",
         "playable": "Playable"
     },
     "213882": {
@@ -2308,7 +2308,7 @@
         "url": "https:\/\/wiki.cemu.info\/wiki\/The_Legend_of_Zelda:_The_Wind_Waker_HD",
         "media": "",
         "version": "1.26.2f",
-        "region": "USA",
+        "region": "EUR",
         "playable": "Perfect"
     },
     "166543": {
@@ -3203,9 +3203,9 @@
         "name": "Super Mario 3D World",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Super_Mario_3D_World",
         "media": "",
-        "version": "1.26.2f",
-        "region": "USA",
-        "playable": "Runs"
+        "version": "2.0-34",
+        "region": "EUR",
+        "playable": "Playable"
     },
     "24411": {
         "name": "Just Dance 2015",
@@ -3251,7 +3251,7 @@
         "name": "The LEGO Movie Videogame",
         "url": "https:\/\/wiki.cemu.info\/wiki\/The_LEGO_Movie_Videogame",
         "media": "",
-        "version": "1.25.6",
+        "version": "1.26.1",
         "region": "USA",
         "playable": "Playable"
     },
@@ -5195,8 +5195,8 @@
         "name": "Tekken Tag Tournament 2",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Tekken_Tag_Tournament_2",
         "media": "",
-        "version": "1.22.10",
-        "region": "EUR",
+        "version": "2.0-36",
+        "region": "Unknown",
         "playable": "Playable"
     },
     "215720": {

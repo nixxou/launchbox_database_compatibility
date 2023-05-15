@@ -2403,7 +2403,7 @@
         "name": "Super Mario 3D World",
         "emulator": "cemu",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Super_Mario_3D_World",
-        "playable": "Gameplay"
+        "playable": "Playable"
     },
     "24411": {
         "name": "Just Dance 2015",
@@ -8433,7 +8433,7 @@
         "name": "Ice Age 2: The Meltdown (GC)",
         "emulator": "dolphin-gamecube",
         "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Ice_Age_2%3A_The_Meltdown_%28GC%29",
-        "playable": "Perfect"
+        "playable": "Playable"
     },
     "30810": {
         "name": "Disney Sports Soccer",
@@ -39393,7 +39393,7 @@
         "name": "Half-Life 2",
         "emulator": "xemu",
         "url": "https:\/\/xemu.app\/titles\/45410091#Half-Life-2",
-        "playable": "Gameplay"
+        "playable": "Playable"
     },
     "109457": {
         "name": "World Series of Poker",
@@ -43335,7 +43335,7 @@
         "name": "Tetris Worlds",
         "emulator": "xemu",
         "url": "https:\/\/xemu.app\/titles\/53550006#Tetris-Worlds",
-        "playable": "Playable"
+        "playable": "Perfect"
     },
     "169606": {
         "name": "MLB SlugFest 2003",
@@ -44601,7 +44601,7 @@
         "name": "Unreal Championship 2: The Liandri Conflict",
         "emulator": "xemu",
         "url": "https:\/\/xemu.app\/titles\/4d570021#Unreal-Championship-2-The-Liandri-Conflict",
-        "playable": "Gameplay"
+        "playable": "Playable"
     },
     "5984": {
         "name": "Battlefield 2: Modern Combat",
