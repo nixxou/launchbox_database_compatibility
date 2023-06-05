@@ -1571,7 +1571,7 @@
         "name": "Cars 3: Driven to Win",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Cars_3:_Driven_to_Win",
         "media": "",
-        "version": "1.26.2f",
+        "version": "2.0-39",
         "region": "USA",
         "playable": "Loads"
     },
@@ -2659,7 +2659,7 @@
         "name": "Disney Epic Mickey 2: The Power of Two",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Disney_Epic_Mickey_2:_The_Power_of_Two",
         "media": "",
-        "version": "1.25.6",
+        "version": "2.0-29",
         "region": "USA",
         "playable": "Playable"
     },
@@ -2707,9 +2707,9 @@
         "name": "DuckTales: Remastered",
         "url": "https:\/\/wiki.cemu.info\/wiki\/DuckTales:_Remastered",
         "media": "",
-        "version": "1.21.3",
+        "version": "2.0-29",
         "region": "EUR",
-        "playable": "Playable"
+        "playable": "Perfect"
     },
     "144508": {
         "name": "Just Dance 2018",
@@ -2827,9 +2827,9 @@
         "name": "Need for Speed: Most Wanted U",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Need_for_Speed:_Most_Wanted_U",
         "media": "",
-        "version": "1.27.1",
+        "version": "2.0-39",
         "region": "USA",
-        "playable": "Runs"
+        "playable": "Unplayable"
     },
     "93942": {
         "name": "Rapala Pro Bass Fishing",
@@ -4595,7 +4595,7 @@
         "name": "The Legend of Zelda: Breath of the Wild",
         "url": "https:\/\/wiki.cemu.info\/wiki\/The_Legend_of_Zelda:_Breath_of_the_Wild",
         "media": "",
-        "version": "2.0-29",
+        "version": "2.0-39",
         "region": "Unknown",
         "playable": "Perfect"
     },

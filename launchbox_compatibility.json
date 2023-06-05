@@ -2031,7 +2031,7 @@
         "name": "DuckTales: Remastered",
         "emulator": "cemu",
         "url": "https:\/\/wiki.cemu.info\/wiki\/DuckTales:_Remastered",
-        "playable": "Playable"
+        "playable": "Perfect"
     },
     "144508": {
         "name": "Just Dance 2018",
@@ -2121,7 +2121,7 @@
         "name": "Need for Speed: Most Wanted U",
         "emulator": "cemu",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Need_for_Speed:_Most_Wanted_U",
-        "playable": "Gameplay"
+        "playable": "No Boot"
     },
     "93942": {
         "name": "Rapala Pro Bass Fishing",
@@ -46347,7 +46347,7 @@
         "name": "Spider-Man: Web of Shadows",
         "emulator": "xenia",
         "url": "https:\/\/api.github.com\/repos\/xenia-project\/game-compatibility\/issues\/916",
-        "playable": "Gameplay"
+        "playable": "Intro\/Menu"
     },
     "3904": {
         "name": "Shadows of the Damned",

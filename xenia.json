@@ -3310,10 +3310,10 @@
         "url": "https:\/\/api.github.com\/repos\/xenia-project\/game-compatibility\/issues\/916",
         "true_title": "41560815 - Spider-Man: Web of Shadows",
         "state": [
-            "state-gameplay",
+            "state-menus",
             "gpu-drawing-missing"
         ],
-        "playable": "gameplay"
+        "playable": "menus"
     },
     "3904": {
         "name": "Shadows of the Damned",
@@ -4492,7 +4492,8 @@
             "state-playable",
             "gpu-drawing-corrupt",
             "supports-1080p",
-            "gpu-driver-issues-nvidia"
+            "gpu-driver-issues-nvidia",
+            "gpu-occlusion-query"
         ],
         "playable": "playable"
     },
@@ -6023,6 +6024,7 @@
         "true_title": "4156081A - Guitar Hero World Tour",
         "state": [
             "state-gameplay",
+            "apu-garbage",
             "cpu-jit-problems"
         ],
         "playable": "gameplay"
@@ -10251,7 +10253,8 @@
         "true_title": "58410A6B - Fusion: Genesis",
         "state": [
             "tech-engine-xna",
-            "state-crash-xna-WONTFIX"
+            "state-crash-xna-WONTFIX",
+            "backwards-compatibility-unsupported"
         ],
         "playable": "crash-xna-WONTFIX"
     },
@@ -10475,7 +10478,8 @@
         "url": "https:\/\/api.github.com\/repos\/xenia-project\/game-compatibility\/issues\/1823",
         "true_title": "415608A4 - Transformers: Dark of the Moon",
         "state": [
-            "state-gameplay"
+            "state-gameplay",
+            "marketplace-nodownload"
         ],
         "playable": "gameplay"
     },
