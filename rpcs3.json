@@ -543,9 +543,7 @@
         "media": "Blu-Ray",
         "playable": "Ingame",
         "titleId": {
-            "BCES00510": "https:\/\/forums.rpcs3.net\/thread-174559.html",
-            "BCES00799": "https:\/\/forums.rpcs3.net\/thread-202743.html",
-            "BCUS98111": "https:\/\/forums.rpcs3.net\/thread-188995.html"
+            "BCKS15003": "https:\/\/forums.rpcs3.net\/thread-206260.html"
         }
     },
     "15286": {
@@ -1007,6 +1005,7 @@
         "playable": "Playable",
         "titleId": {
             "BLES00503": "https:\/\/forums.rpcs3.net\/thread-190614.html",
+            "BLJM60193": "https:\/\/forums.rpcs3.net\/thread-206102.html",
             "BLUS30279": "https:\/\/forums.rpcs3.net\/thread-200260.html"
         }
     },
@@ -1839,7 +1838,8 @@
         "media": "Blu-Ray",
         "playable": "Ingame",
         "titleId": {
-            "BLES00485": "https:\/\/forums.rpcs3.net\/thread-199814.html"
+            "BLES00485": "https:\/\/forums.rpcs3.net\/thread-199814.html",
+            "BLJM90001": "https:\/\/forums.rpcs3.net\/thread-204797.html"
         }
     },
     "18168": {
@@ -1948,13 +1948,13 @@
         "playable": "Ingame",
         "titleId": {
             "BLES00048": "https:\/\/forums.rpcs3.net\/thread-200536.html",
-            "BLES00163": "https:\/\/forums.rpcs3.net\/thread-181095.html",
-            "BLUS30087": "https:\/\/forums.rpcs3.net\/thread-198865.html"
+            "BLJM60032": "https:\/\/forums.rpcs3.net\/thread-206258.html",
+            "BLUS30007": "https:\/\/forums.rpcs3.net\/thread-206265.html"
         }
     },
     "13875": {
         "name": "Bladestorm: The Hundred Years' War",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Bladestorm%3A_Hyakunen_Sensou",
+        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Bladestorm%3A_The_Hundred_Years%27_War",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": {
@@ -2655,7 +2655,7 @@
         "name": "Tiger Woods PGA Tour 13",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Tiger_Woods_PGA_Tour_13",
         "media": "Blu-Ray",
-        "playable": "Intro",
+        "playable": "Ingame",
         "titleId": {
             "BLUS30854": "https:\/\/forums.rpcs3.net\/thread-201051.html"
         }
@@ -2953,7 +2953,7 @@
         "media": "Blu-Ray",
         "playable": "Ingame",
         "titleId": {
-            "BLJS10323": "https:\/\/forums.rpcs3.net\/thread-199873.html"
+            "BLES02147": "https:\/\/forums.rpcs3.net\/thread-205701.html"
         }
     },
     "16561": {
@@ -3061,6 +3061,7 @@
         "playable": "Ingame",
         "titleId": {
             "BCES00104": "https:\/\/forums.rpcs3.net\/thread-198161.html",
+            "BCKS10030": "https:\/\/forums.rpcs3.net\/thread-206255.html",
             "BCUS98158": "https:\/\/forums.rpcs3.net\/thread-198705.html"
         }
     },
@@ -3266,7 +3267,8 @@
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": {
-            "BLES00130": "https:\/\/forums.rpcs3.net\/thread-181576.html"
+            "BLES00130": "https:\/\/forums.rpcs3.net\/thread-181576.html",
+            "BLUS30071": "https:\/\/forums.rpcs3.net\/thread-205575.html"
         }
     },
     "12356": {
@@ -3331,8 +3333,10 @@
         "media": "Blu-Ray",
         "playable": "Ingame",
         "titleId": {
+            "BLAS50624": "https:\/\/forums.rpcs3.net\/thread-206257.html",
             "BLES01885": "https:\/\/forums.rpcs3.net\/thread-203563.html",
             "BLES01886": "https:\/\/forums.rpcs3.net\/thread-200533.html",
+            "BLJM61086": "https:\/\/forums.rpcs3.net\/thread-205959.html",
             "BLUS31202": "https:\/\/forums.rpcs3.net\/thread-194196.html"
         }
     },
@@ -3363,8 +3367,12 @@
         "titleId": {
             "BLES01031": "https:\/\/forums.rpcs3.net\/thread-200349.html",
             "BLES01032": "https:\/\/forums.rpcs3.net\/thread-196789.html",
+            "BLES01033": "https:\/\/forums.rpcs3.net\/thread-206280.html",
+            "BLES01034": "https:\/\/forums.rpcs3.net\/thread-206278.html",
             "BLES01035": "https:\/\/forums.rpcs3.net\/thread-187671.html",
             "BLES01105": "https:\/\/forums.rpcs3.net\/thread-204606.html",
+            "BLJM60286": "https:\/\/forums.rpcs3.net\/thread-206279.html",
+            "BLJM60287": "https:\/\/forums.rpcs3.net\/thread-205938.html",
             "BLUS30591": "https:\/\/forums.rpcs3.net\/thread-181391.html"
         }
     },
@@ -3479,7 +3487,7 @@
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": {
-            "BLES01074": "https:\/\/forums.rpcs3.net\/thread-182578.html"
+            "BLUS30728": "https:\/\/forums.rpcs3.net\/thread-205336.html"
         }
     },
     "15606": {
@@ -3568,15 +3576,6 @@
             "BLES02093": "https:\/\/forums.rpcs3.net\/thread-196692.html",
             "BLJM61235": "https:\/\/forums.rpcs3.net\/thread-198803.html",
             "BLUS31374": "https:\/\/forums.rpcs3.net\/thread-199400.html"
-        }
-    },
-    "17655": {
-        "name": "Dead or Alive 5 Ultimate",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Dead_or_Alive_5_Ultimate",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": {
-            "BLES01907": "https:\/\/forums.rpcs3.net\/thread-196504.html"
         }
     },
     "16124": {
@@ -4221,9 +4220,11 @@
         "playable": "Ingame",
         "titleId": {
             "BLES01428": "https:\/\/forums.rpcs3.net\/thread-203614.html",
+            "BLES01430": "https:\/\/forums.rpcs3.net\/thread-205417.html",
             "BLES01431": "https:\/\/forums.rpcs3.net\/thread-204659.html",
             "BLES01432": "https:\/\/forums.rpcs3.net\/thread-197719.html",
             "BLES01433": "https:\/\/forums.rpcs3.net\/thread-196696.html",
+            "BLES01434": "https:\/\/forums.rpcs3.net\/thread-206277.html",
             "BLUS30838": "https:\/\/forums.rpcs3.net\/thread-183150.html"
         }
     },
@@ -4544,6 +4545,7 @@
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": {
+            "BLES01684": "https:\/\/forums.rpcs3.net\/thread-183123.html",
             "BLJS10190": "https:\/\/forums.rpcs3.net\/thread-199704.html"
         }
     },
@@ -4866,15 +4868,6 @@
             "BLUS30074": "https:\/\/forums.rpcs3.net\/thread-200554.html"
         }
     },
-    "12353": {
-        "name": "Borderlands: Game of the Year Edition",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Borderlands",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": {
-            "BLUS30386": "https:\/\/forums.rpcs3.net\/thread-182529.html"
-        }
-    },
     "160724": {
         "name": "World Snooker Championship 2007",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=World_Snooker_Championship_2007",
@@ -4967,7 +4960,8 @@
         "titleId": {
             "BLES00839": "https:\/\/forums.rpcs3.net\/thread-196932.html",
             "BLES00840": "https:\/\/forums.rpcs3.net\/thread-181616.html",
-            "BLES00906": "https:\/\/forums.rpcs3.net\/thread-196735.html"
+            "BLES00906": "https:\/\/forums.rpcs3.net\/thread-196735.html",
+            "BLUS30401": "https:\/\/forums.rpcs3.net\/thread-206153.html"
         }
     },
     "6645": {
@@ -5022,8 +5016,11 @@
         "media": "Blu-Ray",
         "playable": "Ingame",
         "titleId": {
+            "BCAS20074": "https:\/\/forums.rpcs3.net\/thread-206269.html",
             "BCES00220": "https:\/\/forums.rpcs3.net\/thread-196849.html",
+            "BCES00591": "https:\/\/forums.rpcs3.net\/thread-206268.html",
             "BCES00609": "https:\/\/forums.rpcs3.net\/thread-196763.html",
+            "BCJS30037": "https:\/\/forums.rpcs3.net\/thread-206270.html",
             "BCUS98119": "https:\/\/forums.rpcs3.net\/thread-178946.html"
         }
     },
@@ -5225,7 +5222,7 @@
     },
     "201017": {
         "name": "Dream C Club: Complete Edipyon!",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Dream_C_Club_Gogo.",
+        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Dream_C_Club%3A_Complete_Edipyon%21",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": {
@@ -5294,7 +5291,7 @@
         "name": "WWE SmackDown vs. RAW 2009",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=WWE_SmackDown_vs._RAW_2009",
         "media": "Blu-Ray",
-        "playable": "Ingame",
+        "playable": "Playable",
         "titleId": {
             "BLES00361": "https:\/\/forums.rpcs3.net\/thread-183885.html",
             "BLUS30194": "https:\/\/forums.rpcs3.net\/thread-202776.html"
@@ -5562,6 +5559,7 @@
         "playable": "Ingame",
         "titleId": {
             "BCES00005": "https:\/\/forums.rpcs3.net\/thread-177292.html",
+            "BCJS30005": "https:\/\/forums.rpcs3.net\/thread-206193.html",
             "BCUS98142": "https:\/\/forums.rpcs3.net\/thread-201120.html"
         }
     },
@@ -5598,8 +5596,10 @@
         "media": "Blu-Ray",
         "playable": "Ingame",
         "titleId": {
+            "BLAS50546": "https:\/\/forums.rpcs3.net\/thread-205778.html",
             "BLES01329": "https:\/\/forums.rpcs3.net\/thread-200371.html",
             "BLES01330": "https:\/\/forums.rpcs3.net\/thread-205114.html",
+            "BLJM60413": "https:\/\/forums.rpcs3.net\/thread-206256.html",
             "BLUS30778": "https:\/\/forums.rpcs3.net\/thread-185895.html"
         }
     },
@@ -6291,6 +6291,7 @@
         "titleId": {
             "BLES01178": "https:\/\/forums.rpcs3.net\/thread-196992.html",
             "BLJM60247": "https:\/\/forums.rpcs3.net\/thread-165037.html",
+            "BLKS20241": "https:\/\/forums.rpcs3.net\/thread-206210.html",
             "BLUS30701": "https:\/\/forums.rpcs3.net\/thread-178789.html"
         }
     },
@@ -6310,7 +6311,8 @@
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": {
-            "BLES00697": "https:\/\/forums.rpcs3.net\/thread-189086.html"
+            "BLES00697": "https:\/\/forums.rpcs3.net\/thread-189086.html",
+            "BLUS30386": "https:\/\/forums.rpcs3.net\/thread-182529.html"
         }
     },
     "19794": {
@@ -6664,6 +6666,7 @@
         "titleId": {
             "BLES00989": "https:\/\/forums.rpcs3.net\/thread-170529.html",
             "BLES00990": "https:\/\/forums.rpcs3.net\/thread-203364.html",
+            "BLJS10089": "https:\/\/forums.rpcs3.net\/thread-205394.html",
             "BLUS30558": "https:\/\/forums.rpcs3.net\/thread-200302.html"
         }
     },
@@ -6908,17 +6911,8 @@
             "BLUS30845": "https:\/\/forums.rpcs3.net\/thread-200266.html"
         }
     },
-    "204275": {
-        "name": "Borderlands 2: Game of the Year Edition",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Borderlands_2",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": {
-            "BLES01684": "https:\/\/forums.rpcs3.net\/thread-183123.html"
-        }
-    },
     "16491": {
-        "name": "Sega Superstars Tennis",
+        "name": "SEGA Superstars Tennis",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Sega_Superstars_Tennis",
         "media": "Blu-Ray",
         "playable": "Playable",
@@ -7222,7 +7216,7 @@
         "media": "Blu-Ray",
         "playable": "Ingame",
         "titleId": {
-            "BLES00884": "https:\/\/forums.rpcs3.net\/thread-181112.html"
+            "BLUS30527": "https:\/\/forums.rpcs3.net\/thread-199321.html"
         }
     },
     "125705": {
@@ -7332,16 +7326,6 @@
             "BLJM67005": "https:\/\/forums.rpcs3.net\/thread-201101.html",
             "BLUS30416": "https:\/\/forums.rpcs3.net\/thread-181431.html",
             "MRTC00003": "https:\/\/forums.rpcs3.net\/thread-205167.html"
-        }
-    },
-    "12624": {
-        "name": "The Chronicles of Riddick Assault on Dark Athena",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=The_Chronicles_of_Riddick_Assault_on_Dark_Athena",
-        "media": "Blu-Ray",
-        "playable": "Ingame",
-        "titleId": {
-            "BLES00311": "https:\/\/forums.rpcs3.net\/thread-181596.html",
-            "BLUS30156": "https:\/\/forums.rpcs3.net\/thread-199181.html"
         }
     },
     "6615": {
@@ -8700,7 +8684,7 @@
     },
     "34212": {
         "name": "Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Naruto_Shippuden%3A_Ultimate_Ninja_Storm_3_Full_Burst",
+        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Naruto_Shippuden%3A_Ultimate_Ninja_Storm_3",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": {
@@ -8778,7 +8762,7 @@
     },
     "204060": {
         "name": "Dream C Club Zero: Special Edipyon!",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Dream_C_Club_Gogo.",
+        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Dream_C_Club_Zero%3A_Special_Edipyon%21",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": {
@@ -9190,7 +9174,8 @@
         "media": "Blu-Ray",
         "playable": "Ingame",
         "titleId": {
-            "BLJS10065": "https:\/\/forums.rpcs3.net\/thread-199650.html"
+            "BLJS10065": "https:\/\/forums.rpcs3.net\/thread-199650.html",
+            "BLUS30438": "https:\/\/forums.rpcs3.net\/thread-205158.html"
         }
     },
     "14642": {
@@ -9313,9 +9298,11 @@
         "media": "Blu-Ray",
         "playable": "Ingame",
         "titleId": {
+            "BCAS20097": "https:\/\/forums.rpcs3.net\/thread-206309.html",
             "BCES00509": "https:\/\/forums.rpcs3.net\/thread-188993.html",
             "BCES00727": "https:\/\/forums.rpcs3.net\/thread-202241.html",
             "BCES00757": "https:\/\/forums.rpcs3.net\/thread-199949.html",
+            "BCJS30035": "https:\/\/forums.rpcs3.net\/thread-205643.html",
             "BCUS98123": "https:\/\/forums.rpcs3.net\/thread-187642.html"
         }
     },
@@ -9480,7 +9467,7 @@
         "media": "Blu-Ray",
         "playable": "Ingame",
         "titleId": {
-            "BLES01414": "https:\/\/forums.rpcs3.net\/thread-198774.html"
+            "BLUS30842": "https:\/\/forums.rpcs3.net\/thread-205159.html"
         }
     },
     "6586": {
@@ -9824,7 +9811,9 @@
         "media": "Blu-Ray",
         "playable": "Ingame",
         "titleId": {
+            "BCAS20024": "https:\/\/forums.rpcs3.net\/thread-206305.html",
             "BCES00065": "https:\/\/forums.rpcs3.net\/thread-177562.html",
+            "BCJS30015": "https:\/\/forums.rpcs3.net\/thread-205345.html",
             "BCUS98103": "https:\/\/forums.rpcs3.net\/thread-159731.html"
         }
     },
@@ -10007,6 +9996,7 @@
         "playable": "Ingame",
         "titleId": {
             "BLES01889": "https:\/\/forums.rpcs3.net\/thread-203199.html",
+            "BLES01954": "https:\/\/forums.rpcs3.net\/thread-206121.html",
             "BLUS31205": "https:\/\/forums.rpcs3.net\/thread-199538.html"
         }
     },
@@ -10401,6 +10391,7 @@
         "playable": "Ingame",
         "titleId": {
             "BLES01532": "https:\/\/forums.rpcs3.net\/thread-180006.html",
+            "BLES01536": "https:\/\/forums.rpcs3.net\/thread-206046.html",
             "BLUS30756": "https:\/\/forums.rpcs3.net\/thread-197483.html"
         }
     },
@@ -10470,6 +10461,8 @@
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": {
+            "BLES01943": "https:\/\/forums.rpcs3.net\/thread-206050.html",
+            "BLES01960": "https:\/\/forums.rpcs3.net\/thread-206054.html",
             "BLUS31273": "https:\/\/forums.rpcs3.net\/thread-163289.html"
         }
     },
@@ -10482,8 +10475,11 @@
             "BLES00683": "https:\/\/forums.rpcs3.net\/thread-202795.html",
             "BLES00685": "https:\/\/forums.rpcs3.net\/thread-196045.html",
             "BLES00687": "https:\/\/forums.rpcs3.net\/thread-197700.html",
+            "BLES00690": "https:\/\/forums.rpcs3.net\/thread-206264.html",
             "BLES00691": "https:\/\/forums.rpcs3.net\/thread-196721.html",
-            "BLUS30377": "https:\/\/forums.rpcs3.net\/thread-183122.html"
+            "BLJM60191": "https:\/\/forums.rpcs3.net\/thread-205960.html",
+            "BLUS30377": "https:\/\/forums.rpcs3.net\/thread-183122.html",
+            "BLUS30429": "https:\/\/forums.rpcs3.net\/thread-205425.html"
         }
     },
     "16144": {
@@ -10613,9 +10609,9 @@
         "name": "WWE 2K14",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=WWE_2K14",
         "media": "Blu-Ray",
-        "playable": "Ingame",
+        "playable": "Playable",
         "titleId": {
-            "BLES01937": "https:\/\/forums.rpcs3.net\/thread-188629.html"
+            "BLUS31277": "https:\/\/forums.rpcs3.net\/thread-206185.html"
         }
     },
     "9716": {
@@ -10626,8 +10622,7 @@
         "titleId": {
             "BLES00403": "https:\/\/forums.rpcs3.net\/thread-179612.html",
             "BLUS30223": "https:\/\/forums.rpcs3.net\/thread-201031.html",
-            "BLUS30233": "https:\/\/forums.rpcs3.net\/thread-198594.html",
-            "BLUS30303": "https:\/\/forums.rpcs3.net\/thread-181614.html"
+            "BLUS30233": "https:\/\/forums.rpcs3.net\/thread-198594.html"
         }
     },
     "165127": {
@@ -10973,7 +10968,7 @@
     },
     "21271": {
         "name": "ArcaniA",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=ArcaniA",
+        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Arcania%3A_The_Complete_Tale",
         "media": "Blu-Ray",
         "playable": "Ingame",
         "titleId": {
@@ -11172,7 +11167,8 @@
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": {
-            "BLES00833": "https:\/\/forums.rpcs3.net\/thread-178489.html"
+            "BLES00833": "https:\/\/forums.rpcs3.net\/thread-178489.html",
+            "BLUS30357": "https:\/\/forums.rpcs3.net\/thread-205252.html"
         }
     },
     "21574": {

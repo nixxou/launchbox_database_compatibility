@@ -33104,7 +33104,7 @@
     "13875": {
         "name": "Bladestorm: The Hundred Years' War",
         "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Bladestorm%3A_Hyakunen_Sensou",
+        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Bladestorm%3A_The_Hundred_Years%27_War",
         "playable": "Playable"
     },
     "13843": {
@@ -33525,7 +33525,7 @@
         "name": "Tiger Woods PGA Tour 13",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Tiger_Woods_PGA_Tour_13",
-        "playable": "Intro\/Menu"
+        "playable": "Gameplay"
     },
     "14387": {
         "name": "Rock Band 3",
@@ -34084,12 +34084,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=The_Evil_Within",
         "playable": "Gameplay"
-    },
-    "17655": {
-        "name": "Dead or Alive 5 Ultimate",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Dead_or_Alive_5_Ultimate",
-        "playable": "Playable"
     },
     "16124": {
         "name": "Fuse",
@@ -34883,12 +34877,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Guitar_Hero_III%3A_Legends_of_Rock",
         "playable": "Playable"
     },
-    "12353": {
-        "name": "Borderlands: Game of the Year Edition",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Borderlands",
-        "playable": "Playable"
-    },
     "160724": {
         "name": "World Snooker Championship 2007",
         "emulator": "rpcs3",
@@ -35108,7 +35096,7 @@
     "201017": {
         "name": "Dream C Club: Complete Edipyon!",
         "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Dream_C_Club_Gogo.",
+        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Dream_C_Club%3A_Complete_Edipyon%21",
         "playable": "Playable"
     },
     "12969": {
@@ -35151,7 +35139,7 @@
         "name": "WWE SmackDown vs. RAW 2009",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=WWE_SmackDown_vs._RAW_2009",
-        "playable": "Gameplay"
+        "playable": "Playable"
     },
     "12560": {
         "name": "Stranglehold",
@@ -36137,14 +36125,8 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=The_King_of_Fighters_XIII",
         "playable": "Playable"
     },
-    "204275": {
-        "name": "Borderlands 2: Game of the Year Edition",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Borderlands_2",
-        "playable": "Playable"
-    },
     "16491": {
-        "name": "Sega Superstars Tennis",
+        "name": "SEGA Superstars Tennis",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Sega_Superstars_Tennis",
         "playable": "Playable"
@@ -36387,12 +36369,6 @@
         "name": "Final Fantasy XIII",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Final_Fantasy_XIII",
-        "playable": "Gameplay"
-    },
-    "12624": {
-        "name": "The Chronicles of Riddick Assault on Dark Athena",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=The_Chronicles_of_Riddick_Assault_on_Dark_Athena",
         "playable": "Gameplay"
     },
     "6615": {
@@ -37226,7 +37202,7 @@
     "34212": {
         "name": "Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst",
         "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Naruto_Shippuden%3A_Ultimate_Ninja_Storm_3_Full_Burst",
+        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Naruto_Shippuden%3A_Ultimate_Ninja_Storm_3",
         "playable": "Playable"
     },
     "11455": {
@@ -37274,7 +37250,7 @@
     "204060": {
         "name": "Dream C Club Zero: Special Edipyon!",
         "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Dream_C_Club_Gogo.",
+        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Dream_C_Club_Zero%3A_Special_Edipyon%21",
         "playable": "Playable"
     },
     "12456": {
@@ -38385,7 +38361,7 @@
         "name": "WWE 2K14",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=WWE_2K14",
-        "playable": "Gameplay"
+        "playable": "Playable"
     },
     "9716": {
         "name": "Shaun White Snowboarding",
@@ -38606,7 +38582,7 @@
     "21271": {
         "name": "ArcaniA",
         "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=ArcaniA",
+        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Arcania%3A_The_Complete_Tale",
         "playable": "Gameplay"
     },
     "21281": {
