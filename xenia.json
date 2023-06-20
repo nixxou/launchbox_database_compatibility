@@ -1694,13 +1694,11 @@
     },
     "173179": {
         "name": "Crash Time",
-        "titleid": "524C07D1",
-        "url": "https:\/\/api.github.com\/repos\/xenia-project\/game-compatibility\/issues\/231",
-        "true_title": "524C07D1 - Crash Time",
+        "titleid": "435607D5",
+        "url": "https:\/\/api.github.com\/repos\/xenia-project\/game-compatibility\/issues\/2071",
+        "true_title": "435607D5 - Crash Time",
         "state": [
-            "state-gameplay",
-            "gpu-drawing-corrupt",
-            "tech-engine-unreal"
+            "state-gameplay"
         ],
         "playable": "gameplay"
     },
@@ -3310,10 +3308,10 @@
         "url": "https:\/\/api.github.com\/repos\/xenia-project\/game-compatibility\/issues\/916",
         "true_title": "41560815 - Spider-Man: Web of Shadows",
         "state": [
-            "state-menus",
+            "state-playable",
             "gpu-drawing-missing"
         ],
-        "playable": "menus"
+        "playable": "playable"
     },
     "3904": {
         "name": "Shadows of the Damned",
@@ -3825,8 +3823,11 @@
         "true_title": "454107EC - Need for Speed Carbon",
         "state": [
             "state-gameplay",
+            "apu-slow",
             "apu-silent",
-            "tech-engine-eagl"
+            "tech-engine-eagl",
+            "marketplace-nodownload",
+            "backwards-compatibility-unsupported"
         ],
         "playable": "gameplay"
     },
@@ -9135,7 +9136,8 @@
             "kernel-unimplemented-feature",
             "gpu-drawing-missing",
             "gpu-drawing-corrupt",
-            "vsync-off-speedup"
+            "vsync-off-speedup",
+            "requires_d3d12_clear_memory_page_state_true"
         ],
         "playable": "gameplay"
     },
@@ -13841,7 +13843,8 @@
             "gpu-drawing-corrupt",
             "kernel-save-file-errors",
             "vsync-off-speedup",
-            "requires_protect_zero_false"
+            "requires_protect_zero_false",
+            "requires_d3d12_clear_memory_page_state_true"
         ],
         "playable": "gameplay"
     },

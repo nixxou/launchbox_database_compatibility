@@ -45518,7 +45518,7 @@
     "173179": {
         "name": "Crash Time",
         "emulator": "xenia",
-        "url": "https:\/\/api.github.com\/repos\/xenia-project\/game-compatibility\/issues\/231",
+        "url": "https:\/\/api.github.com\/repos\/xenia-project\/game-compatibility\/issues\/2071",
         "playable": "Gameplay"
     },
     "8875": {
@@ -46323,7 +46323,7 @@
         "name": "Spider-Man: Web of Shadows",
         "emulator": "xenia",
         "url": "https:\/\/api.github.com\/repos\/xenia-project\/game-compatibility\/issues\/916",
-        "playable": "Intro\/Menu"
+        "playable": "Playable"
     },
     "3904": {
         "name": "Shadows of the Damned",
