@@ -1835,9 +1835,9 @@
         "name": "NES Remix 1",
         "url": "https:\/\/wiki.cemu.info\/wiki\/NES_Remix_1",
         "media": "",
-        "version": "1.26.2f",
+        "version": "2.0-40",
         "region": "EUR",
-        "playable": "Playable"
+        "playable": "Perfect"
     },
     "213882": {
         "name": "STEEL RIVALS",
@@ -2534,14 +2534,6 @@
         "version": "Unknown",
         "region": "Unknown",
         "playable": "Playable"
-    },
-    "163959": {
-        "name": "Don't Starve Giant Edition",
-        "url": "https:\/\/wiki.cemu.info\/wiki\/Don%27t_Starve_Giant_Edition",
-        "media": "",
-        "version": "Unknown",
-        "region": "Unknown",
-        "playable": "Runs"
     },
     "166176": {
         "name": "Explody Bomb",

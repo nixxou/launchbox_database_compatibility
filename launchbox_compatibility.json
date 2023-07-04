@@ -1377,7 +1377,7 @@
         "name": "NES Remix 1",
         "emulator": "cemu",
         "url": "https:\/\/wiki.cemu.info\/wiki\/NES_Remix_1",
-        "playable": "Playable"
+        "playable": "Perfect"
     },
     "213882": {
         "name": "STEEL RIVALS",
@@ -1900,12 +1900,6 @@
         "emulator": "cemu",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Radiantflux_Hyperfractal",
         "playable": "Playable"
-    },
-    "163959": {
-        "name": "Don't Starve Giant Edition",
-        "emulator": "cemu",
-        "url": "https:\/\/wiki.cemu.info\/wiki\/Don%27t_Starve_Giant_Edition",
-        "playable": "Gameplay"
     },
     "166176": {
         "name": "Explody Bomb",
