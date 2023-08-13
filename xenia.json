@@ -7606,12 +7606,12 @@
         "url": "https:\/\/api.github.com\/repos\/xenia-project\/game-compatibility\/issues\/29",
         "true_title": "584111F7 - Minecraft: Xbox 360 Edition",
         "state": [
-            "state-playable",
+            "state-gameplay",
             "gpu-drawing-missing",
             "apu-slow",
             "no-disc-install"
         ],
-        "playable": "playable"
+        "playable": "gameplay"
     },
     "10613": {
         "name": "AC\/DC LIVE: Rock Band",
@@ -7940,9 +7940,9 @@
     },
     "22803": {
         "name": "Terraria",
-        "titleid": "464F0802",
-        "url": "https:\/\/api.github.com\/repos\/xenia-project\/game-compatibility\/issues\/659",
-        "true_title": "464F0802 - Terraria",
+        "titleid": "5841128F",
+        "url": "https:\/\/api.github.com\/repos\/xenia-project\/game-compatibility\/issues\/199",
+        "true_title": "5841128F - Terraria",
         "state": [
             "tech-engine-xna",
             "state-crash-xna-WONTFIX"
@@ -9137,7 +9137,7 @@
             "gpu-drawing-missing",
             "gpu-drawing-corrupt",
             "vsync-off-speedup",
-            "requires_d3d12_clear_memory_page_state_true"
+            "requires_clear_memory_page_state_true"
         ],
         "playable": "gameplay"
     },
@@ -13844,7 +13844,7 @@
             "kernel-save-file-errors",
             "vsync-off-speedup",
             "requires_protect_zero_false",
-            "requires_d3d12_clear_memory_page_state_true"
+            "requires_clear_memory_page_state_true"
         ],
         "playable": "gameplay"
     },

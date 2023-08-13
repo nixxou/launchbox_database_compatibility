@@ -667,9 +667,9 @@
         "name": "Free Balling",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Free_Balling",
         "media": "",
-        "version": "Unknown",
-        "region": "Unknown",
-        "playable": "Unknown"
+        "version": "2.0-45",
+        "region": "USA",
+        "playable": "Loads"
     },
     "134376": {
         "name": "Tengami",
@@ -2821,7 +2821,7 @@
         "media": "",
         "version": "2.0-39",
         "region": "USA",
-        "playable": "Unplayable"
+        "playable": "Loads"
     },
     "93942": {
         "name": "Rapala Pro Bass Fishing",
@@ -3869,7 +3869,7 @@
         "media": "",
         "version": "Unknown",
         "region": "Unknown",
-        "playable": "Unknown"
+        "playable": "Perfect"
     },
     "134361": {
         "name": "Paper Monsters Recut",
@@ -3987,7 +3987,7 @@
         "name": "Mario Tennis: Ultra Smash",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Mario_Tennis:_Ultra_Smash",
         "media": "",
-        "version": "1.15.9c",
+        "version": "2.0-45",
         "region": "USA",
         "playable": "Perfect"
     },
@@ -4515,8 +4515,8 @@
         "name": "Fast Racing Neo",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Fast_Racing_Neo",
         "media": "",
-        "version": "1.21.2",
-        "region": "EUR",
+        "version": "2.0-44",
+        "region": "USA",
         "playable": "Playable"
     },
     "213880": {

@@ -501,7 +501,7 @@
         "name": "Free Balling",
         "emulator": "cemu",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Free_Balling",
-        "playable": "Unknown"
+        "playable": "Intro\/Menu"
     },
     "134376": {
         "name": "Tengami",
@@ -2115,7 +2115,7 @@
         "name": "Need for Speed: Most Wanted U",
         "emulator": "cemu",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Need_for_Speed:_Most_Wanted_U",
-        "playable": "No Boot"
+        "playable": "Intro\/Menu"
     },
     "93942": {
         "name": "Rapala Pro Bass Fishing",
@@ -2901,7 +2901,7 @@
         "name": "Educational Pack of Kids Games",
         "emulator": "cemu",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Educational_Pack_of_Kids_Games",
-        "playable": "Unknown"
+        "playable": "Perfect"
     },
     "134361": {
         "name": "Paper Monsters Recut",
@@ -41505,7 +41505,7 @@
         "name": "Buffy the Vampire Slayer",
         "emulator": "xemu",
         "url": "https:\/\/xemu.app\/titles\/45410012#Buffy-the-Vampire-Slayer",
-        "playable": "Perfect"
+        "playable": "Playable"
     },
     "151193": {
         "name": "Dinotopia: The Sunstone Odyssey",
@@ -42537,7 +42537,7 @@
         "name": "Yu-Gi-Oh! The Dawn of Destiny",
         "emulator": "xemu",
         "url": "https:\/\/xemu.app\/titles\/4b4e001e#Yu-Gi-Oh-The-Dawn-of-Destiny",
-        "playable": "Playable"
+        "playable": "Perfect"
     },
     "205049": {
         "name": "Shinchou Mahjong",
@@ -43989,7 +43989,7 @@
         "name": "Scooby-Doo! Unmasked",
         "emulator": "xemu",
         "url": "https:\/\/xemu.app\/titles\/545100f7#Scooby-Doo-Unmasked",
-        "playable": "Gameplay"
+        "playable": "Playable"
     },
     "12433": {
         "name": "Reign of Fire",
@@ -44199,7 +44199,7 @@
         "name": "RollerCoaster Tycoon",
         "emulator": "xemu",
         "url": "https:\/\/xemu.app\/titles\/4947002e#RollerCoaster-Tycoon",
-        "playable": "Playable"
+        "playable": "Perfect"
     },
     "18379": {
         "name": "Robotech: Battlecry",
@@ -48405,7 +48405,7 @@
         "name": "Minecraft: Xbox 360 Edition",
         "emulator": "xenia",
         "url": "https:\/\/api.github.com\/repos\/xenia-project\/game-compatibility\/issues\/29",
-        "playable": "Playable"
+        "playable": "Gameplay"
     },
     "10613": {
         "name": "AC\/DC LIVE: Rock Band",
