@@ -153,13 +153,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "6462": {
-        "name": "BlazBlue: Calamity Trigger",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=BlazBlue%3A_Calamity_Trigger",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "23306": {
         "name": "Skylanders Trap Team",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Skylanders_Trap_Team",
@@ -503,13 +496,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "189315": {
-        "name": "College Hoops 2K7",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=College_Hoops_2K7",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "15421": {
         "name": "Defiance",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Defiance",
@@ -657,13 +643,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "34410": {
-        "name": "Buzz! Quem \u00e9 o G\u00e9nio Portugu\u00eas?",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Buzz%21_Quem_%C3%A9_o_G%C3%A9nio_Portugu%C3%AAs%3F",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "22789": {
         "name": "FIFA 15",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=FIFA_15",
@@ -718,20 +697,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Brink",
         "media": "Blu-Ray",
         "playable": "Ingame",
-        "titleId": []
-    },
-    "15188": {
-        "name": "Biohazard: Revelations - Unveiled Edition",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Resident_Evil%3A_Revelations",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "13161": {
-        "name": "Ben 10 Galactic Racing",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Ben_10_Galactic_Racing",
-        "media": "Blu-Ray",
-        "playable": "Playable",
         "titleId": []
     },
     "14374": {
@@ -804,13 +769,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "15338": {
-        "name": "Cabela's Outdoor Adventures",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Cabela%27s_Outdoor_Adventures",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "16166": {
         "name": "Tom Clancy's EndWar",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Tom_Clancy%27s_EndWar",
@@ -853,13 +811,6 @@
         "playable": "Intro",
         "titleId": []
     },
-    "6588": {
-        "name": "Burnout Paradise",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Burnout_Paradise",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "19795": {
         "name": "Final Fantasy X\/X-2 HD Remaster",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Final_Fantasy_X%2FX-2_HD_Remaster",
@@ -881,13 +832,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "15351": {
-        "name": "Champion Jockey: G1 Jockey & Gallop Racer",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Champion_Jockey%3A_G1_Jockey_%26_Gallop_Racer",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "15856": {
         "name": "Major League Baseball 2K9",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Major_League_Baseball_2K9",
@@ -900,13 +844,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Dark_Souls",
         "media": "Blu-Ray",
         "playable": "Ingame",
-        "titleId": []
-    },
-    "19780": {
-        "name": "Castlevania: Lords of Shadow 2",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Castlevania%3A_Lords_of_Shadow_2",
-        "media": "Blu-Ray",
-        "playable": "Playable",
         "titleId": []
     },
     "151916": {
@@ -1000,30 +937,9 @@
         "playable": "Playable",
         "titleId": []
     },
-    "13166": {
-        "name": "Create",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Create",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "15360": {
-        "name": "Clash of the Titans",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Clash_of_the_Titans",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "854": {
         "name": "Demon's Souls",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Demon%27s_Souls",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "15331": {
-        "name": "Brain Challenge",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Brain_Challenge",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -1154,13 +1070,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "204034": {
-        "name": "Clannad",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Clannad",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "15292": {
         "name": "James Cameron's Avatar: The Game",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=James_Cameron%27s_Avatar%3A_The_Game",
@@ -1266,13 +1175,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "13875": {
-        "name": "Bladestorm: The Hundred Years' War",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Bladestorm%3A_The_Hundred_Years%27_War",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "13843": {
         "name": "NCIS",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=NCIS",
@@ -1292,13 +1194,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Onechanbara_Z%3A_Kagura_with_NoNoNo%21",
         "media": "Blu-Ray",
         "playable": "Ingame",
-        "titleId": []
-    },
-    "217488": {
-        "name": "Bloodbath",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Bloodbath",
-        "media": "Blu-Ray",
-        "playable": "Playable",
         "titleId": []
     },
     "6596": {
@@ -1339,13 +1234,6 @@
     "153051": {
         "name": "The Bigs 2",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=The_Bigs_2",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "11755": {
-        "name": "Cars: Race-O-Rama",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Cars%3A_Race-O-Rama",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -1397,13 +1285,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Fallout%3A_New_Vegas",
         "media": "Blu-Ray",
         "playable": "Ingame",
-        "titleId": []
-    },
-    "11955": {
-        "name": "Call of Juarez: Bound in Blood",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Call_of_Juarez%3A_Bound_in_Blood",
-        "media": "Blu-Ray",
-        "playable": "Playable",
         "titleId": []
     },
     "12593": {
@@ -1465,13 +1346,6 @@
     "10926": {
         "name": "The Simpsons Game",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=The_Simpsons_Game",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "13398": {
-        "name": "Beowulf",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Beowulf",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -1612,13 +1486,6 @@
     "15299": {
         "name": "Beijing 2008",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Beijing_2008",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "13979": {
-        "name": "BlazBlue: Continuum Shift EXTEND",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=BlazBlue%3A_Continuum_Shift",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -1889,13 +1756,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "24261": {
-        "name": "Cabela's Big Game Hunter 2010",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Cabela%27s_Big_Game_Hunter_2010",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "6635": {
         "name": "Time Crisis 4",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Time_Crisis_4",
@@ -2057,13 +1917,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "12703": {
-        "name": "Birds of Steel",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Birds_of_Steel",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "33668": {
         "name": "Under Night In-Birth Exe:Late",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Under_Night_In-Birth_Exe%3ALate",
@@ -2172,13 +2025,6 @@
     "18819": {
         "name": "Hot Wheels: World's Best Driver",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Hot_Wheels%3A_World%27s_Best_Driver",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "204033": {
-        "name": "Chaos;Head Noah",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Chaos%3BHead_Noah",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -2363,13 +2209,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Disney_Sing_It",
         "media": "Blu-Ray",
         "playable": "Ingame",
-        "titleId": []
-    },
-    "13846": {
-        "name": "Command & Conquer: Red Alert 3 - Ultimate Edition",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Command_%26_Conquer%3A_Red_Alert_3",
-        "media": "Blu-Ray",
-        "playable": "Playable",
         "titleId": []
     },
     "15618": {
@@ -2603,20 +2442,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "6592": {
-        "name": "College Hoops 2K8",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=College_Hoops_2K8",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "199437": {
-        "name": "Buzz! Brain of the UK",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Buzz%21_Brain_of_the_UK",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "34229": {
         "name": "Hatsune Miku: Project DIVA F 2nd",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Hatsune_Miku%3A_Project_DIVA_F_2nd",
@@ -2652,23 +2477,9 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "13162": {
-        "name": "Ben 10 Omniverse",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Ben_10_Omniverse",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "111726": {
         "name": "NieR RepliCant",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=NieR",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "13031": {
-        "name": "Buzz! Quiz TV",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Buzz%21_Quiz_TV",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -2883,13 +2694,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "12667": {
-        "name": "Cabela's Survival: Shadows of Katmai",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Cabela%27s_Survival%3A_Shadows_of_Katmai",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "182021": {
         "name": "Jikkyou Powerful Pro Yakyuu 2016",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Jikkyou_Powerful_Pro_Yakyuu_2016",
@@ -2932,13 +2736,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "11484": {
-        "name": "Borderlands 2",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Borderlands_2",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "14149": {
         "name": "EyePet & Friends",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=EyePet_%26_Friends",
@@ -2970,13 +2767,6 @@
     "151044": {
         "name": "Hajime no Ippo The Fighting",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Hajime_no_Ippo_The_Fighting",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "184217": {
-        "name": "Ben 10 Omniverse 2",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Ben_10_Omniverse_2",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -3198,13 +2988,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "20706": {
-        "name": "BlazBlue: Chrono Phantasma",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=BlazBlue%3A_Chrono_Phantasma",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "12381": {
         "name": "Prince of Persia: The Forgotten Sands",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Prince_of_Persia%3A_The_Forgotten_Sands",
@@ -3229,13 +3012,6 @@
     "16111": {
         "name": "Obut P\u00e9tanque 2",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Obut_P%C3%A9tanque_2",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "23410": {
-        "name": "Cabela's Dangerous Adventures",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Cabela%27s_Dangerous_Adventures",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -3464,13 +3240,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "9616": {
-        "name": "Colin McRae: DiRT 2",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Colin_McRae%3A_DiRT_2",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "6605": {
         "name": "Genji: Days of the Blade",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Genji%3A_Days_of_the_Blade",
@@ -3523,13 +3292,6 @@
     "16283": {
         "name": "Railfan",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Railfan",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "13165": {
-        "name": "Cloudy with a Chance of Meatballs: The Video Game",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Cloudy_with_a_Chance_of_Meatballs%3A_The_Video_Game",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -3632,13 +3394,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "15343": {
-        "name": "Captain Morgane and the Golden Turtle",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Captain_Morgane_and_the_Golden_Turtle",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "6618": {
         "name": "MotorStorm",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=MotorStorm",
@@ -3709,13 +3464,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "13163": {
-        "name": "Ben 10 Ultimate Alien: Cosmic Destruction",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Ben_10_Ultimate_Alien%3A_Cosmic_Destruction",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "23880": {
         "name": "Call of Duty: Advanced Warfare",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Call_of_Duty%3A_Advanced_Warfare",
@@ -3758,13 +3506,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "6611": {
-        "name": "Clive Barker's Jericho",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Clive_Barker%27s_Jericho",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "21274": {
         "name": "Agarest: Generations of War",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Record_of_Agarest_War",
@@ -3804,7 +3545,7 @@
         "name": "Castlevania: Lords of Shadow",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Castlevania%3A_Lords_of_Shadow",
         "media": "Blu-Ray",
-        "playable": "Playable",
+        "playable": "Ingame",
         "titleId": []
     },
     "18014": {
@@ -3812,13 +3553,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Deus_Ex%3A_Human_Revolution",
         "media": "Blu-Ray",
         "playable": "Ingame",
-        "titleId": []
-    },
-    "218329": {
-        "name": "Command & Conquer: Red Alert 3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Command_%26_Conquer%3A_Red_Alert_3",
-        "media": "Blu-Ray",
-        "playable": "Playable",
         "titleId": []
     },
     "12398": {
@@ -4003,13 +3737,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "13034": {
-        "name": "Buzz!: Quiz World",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Buzz%21_Quiz_World",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "33328": {
         "name": "Disney Sing It: Family Hits",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Disney_Sing_It%3A_Family_Hits",
@@ -4027,13 +3754,6 @@
     "809": {
         "name": "LittleBigPlanet",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=LittleBigPlanet",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "12351": {
-        "name": "Borderlands",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Borderlands",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -4143,13 +3863,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "129475": {
-        "name": "Cabela's African Adventures",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Cabela%27s_African_Adventures",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "19895": {
         "name": "Atelier Escha & Logy: Alchemists of the Dusk Sky",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Atelier_Escha_%26_Logy%3A_Alchemists_of_the_Dusk_Sky",
@@ -4209,13 +3922,6 @@
     "14006": {
         "name": "PES 2008 - Pro Evolution Soccer",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Pro_Evolution_Soccer_2008",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "15375": {
-        "name": "Crash Time 4: The Syndicate",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Crash_Time_4%3A_The_Syndicate",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -4353,13 +4059,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "11841": {
-        "name": "Captain America: Super Soldier",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Captain_America%3A_Super_Soldier",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "6629": {
         "name": "WWE SmackDown vs. RAW 2008",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=WWE_SmackDown_vs._RAW_2008",
@@ -4402,13 +4101,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "12401": {
-        "name": "Blades of Time",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Blades_of_Time",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "15934": {
         "name": "My Body Coach 2",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=My_Body_Coach_2",
@@ -4428,13 +4120,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Wolfenstein",
         "media": "Blu-Ray",
         "playable": "Ingame",
-        "titleId": []
-    },
-    "11988": {
-        "name": "Catherine",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Catherine",
-        "media": "Blu-Ray",
-        "playable": "Playable",
         "titleId": []
     },
     "15742": {
@@ -5123,13 +4808,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "12418": {
-        "name": "Bionic Commando",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Bionic_Commando",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "18818": {
         "name": "Young Justice: Legacy",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Young_Justice%3A_Legacy",
@@ -5172,13 +4850,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "11496": {
-        "name": "BioShock 2",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=BioShock_2",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "32604": {
         "name": "LEGO Jurassic World",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=LEGO_Jurassic_World",
@@ -5196,13 +4867,6 @@
     "24958": {
         "name": "Atelier Shallie: Alchemists of the Dusk Sea",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Atelier_Shallie%3A_Alchemists_of_the_Dusk_Sea",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "34406": {
-        "name": "BlazBlue: Chrono Phantasma Extend",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=BlazBlue%3A_Chrono_Phantasma",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -5303,13 +4967,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Assassin%27s_Creed_IV%3A_Black_Flag",
         "media": "Blu-Ray",
         "playable": "Ingame",
-        "titleId": []
-    },
-    "163613": {
-        "name": "Cabela's Big Game Hunter: Pro Hunts",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Cabela%27s_Big_Game_Hunter%3A_Pro_Hunts",
-        "media": "Blu-Ray",
-        "playable": "Playable",
         "titleId": []
     },
     "12439": {
@@ -5420,13 +5077,6 @@
     "13821": {
         "name": "DmC Devil May Cry",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=DmC_Devil_May_Cry",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "12668": {
-        "name": "Cabela's Big Game Hunter 2012",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Cabela%27s_Big_Game_Hunter_2012",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -5634,20 +5284,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "11952": {
-        "name": "BlackSite: Area 51",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=BlackSite%3A_Area_51",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "11902": {
-        "name": "Call of Juarez: The Cartel",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Call_of_Juarez%3A_The_Cartel",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "15767": {
         "name": "Lightning Returns: Final Fantasy XIII",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Lightning_Returns%3A_Final_Fantasy_XIII",
@@ -5816,13 +5452,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "5931": {
-        "name": "BlazBlue: Continuum Shift",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=BlazBlue%3A_Continuum_Shift",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "13482": {
         "name": "Ratchet & Clank Future: Quest for Booty",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Ratchet_%26_Clank_Future%3A_Quest_for_Booty",
@@ -5917,13 +5546,6 @@
     "6589": {
         "name": "Robert Ludlum's The Bourne Conspiracy",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Robert_Ludlum%27s_The_Bourne_Conspiracy",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "6590": {
-        "name": "Call of Duty 3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Call_of_Duty_3",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -6057,13 +5679,6 @@
     "16526": {
         "name": "Tiger Woods PGA Tour 11",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Tiger_Woods_PGA_Tour_11",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "13011": {
-        "name": "Bleach: Soul Resurreccion",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Bleach%3A_Soul_Resurreccion",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -6271,13 +5886,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "14235": {
-        "name": "Cars: Mater-National Championship",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Cars%3A_Mater-National_Championship",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "20813": {
         "name": "Far Cry 4",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Far_Cry_4",
@@ -6295,13 +5903,6 @@
     "31949": {
         "name": "IHF Handball Challenge 14",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=IHF_Handball_Challenge_14",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "15368": {
-        "name": "Combat Wings: The Great Battles of WWII",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Combat_Wings%3A_The_Great_Battles_of_WWII",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -6386,13 +5987,6 @@
     "11450": {
         "name": "The Testament of Sherlock Holmes",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=The_Testament_of_Sherlock_Holmes",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "11694": {
-        "name": "Cabela's Dangerous Hunts 2013",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Cabela%27s_Dangerous_Hunts_2013",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -6565,13 +6159,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "12364": {
-        "name": "Brothers in Arms: Hell's Highway",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Brothers_in_Arms%3A_Hell%27s_Highway",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "14139": {
         "name": "LittleBigPlanet: Game of the Year Edition",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=LittleBigPlanet",
@@ -6740,13 +6327,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "16144": {
-        "name": "Bejeweled 3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Bejeweled_3",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "12820": {
         "name": "Split\/Second",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Split%2FSecond",
@@ -6817,23 +6397,9 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "165127": {
-        "name": "BlazBlue: Central Fiction",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=BlazBlue%3A_Central_Fiction",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "168995": {
         "name": "Akatsuki No Goei Trinity",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Akatsuki_no_Goei_Trinity",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "14590": {
-        "name": "Cartoon Network: Punch Time Explosion XL",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Cartoon_Network%3A_Punch_Time_Explosion_XL",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -6898,7 +6464,7 @@
         "name": "Call of Duty 4: Modern Warfare",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Call_of_Duty_4%3A_Modern_Warfare",
         "media": "Blu-Ray",
-        "playable": "Playable",
+        "playable": "Ingame",
         "titleId": []
     },
     "14416": {
@@ -7111,13 +6677,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "179581": {
-        "name": "Blade Arcus from Shining EX",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Blade_Arcus_from_Shining_EX",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "12566": {
         "name": "LEGO Batman 2: DC Super Heroes",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=LEGO_Batman_2%3A_DC_Super_Heroes",
@@ -7209,13 +6768,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "11491": {
-        "name": "Bulletstorm",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Bulletstorm",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "12670": {
         "name": "Sorcery",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Sorcery",
@@ -7279,13 +6831,6 @@
         "playable": "Intro",
         "titleId": []
     },
-    "204032": {
-        "name": "Chaos;Child",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Chaos%3BChild",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "13937": {
         "name": "NHL 10",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=NHL_10",
@@ -7331,13 +6876,6 @@
     "23510": {
         "name": "Madden NFL 10",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Madden_NFL_10",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "10874": {
-        "name": "Conflict: Denied Ops",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Conflict%3A_Denied_Ops",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -7394,13 +6932,6 @@
     "142488": {
         "name": "Adventure Time: Finn and Jake Investigations",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Adventure_Time%3A_Finn_and_Jake_Investigations",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "15318": {
-        "name": "Beyond the Future: Fix the Time Arrows",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Beyond_the_Future%3A_Fix_the_Time_Arrows",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -7489,13 +7020,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "35004": {
-        "name": "Bound by Flame",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Bound_by_Flame",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "15112": {
         "name": "Major League Baseball 2K13",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Major_League_Baseball_2K13",
@@ -7520,13 +7044,6 @@
     "14526": {
         "name": "Fuel",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Fuel",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "11695": {
-        "name": "Cabela's Hunting Expeditions",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Cabela%27s_Hunting_Expeditions",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
