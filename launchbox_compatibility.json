@@ -31991,12 +31991,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Bodycount",
         "playable": "Gameplay"
     },
-    "15681": {
-        "name": "Iron Man",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Iron_Man",
-        "playable": "Gameplay"
-    },
     "129353": {
         "name": "Enemy Front",
         "emulator": "rpcs3",
@@ -32063,12 +32057,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Little_League_World_Series_Baseball_2010",
         "playable": "Playable"
     },
-    "6770": {
-        "name": "Madden NFL 12",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Madden_NFL_12",
-        "playable": "Gameplay"
-    },
     "11451": {
         "name": "The Darkness II",
         "emulator": "rpcs3",
@@ -32104,12 +32092,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=2014_FIFA_World_Cup_Brazil",
         "playable": "Playable"
-    },
-    "11482": {
-        "name": "Just Dance 4",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Just_Dance_4",
-        "playable": "Gameplay"
     },
     "12369": {
         "name": "UFC Undisputed 2010",
@@ -32242,12 +32224,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Falling_Skies_The_Game",
         "playable": "Playable"
-    },
-    "913": {
-        "name": "Killzone 3",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Killzone_3",
-        "playable": "Gameplay"
     },
     "13769": {
         "name": "Arcana Heart 3",
@@ -32555,12 +32531,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=PlayStation_All-Stars_Battle_Royale",
         "playable": "Gameplay"
     },
-    "12244": {
-        "name": "Mass Effect 2",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Mass_Effect_2",
-        "playable": "Gameplay"
-    },
     "16166": {
         "name": "Tom Clancy's EndWar",
         "emulator": "rpcs3",
@@ -32603,23 +32573,11 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Final_Fantasy_X%2FX-2_HD_Remaster",
         "playable": "Gameplay"
     },
-    "15799": {
-        "name": "Machi-ing Maker 4",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Machi-ing_Maker_4",
-        "playable": "Gameplay"
-    },
     "33237": {
         "name": "Virtua Tennis 2009",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Virtua_Tennis_2009",
         "playable": "Playable"
-    },
-    "15856": {
-        "name": "Major League Baseball 2K9",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Major_League_Baseball_2K9",
-        "playable": "Gameplay"
     },
     "10273": {
         "name": "Dark Souls",
@@ -32747,12 +32705,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Alice%3A_Madness_Returns",
         "playable": "Playable"
     },
-    "11006": {
-        "name": "LittleBigPlanet Karting",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=LittleBigPlanet_Karting",
-        "playable": "Gameplay"
-    },
     "15605": {
         "name": "Grease Dance",
         "emulator": "rpcs3",
@@ -32776,18 +32728,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Green_Lantern_Rise_of_the_Manhunters",
         "playable": "Playable"
-    },
-    "15847": {
-        "name": "Major League Baseball 2K12",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Major_League_Baseball_2K12",
-        "playable": "Gameplay"
-    },
-    "15714": {
-        "name": "Jikkyou Powerful Pro Yakyuu 2012",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Jikkyou_Powerful_Pro_Yakyuu_2012",
-        "playable": "Gameplay"
     },
     "6767": {
         "name": "3D Dot Game Heroes",
@@ -32818,12 +32758,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Yakuza_Ishin%21",
         "playable": "Playable"
-    },
-    "15292": {
-        "name": "James Cameron's Avatar: The Game",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=James_Cameron%27s_Avatar%3A_The_Game",
-        "playable": "Gameplay"
     },
     "13636": {
         "name": "LEGO Harry Potter: Years 1-4",
@@ -32884,12 +32818,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=SingStar%3A_Mallorca_Party",
         "playable": "Intro\/Menu"
-    },
-    "129516": {
-        "name": "Hunter's Trophy 2: Europa",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Hunter%27s_Trophy_2%3A_Europa",
-        "playable": "Gameplay"
     },
     "12450": {
         "name": "Sonic Generations",
@@ -32962,12 +32890,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=The_Bigs_2",
         "playable": "Playable"
-    },
-    "11973": {
-        "name": "Jak and Daxter Collection",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=The_Jak_%26_Daxter_Trilogy",
-        "playable": "Gameplay"
     },
     "213362": {
         "name": "Wonderbook: Book of Potions",
@@ -33088,12 +33010,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=The_Ultimate_Battle_of_the_Sexes%3A_Quiz_%26_Play%21",
         "playable": "Playable"
-    },
-    "15074": {
-        "name": "Metal Gear Rising: Revengeance",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Metal_Gear_Rising%3A_Revengeance",
-        "playable": "Gameplay"
     },
     "11494": {
         "name": "Darksiders 2",
@@ -33317,12 +33233,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Saint_Seiya_Soldiers_Soul",
         "playable": "Playable"
     },
-    "15754": {
-        "name": "Legend of the Guardians: The Owls of Ga'Hoole",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Legend_of_the_Guardians%3A_The_Owls_of_Ga%27Hoole",
-        "playable": "Gameplay"
-    },
     "17085": {
         "name": "Fast & Furious: Showdown",
         "emulator": "rpcs3",
@@ -33339,12 +33249,6 @@
         "name": "SingStar",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=SingStar",
-        "playable": "Gameplay"
-    },
-    "31539": {
-        "name": "MLB 15: The Show",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=MLB_15%3A_The_Show",
         "playable": "Gameplay"
     },
     "6587": {
@@ -33382,12 +33286,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Dragon%27s_Crown",
         "playable": "Playable"
-    },
-    "15923": {
-        "name": "MotoGP 09\/10",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=MotoGP_09%2F10",
-        "playable": "Gameplay"
     },
     "12404": {
         "name": "Child of Eden",
@@ -33593,12 +33491,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Tony_Hawk%27s_Proving_Ground",
         "playable": "Playable"
     },
-    "12356": {
-        "name": "Mafia II",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Mafia_II",
-        "playable": "Gameplay"
-    },
     "14060": {
         "name": "Tiger Woods PGA Tour 12: The Masters",
         "emulator": "rpcs3",
@@ -33616,12 +33508,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=NHL_15",
         "playable": "Playable"
-    },
-    "15911": {
-        "name": "Moe Moe Daisensou Gendaiban Plus Plus",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Moe_Moe_Daisensou_Gendaiban_Plus_Plus",
-        "playable": "Gameplay"
     },
     "152183": {
         "name": "Ryu ga Gotoku Zero",
@@ -33647,12 +33533,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Call_of_Duty%3A_Black_Ops",
         "playable": "Gameplay"
     },
-    "10931": {
-        "name": "L.A. Noire",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=L.A._Noire",
-        "playable": "Gameplay"
-    },
     "5930": {
         "name": "BioShock",
         "emulator": "rpcs3",
@@ -33663,12 +33543,6 @@
         "name": "Farming Simulator",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Farming_Simulator",
-        "playable": "Gameplay"
-    },
-    "15865": {
-        "name": "Major League Baseball 2K8",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Major_League_Baseball_2K8",
         "playable": "Gameplay"
     },
     "219060": {
@@ -33682,12 +33556,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Painkiller%3A_Hell_%26_Damnation",
         "playable": "Playable"
-    },
-    "6616": {
-        "name": "Madden NFL 09",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Madden_NFL_09",
-        "playable": "Gameplay"
     },
     "14809": {
         "name": "Blitz: The League II",
@@ -33767,23 +33635,11 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Thief",
         "playable": "Playable"
     },
-    "15772": {
-        "name": "Lost Planet Extreme Condition",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Lost_Planet%3A_Extreme_Condition",
-        "playable": "Gameplay"
-    },
     "214607": {
         "name": "The ICO & Shadow of the Colossus Classics HD",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=The_ICO_%26_Shadow_of_the_Colossus_Collection",
         "playable": "Playable"
-    },
-    "12306": {
-        "name": "Metal Gear Solid HD Collection",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Metal_Gear_Solid_HD_Collection",
-        "playable": "Gameplay"
     },
     "18908": {
         "name": "Bakugan Battle Brawlers",
@@ -33947,18 +33803,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=WWE_2K16",
         "playable": "Gameplay"
     },
-    "12726": {
-        "name": "MLB 11: The Show",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=MLB_11_The_Show",
-        "playable": "Gameplay"
-    },
-    "208391": {
-        "name": "J-STARS Victory VS+",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=J-STARS_Victory_VS%2B",
-        "playable": "Gameplay"
-    },
     "11950": {
         "name": "Winter Sports 2010",
         "emulator": "rpcs3",
@@ -33975,12 +33819,6 @@
         "name": "Sniper Elite V2",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Sniper_Elite_V2",
-        "playable": "Gameplay"
-    },
-    "15895": {
-        "name": "Midnight Club: Los Angeles",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Midnight_Club%3A_Los_Angeles",
         "playable": "Gameplay"
     },
     "189473": {
@@ -34115,12 +33953,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Start_the_Party%21_Save_the_World",
         "playable": "Intro\/Menu"
     },
-    "15835": {
-        "name": "Major League Baseball 2K10",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Major_League_Baseball_2K10",
-        "playable": "Gameplay"
-    },
     "14771": {
         "name": "Dragon Ball: Raging Blast 2",
         "emulator": "rpcs3",
@@ -34161,12 +33993,6 @@
         "name": "Tiger Woods PGA Tour 10",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Tiger_Woods_PGA_Tour_10",
-        "playable": "Gameplay"
-    },
-    "45": {
-        "name": "Metal Gear Solid 4: Guns of the Patriots",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Metal_Gear_Solid_4%3A_Guns_of_the_Patriots",
         "playable": "Gameplay"
     },
     "15354": {
@@ -34288,12 +34114,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Tears_to_Tiara_II%3A_Heir_of_the_Overlord",
         "playable": "Playable"
-    },
-    "15814": {
-        "name": "Madden NFL 07",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Madden_NFL_07",
-        "playable": "Gameplay"
     },
     "189728": {
         "name": "Game of Thrones: A Telltale Games Series",
@@ -34493,22 +34313,10 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Rocksmith_2014",
         "playable": "Gameplay"
     },
-    "815": {
-        "name": "inFamous",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=InFamous",
-        "playable": "Gameplay"
-    },
     "7975": {
         "name": "Ace Combat: Assault Horizon",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Ace_Combat%3A_Assault_Horizon",
-        "playable": "Gameplay"
-    },
-    "19781": {
-        "name": "Metal Gear Solid V: Ground Zeroes",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Metal_Gear_Solid_V%3A_Ground_Zeroes",
         "playable": "Gameplay"
     },
     "2304": {
@@ -34516,12 +34324,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Super_Street_Fighter_IV",
         "playable": "Playable"
-    },
-    "15732": {
-        "name": "Karaoke Revolution",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Karaoke_Revolution",
-        "playable": "Gameplay"
     },
     "8311": {
         "name": "X-Men: Destiny",
@@ -34673,12 +34475,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Dynasty_Warriors%3A_Gundam",
         "playable": "Playable"
     },
-    "930": {
-        "name": "MotorStorm: Apocalypse",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=MotorStorm%3A_Apocalypse",
-        "playable": "Gameplay"
-    },
     "6605": {
         "name": "Genji: Days of the Blade",
         "emulator": "rpcs3",
@@ -34690,12 +34486,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Ride_to_Hell%3A_Retribution",
         "playable": "Playable"
-    },
-    "11012": {
-        "name": "Max Payne 3",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Max_Payne_3",
-        "playable": "Gameplay"
     },
     "24962": {
         "name": "Skylanders SWAP Force",
@@ -34733,12 +34523,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=FIFA_18",
         "playable": "Playable"
     },
-    "12239": {
-        "name": "Hitman: Absolution",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Hitman%3A_Absolution",
-        "playable": "Gameplay"
-    },
     "13074": {
         "name": "Majin and the Forsaken Kingdom",
         "emulator": "rpcs3",
@@ -34750,12 +34534,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=WRC%3A_FIA_World_Rally_Championship",
         "playable": "Playable"
-    },
-    "37": {
-        "name": "Lair",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Lair",
-        "playable": "Gameplay"
     },
     "129487": {
         "name": "Teenage Mutant Ninja Turtles: Mutants in Manhattan",
@@ -34810,12 +34588,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=F.E.A.R._2%3A_Project_Origin",
         "playable": "Playable"
-    },
-    "6618": {
-        "name": "MotorStorm",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=MotorStorm",
-        "playable": "Gameplay"
     },
     "18216": {
         "name": "Call of Duty: Ghosts",
@@ -34961,12 +34733,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=F1_2012",
         "playable": "Gameplay"
     },
-    "15821": {
-        "name": "Madden NFL 08",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Madden_NFL_08",
-        "playable": "Gameplay"
-    },
     "6597": {
         "name": "Dragon Age: Origins",
         "emulator": "rpcs3",
@@ -35014,12 +34780,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Dragon_Ball_Z%3A_Burst_Limit",
         "playable": "Playable"
-    },
-    "182025": {
-        "name": "Macross 30 Ginga o Tsunagu Utagoe",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Macross_30_Ginga_o_Tsunagu_Utagoe",
-        "playable": "Gameplay"
     },
     "18817": {
         "name": "FIFA 14",
@@ -35079,12 +34839,6 @@
         "name": "Tiger Woods PGA Tour 08",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Tiger_Woods_PGA_Tour_08",
-        "playable": "Gameplay"
-    },
-    "15479": {
-        "name": "LittleBigPlanet 2",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=LittleBigPlanet_2",
         "playable": "Gameplay"
     },
     "15076": {
@@ -35207,12 +34961,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Natural_Doctrine",
         "playable": "Gameplay"
     },
-    "26196": {
-        "name": "LittleBigPlanet 3",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=LittleBigPlanet_3",
-        "playable": "Gameplay"
-    },
     "19895": {
         "name": "Atelier Escha & Logy: Alchemists of the Dusk Sky",
         "emulator": "rpcs3",
@@ -35249,12 +34997,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=PlayStation_Move_Heroes",
         "playable": "Gameplay"
     },
-    "11756": {
-        "name": "Medal of Honor: Warfighter",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Medal_of_Honor%3A_Warfighter",
-        "playable": "Gameplay"
-    },
     "17884": {
         "name": "DuckTales: Remastered",
         "emulator": "rpcs3",
@@ -35285,18 +35027,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Armored_Core_4",
         "playable": "Gameplay"
     },
-    "12378": {
-        "name": "Journey: Collector's Edition",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Journey",
-        "playable": "Gameplay"
-    },
-    "33596": {
-        "name": "Invizimals: The Lost Kingdom",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Invizimals%3A_The_Lost_Kingdom",
-        "playable": "Gameplay"
-    },
     "12359": {
         "name": "Overlord II",
         "emulator": "rpcs3",
@@ -35315,23 +35045,11 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Motionsports%3A_Adrenaline",
         "playable": "Intro\/Menu"
     },
-    "30275": {
-        "name": "Madden NFL 16",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Madden_NFL_16",
-        "playable": "Gameplay"
-    },
     "23509": {
         "name": "Destroy All Humans! Path of the Furon",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Destroy_All_Humans%21_Path_of_the_Furon",
         "playable": "Playable"
-    },
-    "31948": {
-        "name": "Lost Dimension",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Lost_Dimension",
-        "playable": "Gameplay"
     },
     "12592": {
         "name": "Just Cause 2",
@@ -35374,12 +35092,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=WipEout_HD",
         "playable": "Playable"
-    },
-    "13132": {
-        "name": "MLB 12: The Show",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=MLB_12_The_Show",
-        "playable": "Gameplay"
     },
     "6629": {
         "name": "WWE SmackDown vs. RAW 2008",
@@ -35561,12 +35273,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=LEGO_Star_Wars%3A_The_Force_Awakens",
         "playable": "Playable"
     },
-    "34499": {
-        "name": "Gundam Breaker 2",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Gundam_Breaker_2",
-        "playable": "Gameplay"
-    },
     "6593": {
         "name": "Conan",
         "emulator": "rpcs3",
@@ -35596,12 +35302,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Facebreaker",
         "playable": "Playable"
-    },
-    "10930": {
-        "name": "MLB 09: The Show",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=MLB_09_The_Show",
-        "playable": "Gameplay"
     },
     "32893": {
         "name": "Tales from the Borderlands",
@@ -35639,12 +35339,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Damage_Inc.%3A_Pacific_Squadron_WWII",
         "playable": "Playable"
     },
-    "12716": {
-        "name": "Lost Planet 2",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Lost_Planet_2",
-        "playable": "Gameplay"
-    },
     "13424": {
         "name": "Vampire Rain: Altered Species",
         "emulator": "rpcs3",
@@ -35669,23 +35363,11 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Battle_vs._Chess",
         "playable": "Playable"
     },
-    "15852": {
-        "name": "Major League Baseball 2K7",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Major_League_Baseball_2K7",
-        "playable": "Gameplay"
-    },
     "6608": {
         "name": "Guitar Hero: Aerosmith",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Guitar_Hero%3A_Aerosmith",
         "playable": "Playable"
-    },
-    "15730": {
-        "name": "Just Dance 3",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Just_Dance_3",
-        "playable": "Gameplay"
     },
     "12431": {
         "name": "Persona 4 Arena",
@@ -35693,23 +35375,11 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Persona_4_Arena",
         "playable": "Playable"
     },
-    "319": {
-        "name": "Heavy Rain",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Heavy_Rain",
-        "playable": "Gameplay"
-    },
     "32892": {
         "name": "Sword Art Online: Lost Song",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Sword_Art_Online%3A_Lost_Song",
         "playable": "Playable"
-    },
-    "15894": {
-        "name": "Midnight Club: Los Angeles - Complete Edition",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Midnight_Club%3A_Los_Angeles",
-        "playable": "Gameplay"
     },
     "15808": {
         "name": "Madagascar: Escape 2 Africa",
@@ -35789,12 +35459,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Need_for_Speed_The_Run",
         "playable": "Gameplay"
     },
-    "15770": {
-        "name": "Lost Planet 3",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Lost_Planet_3",
-        "playable": "Gameplay"
-    },
     "24260": {
         "name": "WWE All Stars",
         "emulator": "rpcs3",
@@ -35836,12 +35500,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Wangan_Midnight",
         "playable": "Playable"
-    },
-    "15739": {
-        "name": "Ken to Mahou to Gakuen Mono 3",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Ken_to_Mahou_to_Gakuen_Mono_3",
-        "playable": "Gameplay"
     },
     "15336": {
         "name": "Buzz! The Ultimate Music Quiz",
@@ -35932,12 +35590,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Ninja_Gaiden_3",
         "playable": "Playable"
-    },
-    "36": {
-        "name": "Killzone 2",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Killzone_2",
-        "playable": "Gameplay"
     },
     "16305": {
         "name": "Rayman Legends",
@@ -36089,12 +35741,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Phineas_and_Ferb_Across_the_2nd_Dimension",
         "playable": "Playable"
     },
-    "941": {
-        "name": "inFamous 2",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=InFamous_2",
-        "playable": "Gameplay"
-    },
     "15663": {
         "name": "Hiiro no Kakera Aizouban",
         "emulator": "rpcs3",
@@ -36119,12 +35765,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Virtua_Fighter_5",
         "playable": "Playable"
     },
-    "189364": {
-        "name": "L.A. Noire: The Complete Edition",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=L.A._Noire",
-        "playable": "Gameplay"
-    },
     "201113": {
         "name": "Arthur and the Revenge of Maltazard",
         "emulator": "rpcs3",
@@ -36141,18 +35781,6 @@
         "name": "Dead Rising 2: Off the Record",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Dead_Rising_2%3A_Off_the_Record",
-        "playable": "Gameplay"
-    },
-    "15686": {
-        "name": "Iron Man 2",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Iron_Man_2",
-        "playable": "Gameplay"
-    },
-    "15657": {
-        "name": "Harry Potter and the Deathly Hallows: Part 2",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Harry_Potter_and_the_Deathly_Hallows%3A_Part_2",
         "playable": "Gameplay"
     },
     "18148": {
@@ -36177,12 +35805,6 @@
         "name": "SOCOM: U.S. Navy SEALs Confrontation",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=SOCOM%3A_U.S_Navy_SEALs_Confrontation",
-        "playable": "Gameplay"
-    },
-    "34215": {
-        "name": "LittleBigPlanet 2 Extras Edition",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=LittleBigPlanet_2",
         "playable": "Gameplay"
     },
     "22472": {
@@ -36275,22 +35897,10 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Persona_5",
         "playable": "Playable"
     },
-    "189365": {
-        "name": "Man vs. Wild",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Man_vs._Wild",
-        "playable": "Gameplay"
-    },
     "15560": {
         "name": "FIFA Street 3",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=FIFA_Street_3",
-        "playable": "Gameplay"
-    },
-    "15764": {
-        "name": "Let's Dance with Mel B",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Let%27s_Dance_with_Mel_B",
         "playable": "Gameplay"
     },
     "16205": {
@@ -36425,18 +36035,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=UFC_Undisputed_3",
         "playable": "Gameplay"
     },
-    "189389": {
-        "name": "Motorcycle Club",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Motorcycle_Club",
-        "playable": "Gameplay"
-    },
-    "15767": {
-        "name": "Lightning Returns: Final Fantasy XIII",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Lightning_Returns%3A_Final_Fantasy_XIII",
-        "playable": "Gameplay"
-    },
     "13467": {
         "name": "Carnival Island",
         "emulator": "rpcs3",
@@ -36466,12 +36064,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Madden_NFL_25",
         "playable": "Playable"
-    },
-    "15870": {
-        "name": "Medal of Honor: Airborne",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Medal_of_Honor%3A_Airborne",
-        "playable": "Gameplay"
     },
     "13324": {
         "name": "Knights Contract",
@@ -36563,12 +36155,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Saint_Seiya%3A_Brave_Soldiers",
         "playable": "Playable"
     },
-    "13479": {
-        "name": "Michael Jackson: The Experience",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Michael_Jackson%3A_The_Experience",
-        "playable": "Gameplay"
-    },
     "3922": {
         "name": "Yakuza 3",
         "emulator": "rpcs3",
@@ -36611,12 +36197,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=GoldenEye_007%3A_Reloaded",
         "playable": "Playable"
     },
-    "204066": {
-        "name": "Just Dance 2017",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Just_Dance_2017",
-        "playable": "Gameplay"
-    },
     "201114": {
         "name": "Big 3 Gun Shooting",
         "emulator": "rpcs3",
@@ -36645,12 +36225,6 @@
         "name": "DiRT 3: Complete Edition",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=DiRT_3",
-        "playable": "Gameplay"
-    },
-    "11127": {
-        "name": "Metal Gear Solid V: The Phantom Pain",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Metal_Gear_Solid_V%3A_The_Phantom_Pain",
         "playable": "Gameplay"
     },
     "6589": {
@@ -36761,12 +36335,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Turning_Point%3A_Fall_of_Liberty",
         "playable": "Playable"
     },
-    "15704": {
-        "name": "Jane's Advanced Strike Fighters",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Jane%27s_Advanced_Strike_Fighters",
-        "playable": "Gameplay"
-    },
     "16526": {
         "name": "Tiger Woods PGA Tour 11",
         "emulator": "rpcs3",
@@ -36826,12 +36394,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Transformers%3A_Revenge_of_the_Fallen",
         "playable": "Playable"
-    },
-    "13796": {
-        "name": "MLB 10: The Show",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=MLB_10%3A_The_Show",
-        "playable": "Gameplay"
     },
     "208553": {
         "name": "Handball 16",
@@ -36916,12 +36478,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=All-Pro_Football_2K8",
         "playable": "Playable"
-    },
-    "11969": {
-        "name": "Heavy Fire: Afghanistan",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Heavy_Fire%3A_Afghanistan",
-        "playable": "Gameplay"
     },
     "15744": {
         "name": "Killzone",
@@ -37109,12 +36665,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Transformers%3A_Rise_of_the_Dark_Spark",
         "playable": "Intro\/Menu"
     },
-    "15111": {
-        "name": "MLB 13: The Show",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=MLB_13%3A_The_Show",
-        "playable": "Gameplay"
-    },
     "11774": {
         "name": "Far Cry 3",
         "emulator": "rpcs3",
@@ -37211,12 +36761,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Sniper_Elite_V2",
         "playable": "Gameplay"
     },
-    "15842": {
-        "name": "Major League Baseball 2K11",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Major_League_Baseball_2K11",
-        "playable": "Gameplay"
-    },
     "2264": {
         "name": "Uncharted 3: Drake's Deception",
         "emulator": "rpcs3",
@@ -37258,18 +36802,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=The_Walking_Dead%3A_A_Telltale_Games_Series",
         "playable": "Playable"
-    },
-    "27023": {
-        "name": "Heavy Fire: Shattered Spear",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Heavy_Fire%3A_Shattered_Spear",
-        "playable": "Gameplay"
-    },
-    "10928": {
-        "name": "Lost: Via Domus",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Lost%3A_Via_Domus",
-        "playable": "Gameplay"
     },
     "12432": {
         "name": "Prototype 2",
@@ -37355,22 +36887,10 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=The_Adventures_of_Tintin%3A_The_Secret_of_the_Unicorn",
         "playable": "Playable"
     },
-    "15745": {
-        "name": "Kingdom Hearts HD 1.5 ReMIX",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Kingdom_Hearts_HD_1.5_ReMIX",
-        "playable": "Gameplay"
-    },
     "8166": {
         "name": "Star Wars: The Force Unleashed",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Star_Wars%3A_The_Force_Unleashed",
-        "playable": "Gameplay"
-    },
-    "21198": {
-        "name": "Mass Effect",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Mass_Effect",
         "playable": "Gameplay"
     },
     "143395": {
@@ -37402,12 +36922,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Tony_Hawk%3A_RIDE",
         "playable": "Intro\/Menu"
-    },
-    "191487": {
-        "name": "Heavy Rain: Move Edition",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Heavy_Rain",
-        "playable": "Gameplay"
     },
     "219175": {
         "name": "Tiger Woods PGA Tour 14 The Masters Historic Edition",
@@ -37461,12 +36975,6 @@
         "name": "uDraw Studio Instant Artist",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=UDraw_Studio_Instant_Artist",
-        "playable": "Gameplay"
-    },
-    "34207": {
-        "name": "Just Dance 2015",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Just_Dance_2015",
         "playable": "Gameplay"
     },
     "15645": {
@@ -37529,12 +37037,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Batman%3A_The_Telltale_Series",
         "playable": "Playable"
     },
-    "14850": {
-        "name": "Marvel Super Hero Squad: The Infinity Gauntlet",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Marvel_Super_Hero_Squad%3A_The_Infinity_Gauntlet",
-        "playable": "Gameplay"
-    },
     "16604": {
         "name": "SingStar Latino",
         "emulator": "rpcs3",
@@ -37576,12 +37078,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=The_Golden_Compass",
         "playable": "Playable"
-    },
-    "204065": {
-        "name": "Just Dance 2014",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Just_Dance_2014",
-        "playable": "Gameplay"
     },
     "13036": {
         "name": "X-Blades",
@@ -37631,29 +37127,11 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=LEGO_Batman_2%3A_DC_Super_Heroes",
         "playable": "Playable"
     },
-    "33061": {
-        "name": "Just Dance 2016",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Just_Dance_2016",
-        "playable": "Gameplay"
-    },
-    "15748": {
-        "name": "Kung Fu Rider",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Kung_Fu_Rider",
-        "playable": "Gameplay"
-    },
     "201252": {
         "name": "Z\/X Zillions of Enemy X: Zekkai no Crusade",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Z%2FX_Zillions_of_Enemy_X%3A_Zekkai_no_Crusade",
         "playable": "Playable"
-    },
-    "12249": {
-        "name": "Inversion",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Inversion",
-        "playable": "Gameplay"
     },
     "12553": {
         "name": "God of War: Origins Collection",
@@ -37732,12 +37210,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Battle_Fantasia",
         "playable": "Playable"
-    },
-    "12342": {
-        "name": "Marvel: Ultimate Alliance 2",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Marvel%3A_Ultimate_Alliance_2",
-        "playable": "Gameplay"
     },
     "16202": {
         "name": "Power Gig: Rise of the SixString",
@@ -37847,12 +37319,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Adventure_Time%3A_Finn_and_Jake_Investigations",
         "playable": "Playable"
     },
-    "8161": {
-        "name": "Mass Effect 3",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Mass_Effect_3",
-        "playable": "Gameplay"
-    },
     "15467": {
         "name": "Dynasty Warriors 6",
         "emulator": "rpcs3",
@@ -37882,12 +37348,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Aliens_vs._Predator",
         "playable": "Playable"
-    },
-    "22538": {
-        "name": "Hitman: Absolution - Complete Edition",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Hitman%3A_Absolution",
-        "playable": "Gameplay"
     },
     "2256": {
         "name": "Alpha Protocol",
@@ -38021,12 +37481,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Nights_of_Azure",
         "playable": "Playable"
     },
-    "208380": {
-        "name": "Mobile Suit Gundam: Side Stories",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Mobile_Suit_Gundam%3A_Side_Stories",
-        "playable": "Gameplay"
-    },
     "15661": {
         "name": "Heroes over Europe",
         "emulator": "rpcs3",
@@ -38129,12 +37583,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Tom_Clancy%27s_Splinter_Cell%3A_Double_Agent",
         "playable": "Gameplay"
     },
-    "15691": {
-        "name": "Iron Sky: Invasion",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Iron_Sky%3A_Invasion",
-        "playable": "Gameplay"
-    },
     "12330": {
         "name": "Saints Row: The Third - The Full Package",
         "emulator": "rpcs3",
@@ -38176,12 +37624,6 @@
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Madagascar_3%3A_The_Video_Game",
         "playable": "Playable"
-    },
-    "204067": {
-        "name": "Just Dance 2018",
-        "emulator": "rpcs3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Just_Dance_2018",
-        "playable": "Gameplay"
     },
     "16801": {
         "name": "Silent Hill 4: The Room",
