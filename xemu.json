@@ -3432,7 +3432,7 @@
     "5979": {
         "name": "Baldur's Gate: Dark Alliance II",
         "url": "https:\/\/xemu.app\/titles\/4950000a#Baldur-s-Gate-Dark-Alliance-II",
-        "playable": "Intro"
+        "playable": "Playable"
     },
     "17067": {
         "name": "Psi-Ops: The Mindgate Conspiracy",
@@ -4097,7 +4097,7 @@
     "24311": {
         "name": "Wreckless: The Yakuza Missions",
         "url": "https:\/\/xemu.app\/titles\/4156000a#Wreckless-The-Yakuza-Missions",
-        "playable": "Intro"
+        "playable": "Starts"
     },
     "6116": {
         "name": "Project Gotham Racing 2",
