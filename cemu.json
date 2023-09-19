@@ -699,9 +699,9 @@
         "name": "Nintendo Land",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Nintendo_Land",
         "media": "",
-        "version": "1.19.2c",
+        "version": "1.26.2f",
         "region": "USA",
-        "playable": "Playable"
+        "playable": "Runs"
     },
     "162652": {
         "name": "High Strangeness",
@@ -1699,7 +1699,7 @@
         "name": "LEGO Dimensions",
         "url": "https:\/\/wiki.cemu.info\/wiki\/LEGO_Dimensions",
         "media": "",
-        "version": "1.15.6",
+        "version": "1.26.2f",
         "region": "USA",
         "playable": "Playable"
     },
