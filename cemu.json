@@ -411,9 +411,9 @@
         "name": "Pikmin 3",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Pikmin_3",
         "media": "",
-        "version": "1.22.9d",
+        "version": "1.26.2f",
         "region": "USA",
-        "playable": "Playable"
+        "playable": "Loads"
     },
     "162830": {
         "name": "Vektor Wars",
@@ -699,7 +699,7 @@
         "name": "Nintendo Land",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Nintendo_Land",
         "media": "",
-        "version": "1.26.2f",
+        "version": "2.0-51",
         "region": "USA",
         "playable": "Runs"
     },
@@ -765,7 +765,7 @@
         "media": "",
         "version": "1.26.2f",
         "region": "USA",
-        "playable": "Runs"
+        "playable": "Perfect"
     },
     "213900": {
         "name": "Word Puzzles by POWGI",

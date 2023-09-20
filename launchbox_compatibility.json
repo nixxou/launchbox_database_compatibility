@@ -309,7 +309,7 @@
         "name": "Pikmin 3",
         "emulator": "cemu",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Pikmin_3",
-        "playable": "Playable"
+        "playable": "Intro\/Menu"
     },
     "162830": {
         "name": "Vektor Wars",
@@ -573,7 +573,7 @@
         "name": "Captain Toad: Treasure Tracker",
         "emulator": "cemu",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Captain_Toad:_Treasure_Tracker",
-        "playable": "Gameplay"
+        "playable": "Perfect"
     },
     "213900": {
         "name": "Word Puzzles by POWGI",
@@ -37701,7 +37701,7 @@
         "name": "Lara Croft Tomb Raider: Legend",
         "emulator": "xemu",
         "url": "https:\/\/xemu.app\/titles\/534300fd#Lara-Croft-Tomb-Raider-Legend",
-        "playable": "Gameplay"
+        "playable": "No Boot"
     },
     "24286": {
         "name": "Broken Sword: The Sleeping Dragon",
