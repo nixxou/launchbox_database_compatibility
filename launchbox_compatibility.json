@@ -32847,7 +32847,7 @@
         "name": "Leisure Suit Larry Box Office Bust",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Leisure_Suit_Larry_Box_Office_Bust",
-        "playable": "Intro\/Menu"
+        "playable": "Gameplay"
     },
     "6638": {
         "name": "Tony Hawk's Proving Ground",
@@ -33987,7 +33987,7 @@
         "name": "EyePet",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=EyePet",
-        "playable": "Intro\/Menu"
+        "playable": "Gameplay"
     },
     "12611": {
         "name": "El Shaddai: Ascension of the Metatron",
