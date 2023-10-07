@@ -32631,7 +32631,7 @@
         "name": "Leisure Suit Larry Box Office Bust",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Leisure_Suit_Larry_Box_Office_Bust",
-        "playable": "Intro\/Menu"
+        "playable": "Gameplay"
     },
     "14060": {
         "name": "Tiger Woods PGA Tour 12: The Masters",
@@ -33027,7 +33027,7 @@
         "name": "The Incredible Hulk",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=The_Incredible_Hulk",
-        "playable": "Gameplay"
+        "playable": "Playable"
     },
     "142551": {
         "name": "Tales of Berseria",
@@ -33039,7 +33039,7 @@
         "name": "Stormrise",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Stormrise",
-        "playable": "Gameplay"
+        "playable": "Playable"
     },
     "12381": {
         "name": "Prince of Persia: The Forgotten Sands",
@@ -33513,7 +33513,7 @@
         "name": "EyePet",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=EyePet",
-        "playable": "Intro\/Menu"
+        "playable": "Gameplay"
     },
     "12611": {
         "name": "El Shaddai: Ascension of the Metatron",
@@ -34623,7 +34623,7 @@
         "name": "Spider-Man: Edge of Time",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Spider-Man%3A_Edge_of_Time",
-        "playable": "Gameplay"
+        "playable": "Playable"
     },
     "186118": {
         "name": "Koihime Enbu",
