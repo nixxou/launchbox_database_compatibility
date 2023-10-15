@@ -2819,9 +2819,9 @@
         "name": "Need for Speed: Most Wanted U",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Need_for_Speed:_Most_Wanted_U",
         "media": "",
-        "version": "2.0-39",
-        "region": "USA",
-        "playable": "Loads"
+        "version": "2.0-55",
+        "region": "EUR",
+        "playable": "Runs"
     },
     "93942": {
         "name": "Rapala Pro Bass Fishing",
@@ -5219,9 +5219,9 @@
         "name": "LEGO City: Undercover",
         "url": "https:\/\/wiki.cemu.info\/wiki\/LEGO_City:_Undercover",
         "media": "",
-        "version": "1.26.2f",
-        "region": "USA",
-        "playable": "Runs"
+        "version": "2.0-55",
+        "region": "EUR",
+        "playable": "Playable"
     },
     "134311": {
         "name": "Toby: The Secret Mine",

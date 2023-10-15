@@ -2115,7 +2115,7 @@
         "name": "Need for Speed: Most Wanted U",
         "emulator": "cemu",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Need_for_Speed:_Most_Wanted_U",
-        "playable": "Intro\/Menu"
+        "playable": "Gameplay"
     },
     "93942": {
         "name": "Rapala Pro Bass Fishing",
@@ -3915,7 +3915,7 @@
         "name": "LEGO City: Undercover",
         "emulator": "cemu",
         "url": "https:\/\/wiki.cemu.info\/wiki\/LEGO_City:_Undercover",
-        "playable": "Gameplay"
+        "playable": "Playable"
     },
     "134311": {
         "name": "Toby: The Secret Mine",
