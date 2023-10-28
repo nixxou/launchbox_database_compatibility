@@ -32973,7 +32973,7 @@
         "name": "Castlevania: Lords of Shadow",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Castlevania%3A_Lords_of_Shadow",
-        "playable": "Gameplay"
+        "playable": "Playable"
     },
     "28553": {
         "name": "Ratatouille",
@@ -33147,7 +33147,7 @@
         "name": "Driver: San Francisco",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Driver%3A_San_Francisco",
-        "playable": "Gameplay"
+        "playable": "Playable"
     },
     "13017": {
         "name": "Wolfenstein",
@@ -33879,7 +33879,7 @@
         "name": "Call of Duty 4: Modern Warfare",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Call_of_Duty_4%3A_Modern_Warfare",
-        "playable": "Gameplay"
+        "playable": "Playable"
     },
     "20009": {
         "name": "uDraw Studio Instant Artist",
