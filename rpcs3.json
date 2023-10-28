@@ -6,27 +6,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "171633": {
-        "name": "FIFA 19",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=FIFA_19",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "14608": {
-        "name": "Wonderbook: Book of Spells",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Wonderbook%3A_Book_of_Spells",
-        "media": "Blu-Ray",
-        "playable": "Intro",
-        "titleId": []
-    },
-    "13910": {
-        "name": "Dynasty Warriors: Gundam 3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Dynasty_Warriors%3A_Gundam_3",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "189445": {
         "name": "Sniper Elite 3 Ultimate Edition",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Sniper_Elite_3",
@@ -118,34 +97,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "29410": {
-        "name": "Move Fitness",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Move_Fitness",
-        "media": "Blu-Ray",
-        "playable": "Intro",
-        "titleId": []
-    },
-    "11949": {
-        "name": "Earth Defense Force: Insect Armageddon",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Earth_Defense_Force%3A_Insect_Armageddon",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "13465": {
-        "name": "Medieval Moves: Deadmund's Quest",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Medieval_Moves%3A_Deadmund%27s_Quest",
-        "media": "Blu-Ray",
-        "playable": "Intro",
-        "titleId": []
-    },
-    "16595": {
-        "name": "SingStar: Motown",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=SingStar%3A_Motown",
-        "media": "Blu-Ray",
-        "playable": "Intro",
-        "titleId": []
-    },
     "218241": {
         "name": "Ride",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Ride",
@@ -170,13 +121,6 @@
     "10943": {
         "name": "Madden NFL 13",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Madden_NFL_13",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "129482": {
-        "name": "Falling Skies The Game",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Falling_Skies_The_Game",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -223,13 +167,6 @@
         "playable": "Intro",
         "titleId": []
     },
-    "12752": {
-        "name": "Enchanted Arms",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Enchanted_Arms",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "12568": {
         "name": "LEGO The Lord of the Rings",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=LEGO_The_Lord_of_the_Rings",
@@ -272,39 +209,11 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "6603": {
-        "name": "Folklore",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Folklore",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "13481": {
         "name": "Sniper: Ghost Warrior",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Sniper%3A_Ghost_Warrior",
         "media": "Blu-Ray",
         "playable": "Ingame",
-        "titleId": []
-    },
-    "16593": {
-        "name": "SingStar Pop Edition",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=SingStar_Pop_Edition",
-        "media": "Blu-Ray",
-        "playable": "Intro",
-        "titleId": []
-    },
-    "6604": {
-        "name": "Full Auto 2: Battlelines",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Full_Auto_2%3A_Battlelines",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "22789": {
-        "name": "FIFA 15",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=FIFA_15",
-        "media": "Blu-Ray",
-        "playable": "Playable",
         "titleId": []
     },
     "16046": {
@@ -356,13 +265,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "16166": {
-        "name": "Tom Clancy's EndWar",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Tom_Clancy%27s_EndWar",
-        "media": "Blu-Ray",
-        "playable": "Intro",
-        "titleId": []
-    },
     "204108": {
         "name": "Toro! Let's Party!",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Toro%21_Let%27s_Party%21",
@@ -405,13 +307,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "189362": {
-        "name": "FIFA 17",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=FIFA_17",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "16117": {
         "name": "Operation Flashpoint: Dragon Rising",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Operation_Flashpoint%3A_Dragon_Rising",
@@ -424,13 +319,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Wet",
         "media": "Blu-Ray",
         "playable": "Ingame",
-        "titleId": []
-    },
-    "29552": {
-        "name": "Farming Simulator 15",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Farming_Simulator_15",
-        "media": "Blu-Ray",
-        "playable": "Playable",
         "titleId": []
     },
     "13348": {
@@ -457,13 +345,6 @@
     "22960": {
         "name": "Phantom Breaker Extra",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Phantom_Breaker_Extra",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "201030": {
-        "name": "Gal*Gun",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Gal%2AGun",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -517,13 +398,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "16600": {
-        "name": "SingStar: Mallorca Party",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=SingStar%3A_Mallorca_Party",
-        "media": "Blu-Ray",
-        "playable": "Intro",
-        "titleId": []
-    },
     "12450": {
         "name": "Sonic Generations",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Sonic_Generations",
@@ -573,13 +447,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "213362": {
-        "name": "Wonderbook: Book of Potions",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Wonderbook%3A_Book_of_Potions",
-        "media": "Blu-Ray",
-        "playable": "Intro",
-        "titleId": []
-    },
     "15391": {
         "name": "Dance on Broadway",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Dance_on_Broadway",
@@ -622,27 +489,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "13956": {
-        "name": "TV Superstars",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=TV_Superstars",
-        "media": "Blu-Ray",
-        "playable": "Intro",
-        "titleId": []
-    },
-    "16571": {
-        "name": "SingStar Guitar",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=SingStar_Guitar",
-        "media": "Blu-Ray",
-        "playable": "Intro",
-        "titleId": []
-    },
-    "16581": {
-        "name": "SingStar: Back to the 80s",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=SingStar%3A_Back_to_the_80s",
-        "media": "Blu-Ray",
-        "playable": "Intro",
-        "titleId": []
-    },
     "16384": {
         "name": "Rugby League Live",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Rugby_League_Live",
@@ -662,20 +508,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Saints_Row_IV",
         "media": "Blu-Ray",
         "playable": "Ingame",
-        "titleId": []
-    },
-    "29278": {
-        "name": "FIFA 16",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=FIFA_16",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "23908": {
-        "name": "Fairy Fencer F",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Fairy_Fencer_F",
-        "media": "Blu-Ray",
-        "playable": "Playable",
         "titleId": []
     },
     "11492": {
@@ -727,13 +559,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "17085": {
-        "name": "Fast & Furious: Showdown",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Fast_%26_Furious%3A_Showdown",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "16559": {
         "name": "SingStar",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=SingStar",
@@ -746,20 +571,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Sports_Champions_2",
         "media": "Blu-Ray",
         "playable": "Ingame",
-        "titleId": []
-    },
-    "16561": {
-        "name": "SingStar ABBA",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=SingStar_ABBA",
-        "media": "Blu-Ray",
-        "playable": "Intro",
-        "titleId": []
-    },
-    "15026": {
-        "name": "Tony Hawk: Shred",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Tony_Hawk%3A_Shred",
-        "media": "Blu-Ray",
-        "playable": "Intro",
         "titleId": []
     },
     "12000": {
@@ -804,13 +615,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "15499": {
-        "name": "E.X. Troopers",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=E.X._Troopers",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "12722": {
         "name": "Sonic & SEGA All-Stars Racing",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Sonic_%26_SEGA_All-Stars_Racing",
@@ -823,13 +627,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Le_Tour_de_France_2014",
         "media": "Blu-Ray",
         "playable": "Playable",
-        "titleId": []
-    },
-    "13033": {
-        "name": "The Shoot",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=The_Shoot",
-        "media": "Blu-Ray",
-        "playable": "Intro",
         "titleId": []
     },
     "104": {
@@ -858,13 +655,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Tiger_Woods_PGA_Tour_12%3A_The_Masters",
         "media": "Blu-Ray",
         "playable": "Ingame",
-        "titleId": []
-    },
-    "11914": {
-        "name": "Tom Clancy's H.A.W.X. 2",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Tom_Clancy%27s_H.A.W.X_2",
-        "media": "Blu-Ray",
-        "playable": "Intro",
         "titleId": []
     },
     "177408": {
@@ -972,23 +762,9 @@
         "playable": "Playable",
         "titleId": []
     },
-    "13405": {
-        "name": "Fantastic Four: Rise of the Silver Surfer",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Fantastic_Four%3A_Rise_of_the_Silver_Surfer",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "14793": {
         "name": "Rogue Warrior",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Rogue_Warrior",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "15458": {
-        "name": "Dunamis 15",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Dunamis_15",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -1019,13 +795,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=WWE_2K16",
         "media": "Blu-Ray",
         "playable": "Ingame",
-        "titleId": []
-    },
-    "11950": {
-        "name": "Winter Sports 2010",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Winter_Sports_2010",
-        "media": "Blu-Ray",
-        "playable": "Intro",
         "titleId": []
     },
     "12449": {
@@ -1077,13 +846,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "33085": {
-        "name": "Escape Dead Island",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Escape_Dead_Island",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "129348": {
         "name": "Magus",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Magus",
@@ -1103,13 +865,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Hakuoki_Stories_of_the_Shinsengumi",
         "media": "Blu-Ray",
         "playable": "Playable",
-        "titleId": []
-    },
-    "32854": {
-        "name": "Start the Party! Save the World",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Start_the_Party%21_Save_the_World",
-        "media": "Blu-Ray",
-        "playable": "Intro",
         "titleId": []
     },
     "33667": {
@@ -1133,25 +888,11 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "13886": {
-        "name": "Dynasty Warriors: Gundam 2",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Dynasty_Warriors%3A_Gundam_2",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "12350": {
         "name": "Mercenaries 2: World in Flames",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Mercenaries_2%3A_World_in_Flames",
         "media": "Blu-Ray",
         "playable": "Playable",
-        "titleId": []
-    },
-    "204109": {
-        "name": "UFC Personal Trainer: The Ultimate Fitness System",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=UFC_Personal_Trainer%3A_The_Ultimate_Fitness_System",
-        "media": "Blu-Ray",
-        "playable": "Intro",
         "titleId": []
     },
     "16366": {
@@ -1210,23 +951,9 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "10929": {
-        "name": "Ghostbusters: The Video Game",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Ghostbusters%3A_The_Video_Game",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "151044": {
         "name": "Hajime no Ippo The Fighting",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Hajime_no_Ippo_The_Fighting",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "189728": {
-        "name": "Game of Thrones: A Telltale Games Series",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Game_of_Thrones%3A_A_Telltale_Games_Series",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -1285,13 +1012,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Soldier_of_Fortune%3A_Payback",
         "media": "Blu-Ray",
         "playable": "Ingame",
-        "titleId": []
-    },
-    "15592": {
-        "name": "G-Force",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=G-Force",
-        "media": "Blu-Ray",
-        "playable": "Playable",
         "titleId": []
     },
     "6609": {
@@ -1406,27 +1126,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "14846": {
-        "name": "Fist of the North Star: Ken's Rage",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Fist_of_the_North_Star%3A_Ken%27s_Rage",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "818": {
-        "name": "Dynasty Warriors: Gundam",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Dynasty_Warriors%3A_Gundam",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "6605": {
-        "name": "Genji: Days of the Blade",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Genji%3A_Days_of_the_Blade",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "29868": {
         "name": "Ride to Hell: Retribution",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Ride_to_Hell%3A_Retribution",
@@ -1448,23 +1147,9 @@
         "playable": "Playable",
         "titleId": []
     },
-    "16575": {
-        "name": "SingStar Dance",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=SingStar_Dance",
-        "media": "Blu-Ray",
-        "playable": "Intro",
-        "titleId": []
-    },
     "16283": {
         "name": "Railfan",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Railfan",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "186952": {
-        "name": "FIFA 18",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=FIFA_18",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -1507,13 +1192,6 @@
     "31": {
         "name": "Heavenly Sword",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Heavenly_Sword",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "12415": {
-        "name": "F.E.A.R. 2: Project Origin",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=F.E.A.R._2%3A_Project_Origin",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -1571,7 +1249,7 @@
         "name": "Castlevania: Lords of Shadow",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Castlevania%3A_Lords_of_Shadow",
         "media": "Blu-Ray",
-        "playable": "Playable",
+        "playable": "Ingame",
         "titleId": []
     },
     "28553": {
@@ -1602,25 +1280,11 @@
         "playable": "Playable",
         "titleId": []
     },
-    "18817": {
-        "name": "FIFA 14",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=FIFA_14",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "21753": {
         "name": "Vancouver 2010",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Vancouver_2010",
         "media": "Blu-Ray",
         "playable": "Ingame",
-        "titleId": []
-    },
-    "15424": {
-        "name": "Wonderbook: Diggs Nightcrawler",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Wonderbook%3A_Diggs_Nightcrawler",
-        "media": "Blu-Ray",
-        "playable": "Intro",
         "titleId": []
     },
     "13712": {
@@ -1728,13 +1392,6 @@
         "playable": "Intro",
         "titleId": []
     },
-    "16591": {
-        "name": "SingStar Queen",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=SingStar_Queen",
-        "media": "Blu-Ray",
-        "playable": "Intro",
-        "titleId": []
-    },
     "6643": {
         "name": "WALL-E",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=WALL-E",
@@ -1770,20 +1427,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "12413": {
-        "name": "Enslaved: Odyssey to the West",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Enslaved%3A_Odyssey_to_the_West",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "15922": {
-        "name": "Motionsports: Adrenaline",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Motionsports%3A_Adrenaline",
-        "media": "Blu-Ray",
-        "playable": "Intro",
-        "titleId": []
-    },
     "12592": {
         "name": "Just Cause 2",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Just_Cause_2",
@@ -1798,13 +1441,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "30971": {
-        "name": "SingStar: Ultimate Party",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=SingStar%3A_Ultimate_Party",
-        "media": "Blu-Ray",
-        "playable": "Intro",
-        "titleId": []
-    },
     "12562": {
         "name": "SOCOM: Special Forces",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=SOCOM_4%3A_U.S._Navy_SEALs",
@@ -1812,18 +1448,11 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "15512": {
-        "name": "Fritz Chess",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Fritz_Chess",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "12140": {
         "name": "Driver: San Francisco",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Driver%3A_San_Francisco",
         "media": "Blu-Ray",
-        "playable": "Playable",
+        "playable": "Ingame",
         "titleId": []
     },
     "13017": {
@@ -1868,25 +1497,11 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "12416": {
-        "name": "Game of Thrones",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Game_of_Thrones",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "15507": {
         "name": "EyePet",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=EyePet",
         "media": "Blu-Ray",
         "playable": "Ingame",
-        "titleId": []
-    },
-    "12611": {
-        "name": "El Shaddai: Ascension of the Metatron",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=El_Shaddai%3A_Ascension_of_the_Metatron",
-        "media": "Blu-Ray",
-        "playable": "Playable",
         "titleId": []
     },
     "20489": {
@@ -1927,13 +1542,6 @@
     "14088": {
         "name": "NHL 11",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=NHL_11",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "15509": {
-        "name": "Facebreaker",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Facebreaker",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -1994,25 +1602,11 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "15503": {
-        "name": "Eat Lead: The Return of Matt Hazard",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Eat_Lead%3A_The_Return_of_Matt_Hazard",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "18550": {
         "name": "PayDay 2",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Payday_2",
         "media": "Blu-Ray",
         "playable": "Playable",
-        "titleId": []
-    },
-    "201027": {
-        "name": "We Dare",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=We_Dare",
-        "media": "Blu-Ray",
-        "playable": "Intro",
         "titleId": []
     },
     "169105": {
@@ -2041,27 +1635,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Guitar_Hero_Live",
         "media": "Blu-Ray",
         "playable": "Playable",
-        "titleId": []
-    },
-    "33727": {
-        "name": "FIFA 13",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=FIFA_13",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "16584": {
-        "name": "SingStar Vasco",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=SingStar_Vasco",
-        "media": "Blu-Ray",
-        "playable": "Intro",
-        "titleId": []
-    },
-    "204095": {
-        "name": "SingStar MegaHits",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=SingStar_MegaHits",
-        "media": "Blu-Ray",
-        "playable": "Intro",
         "titleId": []
     },
     "12106": {
@@ -2148,13 +1721,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "145499": {
-        "name": "FIFA 11",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=FIFA_11",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "15472": {
         "name": "Harry Potter and the Half-Blood Prince",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Harry_Potter_and_the_Half-Blood_Prince",
@@ -2169,20 +1735,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "6939": {
-        "name": "FIFA 12",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=FIFA_12",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "204062": {
-        "name": "Gladiator VS",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Clan_of_Champions",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "11773": {
         "name": "Kane & Lynch: Dead Men",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Kane_%26_Lynch%3A_Dead_Men",
@@ -2195,13 +1747,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Tiger_Woods_PGA_Tour_09",
         "media": "Blu-Ray",
         "playable": "Ingame",
-        "titleId": []
-    },
-    "13466": {
-        "name": "Start the Party!",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Start_the_Party%21",
-        "media": "Blu-Ray",
-        "playable": "Intro",
         "titleId": []
     },
     "25654": {
@@ -2249,20 +1794,6 @@
     "30718": {
         "name": "DanceStar Party",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Everybody_Dance",
-        "media": "Blu-Ray",
-        "playable": "Intro",
-        "titleId": []
-    },
-    "14544": {
-        "name": "G.I. Joe: The Rise of Cobra",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=G.I._Joe%3A_The_Rise_of_Cobra",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "12456": {
-        "name": "The Fight: Lights Out",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=The_Fight%3A_Lights_Out",
         "media": "Blu-Ray",
         "playable": "Intro",
         "titleId": []
@@ -2316,13 +1847,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "16583": {
-        "name": "SingStar Vol. 2",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=SingStar_Vol._2",
-        "media": "Blu-Ray",
-        "playable": "Intro",
-        "titleId": []
-    },
     "97": {
         "name": "Resistance: Fall of Man",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Resistance%3A_Fall_of_Man",
@@ -2335,13 +1859,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Just_Dance_Kids_2",
         "media": "Blu-Ray",
         "playable": "Intro",
-        "titleId": []
-    },
-    "15534": {
-        "name": "Ferrari Challenge: Trofeo Pirelli",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Ferrari_Challenge%3A_Trofeo_Pirelli",
-        "media": "Blu-Ray",
-        "playable": "Playable",
         "titleId": []
     },
     "19071": {
@@ -2370,13 +1887,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=GoldenEye_007%3A_Reloaded",
         "media": "Blu-Ray",
         "playable": "Playable",
-        "titleId": []
-    },
-    "16567": {
-        "name": "SingStar: Chartbreaker",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=SingStar%3A_Chartbreaker",
-        "media": "Blu-Ray",
-        "playable": "Intro",
         "titleId": []
     },
     "14642": {
@@ -2421,20 +1931,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "14928": {
-        "name": "Fairytale Fights",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Fairytale_Fights",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "16586": {
-        "name": "SingStar Take That",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=SingStar_Take_That",
-        "media": "Blu-Ray",
-        "playable": "Intro",
-        "titleId": []
-    },
     "16035": {
         "name": "NHL 08",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=NHL_08",
@@ -2452,13 +1948,6 @@
     "24960": {
         "name": "LEGO Batman 3: Beyond Gotham",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=LEGO_Batman_3%3A_Beyond_Gotham",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "15505": {
-        "name": "Eureka Seven AO - Jungfrau no Hanabanatachi",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Eureka_Seven_AO_-_Jungfrau_no_Hanabanatachi",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -2522,13 +2011,6 @@
     "12357": {
         "name": "Mafia II Director's Cut",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Mafia_II",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "12240": {
-        "name": "F1 Race Stars",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=F1_Race_Stars",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -2624,13 +2106,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "8912": {
-        "name": "F1 2010",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=F1_2010",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "214187": {
         "name": "Higurashi no Naku Koro Ni Sui",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Higurashi_no_Naku_Koro_Ni_Sui",
@@ -2664,13 +2139,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Persona_4_Arena_Ultimax",
         "media": "Blu-Ray",
         "playable": "Playable",
-        "titleId": []
-    },
-    "33592": {
-        "name": "Transformers: Rise of the Dark Spark",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Transformers%3A_Rise_of_the_Dark_Spark",
-        "media": "Blu-Ray",
-        "playable": "Intro",
         "titleId": []
     },
     "12635": {
@@ -2729,13 +2197,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "10016": {
-        "name": "FIFA 10",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=FIFA_10",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "8360": {
         "name": "Star Wars: The Force Unleashed II",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Star_Wars%3A_The_Force_Unleashed_2",
@@ -2785,13 +2246,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "12819": {
-        "name": "Family Guy: Back to the Multiverse",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Family_Guy%3A_Back_to_the_Multiverse",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "12820": {
         "name": "Split\/Second",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Split%2FSecond",
@@ -2827,13 +2281,6 @@
         "playable": "Ingame",
         "titleId": []
     },
-    "25858": {
-        "name": "Tony Hawk: RIDE",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Tony_Hawk%3A_RIDE",
-        "media": "Blu-Ray",
-        "playable": "Intro",
-        "titleId": []
-    },
     "219175": {
         "name": "Tiger Woods PGA Tour 14 The Masters Historic Edition",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Tiger_Woods_PGA_Tour_14",
@@ -2859,7 +2306,7 @@
         "name": "Call of Duty 4: Modern Warfare",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Call_of_Duty_4%3A_Modern_Warfare",
         "media": "Blu-Ray",
-        "playable": "Playable",
+        "playable": "Ingame",
         "titleId": []
     },
     "20009": {
@@ -2897,25 +2344,11 @@
         "playable": "Intro",
         "titleId": []
     },
-    "151664": {
-        "name": "Ferrari: The Race Experience",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Ferrari%3A_The_Race_Experience",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "204094": {
         "name": "Rugby Challenge 3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Rugby_Challenge_3",
         "media": "Blu-Ray",
         "playable": "Playable",
-        "titleId": []
-    },
-    "16604": {
-        "name": "SingStar Latino",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=SingStar_Latino",
-        "media": "Blu-Ray",
-        "playable": "Intro",
         "titleId": []
     },
     "12422": {
@@ -2960,25 +2393,11 @@
         "playable": "Playable",
         "titleId": []
     },
-    "15502": {
-        "name": "EA Sports MMA",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=EA_Sports_MMA",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "12615": {
         "name": "God of War: Collection",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=God_of_War%3A_Collection",
         "media": "Blu-Ray",
         "playable": "Playable",
-        "titleId": []
-    },
-    "16582": {
-        "name": "SingStar Vol. 3",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=SingStar_Vol._3",
-        "media": "Blu-Ray",
-        "playable": "Intro",
         "titleId": []
     },
     "16178": {
@@ -3023,25 +2442,11 @@
         "playable": "Playable",
         "titleId": []
     },
-    "27424": {
-        "name": "Wonderbook: Walking with Dinosaurs",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Wonderbook%3A_Walking_with_Dinosaurs",
-        "media": "Blu-Ray",
-        "playable": "Intro",
-        "titleId": []
-    },
     "13937": {
         "name": "NHL 10",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=NHL_10",
         "media": "Blu-Ray",
         "playable": "Playable",
-        "titleId": []
-    },
-    "30759": {
-        "name": "Uncharted Waters Online",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Uncharted_Waters_Online",
-        "media": "Blu-Ray",
-        "playable": "Loadable",
         "titleId": []
     },
     "12471": {
@@ -3072,13 +2477,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "32089": {
-        "name": "FIFA 09",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=FIFA_09",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "11158": {
         "name": "WWE '13",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=WWE_%2713",
@@ -3091,20 +2489,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Tom_Clancy%27s_Rainbow_Six%3A_Vegas",
         "media": "Blu-Ray",
         "playable": "Ingame",
-        "titleId": []
-    },
-    "21270": {
-        "name": "El Chavo Kart",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=El_Chavo_Kart",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "15467": {
-        "name": "Dynasty Warriors 6",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Dynasty_Warriors_6",
-        "media": "Blu-Ray",
-        "playable": "Playable",
         "titleId": []
     },
     "22607": {
@@ -3135,30 +2519,9 @@
         "playable": "Playable",
         "titleId": []
     },
-    "15861": {
-        "name": "Marvel Super Hero Squad: Comic Combat",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Marvel_Super_Hero_Squad%3A_Comic_Combat",
-        "media": "Blu-Ray",
-        "playable": "Intro",
-        "titleId": []
-    },
-    "14526": {
-        "name": "Fuel",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Fuel",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "15676": {
         "name": "Imabikisou",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Imabikisou",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "33726": {
-        "name": "FIFA 08",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=FIFA_08",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
@@ -3184,13 +2547,6 @@
         "playable": "Playable",
         "titleId": []
     },
-    "28548": {
-        "name": "Everybody's Golf: World Tour",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Hot_Shots_Golf%3A_Out_of_Bounds",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
     "15661": {
         "name": "Heroes over Europe",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Heroes_over_Europe",
@@ -3210,13 +2566,6 @@
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=History%3A_Great_Battles_-_Medieval",
         "media": "Blu-Ray",
         "playable": "Playable",
-        "titleId": []
-    },
-    "21969": {
-        "name": "Plants vs. Zombies: Garden Warfare",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Plants_vs._Zombies%3A_Garden_Warfare",
-        "media": "Blu-Ray",
-        "playable": "Intro",
         "titleId": []
     },
     "14536": {
@@ -3250,13 +2599,6 @@
     "15664": {
         "name": "How to Train Your Dragon",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=How_to_Train_Your_Dragon",
-        "media": "Blu-Ray",
-        "playable": "Playable",
-        "titleId": []
-    },
-    "7125": {
-        "name": "Fracture",
-        "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Fracture",
         "media": "Blu-Ray",
         "playable": "Playable",
         "titleId": []
