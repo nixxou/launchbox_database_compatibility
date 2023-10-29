@@ -2635,8 +2635,8 @@
         "name": "Drop It: Block Paradise",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Drop_It:_Block_Paradise",
         "media": "eShop",
-        "version": "",
-        "region": "Unknown",
+        "version": "2.0-59",
+        "region": "EUR",
         "playable": "Playable"
     },
     "197681": {
@@ -3981,7 +3981,7 @@
         "media": "",
         "version": "Unknown",
         "region": "Unknown",
-        "playable": "Unplayable"
+        "playable": "Playable"
     },
     "33065": {
         "name": "Mario Tennis: Ultra Smash",
