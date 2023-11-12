@@ -11375,12 +11375,6 @@
         "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Big_Beach_Sports",
         "playable": "Playable"
     },
-    "133879": {
-        "name": "Sudoku Ball-Detective",
-        "emulator": "dolphin-wii",
-        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Sudoku_Ball-Detective",
-        "playable": "Playable"
-    },
     "180327": {
         "name": "Beat the Intro",
         "emulator": "dolphin-wii",
@@ -11451,7 +11445,7 @@
         "name": "Deal or No Deal: Special Edition",
         "emulator": "dolphin-wii",
         "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Deal_or_No_Deal%3A_Special_Edition",
-        "playable": "Gameplay"
+        "playable": "Perfect"
     },
     "22521": {
         "name": "Littlest Pet Shop",

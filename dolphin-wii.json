@@ -59,12 +59,6 @@
         "media": "Wii",
         "playable": "Playable"
     },
-    "133879": {
-        "name": "Sudoku Ball-Detective",
-        "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Sudoku_Ball-Detective",
-        "media": "Wii",
-        "playable": "Playable"
-    },
     "180327": {
         "name": "Beat the Intro",
         "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Beat_the_Intro",
@@ -135,7 +129,7 @@
         "name": "Deal or No Deal: Special Edition",
         "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Deal_or_No_Deal%3A_Special_Edition",
         "media": "Wii",
-        "playable": "Starts"
+        "playable": "Perfect"
     },
     "22521": {
         "name": "Littlest Pet Shop",
