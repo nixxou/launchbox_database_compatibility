@@ -18111,7 +18111,7 @@
         "name": "Family Party: 90 Great Games Party Pack",
         "emulator": "dolphin-wii",
         "url": "https:\/\/wiki.dolphin-emu.org\/index.php?title=Family_Party%3A_90_Great_Games_Party_Pack",
-        "playable": "Gameplay"
+        "playable": "Perfect"
     },
     "126928": {
         "name": "Taiko no Tatsujin Wii: Ketteiban",
@@ -37527,7 +37527,7 @@
         "name": "Metal Wolf Chaos",
         "emulator": "xemu",
         "url": "https:\/\/xemu.app\/titles\/46530006#Metal-Wolf-Chaos",
-        "playable": "Gameplay"
+        "playable": "Playable"
     },
     "19275": {
         "name": "ESPN College Hoops",
@@ -38709,7 +38709,7 @@
         "name": "SCAR: Squadra Corse Alfa Romeo",
         "emulator": "xemu",
         "url": "https:\/\/xemu.app\/titles\/4c530002#SCAR-Squadra-Corse-Alfa-Romeo",
-        "playable": "Gameplay"
+        "playable": "No Boot"
     },
     "8013": {
         "name": "Medal of Honor: Rising Sun",
