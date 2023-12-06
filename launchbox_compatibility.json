@@ -32169,7 +32169,7 @@
         "name": "SingStar",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=SingStar",
-        "playable": "Intro\/Menu"
+        "playable": "Gameplay"
     },
     "10866": {
         "name": "Rayman Origins",
@@ -32643,7 +32643,7 @@
         "name": "Sonic the Hedgehog",
         "emulator": "rpcs3",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Sonic_The_Hedgehog",
-        "playable": "Intro\/Menu"
+        "playable": "Gameplay"
     },
     "12592": {
         "name": "Just Cause 2",

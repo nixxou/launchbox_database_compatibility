@@ -318,7 +318,7 @@
         "name": "SingStar",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=SingStar",
         "media": "Blu-Ray",
-        "playable": "Intro",
+        "playable": "Ingame",
         "titleId": []
     },
     "10866": {
@@ -871,7 +871,7 @@
         "name": "Sonic the Hedgehog",
         "url": "https:\/\/wiki.rpcs3.net\/index.php?title=Sonic_The_Hedgehog",
         "media": "Blu-Ray",
-        "playable": "Intro",
+        "playable": "Ingame",
         "titleId": []
     },
     "12592": {
