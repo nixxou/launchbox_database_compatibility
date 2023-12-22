@@ -739,9 +739,9 @@
         "name": "LEGO Batman 3: Beyond Gotham",
         "url": "https:\/\/wiki.cemu.info\/wiki\/LEGO_Batman_3:_Beyond_Gotham",
         "media": "",
-        "version": "Unknown",
+        "version": "2.0-61",
         "region": "Unknown",
-        "playable": "Runs"
+        "playable": "Perfect"
     },
     "197674": {
         "name": "Gemology",
@@ -3243,9 +3243,9 @@
         "name": "The LEGO Movie Videogame",
         "url": "https:\/\/wiki.cemu.info\/wiki\/The_LEGO_Movie_Videogame",
         "media": "",
-        "version": "1.26.1",
-        "region": "USA",
-        "playable": "Playable"
+        "version": "2.0-61",
+        "region": "Unknown",
+        "playable": "Perfect"
     },
     "188452": {
         "name": "Shakedown: Hawaii",
@@ -5219,9 +5219,9 @@
         "name": "LEGO City: Undercover",
         "url": "https:\/\/wiki.cemu.info\/wiki\/LEGO_City:_Undercover",
         "media": "",
-        "version": "2.0-55",
-        "region": "EUR",
-        "playable": "Playable"
+        "version": "2.0-61",
+        "region": "Unknown",
+        "playable": "Runs"
     },
     "134311": {
         "name": "Toby: The Secret Mine",
