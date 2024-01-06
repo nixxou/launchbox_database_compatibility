@@ -4227,9 +4227,9 @@
         "name": "Just Dance 2017",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Just_Dance_2017",
         "media": "",
-        "version": "2.0-17",
+        "version": "2.0-61",
         "region": "EUR",
-        "playable": "Loads"
+        "playable": "Unplayable"
     },
     "23310": {
         "name": "Skylanders: Trap Team",
@@ -4627,7 +4627,7 @@
         "name": "New Super Mario Bros. U + New Super Luigi U",
         "url": "https:\/\/wiki.cemu.info\/wiki\/New_Super_Mario_Bros._U_%2B_New_Super_Luigi_U",
         "media": "",
-        "version": "1.23.1",
+        "version": "2.0-61",
         "region": "EUR",
         "playable": "Perfect"
     },
