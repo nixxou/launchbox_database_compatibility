@@ -1387,8 +1387,8 @@
         "name": "Paper Mario: Color Splash",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Paper_Mario:_Color_Splash",
         "media": "",
-        "version": "2.0-29",
-        "region": "USA",
+        "version": "2.0-61",
+        "region": "EUR",
         "playable": "Playable"
     },
     "17330": {
@@ -3203,9 +3203,9 @@
         "name": "Just Dance 2015",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Just_Dance_2015",
         "media": "",
-        "version": "1.19.0",
-        "region": "Unknown",
-        "playable": "Runs"
+        "version": "2.0-61",
+        "region": "EUR",
+        "playable": "Unplayable"
     },
     "149702": {
         "name": "Electronic Super Joy",
@@ -3371,9 +3371,9 @@
         "name": "Just Dance 2014",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Just_Dance_2014",
         "media": "",
-        "version": "1.22.7",
-        "region": "USA",
-        "playable": "Playable"
+        "version": "2.0-61",
+        "region": "EUR",
+        "playable": "Unplayable"
     },
     "15095": {
         "name": "The Walking Dead: Survival Instinct",
@@ -4781,7 +4781,7 @@
         "media": "",
         "version": "Unknown",
         "region": "Unknown",
-        "playable": "Unknown"
+        "playable": "Runs"
     },
     "134388": {
         "name": "Dungeons & Dragons: Chronicles Of Mystara",

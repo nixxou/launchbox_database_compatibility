@@ -2403,7 +2403,7 @@
         "name": "Just Dance 2015",
         "emulator": "cemu",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Just_Dance_2015",
-        "playable": "Gameplay"
+        "playable": "No Boot"
     },
     "149702": {
         "name": "Electronic Super Joy",
@@ -2529,7 +2529,7 @@
         "name": "Just Dance 2014",
         "emulator": "cemu",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Just_Dance_2014",
-        "playable": "Playable"
+        "playable": "No Boot"
     },
     "15095": {
         "name": "The Walking Dead: Survival Instinct",
@@ -3585,7 +3585,7 @@
         "name": "Draw a Stickman: EPIC 2",
         "emulator": "cemu",
         "url": "https:\/\/wiki.cemu.info\/wiki\/Draw_a_Stickman:_EPIC_2",
-        "playable": "Unknown"
+        "playable": "Gameplay"
     },
     "134388": {
         "name": "Dungeons & Dragons: Chronicles Of Mystara",
